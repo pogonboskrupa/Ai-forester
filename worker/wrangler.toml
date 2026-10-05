@@ -1,0 +1,6 @@
+name = "ai-forester-proxy"
+main = "index.ts"
+compatibility_date = "2025-01-01"
+
+[vars]
+ALLOWED_ORIGIN = "https://pogonboskrupa.github.io"
