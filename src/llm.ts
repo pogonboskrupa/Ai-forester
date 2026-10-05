@@ -23,6 +23,28 @@ export const setProxyUrl = (v: string): void => {
   }
 };
 
+const GEMINI_KEY = 'geminiKey';
+const GEMINI_MODEL = 'geminiModel';
+export const DEFAULT_GEMINI_MODEL = 'gemini-2.5-flash';
+const read = (k: string): string => {
+  try {
+    return localStorage.getItem(k) ?? '';
+  } catch {
+    return '';
+  }
+};
+const write = (k: string, v: string): void => {
+  try {
+    localStorage.setItem(k, v.trim());
+  } catch {
+    /* privatni mod */
+  }
+};
+export const getGeminiKey = () => read(GEMINI_KEY);
+export const setGeminiKey = (v: string) => write(GEMINI_KEY, v);
+export const getGeminiModel = () => read(GEMINI_MODEL) || DEFAULT_GEMINI_MODEL;
+export const setGeminiModel = (v: string) => write(GEMINI_MODEL, v);
+
 const CODE_KEY = 'accessCode';
 export const getAccessCode = (): string => {
   try { return localStorage.getItem(CODE_KEY) ?? ''; } catch { return ''; }
@@ -45,16 +67,33 @@ export interface AskInput {
   project: Project | null;
 }
 
-export async function ask({ question, ctx, history, project }: AskInput): Promise<string> {
-  const url = getProxyUrl();
-  if (!url) throw new Error('Proxy adresa nije postavljena (Postavke).');
-  const system = project?.instructions.trim()
-    ? `${SYSTEM}\n\nDodatne upute projekta "${project.name}":\n${project.instructions.trim()}`
-    : SYSTEM;
-  const messages = [
-    ...history.filter((m) => !m.error).slice(-8).map((m) => ({ role: m.role, text: m.text })),
-    { role: 'user' as const, text: buildPrompt(question, ctx) },
-  ];
+interface Turn { role: 'user' | 'assistant'; text: string }
+
+/** Direktno Gemini (free tier): ključ je samo u browseru korisnika, nikad u repozitoriju. */
+async function askGeminiDirect(key: string, system: string, messages: Turn[]): Promise<string> {
+  const res = await fetch(
+    `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(getGeminiModel())}:generateContent`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'x-goog-api-key': key },
+      body: JSON.stringify({
+        systemInstruction: { parts: [{ text: system }] },
+        contents: messages.map((m) => ({ role: m.role === 'user' ? 'user' : 'model', parts: [{ text: m.text }] })),
+        generationConfig: { temperature: 0.2 },
+      }),
+    },
+  );
+  if (!res.ok) {
+    const detail = ((await res.json().catch(() => null)) as { error?: { message?: string } } | null)?.error?.message;
+    throw new Error(`Gemini greška ${res.status}${detail ? `: ${detail}` : ''}`);
+  }
+  const data = (await res.json()) as { candidates?: { content?: { parts?: { text?: string }[] } }[] };
+  const text = data.candidates?.[0]?.content?.parts?.map((p) => p.text ?? '').join('') ?? '';
+  if (!text) throw new Error('Prazan odgovor (moguće blokiran sadržaj).');
+  return text;
+}
+
+async function askProxy(url: string, system: string, messages: Turn[]): Promise<string> {
   const res = await fetch(url, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', 'X-Access-Code': getAccessCode() },
@@ -64,4 +103,24 @@ export async function ask({ question, ctx, history, project }: AskInput): Promis
   const data = (await res.json()) as { text?: string };
   if (!data.text) throw new Error('Prazan odgovor.');
   return data.text;
+}
+
+/** Proxy ima prednost; bez njega koristi se direktni Gemini ključ iz Postavki. */
+export async function complete(system: string, messages: Turn[]): Promise<string> {
+  const proxy = getProxyUrl();
+  if (proxy) return askProxy(proxy, system, messages);
+  const key = getGeminiKey();
+  if (key) return askGeminiDirect(key, system, messages);
+  throw new Error('Nije postavljen AI pristup: u Postavkama unesite Gemini API ključ ili adresu proxyja.');
+}
+
+export async function ask({ question, ctx, history, project }: AskInput): Promise<string> {
+  const system = project?.instructions.trim()
+    ? `${SYSTEM}\n\nDodatne upute projekta "${project.name}":\n${project.instructions.trim()}`
+    : SYSTEM;
+  const messages: Turn[] = [
+    ...history.filter((m) => !m.error).slice(-8).map((m) => ({ role: m.role, text: m.text })),
+    { role: 'user', text: buildPrompt(question, ctx) },
+  ];
+  return complete(system, messages);
 }

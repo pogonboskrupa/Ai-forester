@@ -1,21 +1,28 @@
 import { useState } from 'preact/hooks';
-import { getAccessCode, getProxyUrl, setAccessCode, setProxyUrl } from '../llm';
+import {
+  complete, DEFAULT_GEMINI_MODEL, getAccessCode, getGeminiKey, getGeminiModel, getProxyUrl,
+  setAccessCode, setGeminiKey, setGeminiModel, setProxyUrl,
+} from '../llm';
 import { conversations, projects } from '../store';
 
 export function Settings() {
+  const [gKey, setGKey] = useState(getGeminiKey());
+  const [gModel, setGModel] = useState(getGeminiModel());
   const [url, setUrl] = useState(getProxyUrl());
   const [code, setCode] = useState(getAccessCode());
   const [status, setStatus] = useState('');
 
   const test = async () => {
+    setGeminiKey(gKey);
+    setGeminiModel(gModel);
     setProxyUrl(url);
     setAccessCode(code);
     setStatus('Provjeravam…');
     try {
-      const r = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json', 'X-Access-Code': code }, body: JSON.stringify({ system: '', messages: [{ role: 'user', text: 'Odgovori samo: OK' }] }) });
-      setStatus(r.ok ? 'Veza radi ✓' : `Greška ${r.status}`);
-    } catch {
-      setStatus('Nije moguće povezati se (CORS ili adresa).');
+      await complete('Odgovori jednom riječju.', [{ role: 'user', text: 'Reci: OK' }]);
+      setStatus('Veza radi ✓');
+    } catch (e) {
+      setStatus(e instanceof Error ? e.message : 'Greška');
     }
   };
 
@@ -29,13 +36,29 @@ export function Settings() {
   return (
     <section class="panel">
       <h2>Postavke</h2>
-      <label>Adresa AI proxyja (Cloudflare Worker)
+
+      <h3>Gemini (besplatno, direktno iz browsera)</h3>
+      <p class="muted">
+        Ključ napravite na aistudio.google.com/apikey. Čuva se samo u ovom pregledniku i šalje direktno Googleu.
+        Besplatni nivo ima dnevna ograničenja, a Google ga može koristiti za unapređenje svojih modela, pa ne unosite povjerljive podatke.
+      </p>
+      <label>Gemini API ključ
+        <input type="password" autocomplete="off" value={gKey} onInput={(e) => setGKey(e.currentTarget.value)} placeholder="AIza…" />
+      </label>
+      <label>Model
+        <input value={gModel} onInput={(e) => setGModel(e.currentTarget.value)} placeholder={DEFAULT_GEMINI_MODEL} />
+      </label>
+
+      <h3>Proxy (napredno, ima prednost ako je postavljen)</h3>
+      <label>Adresa proxyja (Cloudflare Worker)
         <input value={url} onInput={(e) => setUrl(e.currentTarget.value)} placeholder="https://ai-forester-proxy.<korisnik>.workers.dev" />
       </label>
-      <label>Pristupni kod (ako je postavljen na proxyju)
+      <label>Pristupni kod proxyja
         <input type="password" value={code} onInput={(e) => setCode(e.currentTarget.value)} />
       </label>
+
       <div class="row"><button class="primary" onClick={test}>Sačuvaj i testiraj</button><span class="muted">{status}</span></div>
+
       <h3>Podaci</h3>
       <p class="muted">Razgovori i projekti se čuvaju samo u ovom pregledniku (IndexedDB).</p>
       <button onClick={backup}>Izvezi sve (JSON)</button>
