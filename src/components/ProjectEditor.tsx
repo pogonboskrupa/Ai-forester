@@ -4,7 +4,8 @@ import {
 } from '../store';
 import type { Level } from '../types';
 
-const LEVELS: Level[] = ['USK', 'FBiH', 'BiH'];
+const TOPICS = ['Šumarstvo', 'Sjeme i rasadnici', 'Lovstvo', 'Zdravlje bilja'];
+const LEVEL_ORDER: Record<Level, number> = { USK: 0, FBiH: 1, BiH: 2 };
 
 export function ProjectEditor() {
   const id = editingProjectId.value;
@@ -37,16 +38,25 @@ export function ProjectEditor() {
       <fieldset>
         <legend>Izvori ({lawIds.length ? `${lawIds.length} odabrano` : 'prazno = svi propisi'})</legend>
         {laws.value.length === 0 && <p class="muted">Nema učitanih propisa.</p>}
-        {LEVELS.map((lv) => {
-          const group = laws.value.filter((l) => l.level === lv);
+        {TOPICS.map((tp) => {
+          const group = laws.value
+            .filter((l) => (l.topic ?? 'Šumarstvo') === tp)
+            .sort((x, y) => LEVEL_ORDER[x.level] - LEVEL_ORDER[y.level]);
           if (!group.length) return null;
+          const ids = group.map((l) => l.id);
+          const all = ids.every((i) => lawIds.includes(i));
           return (
-            <div key={lv}>
-              <h4>{lv}</h4>
+            <div key={tp}>
+              <h4>
+                {tp}{' '}
+                <button type="button" class="chip" onClick={() => setLawIds((s) => (all ? s.filter((x) => !ids.includes(x)) : [...new Set([...s, ...ids])]))}>
+                  {all ? 'poništi sve' : 'odaberi sve'}
+                </button>
+              </h4>
               {group.map((l) => (
                 <label class="check" key={l.id}>
                   <input type="checkbox" checked={lawIds.includes(l.id)} onChange={() => toggle(l.id)} />
-                  {l.title} <small class="muted">({l.articleCount} čl.)</small>
+                  <span><b>{l.level}</b> · {l.title} <small class="muted">({l.articleCount} čl.)</small></span>
                 </label>
               ))}
             </div>

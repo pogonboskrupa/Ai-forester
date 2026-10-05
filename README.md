@@ -1,5 +1,7 @@
 # AI Šumar – asistent za šumarske propise BiH / FBiH / USK
 
+Baza: 42 propisa (USK + FBiH + BiH), vidi docs/propisi.md.
+
 Statički PWA (GitHub Pages, Preact + TypeScript). Pretraga propisa radi u browseru (MiniSearch nad članovima), LLM ide preko Cloudflare Workera da API ključ ne bude javan.
 
 ## Mogućnosti

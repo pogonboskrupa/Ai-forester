@@ -21,6 +21,18 @@ START_RE = re.compile(r'\s*\d{2,4}\.\s*')
 INTRO_RE = re.compile(r'\s*(Na osnovu|Na temelju|Temeljem|Član|Člana|Na prijedlog)')
 
 
+def _is_single_column(pdf: str, page: int, width: int) -> bool:
+    """Stranica je jednokolonska ako je mnogo riječi koje prelaze sredinu."""
+    xml = subprocess.run(['pdftotext', '-bbox', '-f', str(page), '-l', str(page), pdf, '-'],
+                         capture_output=True, text=True).stdout
+    words = re.findall(r'xMin="([\d.]+)"[^>]*xMax="([\d.]+)"', xml)
+    if not words:
+        return True
+    mid = width / 2
+    crossing = sum(1 for lo, hi in words if float(lo) < mid - 4 and float(hi) > mid + 4)
+    return crossing / len(words) > 0.03
+
+
 def pdf_columns(pdf: str) -> list[str]:
     """Glasnik je u dvije kolone; pdftotext ih miješa (naslovi člana odvoje se od teksta).
     Zato svaku stranicu čitamo kao lijevu pa desnu polovinu."""
@@ -29,11 +41,23 @@ def pdf_columns(pdf: str) -> list[str]:
     w, h = (int(float(x)) for x in re.search(r'Page size:\s+([\d.]+) x ([\d.]+)', info).groups())
     out: list[str] = []
     for p in range(1, pages + 1):
+        if _is_single_column(pdf, p, w):
+            r = subprocess.run(['pdftotext', '-f', str(p), '-l', str(p), pdf, '-'], capture_output=True, text=True)
+            out.extend(r.stdout.split('\n'))
+            continue
         for x in (0, w // 2):
             r = subprocess.run(['pdftotext', '-f', str(p), '-l', str(p), '-x', str(x), '-y', '0',
                                 '-W', str(w // 2), '-H', str(h), pdf, '-'], capture_output=True, text=True)
             out.extend(r.stdout.split('\n'))
     return out
+
+
+LEGACY = str.maketrans({'~': 'č', '^': 'Č', '@': 'Ž', '`': 'ž', '[': 'Š', '{': 'š', '\\': 'Đ', '|': 'đ', ']': 'Ć', '}': 'ć'})
+
+
+def fix_legacy_font(text: str) -> str:
+    """Stari YU-fontovi (Sl. novine FBiH ~2003-2008) kodiraju č,ć,š,ž,đ kao ~ ^ { } | itd."""
+    return text.translate(LEGACY) if re.search(r'[~^]lan|SLU@BENE|\^lanak', text) else text
 
 
 def split_acts(lines: list[str]) -> dict[str, list[str]]:
@@ -46,12 +70,29 @@ def clean(lines: list[str]) -> str:
     kept = [l.rstrip() for l in lines if not NOISE_RE.match(l)]
     text = '\n'.join(kept)
     text = re.sub(r'\n{3,}', '\n\n', text)
+    text = fix_legacy_font(text)
     return re.sub(r'(?m)^(\s*Član)\s+l\.', r'\1 1.', text)  # OCR: "Član l." -> "Član 1."
+
+
+def extract_by_title(lines: list[str], title: str) -> list[str]:
+    """Za izdanja bez numerisanih akata (Sl. novine FBiH, Sl. glasnik BiH): od naslova do potpisa ('s. r.')
+    ispred sljedećeg 'Član 1.' (početak sljedećeg akta)."""
+    start = next((i for i, l in enumerate(lines) if re.search(title, l)), None)
+    if start is None:
+        sys.exit(f'Naslov "{title}" nije pronađen.')
+    first = next((i for i in range(start, len(lines)) if re.match(r'\s*Član 1\.\s*$', lines[i])), start)
+    sig = next((i for i in range(first, len(lines))
+                if re.search(r's\. ?r\.', lines[i]) and any('stupa na snagu' in x for x in lines[max(first, i - 25):i])),
+               len(lines) - 2)
+    return lines[start:sig + 2]
 
 
 if __name__ == '__main__':
     src, num, dst = sys.argv[1:4]
     lines = pdf_columns(src) if src.endswith('.pdf') else open(src, encoding='utf-8', errors='ignore').read().split('\n')
+    if num.startswith('title:'):
+        open(dst, 'w', encoding='utf-8').write(clean(extract_by_title(lines, num[6:])))
+        sys.exit(0)
     acts = split_acts(lines)
     if num not in acts:
         sys.exit(f'Akt {num} nije pronađen. Dostupni: {", ".join(acts)}')

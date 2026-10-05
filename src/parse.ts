@@ -47,5 +47,28 @@ export function parseArticles(raw: string, law: LawMeta): Article[] {
     prevLine = line;
   }
   flush();
-  return out;
+  return out.length ? out : chunkUnnumbered(raw, law);
+}
+
+const CHUNK = 1500;
+
+/** Akti bez "Član N." (npr. naputci, odluke s numerisanim tačkama): dijelimo po paragrafima na ~1500 znakova. */
+function chunkUnnumbered(raw: string, law: LawMeta): Article[] {
+  const paras = raw.replace(/\r/g, '').split(/\n\s*\n/).map((p) => p.replace(/\s+/g, ' ').trim()).filter(Boolean);
+  const chunks: string[] = [];
+  for (const p of paras) {
+    const last = chunks.length - 1;
+    if (last >= 0 && (chunks[last] as string).length + p.length < CHUNK) chunks[last] += `\n${p}`;
+    else chunks.push(p);
+  }
+  return chunks.map((text, i) => ({
+    id: `${law.id}#${i + 1}`,
+    lawId: law.id,
+    lawTitle: law.title,
+    level: law.level,
+    gazette: law.gazette,
+    number: `dio ${i + 1}`,
+    heading: '',
+    text,
+  }));
 }

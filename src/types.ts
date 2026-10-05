@@ -8,6 +8,7 @@ export interface LawMeta {
   gazette: string;
   inForce: boolean;
   sourceUrl: string;
+  topic?: string;
 }
 
 export interface LawInfo extends LawMeta {
