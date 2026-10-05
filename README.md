@@ -5,11 +5,13 @@ Baza: 45 propisa (USK + FBiH + BiH), vidi docs/propisi.md.
 Statički PWA (GitHub Pages, Preact + TypeScript). Pretraga propisa radi u browseru (MiniSearch nad članovima), LLM ide preko Cloudflare Workera da API ključ ne bude javan.
 
 ## Mogućnosti
-- Razgovori sa historijom (IndexedDB), pretraga po historiji, preimenovanje, izvoz u Markdown
-- **Projekti**: tema s vlastitim skupom izvora i uputama za AI; razgovor u projektu pretražuje samo te izvore
-- Odgovor citira član; ispod svakog odgovora su rasklopivi izvori
-- Biblioteka propisa, instalacija kao PWA, offline baza, tamna tema, mobilni prikaz
-- Izvoz svih podataka (JSON)
+- Odgovori u realnom vremenu (streaming) uz dugme Stop; ponovno generisanje i uređivanje zadnjeg pitanja
+- Numerisani, klikabilni citati: klik otvara puni tekst člana u bočnom panelu (na mobitelu kao donji list)
+- AI po izboru: Google Gemini (besplatni nivo), Anthropic Claude (preko službenog SDK-a, direktno iz browsera) ili vlastiti proxy
+- Historija razgovora grupisana po datumu, pretraga, zakačeni razgovori, izvoz u Markdown, backup/uvoz (JSON)
+- **Projekti**: tema s vlastitim izborom propisa i uputama za AI
+- Biblioteka: pretraga svih članova, filteri po nivou (USK/FBiH/BiH) i temi, "Pitaj AI o ovom članu"
+- Svijetla/tamna tema, prečice (Ctrl+K, /, Esc), PWA instalacija, rad bez interneta za biblioteku
 
 ## Pokretanje
 ```

@@ -1,5 +1,29 @@
 import type { Article, LawMeta } from './types';
 
+const BREAK_BEFORE = /^(\(?\d{1,3}[.)]|\(\d{1,3}\)|[a-zčćšžđ]\)|[-–•*]\s|[IVX]+\.\s|"\(|„\()/;
+const ENDS_BLOCK = /[.:;!?]["“”]?$/;
+
+/** PDF lomi redove usred rečenice; spajamo ih, a čuvamo prelome za stavove, tačke i alineje. */
+export function reflow(text: string): string {
+  const out: string[] = [];
+  for (const raw of text.split('\n')) {
+    const line = raw.trim();
+    const prev = out[out.length - 1];
+    if (!line) {
+      if (prev !== '') out.push('');
+      continue;
+    }
+    if (prev === undefined || prev === '' || ENDS_BLOCK.test(prev) || BREAK_BEFORE.test(line)) {
+      out.push(line);
+    } else if (/[a-zčćšžđ]-$/i.test(prev) && /^[a-zčćšžđ]/.test(line)) {
+      out[out.length - 1] = prev + line; // crtica ostaje: češće je složenica (Unsko-sanski) nego rastavljena riječ
+    } else {
+      out[out.length - 1] = `${prev} ${line}`;
+    }
+  }
+  return out.join('\n').replace(/\n{2,}/g, '\n').trim();
+}
+
 const ARTICLE_RE = /^\s*(?:Član|Članak|Clan|Clanak|ČLAN|ČLANAK)\.?\s*(\d+[a-z]?)\.?\s*(?:\((.+?)\))?\s*$/;
 
 /** Dijeli tekst zakona na članove; naslov člana je opcionalan red u zagradi ili prethodni red. */
@@ -12,7 +36,7 @@ export function parseArticles(raw: string, law: LawMeta): Article[] {
 
   const flush = () => {
     if (!cur) return;
-    const text = cur.body.join('\n').trim();
+    const text = reflow(cur.body.join('\n'));
     // Ponovljen broj člana (artefakt PDF-a, npr. kraj člana na sljedećoj stranici) spaja se s prvim.
     const dup = out.find((a) => a.number === cur!.number);
     if (dup) dup.text = `${dup.text}\n${text}`.trim();

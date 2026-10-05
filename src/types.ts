@@ -40,8 +40,10 @@ export interface Msg {
   id: string;
   role: 'user' | 'assistant';
   text: string;
-  sourceIds: string[];
+  sourceIds: string[]; // redoslijed = brojevi citata [1], [2]...
   error?: boolean;
+  stopped?: boolean;
+  model?: string;
   ts: number;
 }
 
@@ -51,4 +53,5 @@ export interface Conversation {
   title: string;
   messages: Msg[];
   updatedAt: number;
+  pinned?: boolean;
 }
