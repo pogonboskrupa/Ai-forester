@@ -16,9 +16,19 @@ export function buildIndex(articles: Article[]): MiniSearch<Article> {
   return ms;
 }
 
-export function retrieve(ms: MiniSearch<Article>, query: string, k = 6): Article[] {
+/** allowedLawIds prazan/undefined = bez ograničenja (svi propisi). */
+export function retrieve(
+  ms: MiniSearch<Article>,
+  query: string,
+  k = 6,
+  allowedLawIds?: readonly string[],
+): Article[] {
+  const allowed = allowedLawIds?.length ? new Set(allowedLawIds) : null;
   return ms
-    .search(query, { boostDocument: (_id, _t, doc) => LEVEL_BOOST[(doc?.level as Article['level']) ?? 'BiH'] })
+    .search(query, {
+      filter: allowed ? (r) => allowed.has(r['lawId'] as string) : undefined,
+      boostDocument: (_id, _t, doc) => LEVEL_BOOST[(doc?.['level'] as Article['level']) ?? 'BiH'],
+    })
     .slice(0, k)
     .map((r) => r as unknown as Article);
 }

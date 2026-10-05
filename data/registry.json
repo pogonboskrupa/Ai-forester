@@ -1,11 +1,12 @@
 [
-  {
-    "id": "usk-zakon-o-sumama",
-    "file": "usk-zakon-o-sumama.txt",
-    "title": "Zakon o šumama Unsko-sanskog kantona",
-    "level": "USK",
-    "gazette": "TODO: Službeni glasnik USK, broj/godina",
-    "inForce": true,
-    "sourceUrl": "TODO"
-  }
+  {"id":"usk-zakon-o-sumama","file":"usk-zakon-o-sumama.txt","title":"Zakon o šumama USK","level":"USK","gazette":"Sl. glasnik USK 22/12 (izmjene: 16/16, 12/17)","inForce":true,"sourceUrl":"https://vladausk.ba/v4/preuzimanje/9"},
+  {"id":"usk-zakon-izmjene-dopune-2016","file":"usk-zakon-izmjene-dopune-2016.txt","title":"Zakon o izmjenama i dopunama Zakona o šumama USK","level":"USK","gazette":"Sl. glasnik USK 16/16","inForce":true,"sourceUrl":"https://vladausk.ba/v4/preuzimanje/9"},
+  {"id":"usk-zakon-izmjena-2017","file":"usk-zakon-izmjena-2017.txt","title":"Zakon o izmjeni Zakona o šumama USK","level":"USK","gazette":"Sl. glasnik USK 12/17","inForce":true,"sourceUrl":"https://vladausk.ba/v4/preuzimanje/9"},
+  {"id":"usk-pravilnik-doznaka","file":"usk-pravilnik-doznaka.txt","title":"Pravilnik o načinu odabiranja, doznaci i sječi stabala ili površina za sječu (USK)","level":"USK","gazette":"Sl. glasnik USK 26/12","inForce":true,"sourceUrl":"https://vladausk.ba/v4/preuzimanje/9"},
+  {"id":"usk-pravilnik-sumski-red","file":"usk-pravilnik-sumski-red.txt","title":"Pravilnik o obimu mjera o uspostavljanju i održavanju šumskog reda (USK)","level":"USK","gazette":"Sl. glasnik USK 26/12","inForce":true,"sourceUrl":"https://vladausk.ba/v4/preuzimanje/9"},
+  {"id":"usk-pravilnik-pasa-sekundarni","file":"usk-pravilnik-pasa-sekundarni.txt","title":"Pravilnik o uslovima za pašu, žirenje, brst, kresanje i skupljanje u šumi (USK)","level":"USK","gazette":"Sl. glasnik USK 26/12","inForce":true,"sourceUrl":"https://vladausk.ba/v4/preuzimanje/9"},
+  {"id":"usk-pravilnik-cuvari","file":"usk-pravilnik-cuvari.txt","title":"Pravilnik o zadacima čuvara šuma, legitimaciji i uniformi (USK)","level":"USK","gazette":"Sl. glasnik USK 26/12","inForce":true,"sourceUrl":"https://vladausk.ba/v4/preuzimanje/9"},
+  {"id":"usk-pravilnik-zigosanje-otpremni","file":"usk-pravilnik-zigosanje-otpremni.txt","title":"Pravilnik o žigosanju, obrojčavanju, premjeravanju i otpremnom iskazu za drvo (USK)","level":"USK","gazette":"Sl. glasnik USK 26/12","inForce":true,"sourceUrl":"https://vladausk.ba/v4/preuzimanje/9"},
+  {"id":"usk-odluka-zakup-sumskog-zemljista","file":"usk-odluka-zakup-sumskog-zemljista.txt","title":"Odluka o uslovima i načinu davanja šumskog zemljišta u državnom vlasništvu u zakup (USK)","level":"USK","gazette":"Sl. glasnik USK 7/13","inForce":true,"sourceUrl":"https://vladausk.ba/v4/preuzimanje/9"},
+  {"id":"fbih-zakon-o-lovstvu","file":"fbih-zakon-o-lovstvu.txt","title":"Zakon o lovstvu FBiH (prečišćeni tekst, radni materijal)","level":"FBiH","gazette":"Sl. novine FBiH 4/06, 8/10, 81/14","inForce":true,"sourceUrl":"https://fmpvs.gov.ba/lovstvo-zakoni/"}
 ]

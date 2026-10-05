@@ -19,3 +19,12 @@ describe('tokenize', () => {
     expect(tokenize('šuma')[0]).toBe('suma');
   });
 });
+
+import { renderMarkdown } from './md';
+describe('renderMarkdown', () => {
+  it('escapuje HTML i označava citate', () => {
+    const h = renderMarkdown('<script>x</script>\n- [Zakon o šumama, član 5]');
+    expect(h).not.toContain('<script>');
+    expect(h).toContain('class="cite"');
+  });
+});

@@ -10,7 +10,10 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "minisearch": "^7.2.0"
+    "@preact/signals": "^2.11.3",
+    "idb-keyval": "^6.3.0",
+    "minisearch": "^7.2.0",
+    "preact": "^11.0.0"
   },
   "devDependencies": {
     "@types/node": "^26.6.4",

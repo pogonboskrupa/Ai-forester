@@ -1,36 +1,29 @@
-# Propisi – status verifikacije
+# Propisi u bazi – status
 
-Legenda: ✅ potvrđeno web pretragom · ❓ treba potvrditi/preuzeti · 🔒 izvor blokiran u build okruženju (preuzeti ručno)
+Izvor tekstova: vladausk.ba (Službeni glasnik USK) i fmpvs.gov.ba. Raw tekst je u `data/raw/`, metapodaci u `data/registry.json`. Izdvajanje akata iz glasnika: `scripts/extract_acts.py`.
 
-## Ključna napomena
-U FBiH šumarstvo je u kantonalnoj nadležnosti. Pretraga ukazuje da **nema važećeg federalnog zakona o šumama** (Zakon o šumama FBiH, Sl. novine FBiH 20/02, je u sporu/nije primjenjiv; nacrt "Zakon o šumarstvu FBiH" bio na javnoj raspravi mart 2024). Devet kantona ima vlastite zakone. **Primarni izvor za USK je kantonalni zakon.**
-
-## USK (primarno)
-| Akt | Status |
+## Učitano (10 propisa, 287 članova)
+| Akt | Glasnik |
 |---|---|
-| Zakon o šumama USK (Sl. glasnik USK) | ❓ 🔒 broj glasnika i prečišćeni tekst |
-| Zakon o lovstvu USK | ❓ |
-| Pravilnici USK/MPŠV USK (doznaka, šumski red, otpremnice, ŠGO) | ❓ |
-| Akt o osnivanju/koncesiji ŠPD "Unsko-sanske šume" | ❓ |
+| Zakon o šumama USK | Sl. glasnik USK 22/12 |
+| Zakon o izmjenama i dopunama Zakona o šumama | USK 16/16 |
+| Zakon o izmjeni Zakona o šumama | USK 12/17 |
+| Pravilnik o odabiranju, doznaci i sječi | USK 26/12 |
+| Pravilnik o šumskom redu | USK 26/12 |
+| Pravilnik o paši, žirenju, brstu, kresanju, skupljanju | USK 26/12 |
+| Pravilnik o zadacima čuvara šuma | USK 26/12 |
+| Pravilnik o žigosanju, obrojčavanju, otpremnom iskazu | USK 26/12 |
+| Odluka o zakupu šumskog zemljišta u državnom vlasništvu | USK 7/13 |
+| Zakon o lovstvu FBiH (prečišćeni, radni materijal) | FBiH 4/06, 8/10, 81/14 |
 
-## FBiH
-| Akt | Status |
-|---|---|
-| Odluka Vlade FBiH o šumskogospodarskim osnovama (Sl. nov. FBiH 41/21, 46/21 – prečišćeni) | ✅ naveden u izvještaju FMPVS |
-| Odluke o produženju ugovora o prenosu poslova gospodarenja državnim šumama (15/14, 105/14, 101/15) | ✅ |
-| Pravilnici FMPVS (Šumarstvo-pravilnici) | 🔒 fmpvs.gov.ba |
-| Zakon o zaštiti prirode FBiH, Zakon o zaštiti okoliša FBiH, Zakon o lovstvu FBiH, Zakon o vodama FBiH, Zakon o zaštiti od požara FBiH | ❓ |
+**Napomena:** izmjene zakona (16/16, 12/17) su zasebni akti, nisu ugrađene u tekst Zakona o šumama. Neki članovi (npr. čl. 10 o šumskoprivrednim osnovama) više ne glase kao u izvornom tekstu.
 
-## BiH / EU
-| Akt | Status |
-|---|---|
-| Zakon o zaštiti zdravlja bilja BiH | ❓ |
-| EUDR (Uredba EU 2023/1115) – geolokacija parcela, relevantno za izvoz drveta | ❓ eur-lex |
-
-## Gdje preuzeti (potrebna ručna pomoć ako je domena blokirana)
-- Službene novine FBiH: sluzbenenovine.ba
-- Službeni glasnik USK / Vlada USK: vladausk.ba
-- Federalno ministarstvo poljoprivrede, vodoprivrede i šumarstva: fmpvs.gov.ba
-- Baze propisa: faolex.fao.org (pretraga "Bosnia and Herzegovina forest")
-
-Preuzeti tekst staviti u `data/raw/<id>.txt` (čisti tekst, članovi u formatu `Član N.`) i dopuniti `data/registry.json`.
+## Nedostaje / treba provjeriti
+- Uputstvo o naknadama za zaštitu, unapređenje i podizanje novih šuma (USK): link na vladausk.ba vraća 404, tražiti ručno
+- Odluka o visini naknade (USK): skenirani PDF bez teksta (treba OCR)
+- Kasnije izmjene Zakona o šumama USK nakon 2017
+- Zakon o sjemenu i sadnom materijalu šumskih vrsta, Zakon o zaštiti zdravlja bilja (fmpvs.gov.ba; stari font treba mapirati)
+- Pravilnici o lovstvu FBiH i USK
+- Federalno: Zakon o zaštiti prirode, okoliša, vodama, zaštiti od požara
+- EUDR (Uredba EU 2023/1115)
+- **Federalni zakon o šumama ne postoji** (nacrt "Zakon o šumarstvu" iz 2024); šumarstvo uređuju kantoni

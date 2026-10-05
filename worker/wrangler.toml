@@ -4,3 +4,4 @@ compatibility_date = "2025-01-01"
 
 [vars]
 ALLOWED_ORIGIN = "https://pogonboskrupa.github.io"
+CLAUDE_MODEL = "claude-sonnet-5-5"
