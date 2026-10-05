@@ -46,7 +46,12 @@ export function Settings() {
         <input type="password" autocomplete="off" value={gKey} onInput={(e) => setGKey(e.currentTarget.value)} placeholder="AIza…" />
       </label>
       <label>Model
-        <input value={gModel} onInput={(e) => setGModel(e.currentTarget.value)} placeholder={DEFAULT_GEMINI_MODEL} />
+        <input list="gemini-models" value={gModel} onInput={(e) => setGModel(e.currentTarget.value)} placeholder={DEFAULT_GEMINI_MODEL} />
+        <datalist id="gemini-models">
+          <option value="gemini-2.5-flash" />
+          <option value="gemini-2.5-pro" />
+          <option value="gemini-2.5-flash-lite" />
+        </datalist>
       </label>
 
       <h3>Proxy (napredno, ima prednost ako je postavljen)</h3>

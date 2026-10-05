@@ -70,27 +70,36 @@ export interface AskInput {
 interface Turn { role: 'user' | 'assistant'; text: string }
 
 /** Direktno Gemini (free tier): ključ je samo u browseru korisnika, nikad u repozitoriju. */
+const RETRY_STATUS = new Set([429, 500, 502, 503, 504]);
+const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
+
+/** Direktno Gemini (free tier): ključ je samo u browseru korisnika, nikad u repozitoriju.
+ *  Preopterećenje (503/429) je često prolazno, pa pokušavamo ponovo s pauzom. */
 async function askGeminiDirect(key: string, system: string, messages: Turn[]): Promise<string> {
-  const res = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(getGeminiModel())}:generateContent`,
-    {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json', 'x-goog-api-key': key },
-      body: JSON.stringify({
-        systemInstruction: { parts: [{ text: system }] },
-        contents: messages.map((m) => ({ role: m.role === 'user' ? 'user' : 'model', parts: [{ text: m.text }] })),
-        generationConfig: { temperature: 0.2 },
-      }),
-    },
-  );
-  if (!res.ok) {
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(getGeminiModel())}:generateContent`;
+  const body = JSON.stringify({
+    systemInstruction: { parts: [{ text: system }] },
+    contents: messages.map((m) => ({ role: m.role === 'user' ? 'user' : 'model', parts: [{ text: m.text }] })),
+    generationConfig: { temperature: 0.2 },
+  });
+  const delays = [2000, 5000, 10000];
+  for (let attempt = 0; ; attempt++) {
+    const res = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json', 'x-goog-api-key': key }, body });
+    if (res.ok) {
+      const data = (await res.json()) as { candidates?: { content?: { parts?: { text?: string }[] } }[] };
+      const text = data.candidates?.[0]?.content?.parts?.map((p) => p.text ?? '').join('') ?? '';
+      if (!text) throw new Error('Prazan odgovor (moguće blokiran sadržaj).');
+      return text;
+    }
+    const wait = delays[attempt];
+    if (RETRY_STATUS.has(res.status) && wait !== undefined) {
+      await sleep(wait);
+      continue;
+    }
     const detail = ((await res.json().catch(() => null)) as { error?: { message?: string } } | null)?.error?.message;
-    throw new Error(`Gemini greška ${res.status}${detail ? `: ${detail}` : ''}`);
+    const hint = RETRY_STATUS.has(res.status) ? ' Pokušajte ponovo za minut ili u Postavkama izaberite drugi model.' : '';
+    throw new Error(`Gemini greška ${res.status}${detail ? `: ${detail}` : ''}${hint}`);
   }
-  const data = (await res.json()) as { candidates?: { content?: { parts?: { text?: string }[] } }[] };
-  const text = data.candidates?.[0]?.content?.parts?.map((p) => p.text ?? '').join('') ?? '';
-  if (!text) throw new Error('Prazan odgovor (moguće blokiran sadržaj).');
-  return text;
 }
 
 async function askProxy(url: string, system: string, messages: Turn[]): Promise<string> {

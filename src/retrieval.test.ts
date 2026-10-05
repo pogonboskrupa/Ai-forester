@@ -20,3 +20,11 @@ describe.skipIf(!existsSync(file))('retrieval nad stvarnom bazom', () => {
     expect(top('otpremni iskaz za drvo').some((r) => r.startsWith('usk-pravilnik-zigosanje'))).toBe(true);
   });
 });
+
+describe.skipIf(!existsSync(file))('sinonimi', () => {
+  const idx = buildIndex(JSON.parse(readFileSync(file, 'utf8')) as Article[]);
+  it('prijevoz šumskih sortimenata nalazi pravilnik o otpremnom iskazu', () => {
+    const top = retrieve(idx, 'Šta propisuje zakon o prijevozu šumskih sortimenata?', 6).map((a) => a.lawId);
+    expect(top).toContain('usk-pravilnik-zigosanje-otpremni');
+  });
+});
