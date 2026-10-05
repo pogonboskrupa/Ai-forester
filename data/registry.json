@@ -418,5 +418,35 @@
   "inForce": true,
   "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-uredbe/",
   "topic": "Šumarstvo"
+ },
+ {
+  "id": "fbih-zakon-o-zastiti-okolisa",
+  "file": "fbih-zakon-o-zastiti-okolisa.txt",
+  "title": "Zakon o zaštiti okoliša (FBiH, osnovni tekst)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 33/03 (izmjene: 38/09)",
+  "inForce": true,
+  "sourceUrl": "https://zppks.ba/wp-content/uploads/2022/02/zakon_o_zastiti_okolisa.pdf",
+  "topic": "Okoliš"
+ },
+ {
+  "id": "fbih-zakon-o-vodama",
+  "file": "fbih-zakon-o-vodama.txt",
+  "title": "Zakon o vodama (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 70/06",
+  "inForce": true,
+  "sourceUrl": "https://fuzip.gov.ba/wp-content/uploads/2022/09/Zakon_o_vodama_sl_novine_fbih_br_70_06-2.pdf",
+  "topic": "Vode"
+ },
+ {
+  "id": "usk-zakon-o-zastiti-od-pozara",
+  "file": "usk-zakon-o-zastiti-od-pozara.txt",
+  "title": "Zakon o zaštiti od požara i vatrogastvu USK",
+  "level": "USK",
+  "gazette": "Sl. glasnik USK 4/13",
+  "inForce": true,
+  "sourceUrl": "https://kucz.ks.gov.ba/sites/kucz.ks.gov.ba/files/2025-03/zakon_o_zastiti_od_pozara_i_vatrogastvu_unsko-sanskog_kantona.pdf",
+  "topic": "Požari"
  }
 ]

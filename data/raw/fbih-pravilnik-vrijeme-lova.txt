@@ -1,20 +1,15 @@
-Na osnovu člana 24. stav 1. Zakona o lovstvu ("Službe
-ministar poljoprivrede, vodoprivrede i šumarstva po pr
+Na osnovu člana 24. stav 1. Zakona o lovstvu ("Službene novine Federacije BiH", broj 4/06), federalni
+ministar poljoprivrede, vodoprivrede i šumarstva po prethodno pribavljenom mišljenju kantonalnih
 ministarstava nadležnih za poslove lovstva, donosi
 
-PRAVI
-
-O VREMENU LOVA LOVOSTAJEM ZAŠTIĆEN
-KOJE SE SMATRAJU KORISNIM ZA
-
-Član
-
-Ovim Pravilnikom propisuje se vrijeme lova - lovostaj
-sisavaca koji se smatraju korisnim za poljoprivredu i š
-
-Član
-
-U smislu ovog Pravilnika, lovostajem zaštićenu divljač
+PRAVILNIK
+O VREMENU LOVA LOVOSTAJEM ZAŠTIĆENE DIVLJAČI I POPIS VRSTA PTICA I SISARA
+KOJE SE SMATRAJU KORISNIM ZA POLJOPRIVREDU I ŠUMARSTVO
+Član 1.
+Ovim Pravilnikom propisuje se vrijeme lova - lovostajem zaštićene divljači i utvrñuje spisak vrsta ptica i
+sisavaca koji se smatraju korisnim za poljoprivredu i šumarstvo.
+Član 2.
+U smislu ovog Pravilnika, lovostajem zaštićenu divljač, dozvoljeno je loviti:
 A. KRUPNA
 DIVLJAČ
 
@@ -93,23 +88,6 @@ krmača i prase
 
 od 1. avgusta do 31.
 decembra
-
-ene novine Federacije BiH", broj 4/06), federalni
-rethodno pribavljenom mišljenju kantonalnih
-
-ILNIK
-
-NE DIVLJAČI I POPIS VRSTA PTICA I SISARA
-A POLJOPRIVREDU I ŠUMARSTVO
-
-n 1.
-
-jem zaštićene divljači i utvrñuje spisak vrsta ptica i
-šumarstvo.
-
-n 2.
-
-č, dozvoljeno je loviti:
 
 Medvjed (Ursus
 arctos L.)
@@ -231,21 +209,12 @@ atra L.)
 od 1. septembra do
 31. januara
 
-Član
+Član 3.
+Divljač iz člana 2. ovog Pravilnika koja se lovi u periodu od 1. januara do 31. decembra, dopušteno je loviti
+samo do broja koji ne ugrožava biološki opstanak vrste.
+Član 4.
 
-Divljač iz člana 2. ovog Pravilnika koja se lovi u perio
-samo do broja koji ne ugrožava biološki opstanak vrste
-
-Član
-
-n 3.
-
-odu od 1. januara do 31. decembra, dopušteno je loviti
-e.
-
-n 4.
-
-Ptice i sisavci koji se smatraju korisnim za poljoprivre
+Ptice i sisavci koji se smatraju korisnim za poljoprivredu i šumarstvo su:
 PTICE (AVES)
 LASTAVICE - (HIRUNDINIDAE)
 Lastavica pokućarka (Hirundo rustica)
@@ -270,8 +239,6 @@ Kamenjar crnokrili (Oenanthe hispanica)
 Batić kovač (Saxicola torljuata)
 Batić prdavac (Saxicola rubetra)
 Crvenrepka šumska (Phoenicurus phoenicurus)
-
-edu i šumarstvo su:
 
 Crvenrepka mrka (Phoenicurus ochruros)
 Slavuj mali (Luscinia megarhynchos)

@@ -1134,12 +1134,10 @@ naknade za ostale vidove korištenja lovišta.
 Rashodi lovišta obuhvataju izdatke za osobne i materijalne troškove neophodne za realizaciju plana.
 Član 40.
 
-Provođenje propisa osnove evidentira se po lovnim god
+Provođenje propisa osnove evidentira se po lovnim godinama, a prikazuju se po isteku vremenskoga perioda u
 kojem je obavezno njegovo provođenje.
-
-Član
-
-Lovna hronika za svaku lovnu godinu, evidentira hronol
+Član 41.
+Lovna hronika za svaku lovnu godinu, evidentira hronološkim redom sva zbivanja u lovištu koja bitno utiču na
 lovno gospodarenje, a naročito:
 
 
@@ -1157,12 +1155,12 @@ stanje biljnih zajednica i životinjskih vrsta;
 dolazak i odlazak sezonskih vrsta;
 aktivnosti stručne i lovočuvarske službe;
 štete od divljači te štete na divljači i lovištu;
-opažanja i nalaze strogo zaštićenih divljih svoj
+opažanja i nalaze strogo zaštićenih divljih svojti koje utiču na lovno gospodarenje - pokusi za naučna
 istraživanja;
 antropogeni uticaji;
-sva zbivanja koja mogu uslovljavati reviziju osn
+sva zbivanja koja mogu uslovljavati reviziju osnove.
+Član 42.
 
-Član
 Revizija osnove obavlja se:
 
 
@@ -1170,76 +1168,29 @@ Revizija osnove obavlja se:
 
 
 
-ako se ukupna površina lovišta ili lovnoprodu
+ako se ukupna površina lovišta ili lovnoproduktivna površina utvrđena osnovom za bilo koju vrstu
 divljači, promijeni za više od 20%;
-ako se matični fond divljači ne može postići pre
-ako se izgradnjom objekata i infrastrukture ili s
-ako se iz bilo kojih razloga izmijeni bonitetni ra
+ako se matični fond divljači ne može postići prema osnovi i odredbama člana 43. ovog Pravilnika;
+ako se izgradnjom objekata i infrastrukture ili sličnim radovima bitno naruši biološka cjelina lovišta ili
+ako se iz bilo kojih razloga izmijeni bonitetni razred za bilo koju vrstu divljači;
 ako se pojavi ili unese nova vrsta divljači;
-u svrhu usklađivanja osnove s odredbama ovog
+u svrhu usklađivanja osnove s odredbama ovog Pravilnika.
+Član 43.
 
-Član
-
-Od smjernica budućeg gospodarenja u toku jedne lovn
-planiranog više od 25% kod krupne divljači, osim kod di
+Od smjernica budućeg gospodarenja u toku jedne lovne godine, ostvareno izlučivanje ne smije odstupati od
+planiranog više od 25% kod krupne divljači, osim kod divlje svinje gdje odstupanje može biti do 30%, te najviše
 do 35% kod sitne divljači.
-
-Matični fond kod krupne divljači ne smije odstupati vi
+Matični fond kod krupne divljači ne smije odstupati više od 15% od planiranoga, a kod sitne divljači više od
 25% od planiranoga tokom tri uzastopne lovne godine.
-
-Planirani lov iz člana 18. stavovi 2. i 3. i člana 19. ovog P
-
-U provođenju i ostalih smjernica budućeg gospodarenja
-posljedica te da lovoovlaštenik, odnosno izvršilac prava l
-
-Član
-
-Obrasci LGO-1 do LGO-11 sastavni su dio osnove, štam
+Planirani lov iz člana 18. stavovi 2. i 3. i člana 19. ovog Pravilnika nije obavezan.
+U provođenju i ostalih smjernica budućeg gospodarenja dozvoljena su odstupanja pod uslovom, da nema štetnih
+posljedica te da lovoovlaštenik, odnosno izvršilac prava lova utvrdi i evidentira njihovu opravdanost.
+Član 44.
+Obrasci LGO-1 do LGO-11 sastavni su dio osnove, štampani su uz ovaj Pravilnik i čine njegov sastavni dio.
 IV. PROGRAM UZGOJA DIVLJAČI
-
-Član
-
-Program uzgoja divljači (u daljnjem tekstu: program) je
+Član 45.
+Program uzgoja divljači (u daljnjem tekstu: program) je planski akt kojim se detaljno uređuje uzgoj divljači u
 uzgajalištu divljači za vrijeme od 10 lovnih godina.
-
-dinama, a prikazuju se po isteku vremenskoga perioda u
-
-n 41.
-
-loškim redom sva zbivanja u lovištu koja bitno utiču na
-
-jti koje utiču na lovno gospodarenje - pokusi za naučna
-
-nove.
-
-n 42.
-
-uktivna površina utvrđena osnovom za bilo koju vrstu
-
-ema osnovi i odredbama člana 43. ovog Pravilnika;
-sličnim radovima bitno naruši biološka cjelina lovišta ili
-azred za bilo koju vrstu divljači;
-Pravilnika.
-
-n 43.
-
-ne godine, ostvareno izlučivanje ne smije odstupati od
-ivlje svinje gdje odstupanje može biti do 30%, te najviše
-
-iše od 15% od planiranoga, a kod sitne divljači više od
-
-Pravilnika nije obavezan.
-
-dozvoljena su odstupanja pod uslovom, da nema štetnih
-lova utvrdi i evidentira njihovu opravdanost.
-
-n 44.
-
-mpani su uz ovaj Pravilnik i čine njegov sastavni dio.
-
-n 45.
-
-e planski akt kojim se detaljno uređuje uzgoj divljači u
 
 Član 46.
 Program sadrži:
@@ -1302,12 +1253,10 @@ program.
 Program utvrđuje podizanje ili obnovu neophodnih ograda i pregrada te dinamiku njihove izgradnje, kao i
 dinamiku razvoja fonda odnosno ispuštanja pojedine divljači u iste prostore.
 
-U vanjskoj ogradi uzgajališta divljači nije dozvoljena iz
-korisnika lovišta odnosno izvršioca prava lova u lovištu u
-
-Član
-
-Program utvrđuje tehnologiju uzgoja i korištenja divljači
+U vanjskoj ogradi uzgajališta divljači nije dozvoljena izgradnja uskočnih rampi (uskočnica) osim uz saglasnost
+korisnika lovišta odnosno izvršioca prava lova u lovištu uz čiju granicu se gradi uskočna rampa.
+Član 50.
+Program utvrđuje tehnologiju uzgoja i korištenja divljači s obaveznim prikazom:
 
 
 
@@ -1317,99 +1266,43 @@ Program utvrđuje tehnologiju uzgoja i korištenja divljači
 omjera polova prema potrebi;
 načina uzgoja uz prikaz predviđenoga prirasta;
 namjene uzgajane divljači;
-broja divljači koja se mora uzgajati po lovnim g
+broja divljači koja se mora uzgajati po lovnim godinama;
 načina korištenja divljači.
+Član 51.
 
-Član
-
-Program propisuje prehranu divljači tokom cijele godine
-izlaganjem u objektima, te uređenjem zemljišta za proizv
-
-Član
-
-Program propisuje zaštitu divljači koja, osim mjera i
+Program propisuje prehranu divljači tokom cijele godine, koja divljači osigurava dovoljne količine hrane i vode
+izlaganjem u objektima, te uređenjem zemljišta za proizvodnju hrane i zadržavanje vode.
+Član 52.
+Program propisuje zaštitu divljači koja, osim mjera iz člana 23. ovog Pravilnika, za glavne vrste divljači
 obuhvata:
 
 
 
 trajni nadzor i praćenje zdravstvenog stanja;
-provođenje propisanih dijagnostičkih, imunopro
+provođenje propisanih dijagnostičkih, imunoprofilaktičkih i ostalih veterinarsko-sanitarnih mjera.
+Član 53.
 
-Član
-
-Programom se, osim obaveznih mjera zaštite kultura o
+Programom se, osim obaveznih mjera zaštite kultura od šteta koju čini divljač, moraju predvidjeti i dodatne
 mjere, a naročito:
 
 
 
-stalno praćenje stanja staništa radi uočavanja na
+stalno praćenje stanja staništa radi uočavanja nastanka šteta i njezinih uzroka;
 mjere zaštite šuma i poljoprivrednih kultura.
+Član 54.
 
-Član
-
-Program se revidira kada se trajnije i značajnije izmijene
-
-Član
-
-U provođenju programa dozvoljena su odstupanja pod u
+Program se revidira kada se trajnije i značajnije izmijene uslovi i okolnosti na kojima je zasnovan program.
+Član 55.
+U provođenju programa dozvoljena su odstupanja pod uslovom da vlasnik zemljišta utvrdi i evidentira njihovu
 opravdanost.
-
-Član
-
-Obrasci PUD-1 do PUD-12 sastavni su dio programa, šta
+Član 56.
+Obrasci PUD-1 do PUD-12 sastavni su dio programa, štampani su uz ovaj Pravilnik i čine njegov sastavni dio.
 V. PROGRAM ZAŠTITE DIVLJAČI
-
-Član
-
-Program zaštite divljači (u daljnjem tekstu: program z
-osigurava zaštitu divljači na posebnim površinama (u
-pravno ili fizičko lice koje koristi zemljište ili upravlja z
-parkovima gdje je to regulisano Prostornim planom, prav
-
-zgradnja uskočnih rampi (uskočnica) osim uz saglasnost
-uz čiju granicu se gradi uskočna rampa.
-
-n 50.
-
-i s obaveznim prikazom:
-
-godinama;
-
-n 51.
-
-e, koja divljači osigurava dovoljne količine hrane i vode
-vodnju hrane i zadržavanje vode.
-
-n 52.
-
-iz člana 23. ovog Pravilnika, za glavne vrste divljači
-
-ofilaktičkih i ostalih veterinarsko-sanitarnih mjera.
-
-n 53.
-
-od šteta koju čini divljač, moraju predvidjeti i dodatne
-
-astanka šteta i njezinih uzroka;
-
-n 54.
-
-e uslovi i okolnosti na kojima je zasnovan program.
-
-n 55.
-
-uslovom da vlasnik zemljišta utvrdi i evidentira njihovu
-
-n 56.
-
-ampani su uz ovaj Pravilnik i čine njegov sastavni dio.
-
-n 57.
-
-zaštite) je planski akt za razdoblje od 10 godina koji
-daljnjem tekstu: površine izvan lovišta), a donosi ga
-zemljištem na vrijeme od 10 godina, osim u nacionalnim
-vilnikom o unutrašnjem redu i Planom upravljanja.
+Član 57.
+Program zaštite divljači (u daljnjem tekstu: program zaštite) je planski akt za razdoblje od 10 godina koji
+osigurava zaštitu divljači na posebnim površinama (u daljnjem tekstu: površine izvan lovišta), a donosi ga
+pravno ili fizičko lice koje koristi zemljište ili upravlja zemljištem na vrijeme od 10 godina, osim u nacionalnim
+parkovima gdje je to regulisano Prostornim planom, pravilnikom o unutrašnjem redu i Planom upravljanja.
 
 Član 58.
 Program zaštite sadrži:
@@ -1567,99 +1460,39 @@ U lovnom gospodarenju u smislu ovog Pravilnika, u upotrebi su pojmovi sa sljede�
 2. matični fond (MF) - broj divljači na početku lovne godine;
 3. rasplodni fond - broj divljači na početku lovne godine koja je sposobna za rasplod;
 
-4. mladunčad-divljač do kraja prve lovne godine, osim
+4. mladunčad-divljač do kraja prve lovne godine, osim kod medvjeda koji je mladunče i tokom druge lovne
 godine;
-
-5. pomladak-divljač tokom druge lovne godine, osim kod
-
-6. privredni kapacitet lovišta (GK)-bonitiranjem utvrđ
+5. pomladak-divljač tokom druge lovne godine, osim kod medvjeda koji je pomladak u trećoj lovnoj godini;
+6. privredni kapacitet lovišta (GK)-bonitiranjem utvrđen mogući broj divljači u lovištu (matični fond s
 prirastom);
-
-7. redovni odstrjel-izlučivanje zdravih i normalno razvije
-
-8. uzgojni odstrjel-izlučivanje uzgojno manje vrijednih il
-obavljanja redovnog odstrjela u skladu s ciljem gospodar
-9. redukcijski odstrjel-izlučivanje prekobrojnih jedinki
+7. redovni odstrjel-izlučivanje zdravih i normalno razvijenih grla iz populacije divljači;
+8. uzgojni odstrjel-izlučivanje uzgojno manje vrijednih ili nepoželjnih grla iz populacije krupne divljači u sklopu
+obavljanja redovnog odstrjela u skladu s ciljem gospodarenja populacijom;
+9. redukcijski odstrjel-izlučivanje prekobrojnih jedinki iz populacije, koji je veći od propisanoga privrednog
 kapaciteta;
-10. sanitarni odstrjel-izlučivanje bolesnih, ozlijeđenih ili
-
-11. otpad-uklanjane jedinke iz populacije osim lovljenj
-nađeni u lovištu, divljač stradala u prometu i evidentirani
-
-12. izlučivanje-podrazumijeva svako uklanjanje pojedi
+10. sanitarni odstrjel-izlučivanje bolesnih, ozlijeđenih ili ranjenih jedinki iz populacije divljači;
+11. otpad-uklanjane jedinke iz populacije osim lovljenja i hvatanja (uginula divljač ili njezini dijelovi koji su
+nađeni u lovištu, divljač stradala u prometu i evidentirani krivolov);
+12. izlučivanje-podrazumijeva svako uklanjanje pojedine jedinke iz lovišta, odnosno populacije (odstrjel i
 otpad);
-
-13. prihrana-hrana, voda, sol i mineralna smjesa koja
-prirodne hrane i vode kada je u prirodi nema u dovoljnim
-
-14. prehrana-hrana i voda koja je izložena divljači tokom
-
-15. lovnoproduktivna površina (LPP)-dijelovi lovišta u k
-obitavanje hranjenje (prehranu) i napajanje, razmnožavan
-
-16. umjetni uzgoj divljači-uzgoj divljači umjetnom ili ko
-17. uskočna rampa (uskočnica)-lovnotehnički objekt u
+13. prihrana-hrana, voda, sol i mineralna smjesa koja se povremenim izlaganjem daje divljači kao dopuna
+prirodne hrane i vode kada je u prirodi nema u dovoljnim količinama;
+14. prehrana-hrana i voda koja je izložena divljači tokom cijele godine;
+15. lovnoproduktivna površina (LPP)-dijelovi lovišta u kojima određena vrsta divljači ima sve prirodne uvjete za
+obitavanje hranjenje (prehranu) i napajanje, razmnožavanje i sklanjanje;
+16. umjetni uzgoj divljači-uzgoj divljači umjetnom ili kontrolisanom metodom uz pomoć tehničkih sredstava;
+17. uskočna rampa (uskočnica)-lovnotehnički objekt u ogradi ili na ogradi koji omogućava divljači ulazak u
 ograđeni prostor;
 18. divljačina-meso divljači.
-
-Član
-Divljač se, osim prema Zakonu o lovstvu, u smislu ovog
-
-1. glavne vrste - vrste divljači koje se prema namjeni ze
-za koje je lovište ustanovljeno, te vrste divljači za koje je
-
-2. ostale (sporedne) vrste - vrste divljači koje prirodno
+Član 6.
+Divljač se, osim prema Zakonu o lovstvu, u smislu ovog Pravilnika razvrstava na:
+1. glavne vrste - vrste divljači koje se prema namjeni zemljišta prvenstveno uzgajaju ili se planiraju uzgajati, ili
+za koje je lovište ustanovljeno, te vrste divljači za koje je određena LPP (LGO-2, PUD-2) i izvršeno bonitiranje;
+2. ostale (sporedne) vrste - vrste divljači koje prirodno obitavaju u lovištu ili se unose neposredno pred lov
 (LGO-7, PUD-8).
-
-Član
-
-Prema načinu migracije, divljač i životinjske vrste razvrs
-
-1. stalne vrste - koje obitavaju u lovištu tokom cijele god
-
-m kod medvjeda koji je mladunče i tokom druge lovne
-
-d medvjeda koji je pomladak u trećoj lovnoj godini;
-
-đen mogući broj divljači u lovištu (matični fond s
-
-enih grla iz populacije divljači;
-
-li nepoželjnih grla iz populacije krupne divljači u sklopu
-renja populacijom;
-iz populacije, koji je veći od propisanoga privrednog
-
-ranjenih jedinki iz populacije divljači;
-
-ja i hvatanja (uginula divljač ili njezini dijelovi koji su
-i krivolov);
-
-ine jedinke iz lovišta, odnosno populacije (odstrjel i
-
-se povremenim izlaganjem daje divljači kao dopuna
-m količinama;
-
-m cijele godine;
-
-kojima određena vrsta divljači ima sve prirodne uvjete za
-nje i sklanjanje;
-
-ontrolisanom metodom uz pomoć tehničkih sredstava;
-ogradi ili na ogradi koji omogućava divljači ulazak u
-
-n 6.
-Pravilnika razvrstava na:
-
-emljišta prvenstveno uzgajaju ili se planiraju uzgajati, ili
-e određena LPP (LGO-2, PUD-2) i izvršeno bonitiranje;
-
-o obitavaju u lovištu ili se unose neposredno pred lov
-
-n 7.
-
-stavaju se na:
-
-dine, nalaze hranu i zaklon te se razmnožavaju;
+Član 7.
+Prema načinu migracije, divljač i životinjske vrste razvrstavaju se na:
+1. stalne vrste - koje obitavaju u lovištu tokom cijele godine, nalaze hranu i zaklon te se razmnožavaju;
 
 2. sezonske vrste- selice prolaznice - koje prelaze iz lovišta u lovište tokom jedne lovne godine, a zavisno o
 godišnjem dobu (zimska i ljetna staništa, okomita i vodoravna migracija i sl.);
@@ -2010,12 +1843,10 @@ naknade za ostale vidove korištenja lovišta.
 Rashodi lovišta obuhvataju izdatke za osobne i materijalne troškove neophodne za realizaciju plana.
 Član 40.
 
-Provođenje propisa osnove evidentira se po lovnim god
+Provođenje propisa osnove evidentira se po lovnim godinama, a prikazuju se po isteku vremenskoga perioda u
 kojem je obavezno njegovo provođenje.
-
-Član
-
-Lovna hronika za svaku lovnu godinu, evidentira hronol
+Član 41.
+Lovna hronika za svaku lovnu godinu, evidentira hronološkim redom sva zbivanja u lovištu koja bitno utiču na
 lovno gospodarenje, a naročito:
 
 
@@ -2033,12 +1864,12 @@ stanje biljnih zajednica i životinjskih vrsta;
 dolazak i odlazak sezonskih vrsta;
 aktivnosti stručne i lovočuvarske službe;
 štete od divljači te štete na divljači i lovištu;
-opažanja i nalaze strogo zaštićenih divljih svoj
+opažanja i nalaze strogo zaštićenih divljih svojti koje utiču na lovno gospodarenje - pokusi za naučna
 istraživanja;
 antropogeni uticaji;
-sva zbivanja koja mogu uvjetovati reviziju osno
+sva zbivanja koja mogu uvjetovati reviziju osnove.
+Član 42.
 
-Član
 Revizija osnove obavlja se:
 
 
@@ -2046,76 +1877,29 @@ Revizija osnove obavlja se:
 
 
 
-ako se ukupna površina lovišta ili lovnoprodu
+ako se ukupna površina lovišta ili lovnoproduktivna površina utvrđena osnovom za bilo koju vrstu
 divljači, promijeni za više od 20%;
-ako se matični fond divljači ne može postići pre
-ako se izgradnjom objekata i infrastrukture ili s
-ako se iz bilo kojih razloga izmijeni bonitetni ra
+ako se matični fond divljači ne može postići prema osnovi i odredbama člana 43. ovog Pravilnika;
+ako se izgradnjom objekata i infrastrukture ili sličnim radovima bitno naruši biološka cjelina lovišta ili
+ako se iz bilo kojih razloga izmijeni bonitetni razred za bilo koju vrstu divljači;
 ako se pojavi ili unese nova vrsta divljači;
-u svrhu usklađivanja osnove s odredbama ovog
+u svrhu usklađivanja osnove s odredbama ovog Pravilnika.
+Član 43.
 
-Član
-
-Od smjernica budućeg gospodarenja u toku jedne lovn
-planiranog više od 25% kod krupne divljači, osim kod di
+Od smjernica budućeg gospodarenja u toku jedne lovne godine, ostvareno izlučivanje ne smije odstupati od
+planiranog više od 25% kod krupne divljači, osim kod divlje svinje gdje odstupanje može biti do 30%, te najviše
 do 35% kod sitne divljači.
-
-Matični fond kod krupne divljači ne smije odstupati vi
+Matični fond kod krupne divljači ne smije odstupati više od 15% od planiranoga, a kod sitne divljači više od
 25% od planiranoga tokom tri uzastopne lovne godine.
-
-Planirani lov iz člana 18. stavovi 2. i 3. i člana 19. ovog P
-
-U provođenju i ostalih smjernica budućeg gospodarenja
-posljedica te da lovoovlaštenik, odnosno izvršilac prava l
-
-Član
-
-Obrasci LGO- 1 do LGO-11 sastavni su dio osnove, štam
+Planirani lov iz člana 18. stavovi 2. i 3. i člana 19. ovog Pravilnika nije obavezan.
+U provođenju i ostalih smjernica budućeg gospodarenja dozvoljena su odstupanja pod uvjetom, da nema štetnih
+posljedica te da lovoovlaštenik, odnosno izvršilac prava lova utvrdi i evidentira njihovu opravdanost.
+Član 44.
+Obrasci LGO- 1 do LGO-11 sastavni su dio osnove, štampani su uz ovaj Pravilnik i čine njegov sastavni dio.
 IV. PROGRAM UZGOJA DIVLJAČI
-
-Član
-
-Program uzgoja divljači (u daljnjem tekstu: program) je
+Član 45.
+Program uzgoja divljači (u daljnjem tekstu: program) je planski akt kojim se detaljno uređuje uzgoj divljači u
 uzgajalištu divljači za vrijeme od 10 lovnih godina.
-
-dinama, a prikazuju se po isteku vremenskoga perioda u
-
-n 41.
-
-loškim redom sva zbivanja u lovištu koja bitno utiču na
-
-jti koje utiču na lovno gospodarenje - pokusi za naučna
-
-ove.
-
-n 42.
-
-uktivna površina utvrđena osnovom za bilo koju vrstu
-
-ema osnovi i odredbama člana 43. ovog Pravilnika;
-sličnim radovima bitno naruši biološka cjelina lovišta ili
-azred za bilo koju vrstu divljači;
-Pravilnika.
-
-n 43.
-
-ne godine, ostvareno izlučivanje ne smije odstupati od
-ivlje svinje gdje odstupanje može biti do 30%, te najviše
-
-iše od 15% od planiranoga, a kod sitne divljači više od
-
-Pravilnika nije obavezan.
-
-dozvoljena su odstupanja pod uvjetom, da nema štetnih
-lova utvrdi i evidentira njihovu opravdanost.
-
-n 44.
-
-mpani su uz ovaj Pravilnik i čine njegov sastavni dio.
-
-n 45.
-
-e planski akt kojim se detaljno uređuje uzgoj divljači u
 
 Član 46.
 Program sadrži:
@@ -2178,12 +1962,10 @@ program.
 Program utvrđuje podizanje ili obnovu neophodnih ograda i pregrada te dinamiku njihove izgradnje, kao i
 dinamiku razvoja fonda odnosno ispuštanja pojedine divljači u iste prostore.
 
-U vanjskoj ogradi uzgajališta divljači nije dozvoljena iz
-korisnika lovišta odnosno izvršioca prava lova u lovištu u
-
-Član
-
-Program utvrđuje tehnologiju uzgoja i korištenja divljači
+U vanjskoj ogradi uzgajališta divljači nije dozvoljena izgradnja uskočnih rampi (uskočnica) osim uz suglasnost
+korisnika lovišta odnosno izvršioca prava lova u lovištu uz čiju granicu se gradi uskočna rampa.
+Član 50.
+Program utvrđuje tehnologiju uzgoja i korištenja divljači s obaveznim prikazom:
 
 
 
@@ -2193,97 +1975,43 @@ Program utvrđuje tehnologiju uzgoja i korištenja divljači
 omjera spolova prema potrebi;
 načina uzgoja uz prikaz predviđenoga prirasta;
 namjene uzgajane divljači;
-broja divljači koja se mora uzgajati po lovnim g
+broja divljači koja se mora uzgajati po lovnim godinama;
 načina korištenja divljači.
+Član 51.
 
-Član
-
-Program propisuje prehranu divljači tokom cijele godine
-izlaganjem u objektima, te uređenjem zemljišta za proizv
-
-Član
-
-Program propisuje zaštitu divljači koja, osim mjera i
+Program propisuje prehranu divljači tokom cijele godine, koja divljači osigurava dovoljne količine hrane i vode
+izlaganjem u objektima, te uređenjem zemljišta za proizvodnju hrane i zadržavanje vode.
+Član 52.
+Program propisuje zaštitu divljači koja, osim mjera iz člana 23. ovog Pravilnika, za glavne vrste divljači
 obuhvata:
 
 
 
 trajni nadzor i praćenje zdravstvenog stanja;
-provođenje propisanih dijagnostičkih, imunopro
+provođenje propisanih dijagnostičkih, imunoprofilaktičkih i ostalih veterinarsko-sanitarnih mjera.
+Član 53.
 
-Član
-
-Programom se, osim obaveznih mjera zaštite kultura o
+Programom se, osim obaveznih mjera zaštite kultura od šteta koju čini divljač, moraju predvidjeti i dodatne
 mjere, a naročito:
 
 
 
-stalno praćenje stanja staništa radi uočavanja na
+stalno praćenje stanja staništa radi uočavanja nastanka šteta i njezinih uzroka;
 mjere zaštite šuma i poljoprivrednih kultura.
+Član 54.
 
-Član
-Program se revidira kada se trajnije i značajnije izmjene
-
-Član
-
-U provođenju programa dozvoljena su odstupanja pod u
+Program se revidira kada se trajnije i značajnije izmjene uvjeti i okolnosti na kojima je zasnovan program.
+Član 55.
+U provođenju programa dozvoljena su odstupanja pod uvjetom da vlasnik zemljišta utvrdi i evidentira njihovu
 opravdanost.
-
-Član
-
-Obrasci PUD-1 do PUD-12 sastavni su dio programa, šta
+Član 56.
+Obrasci PUD-1 do PUD-12 sastavni su dio programa, štampani su uz ovaj Pravilnik i čine njegov sastavni dio.
 V. PROGRAM ZAŠTITE DIVLJAČI
-
-Član
-
-Program zaštite divljači (u daljnjem tekstu: program z
-osigurava zaštitu divljači na posebnim površinama (u
-pravno ili fizičko lice koje koristi zemljište ili upravlja z
-parkovima gdje je to regulisano Prostornim planom, Prav
-
-zgradnja uskočnih rampi (uskočnica) osim uz suglasnost
-uz čiju granicu se gradi uskočna rampa.
-
-n 50.
-
-i s obaveznim prikazom:
-
-godinama;
-
-n 51.
-
-e, koja divljači osigurava dovoljne količine hrane i vode
-vodnju hrane i zadržavanje vode.
-
-n 52.
-
-iz člana 23. ovog Pravilnika, za glavne vrste divljači
-
-ofilaktičkih i ostalih veterinarsko-sanitarnih mjera.
-
-n 53.
-
-od šteta koju čini divljač, moraju predvidjeti i dodatne
-
-astanka šteta i njezinih uzroka;
-
-n 54.
-uvjeti i okolnosti na kojima je zasnovan program.
-
-n 55.
-
-uvjetom da vlasnik zemljišta utvrdi i evidentira njihovu
-
-n 56.
-
-ampani su uz ovaj Pravilnik i čine njegov sastavni dio.
-
-n 57.
-
-zaštite) je planski akt za razdoblje od 10 godina koji
-daljnjem tekstu: površine izvan lovišta), a donosi ga
-zemljištem na vrijeme od 10 godina, osim u nacionalnim
-vilnikom o unutrašnjem redu i Planom upravljanja.
+Član 57.
+Program zaštite divljači (u daljnjem tekstu: program zaštite) je planski akt za razdoblje od 10 godina koji
+osigurava zaštitu divljači na posebnim površinama (u daljnjem tekstu: površine izvan lovišta), a donosi ga
+pravno ili fizičko lice koje koristi zemljište ili upravlja zemljištem na vrijeme od 10 godina, osim u nacionalnim
+parkovima gdje je to regulisano Prostornim planom, Pravilnikom o unutrašnjem redu i Planom upravljanja.
 
 Član 58.
 Program zaštite sadrži:

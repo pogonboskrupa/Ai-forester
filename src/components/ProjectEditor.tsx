@@ -4,7 +4,7 @@ import {
 } from '../store';
 import type { Level } from '../types';
 
-const TOPICS = ['Šumarstvo', 'Sjeme i rasadnici', 'Lovstvo', 'Zdravlje bilja'];
+const TOPICS = ['Šumarstvo', 'Sjeme i rasadnici', 'Lovstvo', 'Okoliš', 'Vode', 'Požari', 'Zdravlje bilja'];
 const LEVEL_ORDER: Record<Level, number> = { USK: 0, FBiH: 1, BiH: 2 };
 
 export function ProjectEditor() {

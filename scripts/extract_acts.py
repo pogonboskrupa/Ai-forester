@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """Izdvaja pojedinačne akte iz tekstova Službenog glasnika (pdftotext) i čisti ih za ingest.
 
+EXTRACT_LAYOUT=single forsira jednokolonsko čitanje (npr. dokumenti s tabelama).
 Upotreba: python3 scripts/extract_acts.py <glasnik.pdf|txt> <broj_akta> <izlaz.txt>
 Akt počinje redom "NNN." iza kojeg slijedi "Na osnovu ..." i traje do sljedećeg takvog reda.
 """
+import os
 import re
 import subprocess
 import sys
@@ -21,27 +23,29 @@ START_RE = re.compile(r'\s*\d{2,4}\.\s*')
 INTRO_RE = re.compile(r'\s*(Na osnovu|Na temelju|Temeljem|Član|Člana|Na prijedlog)')
 
 
-def _is_single_column(pdf: str, page: int, width: int) -> bool:
-    """Stranica je jednokolonska ako je mnogo riječi koje prelaze sredinu."""
-    xml = subprocess.run(['pdftotext', '-bbox', '-f', str(page), '-l', str(page), pdf, '-'],
-                         capture_output=True, text=True).stdout
-    words = re.findall(r'xMin="([\d.]+)"[^>]*xMax="([\d.]+)"', xml)
-    if not words:
-        return True
-    mid = width / 2
-    crossing = sum(1 for lo, hi in words if float(lo) < mid - 4 and float(hi) > mid + 4)
-    return crossing / len(words) > 0.03
+def _crossing_ratios(pdf: str, pages: int, width: int) -> list[float]:
+    """Udio riječi po stranici koje prelaze sredinu (žlijeb između kolona). Dvokolonske stranice ~0."""
+    out = []
+    for page in range(1, pages + 1):
+        xml = subprocess.run(['pdftotext', '-bbox', '-f', str(page), '-l', str(page), pdf, '-'],
+                             capture_output=True, text=True).stdout
+        words = re.findall(r'xMin="([\d.]+)"[^>]*xMax="([\d.]+)"', xml)
+        mid = width / 2
+        out.append(sum(1 for lo, hi in words if float(lo) < mid - 4 and float(hi) > mid + 4) / len(words) if words else 1.0)
+    return out
 
 
 def pdf_columns(pdf: str) -> list[str]:
-    """Glasnik je u dvije kolone; pdftotext ih miješa (naslovi člana odvoje se od teksta).
-    Zato svaku stranicu čitamo kao lijevu pa desnu polovinu."""
+    """Dokument u dvije kolone (glasnici) čitamo kolonu po kolonu; jednokolonski dokument čitamo normalno.
+    Odluka je na nivou dokumenta (medijan), jer centrirani naslovi članova varaju detekciju po stranici."""
     info = subprocess.run(['pdfinfo', pdf], capture_output=True, text=True, check=True).stdout
     pages = int(re.search(r'Pages:\s+(\d+)', info).group(1))
     w, h = (int(float(x)) for x in re.search(r'Page size:\s+([\d.]+) x ([\d.]+)', info).groups())
+    ratios = _crossing_ratios(pdf, pages, w)
+    single_doc = os.environ.get('EXTRACT_LAYOUT') == 'single' or sorted(ratios)[len(ratios) // 2] > 0.02
     out: list[str] = []
-    for p in range(1, pages + 1):
-        if _is_single_column(pdf, p, w):
+    for p, ratio in enumerate(ratios, start=1):
+        if single_doc or ratio > 0.03:  # u dvokolonskom dokumentu stranice s naslovom preko cijele širine
             r = subprocess.run(['pdftotext', '-f', str(p), '-l', str(p), pdf, '-'], capture_output=True, text=True)
             out.extend(r.stdout.split('\n'))
             continue

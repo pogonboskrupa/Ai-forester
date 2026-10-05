@@ -2,7 +2,7 @@
 
 Izvori: vladausk.ba (Službeni glasnik USK), fmpvs.gov.ba (Službene novine FBiH), faolex.fao.org. Raw tekst: `data/raw/`, metapodaci: `data/registry.json`. Izdvajanje iz PDF-a: `scripts/extract_acts.py`.
 
-## Učitano (42 propisa)
+## Učitano (45 propisa)
 | Tema | Nivo | Akt | Glasnik |
 |---|---|---|---|
 | Šumarstvo | USK | Zakon o šumama USK | Sl. glasnik USK 22/12 (izmjene: 16/16, 12/17) |
@@ -47,6 +47,9 @@ Izvori: vladausk.ba (Službeni glasnik USK), fmpvs.gov.ba (Službene novine FBiH
 | Šumarstvo | FBiH | Uredba o šumama (FBiH) | Sl. novine FBiH 83/09 (izmjene: 26/10, 38/10, 60/11) |
 | Šumarstvo | FBiH | Uredba o izmjenama i dopunama Uredbe o šumama (FBiH) | Sl. novine FBiH 26/10 |
 | Šumarstvo | FBiH | Uredba o izmjenama Uredbe o šumama (FBiH) | Sl. novine FBiH 60/11 |
+| Okoliš | FBiH | Zakon o zaštiti okoliša (FBiH, osnovni tekst) | Sl. novine FBiH 33/03 (izmjene: 38/09) |
+| Vode | FBiH | Zakon o vodama (FBiH) | Sl. novine FBiH 70/06 |
+| Požari | USK | Zakon o zaštiti od požara i vatrogastvu USK | Sl. glasnik USK 4/13 |
 
 **Napomene**
 - Izmjene USK Zakona o šumama (16/16, 12/17) i Uredbe o šumama FBiH (26/10, 60/11) su zasebni akti, nisu ugrađene u osnovni tekst; neki članovi više ne glase kao u osnovnom tekstu.
@@ -55,9 +58,9 @@ Izvori: vladausk.ba (Službeni glasnik USK), fmpvs.gov.ba (Službene novine FBiH
 - Akti bez numerisanih članova (naputak, odluke) podijeljeni su na dijelove ("dio N").
 
 ## Nedostaje
-Nije moglo biti preuzeto jer domene nisu dostupne ili je tekst nepotpun:
-- Zakon o zaštiti prirode FBiH (66/13): kopija na FAOLEX-u je nepotpuna (52 člana), potrebna službena (npr. ilijas.ba, fuzip.gov.ba)
-- Zakon o zaštiti okoliša FBiH (33/03, 38/09), Zakon o vodama FBiH (70/06), Zakon o zaštiti od požara FBiH (64/09): potrebne domene fuzip.gov.ba, zppks.ba, propisi.ks.gov.ba, ilijas.ba, kuip.ks.gov.ba
+- Zakon o zaštiti prirode FBiH (66/13): službeni tekst nije pronađen (kopija na FAOLEX-u je nepotpuna; ilijas.ba link vraća 404)
+- Izmjene Zakona o zaštiti okoliša (38/09) i novi Zakon o zaštiti od požara FBiH (64/09): nije pronađen čist tekst; u bazi je osnovni Zakon o okolišu (33/03) i USK Zakon o požarima (4/13)
+- Pravilnik o registrima sjemena (28/06): izvorni PDF je nepotpun (članovi 26-31 nedostaju)
 - Uputstvo o naknadama za zaštitu i podizanje šuma (USK): link na vladausk.ba vraća 404
 - Odluka o visini naknade (USK): skenirani PDF, treba OCR
 - Odluka o ŠGO (Sl. nov. FBiH 41/21, 46/21): ogroman PDF s tabelama, nije uključen
