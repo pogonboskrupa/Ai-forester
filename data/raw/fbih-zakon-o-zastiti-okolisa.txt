@@ -1,0 +1,1781 @@
+Službene novine Federacije BiH, br. 33/03
+ZAKON
+O ZAŠTITI OKOLIŠA
+I - OPĆE ODREDBE
+Članak 1.
+Ciljevi Zakona
+Ovim zakonom uređuje se:
+•
+•
+•
+•
+•
+
+očuvanje, zaštita, obnova i poboljšanje ekološke kvalitete i kapacitete okoliša, kao i kvalitete života;
+mjere i uvjeti upravljanja, očuvanja i racionalnog korištenja prirodnih resursa;
+pravne mjere i institucije očuvanja, zaštite i poboljšanja zaštite okoliša;
+financiranje djelatnosti vezanih za okoliš i dragovoljne mjere i
+poslovi i zadaci organa uprave na različitim razinama vlasti.
+
+Sukladno načelima suradnje i podjele odgovornosti ovome zakonu je cilj:
+•
+•
+•
+•
+•
+•
+•
+•
+
+smanjeno korištenje, sprječavanje opterećivanja i zagađivanja okoliša, sprječavanje narušavanja, kao i
+poboljšanje i obnova oštećenog okoliša;
+zaštita ljudskog zdravlja i poboljšanje uvjeta okoliša za kvalitetu života;
+očuvanje i zaštita prirodnih resursa, racionalno korištenje resursa i takav način gospodarstva kojime se
+osigurava obnova resursa;
+usklađenost drugih interesa entiteta sa zahtjevima za zaštitom okoliša;
+međunarodnu suradnju u zaštiti okoliša;
+poticanje javnosti i sudjelovanje javnosti u djelatnostima kojima je cilj zaštita okoliša;
+koordiniranje gospodarstva i integriranje socijalnog i ekonomskog razvitka sukladno zahtjevima zaštite
+okoliša i
+uspostavu i razvitak institucija za zaštitu i očuvanje okoliša.
+Članak 2.
+
+Odredbe ovoga zakona se odnose na:
+•
+•
+
+sve oblike okoliša (zrak, vodu, tlo, biljni i životinjski svijet, krajolike, izgrađeni okoliš);
+sve vidove djelatnosti kojima je svrha korištenje i opterećivanje prirodnih resursa, odnosno, djelovanje
+na okoliš koje znači opasnost od njegova zagađivanja, zagađuje okoliš ili imaju izvjestan utjecaj na
+okoliš (poput buke, vibracija, radijacije - izuzimajući nuklearnu radijaciju i nuklearni otpad, itd.).
+
+Ovim zakonom utvrđuju se prava i odgovornosti pravnih i fizičkih osoba koja obavljaju djelatnosti utvrđene
+ovim zakonom.
+Ovim zakonom utvrđuju se zadaci u području okoliša koji proistječu iz međunarodnih konvencija, ukoliko se
+odredbama međunarodne konvencije ne nalaže drugačije.
+Članak 3.
+Pravo na okoliš
+Svaka osoba ima pravo na zdrav i ekološki prihvatljiv okoliš kao temeljno ustavno pravo.
+
+Svako ljudsko biće ima pravo na život u okolišu podobnom za zdravlje i obilje, stoga je individualna i kolektivna
+dužnost zaštititi i poboljšati okoliš za dobrobit sadašnjih i budućih naraštaja.
+II - DEFINICIJE
+Članak 4.
+U smislu ovoga zakona, sljedeći izričaji znače:
+"najbolje raspoložive tehnologije" - najučinkovitiji i najnapredniji stupanj razvitka djelatnosti i njihova načina
+rada koji ukazuje na praktičnu pogodnost primjena određenih tehnologija (za osiguranje graničnih vrijednosti
+emisija) s ciljem spriječavanja i gdje to nije izvodljivo, smanjenje emisija u okoliš;
+"promjena u radu"- promjena u prirodi, funkcioniranje ili proširenje postrojenja koje bi moglo imati posljedica
+po okoliš;
+"opasna supstanca" - podrazumijeva supstancu, mješavinu supstanci ili preparat utvrđen provedbenim propisom,
+a koja je prisutna kao tvorivo, proizvod, nusproizvod, talog ili međuproizvod, uključujući i one supstance za koje
+je osnovano očekivati da bi mogle nastati u slučaju nesreće.
+"emisija" - izravan ili neizravan ispust supstanci, vibracija, topline, mirisa ili buke koje proizvodi jedan ili više
+izvora u postrojenju i ispušta u zrak, vodu, tlo;
+"granične vrijednosti emisija" - masa izražena u vidu spe- cifičnih parametara, koncentracije i/ili razina emisija,
+koje neće biti prekoračene tijekom određenog ili određenih vremenskih razdoblja;
+"okoliš" - sastavnice okoliša, određene sustave, procese i ustroj okoliša;
+"sastavnice okoliša"- tlo, zrak, voda, biosfera, kao i izgrađeni (umjetni ) okoliš, nastao kao posljedica djelovanja
+ljudskog čimbenika i sastavni je dio okoliša;
+" ujecaj na okoliš"- promjene u okolišu nastale korištenjem i opterećivanjem okoliša;
+"procjena utjecaja na okoliš"- identificiranje, opis i odgovarajuća procjena u odnosu na svaki pojedinačan slučaj,
+sukladno odredbama ovoga zakona, izravan i neizravan utjecaj nekog projekta na sljedeće elemente i čimbenike:
+•
+•
+•
+•
+
+ljude, biljni i životinjski svijet;
+zemljište, vodu, zrak, klimu i krajolike;
+materijalna dobra i kulturno naslijeđe;
+međudjelovanje čimbenika navedenih u podtoč. 1., 2. i 3..
+
+"informacije o okolišu"- svaka informacija u pisanom, vizuelnom, audio, elektronskom ili bilo kojem drugom
+materijalnom izrazu o stanju okoliša, odnosno o sastavnicama okoliša;
+"opterećivanje okoliša"- emisija supstanci ili energije u okoliš;
+"zaštita okoliša": sve odgovarajuće djelatnosti i mjere kojima je cilj prevencija od opasnosti štete ili zagađivanja
+okoliša, reduciranje ili odstranjivanje štete koja je nastala i povrat na stanje prije izazvane štete;
+"standard kvalitete okoliša" - propisani zahtjevi koji se moraju ispuniti u određenome vremenskom razdoblju u
+određenoj sredini ili određenome dijelu, kako je propisano ovim zakonom ili drugim zakonima, primjerice, koji
+se odnose na kvalitetu zraka ili vode;
+"opasnost" - unutarnje svojstvo opasnih supstanci ili fizička situacija koja može izazvati štetu po ljudsko zdravlje
+ili okoliš;
+
+"područje utjecaja"- je područje ili dio prostora na kojemu je izazvan izvjestan stupanj utjecaja na okoliš ili koji
+može nastati kao posljedica korištenja okoliša;
+"postrojenje" - mjesto na kojemu se nalazi pogon, jedna ili više tehničkih jedinica u kojima se vrše djelatnosti
+koje mogu imati negativne utjecaje na okoliš ili su prisutne opasne supstance;
+"zainteresirana strana/tijelo"- fizička ili pravna osoba ili organizacija koja živi ili radi u području utjecaja, ili
+području koje će vjerojatno biti pod utjecajem;
+"nesreća većih srazmjera"- pojava emisije većih srazmjera, požara ili eksplozije uslijed nekontroliranih promjena
+nastalih tijekom rada postrojenja koje znače neposrednu ili odloženu ozbiljnu opasnost po zdravlje ljudi ili okoliš,
+unutar ili izvan postrojenja, a koja uključuje jednu ili više opasnih supstanci.
+"prirodni resurs"- komponenta prirodnog okoliša, odnosno sastavni dio prirodnog okoliša, koji se može koristiti
+da bi se zadovoljile potrebe društva, izuzuzimajući umjetni okoliš;
+"nevladine organizacije koje promiču zaštitu okoliša"- su organizacije koje se bave zaštitom okoliša i koje su se
+svojim statutima opredjelile za promicanje zaštite okoliša;
+"operator"- svaka fizička ili pravna osoba koja upravlja radom ili nadzire postrojenje, odnosno u slučajevima
+utvrđenim zakonima, osoba na koju su prenesene javne ovlasti;
+"dopuštenje" - pismena odluka potrebna za pribavu odobrenja građenja i rada pogona i postrojenja ili za
+obavljanje djelatnosti;
+"zagađenost" - podrazumijeva izravno ili neizravno uvođenje, kao posljedicu ljudske djelatnosti, supstanci,
+vibracija, topline, mirisa, ili buke u zrak, vodu ili tlo koje mogu biti štetne po zdravlje čovjeka ili imovinu ili
+kvalitetu života u okolišu;
+"javnost" - jedna ili više fizičkih osoba, njihove udruge, organizacije ili grupacije;
+"rizik" - mogućnost pojave određenog učinka unutar određenog razdoblja ili u određenim okolnostima;
+"skladištenje"- odlaganje radi čuvanja na sigurnome mjestu ili držanja na skladištu;
+"značajna promjena"- promjena u radu postrojenja koja može imati značajan negativan utjecaj po ljude i okoliš.
+Značajnom promjenom smatra se i bilo koja promjena ili proširenje postrojenja koje odgovara
+kriterijima/pragovima navedenim u provedbenim propisima;
+"korištenje okoliša"- djelatnost koja izaziva promjene u okolišu, njegovim korištenjem u cijelosti ili nekom
+njegovom sastavnicom kao prirodnim resursom ili ispuštajući supstance, odnosno energiju u okoliš ili sastavnicu
+okoliša, a sukladno propisima koji reguliraju područje zaštite okoliša.
+"Nadležne institucije za okoliš - institucije koje raspolažu podacima bitnim za okoliš.
+III - NAČELA ZAŠTITE OKOLIŠA
+Članak 5.
+Načelo održivog razvitka
+Održivost okoliša podrazumijeva:
+
+•
+
+•
+•
+
+očuvanje prirodnog blaga na način da stupanj utroška obnovljivih materijala, vodnih i energetskih
+resursa ne prevazilazi okvire u kojima prirodni sustavi mogu to nadomjestiti i stupanj utroška
+neobnovljivih resursa ne prevazilazi okvir u kojemu se održivi obnovljivi resursi zamjenjuju;
+stupanj polutanata koji se emitiraju ne prevazilazi kapacitetu zraka, vode, tla u apsorpciji i izvršenju
+prerade polutanata i
+stalno očuvanje biološkog diverziteta, ljudskog zdravlja, te kvalitete zraka, vode i tla prema standardima
+koji su uvijek dovoljni za život i obilje ljudi, biljnog i životinjskog svijeta.
+Članak 6.
+Načelo smotrenosti i prevencije
+
+Pri postojanju prijetnje od nepopravljive štete, nedostatak pune znanstvene podloge ne može biti razlogom za
+odgađanje uvođenja mjera smotrenosti i prevencije za spriječavanje daljnje degradacije okoliša.
+Korištenje okoliša organizira se i obavlja na način koji:
+•
+•
+•
+
+rezultira najnižim mogućim stupnjom opterećenja i korištenja okoliša;
+spriječava zagađivanje okoliša i
+spriječava štetu po okoliš.
+
+Pri korištenju okoliša mora se ispoštovati načelo smotrenosti, tj. pozorno upravljati i ekonomično koristiti
+sastavnice okoliša, te svesti na najmanju moguću mjeru stvaranje otpada primjenom reciklaže nastalog otpada,
+odnosno ponovnog korištenja prirodnih i umjetnih materijala.
+S ciljem prevencije u korištenju okoliša primjenjuju se najbolje rapoložive tehnologije.
+Korisnik okoliša koji znači opasnost po okoliš ili uzroči štetu po okoliš dužan je odmah obustaviti radnju koja
+znači opasnost ili uzroči štetu.
+Ukoliko je šteta nastala kao posljedica dosadašnjih djelatnosti korisnika, korisnik ju je dužan otkloniti i popraviti
+nastalu štetu u okolišu.
+Članak 7.
+Načelo zamjene
+Svaku djelatnost koja bi mogla imati štetne posljedice po okoliš potrebno je zamijeniti drugom djelatnošću koja
+znači znatno manji rizik. Zamjena djelatnosti obavlja se i u slučaju da su troškovi takve djelatnosti veći od
+vrijednosti koju treba zaštiti.
+Odredba stavka 1. ovoga članka primjenjuje se pri korištenju proizvoda, dijelova postrojenja, opreme i primjene
+proizvodnih procesa uz obvezatno ograničavanje zagađivanja okoliša na izvoru.
+Članak 8.
+Načelo integralnog pristupa
+Zahtjevi za visokom razinom zaštite okoliša i poboljšanjem kvalitete okoliša sastavni su dio svih politika kojima
+je cilj razvitak okoliša, a osiguravaju se sukladno načelu održivog razvitka.
+Svrha načela integralnog pristupa je spriječavanje ili svođenje na najmanju moguću mjeru rizika od štete po
+okoliš u cijelosti.
+Načelo integralnog pristupa obuhvaća:
+
+•
+•
+•
+•
+•
+
+uzimanje u obzir cijelog životnog ciklusa supstanci i proizvoda;
+predviđanje posljedica u svim sastavnicama okoliša kao rezultata djelovanja supstanci i djelatnosti
+(novih i postojećih),
+svođenje nastanka otpada i štetnog djelovanja otpada na najmanju moguću mjeru;
+primjenjivanje općih metoda za procjenjivanje i usporedbu problema u okolišu i
+komplementarnu primjenu mjera u odnosu na posljedice, poput kvalitativnih ciljeva zaštite okoliša i
+mjera usmjerenih ka izvorima kada su u pitanju emisije.
+Članak 9.
+Načelo suradnje i podjele odgovornosti
+
+Održivi razvitak postiže se suradnjom i zajedničkim djelovanjem svih subjekata s ciljem zaštite okoliša, svatko u
+okviru svoje nadležnosti i odgovornosti.
+Provedba ciljeva vezanih za okoliš potiče se međuentitetskom suradnjom, bilateralnim ili multilateralnim
+međunarodnim sporazumima o zaštiti okoliša i drugim sporazumima o suradnji, kao i pružanjem informacija i
+potpore u svezi sa zaštitom okoliša, a posebice u odnosima sa susjednim zemljama.
+U nedostatku međunarodnih sporazuma ciljevi zaštite okoliša drugih zemalja, koji se uzimaju u obzir, su
+smanjenje prekograničnog zagađivanja ili postojanje takve opasnosti po okoliš, kao i spriječavanje zagađivanja i
+izazivanja štete po okoliš.
+Članak 10.
+Sudjelovanje javnosti i pristup informacijama
+Pitanja zaštite okoliša ostvaruju se putem sudjelovanja svih zainteresiranih građana. Svaki pojedinac i
+organizacija moraju imati odgovarajući pristup informacijama koje se odnose na okoliš, a kojim raspolažu organi
+uprave, uključujući i informacije o opasnim tvarima i djelatnostima u njihovim zajednicama kao i mogućnost
+sudjelovanja u donošenju odluka.
+Organi koji donose propise i tijela nadležna za zaštitu okoliša su dužni pomagati i razvijati svijest javnosti, kao i
+poticati sudjelovanje u odlučivanju, omogućujući dostupnost informacija široj javnosti.
+S ciljem postizanja obeštećenja ili pravne zaštite svaka zainteresirana osoba ima pravo na zaštitu u upravnim i
+sudskim postupcima.
+Članak 11.
+Načelo - zagađivač plaća
+Zagađivač plaća troškove nadzora i prevencije od zagađenja bez obzira jesu li troškovi nastali uslijed nametanja
+odgovornosti zbog emisija zagađenja, naknada utvrđenih odgovarajućim financijskim instrumentima ili kao
+obveza utvrđena propisom o smanjivanju zagađenosti okoliša.
+Korisnik okoliša je odgovoran za sve djelatnosti koje imaju utjecaja na okoliš sukladno ovom zakonu i drugim
+propisima.
+IV - ZAŠTITA SASTAVNICA OKOLIŠA
+Članak 12.
+Integrirana zaštita sastavnica okoliša
+
+Sastavnice okoliša moraju biti zaštićene pojedinačno i u sklopu ostalih sastavnica okoliša, uzevši u obzir njihove
+međuovisne odnose. Sukladno tomu utvrđuje se i način opterećivanja i korištenja sastavnica okoliša.
+Zaštita sastavnica okoliša podrazumijeva zaštitu kvalitete, kvantitete i njihovih zaliha kao i očuvanje prirodnih
+procesa unutar sastavnica i njihove prirodne ravnoteže.
+Posebnim propisima uređuju se pojedina područja zaštite i očuvanja sastavnica okoliša i zaštite od utjecaja koji
+znače opasnost po okoliš.
+Članak 13.
+Očuvanje tla
+Očuvanje tla obuhvaća površinu i slojeve ispod površine zemlje, tlo, formacije stijena i minerala kao i njihove
+prirodne i prijelazne oblike i procese.
+Očuvanje tla obuhvaća očuvanje proizvodnosti, ustroja, ravnoteže vode i zraka, te biota tla.
+Na površini zemlje ili ispod njezine poobavljane mogu se obavljati takve vrste djelatnosti i odlagati tvari koje ne
+zagađuju ili oštećuju kvantitetu, kvalitetu, materijalne procese tla i sastavnice okoliša.
+Tijekom provedbe projekata, kao i prije provedbe projekata (izgradnje, eksploatiranja ruda, itd.), mora se
+osigurati odgovarajuće razdvajanje i zaštita površinskog tla kao i zaštita i korištenje poljoprivrednog zemljišta.
+Nakon završetka djelatnosti, koje uključuju korištenje tla, korisnik će osigurati obnovu, odnosno razvitak toga
+područja prema utvrđenome planu.
+Korisnik će osigurati obnovu i ponovni razvitak područja tijekom korištenja okoliša, tamo gdje postoje uvjeti i
+ukoliko je to utvrđeno posebnim propisima ili odlukom nadležnog organa.
+Članak 14.
+Zaštita vode
+Zaštita voda obuhvaća očuvanje površinskih i podzemnih voda, zaliha, reguliranje kvalitete i kvantitete vode,
+zaštitu riječnih korita, obalnih područja kopnenih voda i akvafera.
+Prirodno protočje, ustroj i uvjeti protočja, korito, obalna područja mogu se mijenjati samo uz osiguravanje
+očuvanja prirodne ravnoteže akvatičnih i semiakvatičnih ekosustava i njihovog funkcioniranja.
+Uvjeti za ekstrakciju i korištenje vode za svaku vrstu vodnih resursa, sukladno uvjetima toga područja, utvrđuju
+se posebnim propisima.
+Vode se mogu koristiti i opterećivati, a otpadne vode i kanalizacija ispuštati u vode, uz primjenu odgovarajućeg
+tretmana, na način koji ne znači opasnost prirodnim procesima ili obnovi kvalitete i kvantitete vode.
+Ekstrakcija i povrat otpadnih voda u vode kao i prijenos voda obavlja se bez nepovoljnog utjecaja na pričuve,
+kvalitetu i biotu voda iz kojih se obavlja opskrba ili čiji povrat ne znači opasnost njihovom samopročišćenju.
+Članak 15.
+Zaštita zraka
+Zaštita zraka obuhvaća očuvanje atmosfere u cijelosti, sa svim njezinim procesima, očuvanje njezine strukture i
+klimatskih obilježja.
+
+Zrak mora biti zaštićen od opterećenja svih umjetnih utjecaja koji se vrše na zrak ili na druge sastavnice okoliša
+putem transmisija radiokativnih, tečnih, plinovitih ili čvrstih tvari ukoliko postoji opasnost od štetnog utjecaja na
+kvalitetu zraka ili štetnog odražavanja po ljudsko zdravlje.
+Pri planiranju uvođenja djelatnosti i uspostavi postrojenja kao i proizvodnji i korištenju proizvoda potrebno je
+poduzeti mjere kako bi razina polutanata bila svedena na najmanju moguću mjeru.
+Članak 16.
+Očuvanje biosfere
+Očuvanje biosfere obuhvaća zaštitu živih organizama, njihovih zajednica i staništa, uzevši u obzir i očuvanje
+prirodnih procesa unutar njihovih staništa i prirodne ravnoteže uz osiguravanje održivosti ekosustava.
+Korištenje biosfere ne može se obavljati na način koji narušava prirodne procese i uvjete biodiverziteta i znači
+opasnost po njegovu održivost.
+Članak 17.
+Očuvanje izgrađenog okoliša
+Razvojnim planom određuju se zone izgradnje na određenim lokacijama ovisno od stupnja opterećenja okoliša i
+svrhe izgradnje unutar određenih dijelova na određenim lokacijama.
+Obavljanje djelatnosti u pojedinim zonama, sa zaštitnom udaljenošću ili područjem, dopušteno je na način
+utvrđen posebnim propisima sukladnim prirodi opterećivanja okoliša i propisima o zaštiti okoliša.
+Zelene površine i pojas skloništa unutar općine uređuju se na način utvrđen posebnim propisima.
+Članak 18.
+Opasne supstance i tehnologije
+Zaštita od štetnih utjecaja opasnih supstanci obuhvaća uporabu svih prirodnih i umjetnih supstanci koje koriste,
+proizvode ili razdjeljuju korisnici okoliša tijekom provedbe djelatnosti, a koje su po svojoj kvantiteti ili kvaliteti
+eksplozivne, zapaljive, radioaktivne, toksične, podložne koroziji, izazivaju infekcije, ekotoksične, mutagene,
+karcinogene, iritirajuće ili mogu izazvati takav utjecaj u kontaktu s drugim supstancama.
+Tijekom upravljanja opasnim supstanacama ili tijekom uporabe, uključujući i eksploataciju, odnosno ekstrakciju,
+skladištenje, transport, proizvodnju, izradu i primjenu ili kada se primjenjuju opasne tehnologije moraju se
+poduzeti sve potrebne zaštitne i sigurnosne mjere kojima se rizik od opasnosti po okoliš svodi na najniži stupanj
+ili se eliminira mogućnost takvih opasnosti sukladno posebnim propisima.
+Pri primjeni tehnologija koje mogu značiti opasnost po okoliš mora se odrediti zaštitno područje ili razdaljina,
+sukladno prirodi izvora opasnosti, kako bi se umanjio rizik od opasnosti po okoliš.
+Članak 19.
+Otpad
+Zaštita od štetnog utjecaja otpada na okoliš obuhvaća sve vrste supstanci, proizvoda, uključujući ambalažu i
+materijal za pakiranje tih supstanci, odnosno sve vrste proizvoda koji se odlažu ili za koje se planira da će biti
+odloženi.
+
+Imatelj otpada dužan je poduzeti odgovarajuće mjere upravljanja otpadom i osigurati temeljne mjere s ciljem
+spriječavanja stvaranja otpada, recikliranja i tretiranja otpada za ponovnu uporabu, ekstrakciju tvoriva i moguće
+energije, te sigurno odlaganje.
+Članak 20.
+Buka i vibracije
+Zaštita od buke i vibracija u okolišu obuhvaća sve vrste umjetno proizvedenih emisija energija koje izazivaju
+opterećenje nepoželjnom, neprijatnom bukom, odnosno vibracijama koje mogu ugroziti zdravlje ili na njega
+štetno utjecati.
+Radi zaštite od buke potrebno je primjenjivati tehničke i organizacijske metode koje potiču:
+•
+•
+•
+
+smanjivanje stvaranja emisija buke ili vibracija, odnos- no izvora koji stvaraju buku ili vibracije;
+smanjivanje opterećenja, odnosno spriječavanje pove- ćavanja opterećenja bukom ili vibracijama;
+naknadnu zaštitu u onim sredinama koje su pod stalnim opterećenjem iznad utvrđenih standarda.
+Članak 21.
+Radijacija
+
+Zaštita okoliša od štetnih radijacijskih utjecaja obuhvaća umjetno proizvedenu i prirodnu jonizaciju,
+nejonizirajuću radijaciju i termalnu radijaciju.
+V - INFORMIRANJE I IZOBRAZBA O OKOLIŠU
+Članak 22.
+Sustav informiranja o okolišu i prikupljanje informacija
+Federalno ministarstvo prostornog uređenja i okoliša (u daljnjem u tekstu: Federalno ministarstvo) dužno je
+uspostaviti sustav informiranja o okolišu i omogućiti monitoring stanja okoliša, djelatnosti mjerenja, prikupljanja,
+obrade i evidentiranja podataka o korištenju i opterećenju okoliša.
+Sustav informiranja uspostavlja se i organizira na temelju teritorijalne gustoće naseljenosti na način:
+•
+
+•
+•
+•
+•
+
+utvrđivanja kvantitativne i kvalitativne promjene stanja okoliša nastale kao posljedica korištenja i
+uporabe na međunarodnoj razini, na način zajedničkog procjenjiva- nja sa socijalnim i ekonomskim
+podacima i sa stajališta utjecaja na zdravlje stanovništva;
+utvrđivanja uzroka utjecaja na okoliš sa zadovoljava- jućom točnošću, uključujući i detaljne prikaze
+potrebne za određivanje uzročno-posljedične veze u odnosu na štetu;
+predviđanja u što kraćem roku opasnosti po okoliš;
+mogućnosti poduzimanja mjera predviđenih propisima i drugih mjera od nadležnih organa;
+korištenja u svrhu planiranja.
+
+Kantonalno ministarstvo nadležno za okoliš (u daljnjem tekstu: kantonalno ministarstvo) dužno je dostaviti
+podatke neophodne za rad sustava informiranja o okolišu.
+Članak 23.
+Korisnici okoliša dužni su obavljati mjerenja opterećenja i korištenja okoliša koja su posljedica njihovih
+djelatnosti na način utvrđen posebnim propisima, potvrđivati ih i evidentirati sukladno svojim tehničkim
+mogućnostima i omogućiti nadlež- nim organima pristup tim podacima.
+
+Članak 24.
+Upis podataka o okolišu u druge upisnike
+Utvrđeno činjenično stanje, opseg i priroda stalne štete po okoliš, utvrđeni odlukom nadležnog organa ili suda,
+evidentiraju se u zemljišnim knjigama kao privremeni upis i katastru nekretnina.
+Federalno i kantonalno ministarstvo (u daljnjem tekstu: nad- ležno ministarstvo) po službenoj dužnosti zahtijeva
+upis podataka u slučaju kada je odgovornost utvrđena od suda.
+Izmjena činjeničnog stanja, stupnja prirodne zagađenosti okoliša, temelj je upisu podataka koji se obavlja na
+zahtjev vlasnika nekretnine, nadležnog ministarstva ili suda.
+Članak 25.
+Istraživanje okoliša i tehnički razvitak
+Odgovornost za zaštitu okoliša unaprjeđuje se razvitkom znanosti i tehnologije, organizacijom znanstvenog
+istraživanja i tehničkog razvitka, objavljivanjem nalaza kao i praktičnom primjenom domaćih i međunarodnih
+istraživačkih radova.
+Studija usmjerena istraživanju stanja okoliša i razvitka zaštite okoliša predmetom je prvenstvene potpore
+nadležnih organa i institucija. Federalni ministar za zaštitu okoliša i kantonalni ministar za zaštitu okoliša (u
+daljnjem tekstu: nadležni ministar) dužan je u suradnji s ministrom nadležnim za znanost koordinirati potporu i
+procjenu znanstvenih istraživanja u području okoliša.
+Članak 26.
+Okolišna izobrazba, obuka i kultura
+Svaki građanin ima pravo stjecati i unaprjeđivati spoznaje o okolišu.
+Širenje i unaprjeđivanje spoznaja o okolišu su prvenstvene obveze Federacije Bosne i Hercegovine (u daljnjem
+tekstu: Federacije), kantona i lokalnih vlasti.
+Nadležni ministar dužan je surađivati s drugim ministrima s ciljem osiguravanja stručne izobrazbe o okolišu.
+Članak 27.
+Federalni, kantonalni organi uprave i općinske službe za upravu dužni su obavljati obveze iz čl. 25. i 26. ovoga
+zakona putem institucija za instruiranje i podučavanje javnosti, u suradnji s udrugama za zaštitu okoliša i
+stručnim organizacijama koje angažiraju javnost u zaštiti okoliša. Federacija, kantoni i općinske službe za upravu
+dužni su pružiti potporu institucijama naobrazbe, vjerskim zajednicama, znanstvenim institucijama, stručnim
+organizacijama i udrugama kako bi mogli djelotvornije sprovoditi svoje djelatnosti naobrazbe i poduke.
+Članak 28.
+Upisnik o postrojenjima i zagađivanjima
+Nadležno ministarstvo vodi upisnik o pogonima, postrojenjima i zagađivanjima.
+Upisnik sadrži podatke o djelatnostima, te pogonima i postrojenjima koja ugrožavaju ili mogu ugroziti okoliš a
+osobito:
+•
+
+ime i adresu operatora i lokaciju pogona i postrojenja;
+
+•
+•
+•
+•
+
+kratak opis djelatnosti i tehnološkog procesa;
+bitne podatke koji se tiču emisija, opasnih supstanci prisutnih u pogonu i postrojenju, proizvodnje
+otpada i korištenja resursa i energije;
+podatke koji se odnose na izdavanje dopuštenja, promjene i sl. i
+podatke o nadzoru, bitnim ishodima i poduzetim mjera- ma.
+
+Kantonalno ministarstvo priprema godišnje izvješće o izdanim dopuštenjima za pogone i postrojenja i uz podatke
+iz stavka 2. ovoga članka dostavlja ga Federalnom ministarstvu.
+Nadležne institucije za okoliš dužne su dostaviti nadležnom ministarstvu podatke kojima raspolažu.
+Federalni ministar propisat će način dostavljanja podataka.
+Upisnik o postrojenjima i zagađivanjima dostupan je javnosti.
+Svaka osoba koja ima pravni interes može tražiti uvid u upisnik i izdavanje preslika podataka iz upisnika.
+Članak 29.
+Aktivno pružanje informacija o zaštiti okoliša
+Federalno ministarstvo pružat će informacije o okolišu na transparentan i djelotvoran način.
+Federalno ministarstvo koristit će publikacije u tiskanom i elektronskom izrazu koje su dostupne javnosti kao i
+instrumente javnog obavještavanja.
+U slučaju neposredne opasnosti po ljudsko zdravlje ili okoliš federalni ministar odmah će predstavnicima javnosti
+dostaviti sve podatke koje posjeduju organi uprave i koji bi mogli omogućiti javnosti poduzimanje mjera za
+spriječavanje ili ublaživanje štete koja proizilazi iz određene opasnosti.
+VI - SUDJELOVANJE JAVNOSTI I PRISTUP INFORMACIJAMA O OKOLIŠU
+Članak 30.
+Informacija o okolišu, u smislu ovoga zakona, podrazumi- jeva bilo koju informaciju u pisanom, vizuelnom,
+audio, elektronskom ili bilo kojem drugom materijalnom izrazu o:
+•
+
+•
+
+•
+
+•
+
+stanju elemenata okoliša, poput zraka i atmosfere, vode, tla, krajolika, prostora i prirodnih područja,
+biološkog diverziteta i njegove sastavnice, uključujući genetski modificirane organizme i
+međudjelovanje ovih elemenata;
+čimbenicima, poput supstanci, energije, buke i radija- cije, djelatnostima i mjerama, uključujući administracijske mjere, sporazume o zaštiti okoliša, planove i programe, koji utječu ili postojanju vjerojatnoće
+da će utjecati na elemente okoliša u okviru odjeljka 1. ovoga stavka, analizi troškova i dobiti i drugim
+ekonomskim analizama i pretpostavkama koje se koriste u odlučivanju o okolišu;
+stanju ljudskoga zdravlja i sigurnosti, životnim uvjetima, kulturnim dobrima i građevinama u mjeri u
+kojoj su ili bi mogli biti pod utjecajem stanja elemenata okoliša ili putem ovih elemenata pod utjecajem
+čimbenika, djelatnosti ili mjera navedenih u odjeljku 2. ovoga stavka;
+organima i institucijama nadležnim za okoliš.
+
+Zainteresirana javnost, u smislu ovoga zakona, znači javnost koja ima interes u odlučivanju o okolišu, bilo zbog
+lokacije projekta ili prirode danog zahvata u okolišu, javnost koja je pod utjecajem ili će vjerojatno biti pod
+utjecajem namjeravanoga zahvata u okolišu i nevladine organizacije koje promiču zaštitu okoliša.
+Članak 31.
+
+Sukladno odredbama ovoga zakona javnost ima pristup informacijama, mogućnost sudjelovanja u odlučivanju i
+zaštitu prava pred upravnim i sudbenim organima po pitanjima zaštite okoliša bez diskriminacije na temelju
+državljanstva, nacionalnosti ili mjesta stanovanja i u slučaju pravnih osoba bez diskriminacije na temelju
+njihovog mjesta upisa ili središta djelatnosti.
+Organi uprave osigurat će da osobe koje ostvaruju svoja prava sukladno odredbama ovoga zakona neće biti
+kažnjene, proganjane ili uznemiravane na bilo koji način zbog svojega sudjelovanja u postupku.
+Zloporaba pravnih sredstava (pokretanjem parnice, plaćanjem odštete ili pokretanjem građanskog kaznenog,
+prekršajnog ili radno-pravnog postupka) radi kažnjavanja, progona ili uznemiravanja osoba koje su ostvarivale
+svoja prava na sudjelovanje javnosti smatrat će se nezakonitom.
+Članak 32.
+Izobrazba i kadrovsko jačanje
+Federalno ministarstvo obrazovanja, znanosti, kulture i športa u suradnji s Federalnim ministarstvom izradit će
+godišnje programe naobrazbe o zaštiti okoliša, s ciljem naobrazbe i podizanja svijesti javnosti u području okoliša.
+Programi naobrazbe o zaštiti okoliša bit će uključeni u nastavne i izvannastavne programe. Pored bitnih pitanja
+zaštite okoliša, ovi će programi sadržavati podatke o tomu kako se osigurava pristup informacijama, kako se
+sudjeluje u odlučivanju i kako se ostvaruje zaštita prava u području okoliša.
+Federalno ministarstvo organizirat će obuku nevladinih organizacija koje se bave pitanjima zaštite okoliša.
+Članak 33.
+Pristup informacijama o okolišu
+Federalno ministarstvo će, na zahtjev zainteresirane osobe, osigurati da informacije iz područja zaštite okoliša
+budu dostupne javnosti.
+Zainteresirana osoba je ona osoba koja ima opravdan interes za traženjem informacije.
+Federalno ministarstvo, uz informaciju, prilaže preslik dokumentacije na temelju koje je sačinjena informacija.
+Informacija može biti dana i u drugom izrazu uz navođenje razloga za takvim izrazom ili u slučaju njene
+dostupnosti javnosti u drugom izrazu.
+Informacije o okolišu iz stavka 1. ovoga članka bit će stavljene na raspolaganje što je prije mogućno, a najkasnije
+u roku od 15 dana od dana podnošenja zahtjeva osim u slučajevima kada sadržaj i složenost danih informacija
+opravdava produljenje ovoga roka do jednog mjeseca. Podnositelj zahtjeva bit će obaviješten o svakom
+produljenju danoga roka i razlozima toga produljenja.
+Članak 34.
+Zahtjev za davanje informacija o okolišu može biti odbijen ukoliko:
+•
+•
+•
+
+•
+
+niti jedan organ uprave ne posjeduje tražene informacije o okolišu;
+zahtjev je očito neutemeljen ili formuliran suviše uopćeno;
+zahtjev se tiče materijala u fazi pripreme ili unutarnje komunikacije organa uprave gdje je takvo
+izuzimanje od davanja informacije predviđeno nekim drugim zakonom, uzimajući u obzir narušavanje
+općeg interesa davanjem informacije, ili
+informacija je već dostavljena predstavnicima nevladi- nih organizacija, zainteresiranom stanovništvu
+odnos- nog područja i tisku zbog kolektivnog javnog interesa. U tom će slučaju nadležni organ uprave
+uputiti podnositelja zahtjeva gdje može dobiti potrebne informacije.
+
+Zahtjev za informacije o okolišu može biti odbijen i ukoliko bi davanje informacija imalo štetan utjecaj na:
+
+•
+•
+•
+•
+•
+•
+•
+
+međunarodne odnose, obranu ili opću sigurnost;
+tijek pravde, pravo osobe na pravedno suđenje i mogućnost organa uprave u sprovedbi kaznenog ili
+disciplinskog postupka;
+povjerljivost informacija koje se tiču trgovine i industrije i informacija o emisijama bitnim za zaštitu
+okoliša, ukoliko je to utvđeno posebnim propisom s ciljem zaštite ekonomskih interesa;
+prava intelektualne svojine;
+povjerljivost osobnih podataka i/ili dokumente koji se odnose na fizičke osobe u slučaju da te osobe nisu
+dale suglasnost za otkrivanje danih informacija javnosti, ukoliko je to utvrđeno posebnim propisom;
+interese treće osobe koja je osigurala tražene informacije, a za to nije bila obvezatna i ukoliko ta osoba
+nije dala suglasnost za otkrivanje danog materijala, ili
+okoliš na koji se informacije odnose, poput mjesta uzgoja rijetkih vrsta.
+
+Razlog odbijanja zahjeva za davanje informacija iz stavka 2. ovoga članka mora biti obrazložen.
+Ukoliko organ uprave ne posjeduje tražene informacije dužan je u najkraćem mogućem roku proslijediti zahtjev
+organu uprave koji bi mogao imati dane informacije i o istome obavijestiti podnositelja zahtjeva.
+Organ uprave učinit će dostupnim tražene informacije o okolišu koje se mogu izdvojiti od informacija iz st. 1. i 2.
+ovoga članka.
+Odgovor o odbijanju zahtjeva daje se u pisanom izrazu ukoliko je i sam zahtjev za davanje informacija bio u
+pisanom izrazu ili ukoliko podnositelj zahtjeva to traži.
+Članak 35.
+Naknada za pružanje informacija
+Nadležno ministarstvo uvest će naknadu za davanje informacija. Naknada za davanje postojećih informacija ili
+dokumenata neće prelaziti troškove umnožanja tih informacija i dokumenata. U slučajevima u kojima nadležno
+ministarstvo mora sprovesti istraživanje ili neke druge djelatnosti na koje nije obvezan zakonom, podnositelj je
+zahtjeva dužan platiti naknadu sukladno troškovniku.
+Nadležno ministarstvo donosi troškovnik o visini naknade za davanje informacija koji će biti predočen
+podnositelju zahtjeva.
+Članak 36.
+Sudjelovanje javnosti u odlukama o
+posebnim djelatnostima
+Nadležno ministarstvo osigurat će sudjelovanje javnosti u:
+•
+•
+
+postupcima procjene utjecaja projekata na okoliš;
+postupcima izdavanja okolišnih dopuštenja za pogone i postrojenja iz svoje nadležnosti.
+
+Odredbe stavka 1. ovoga članka odnose se i na odluke o djelatnostima koje nisu navedene u stavku 1. ovoga
+članka, a mogu imati značajan utjecaj na okoliš.
+Odredbe ovoga članka ne primjenjuju se u slučaju donošenja odluka o djelatnostima za obranu zemlje.
+Nakon pokretanja upravnog postupka javnost će biti informirana o sljedećem:
+•
+•
+•
+
+predloženim djelatnostima podnositelja zahtjeva i zahtjevu za izdavanjem okolišnog dopuštenja;
+organima uprave koji su odgovorni za donošenje odluke, odnosno okolišnog dopuštenja;
+tijeku postupka uključujući informacije o:
+
+a) načinu sudjelovanja javnosti;
+b) vremenu i mjestu predviđene javne rasprave;
+c) organima uprave za dobijanje odlučne informacije i obavljanje uvida u dokumentaciju;
+d) organu uprave ili nekom drugom organu kojemu se mogu podnijeti primjedbe i pitanja kao i rok za
+podnošenje primjedaba ili pitanja,
+f) okolišu, koje su odlučne za predložene djelatnosti;
+•
+•
+
+činjenici podliježe li predložena djelatnost entitetskom ili prekograničnom postupku procjene utjecaja na
+okoliš,
+nacrtu odluke ili okolišnog dopuštenja.
+
+Zainteresirana javnost bit će obaviještena o vremenu postupka izvođenja dokaza, te o mogućnosti podnošenja
+dokaza i činjenica od utjecaja na predložene djelatnosti u roku od 30 dana od dana pokretanja postupka.
+Nadležno ministarstvo zahtijevat će od podnositelja zahtjeva animiranje zainteresirane javnosti u sudjelovanju u
+raspravama prije podnošenja zahtjeva za izdavanjem okolišnog dopuštenja.
+Članak 37.
+Informacije koje se daju na traženje
+Nadležno ministarstvo će na zahtjev zainteresirane javnosti, u najkraćem mogućem roku, omogućiti besplatan
+uvid u sve informacije koje su odlučne za donošenje odluka.
+Uvid se odnosi na:
+•
+•
+•
+•
+•
+•
+
+opis lokacije, fizičkih i tehničkih značajki predložene djelatnosti uključujući procjenu očekivanih
+rezidija/ta- loga i emisija;
+opis značajnih utjecaja predložene djelatnosti na okoliš;
+opis mjera predviđenih za sprječavanje i/ili smanjenje tih utjecaja uključujući emisije;
+kratak netehnički sažetak navedenih podataka;
+prikaz temeljnih alternativnih rješenja izučenih od podnositelja zahtjeva;
+temeljna izvješća i stručna mišljenja koja su pripremili organi uprave.
+
+Zainteresirana javnost može, u roku od 30 dana od dana uvida u informacije iz stavka 2. ovoga članka, u pisanom
+izrazu podnijeti bilo kakve primjedbe, informacije, analize ili mišljenja koje smatra odlučnim za danu djelatnost.
+U slučaju iznimno složenih pitanja, organ uprave može na zahtjev zainteresirane javnosti produljiti rok na 60
+dana. Rezultati sudjelovanja javnosti uzet će se u obzir pri donošenju odluke.
+Sukladno odredbama Zakona o upravnom postupku ("Službene novine Federacije BiH", br. 2/98 i 48/99)
+nadležno ministarstvo obavijestit će javnost o donesenoj odluci.
+Članak 38.
+Pristup pravdi
+Podnositelj zahtjeva čiji zahtjev za dobijanje informacija nije razmatran ili je neopravdano odbijen, na njega je u
+potpunosti ili djelomice neadekvatno odgovoreno, ima pravo pokrenuti postupak preispitivanja odluke pred
+drugostupanjskim organom, sukladno odredbama Zakona o upravnom postupku.
+Članak 39.
+
+Predstavnici zainteresirane javnosti koji su sudjelovali u prvostupanjskom postupku imaju pravo uložiti priziv
+protivu odluke ili dijela odluke.
+Predstavnici zainteresirane javnosti pored prava sudjelova- nja u postupcima izdavanja dopuštenja i procjene
+utjecaja na okoliš imaju pravo, ukoliko se netko ponaša oprečno okolišnim načelima iz okolišnih zakona,
+pokrenuti postupak zaštite svojih prava pred nadležnim sudom.
+Nakon sprovedbe postupka iz stavka 2. ovoga članka sud može:
+•
+•
+•
+
+naložiti pravnim i fizičkim osobama poduzimanje svih neophodnih sanacijskih mjera, uključujući
+obustavu određenih djelatnosti i/ili plaćanje šteta;
+obvezati pravne i fizičke osobe da uplate naknade u Federalni fond za zaštitu okoliša,
+naložiti privremene mjere.
+
+VII - NADLE@NOST
+Članak 40.
+Federalno ministarstvo i kantonalna ministarstva, svatko u okviru svoje nadležnosti, nadležni su za:
+•
+•
+•
+•
+
+•
+•
+
+zaštitu okoliša, spriječavanje i otklanjanje opasnosti i šteta po okoliš, obnovu i postupno poboljšanje
+stanja okoliša;
+utvrđivanje prvenstvenih zadaka zaštite okoliša;
+uspostavu pravnih, ekonomskih i tehničkih mjera u interesu zaštite okoliša;
+razvitak, očuvanje i djelovanje sustava koji je temelj za dobivanje i obradu podataka o mjerenjima,
+monitoringu, nadzoru, procjeni stanja okoliša, te davanju informacija o eventualnim utjecajima na
+okoliš;
+donošenje financijskih propisa u području zaštite okoliša i
+suradnja s drugim entitetom.
+Članak 41.
+Savjetodavno vijeće za okoliš
+
+Savjetodavno vijeće za okoliš (u daljem tekstu: Savjeto- davno vijeće) osniva se radi pružanja znanstvene i
+stručne potpore federalnom ministru i Vladi Federacije Bosne i Hecegovine (u daljnjem tekstu: Vlada FBiH) u
+području okoliša.
+Savjetodavno vijeće ima konzultativnu i savjetodavnu ulogu, a čini ga 13 predstavnika zainteresiranih strana iz
+područja zaštite okoliša.
+Deset članova Savjetodavnog vijeća predlažu nadležna kan- tonalna ministarstva za zaštitu okoliša iz organizacija
+i ustanova koje zastupaju stručne i ekonomske interese i znanstvenih krugova. Jednog predstavnika predlaže
+predsjednik Akademije znanosti i umjetnosti Bosne i Hercegovine. Jednog predstavnika Udruge za zaštitu
+okoliša predlaže Regionalni centar za zaštitu okoliša-Ured za Bosnu i Hercegovinu na temelju pismene
+suglasnosti najmanje pet nevladinih organizacija registriranih na području FBiH.
+Članove Savjetodavnog vijeća imenuje Vlada FBiH za razdoblje od 4 godine.
+Savjetodavno vijeće sudjeluje u ocijenjivanju strategijskih procjena okoliša i nacrta koji su osnova Strategijskoj
+procjeni okoliša.
+Nadležni ministri dostavljaju Savjetodavnom vijeću planove iz područja okoliša radi zauzimanja stavova i
+davanja mišljenja.
+Savjetodavno vijeće bira predsjedatelja i supredsjedatelja iz reda članova Savjetodavnog vijeća.
+
+Savjetodavno vijeće donosi pravila o svojemu radu.
+Članak 42.
+Federalno ministarstvo:
+•
+•
+•
+•
+•
+•
+•
+
+analizira i ocjenjuje stanje okoliša i djelatnosti zaštite okoliša kao i iskustva stečena u području zaštite,
+korištenja i razvitka okoliša,
+uspostavlja i upravlja sustavom informiranja o okolišu u Federaciji BiH;
+izdaje dopuštenja za korištenje okoliša iz svoje nadležnosti, sukladno odredbama ovoga zakona i drugih
+propisa;
+određuje okolišni klasifikacijski sustav supstanci, proizvoda i tehnologija i daje mišljenja za razdiobu i
+korištenje istih;
+organizira poslove kojima je cilj spriječavanje ili smanjenje štetnih posljedica po okoliš,
+sudjeluje s drugim nadležnim organima u izradi programa i planova za korištenje prirodnih resursa,
+izradi i ostvarivanju posebnog plana i kvalifikacijskog sustava;
+rješava po prizivima na rješenja kantonalnih ministarstava donesenih na temelju federalnog zakona i
+drugih federalnih propisa i obavlja druge poslove i zadatke zaštite okoliša iz nadležnosti Federacije
+BiH.
+Članak 43.
+
+Kantonalno ministarstvo:
+•
+•
+•
+•
+•
+•
+
+analizira i ocjenjuje stanje okoliša i djelatnosti zaštite okoliša kao i iskustva stečena u području zaštite,
+korištenja i razvitka okoliša;
+obavlja poslove i zadatke utvrđene federalnim zakonom i drugim federalnim propisima;
+uspostavlja i upravlja sustavom informiranja o okolišu u kantonu;
+izdaje dopuštenja za korištenje okoliša iz svoje nadležnosti,
+organizira poslove kojima je cilj spriječavanje ili smanjenje štetnih posljedica po okoliš,
+obavlja nadzor nad provedbom kantonalnih zakona i drugih kantonalnih propisa iz područja zaštite
+okoliša.
+Članak 44.
+
+U slučaju izazvanosti štete ili postojanju opasnosti od štete po okoliš, nadležni tužitelj ima pravo pri nadležnom
+sudu uložiti tužbu kojom se zahtijeva zabrana ili ograničenje djelatnosti i naknada za štetu nastalu kao posljedica
+te djelatnosti.
+VIII - PLANIRANJE ZAŠTITE OKOLIŠA
+Članak 45.
+Sustav okolišnog planiranja
+Sustav okolišnog planiranja obuhvaća donošenje sljedećih programskih dokumenata:
+•
+•
+•
+
+Međuentitetski plan zaštite okoliša;
+Federalna strategija zaštite okoliša i Akcijski plan zaštite okoliša i
+Kantonalni plan zaštite okoliša.
+Članak 46.
+
+Federalna strategija i Plan zaštite okoliša usklađuje se s Međuentitetskim planom zaštite okoliša.
+
+Kantonalni planovi zaštite okoliša usklađuju se s Federalnom srategijom i Akcijskim planom zaštite okoliša.
+Međuentitetsko tijelo za okoliš priprema prijedlog Međuentitetskog plana zaštite okoliša.
+Federalna strategija i planovi zaštite okoliša su obvezujući dijelovi sustava okolišnog planiranja.
+Planiranje zaštite okoliša usklađuje se sa socijalnim i eko- nomskim razvojnim programima, međunarodnim
+programima razvitka i dokumentima prostornog uređenja.
+Plan zaštite okoliša donosi Vlada FBiH na prijedlog Federalnog ministarstva. Plan zaštite okoliša donosi se za
+razdoblje od najmanje pet godina.
+Federalno ministarstvo podnosi Vladi FBiH izvješće o provedbi plana svake dvije godine radi razmatranja,
+usvajanja i dostavljanja Parlamentu Federacije.
+Članak 47.
+Elementi programskih dokumenata zaštite okoliša
+Federalna strategija i planovi, pored ostaloga, sadrže:
+•
+•
+•
+•
+•
+•
+
+obrazloženje o sadašnjem stanju okoliša ustanovljeno na temelju znanstvenih iskustava i informacija;
+ciljeve koji se moraju ostvariti u planiranome razdoblju;
+načela i smjernice zaštite okoliša;
+zadatke i dužnosti koje treba obaviti radi ostvarenja ciljeva, redoslijed planiranih djelatnosti i konačni
+rok za primjenu;
+sredstva i metode za ostvarivanje postavljenih ciljeva s naznačenim planiranim izvorima financiranja,
+naznačena područja u kojima su potrebni posebni instrumenti zaštite okoliša kao i sadržaje takvih
+instrumenata.
+Članak 48.
+Federalna strategija zaštite okoliša
+
+Federalno ministarstvo priprema prijedlog federalne strate- gije zaštite okoliša.
+Sastavni dijelovi Federalne strategije zaštite okoliša su i:
+•
+•
+•
+•
+
+Federalna strategija zaštite voda,
+Federalna strategija zaštite prirode,
+Federalna strategija zaštite zraka,
+Federalna strategija upravljanja otpadom.
+
+Prijedlog federalne strategije zaštite okoliša dostavlja se kantonalnim ministarstvima i Savjetodavnom vijeću radi
+davanja mišljenja i mora biti dostupan javnosti, radi davanja naputaka i primjedaba.
+Prijedlog federalne strategije zaštite okoliša dostavlja se Međuentitetskom tijelu za okoliš i Vladi Republike
+Srpske radi davanja mišljenja.
+Primjedbe i naputci na prijedlog federalne strategije zaštite okoliša dostavljaju se u roku od tri mjeseca od dana
+prijama prijedloga.
+Parlament Federacije donosi Federalnu strategiju zaštite okoliša za razdoblje od najmanje 10 godina.
+Članak 49.
+
+Kantonalni plan zaštite okoliša
+Kantoni su dužni donijeti kantonalni plan zaštite okoliša usklađen s Federalnom strategijom zaštite okoliša.
+Kantonalno ministarstvo priprema prijedlog plana zaštite okoliša.
+Prijedlog kantonalnog plana zaštite okoliša dostavlja se Federalnom ministarstvu, Savjetodavnom vijeću i
+susjednim kantonalnim ministarstvima radi davanja naputaka i primjedaba.
+Prijedlog kantonalnog plana zaštite okoliša mora biti dostupan javnosti radi davanja naputaka i primjedaba.
+Naputci i primjedbe na prijedlog kantonalnog plana zaštite okoliša dostavljaju se u roku od tri mjeseca od dana
+prijama prijedloga.
+Skupština kantona donosi kantonalni plan zaštite okoliša za razdoblje od najmanje pet godina.
+Kantonalno ministarstvo podnosi izvješće o provedbi kantonalnog plana zaštite okoliša skupštini kantona svake
+druge godine.
+Skupština kantona može donijeti propis kojime će regulirati donošenje općinskih planova zaštite okoliša i njihov
+sadržaj.
+Članak 50.
+Planovi i programi gospodarskih društava u području zaštite okoliša Gospodarska društva mogu izraditi
+programe zaštite okoliša na dragovoljnoj osnovi.
+Gospodarska društva su dužna izraditi planove zaštite okoliša ukoliko je to propisano posebnim zakonom.
+Članak 51.
+Strategijska procjena okoliša
+Organ nadležan za poslove prostornog uređenja pri izradi dokumenata prostornog uređenja koji mogu imati
+negativan utjecaj na okoliš dužan je izraditi strategijsku procjenu okoliša (SEA).
+Prilikom izrade strategijske procjene okoliša uzimaju se u obzir sastavnice okoliša, kvalitete okoliša i utjecaj na
+ljudsko zdravlje.
+Strategijska procjena okoliša izrađuje se i pri donošenju ekonomskih propisa koji mogu imati utjecaj na okoliš
+(propisi o carini, porezima, obvezama, itd.).
+Članak 52.
+Strategijska procjena okoliša obuhvaća naročito:
+•
+•
+•
+•
+
+stupanj do kojega planirane mjere mogu utjecati ili mogu poboljšati stanje okoliša;
+u slučaju neprovedbe planiranih mjera, količinu štete nastale po okoliš, odnosno stanovništvo;
+u kojoj mjeri postoje uvjeti za uvođenje planiranih mjera,
+kolike su mogućnosti nadležnih organa za provedbu planiranih mjera;
+
+Nacrti dokumenata prostornog uređenja i strategijska proc- jena okoliša dostavlja se Savjetodavnom vijeću na
+razmatranje i davanje mišljenja.
+Strategijsku procjenu okoliša donosi Vlada FBiH.
+
+IX - PROCJENA UTJECAJA NA OKOLIŠ (EIA)
+Članak 53.
+Procjena utjecaja na okoliš obuhvaća identificiranje, opis, procjenu, izravan i neizravan utjecaj projekta ili
+djelatnosti na:
+•
+•
+•
+•
+
+ljude, biljni i životinjski svijet;
+tlo, vodu, zrak, klimu i krajolik;
+materijalna dobra i kulturno naslijeđe,
+međudjelovanje čimbenika navedenih u odjeljcima 1., 2. i 3. ovoga stavka.
+Članak 54.
+
+Nadležni organ neće izdati urbanističku suglasnost ili druge neophodne suglasnosti za projekte kojima je
+neophodna procjena utjecaja na okoliš, ukoliko uz zahtjev nije dostavljeno okolišno dopuštenje.
+Članak 55.
+Nadležnost u procjeni utjecaja na okoliš
+Nadležno ministarstvo provodi postupak procjene utjecaja na okoliš.
+U postupku procjene utjecaja na okoliš uključit će se zainteresirani organi na kantonalnoj i federalnoj razini.
+Članak 56.
+Projekti podložni procjeni utjecaja na okoliš
+Provedbenim propisom utvrdit će se pogoni i postrojenja ili znatne izmjene postojećih pogona i postrojenja za
+koje je obvezna procjena utjecaja na okoliš, te pogoni i postrojenja ili znatne izmjene postojećih pogona i
+postrojenja za koje će nadležno ministarstvo odlučiti je li potrebna procjena utjecaja na okoliš.
+Pod znatnom izmjenom pogona i postrojenja smatra se:
+•
+•
+•
+
+bilo kakva modifikacija pogona i postrojenja;
+rast veći od 25% u povećanju proizvodnje, uporabe energije, korištenja vode, korištenja prostora,
+emisija ili proizvodnje otpada,
+rast veći od 25% u posljednjih 10 godina u povećanju proizvodnje, uporabe energije, korištenja vode,
+korištenja prostora, emisija ili proizvodnje otpada.
+
+Za prekid rada i rušenje pogona i postrojenja kojima je potrebno okolišno dopuštenje obvezno se obavlja
+procjena utjecaja na okoliš.
+Članak 57.
+Procjena utjecaja na okoliš može se obavljati u dvije faze:
+•
+•
+
+prethodna procjena utjecaja na okoliš i
+studija o utjecaju na okoliš.
+Članak 58.
+Prethodna procjena utjecaja na okoliš
+
+Zahtjev za prethodnu procjenu utjecaja na okoliš podnosi se nadležnom ministarstvu.
+Uz zahtjev se prilaže:
+•
+•
+•
+•
+•
+•
+
+opis projekta s informacijama o lokaciji, namjeni i veličini pogona i postrojenja;
+opis mjera predviđenih za spriječavanje, smanjivanje ili ukoliko je moguće saniranje značajnih
+nepovoljnih posljedica;
+podaci potrebni za identificiranje i procjenu temeljnih utjecaja na okoliš;
+opis alternativnih rješenja i odabrane alternative;
+izvod iz planskog akta odnosnog područja,
+netehnički sažetak.
+
+Nadležno ministarstvo dostavlja zahtjev iz stavka 1. ovoga članka s pripadajućom dokumentacijom nadležnim
+organima i zainteresiranim subjektima radi davanja naputaka i primjedaba.
+Rok za dostavu naputaka i primjedaba je 30 dana od dana prijama zahtjeva.
+O prethodnoj procjeni utjecaja na okoliš obavijestit će se podnositelj zahtjeva i subjekti iz stavka 3. ovoga
+članka.
+Članak 59.
+Studija o utjecaju na okoliš
+Nadležno ministarstvo, na temelju prethodne procjene utjecaja na okoliš, donosi Rješenje o izradi Studije o
+utjecaju na okoliš u roku od 30 dana od dana istjecanja roka za dostavu naputaka i primjedaba.
+U Rješenju iz stavka 1. ovoga članka nadležno ministarstvo određuje:
+•
+•
+•
+
+sadržaj Studije o utjecaju na okoliš uzimajući u obzir upute za procjenu utjecaja na okoliš,
+listu nositelja izrade Studije o utjecaju na okoliš i
+naknadu za ocjenu Studije o utjecaju na okoliš.
+
+Naknada za ocjenu Studije o utjecaju na okoliš obuhvaća naknadu za rad pravnih i tehničkih stručnjaka iz
+nadležnog organa i sve ostale troškove koje mogu imati nadležni organi ili drugi sudionici u postupku procjene
+utjecaja na okoliš.
+Naknadu i ostale troškove iz stavka 3.ovoga članka snosi podnositelj zahtjeva.
+Provedbenim propisom uredit će se uvjeti i kriteriji koje moraju ispunjavati nositelji izrade Studije o utjecaju na
+okoliš za obavljanje poslova izrade Studije kao i visina naknade i troškova iz stavka 3. ovoga članka.
+Članak 60.
+Podnositelj zahtjeva dostavlja Studiju o utjecaju na okoliš nadležnom ministarstvu u roku od 30 dana od dana
+prijama Studije od nositelja izrade Studije.
+Članak 61.
+Javna rasprava
+U postupku ocjene Studije o utjecaju na okoliš nadležno ministarstvo obavještava i poziva javnost na raspravu o
+Studiji putem tiska dostupnog na području Federacije.
+
+Naputci i primjedbe javnosti dostavljaju se nadležnom ministarstvu u roku od 30 dana od dana javnog
+obavještavanja.
+Članak 62.
+Nadležno ministarstvo organizira javnu raspravu o projektu u prostoru koji je najbliži lokaciji danoga projekta o
+čemu se javnost obavještava najmanje 15 dana prije rasprave.
+Nadležno ministarstvo priprema zapisnik s javne rasprave u roku od tri dana od dana održavanja javne rasprave.
+Članak 63.
+Vjerojatnoća prekograničnih utjecaja na okoliš
+Pravila koja se odnose na procjenu utjecaja na okoliš u kontekstu prekograničnih utjecaja primjenjuju se i kada:
+•
+•
+
+postoji vjerojatnoća da će projekt imati značajan utjecaj na okoliš drugog entiteta;
+postoji obveza po međunarodnim ugovorima, bilate- ralnim sporazumima ili iz drugih razloga.
+
+Kada nositelj izrade Studije o utjecaju na okoliš sazna da će projekt vjerojatno imati značajan utjecaj na okoliš
+drugog entiteta, dužan je izraditi posebno poglavlje u Studiji o utjecaju na okoliš s podacima o mogućim
+utjecajima na okoliš drugoga entiteta.
+Detalji o postupcima za projekte s mogućim međuentitetskim utjecajem mogu biti određeni sporazumom među
+entitetima koji se zaključuje uz konzultiranje Međuentitetskog tijela za okoliš.
+Kada nositelj izrade Studije utjecaja na okoliš sazna da će projekt vjerojatno imati značajan utjecaj na okoliš
+druge države dužan je izraditi posebno poglavlje u Studiji o utjecaju na okoliš s podacima o mogućim utjecajima
+na okoliš druge države.
+Federalno ministarstvo će drugom entitetu/državi iz st. 2. i 3. ovoga članka dostaviti obavijest koja, između
+ostaloga, sadrži:
+•
+•
+•
+
+opis projekta s dostupnim podacima o mogućem prekograničnom utjecaju;
+informacije o odluci koja može biti donesena,
+razdoblje u kojemu će se država/entitet očitovati želi li sudjelovati u postupku procjene utjecaja na
+okoliš.
+
+Ukoliko država/entitet iskaže svoju namjeru sudjelovanja u postupku procjene utjecaja na okoliš Federalno
+ministarstvo će dostaviti danoj državi/entitetu posebno poglavlje Studije o utjecaju na okoliš i odlučne podatke
+koji se tiču danoga postupka.
+Federalno ministarstvo omogućuje sudjelovanje predstav- nika javnosti iz države/entiteta na koju projekt može
+imati utjecaja.
+Federalno ministarstvo obavit će konzultacije s predstav- nicima države/entiteta na koju projekt može imati
+utjecaja.
+Ukoliko se sazna za informaciju o projektu koji se odvija u drugoj državi/entitetu, a koji može imati značajne
+posljedice po okoliš na teritoriju Federacije, Federalno ministarstvo poduzima djelatnosti s ciljem sudjelovanja
+nadležnih organa i javnosti u procjeni prekograničnih utjecaja na okoliš.
+Federalno ministarstvo dostavlja naputke i primjedbe organa uprave i javnosti nadležnim organima
+države/entiteta iz koje potječu prekogranični utjecaji na okoliš i obavlja konzultacije s predstavnicima
+države/entiteta iz koje potječu utjecaji na okoliš.
+
+Troškove izrade posebnih poglavlja Studije o utjecaju na okoliš iz st. 2. i 4. ovoga članka snosi podnositelj
+zahtjeva.
+Članak 64.
+Odobravanje Studije o utjecaju na okoliš
+Nadležno ministarstvo Rješenjem odobrava Studiju o utjecaju na okoliš u roku od 30 dana od završetka postupka
+ocjene Studije.
+Studija o utjecaju na okoliš neće biti odobrena ukoliko:
+•
+•
+•
+
+se utvrdi da bi projekat mogao izazvati znatno zagađivanje okoliša ili u znatnoj mjeri ugroziti okoliš;
+projekt nije sukladan Međuentitetskom programu zaštite okoliša i Federalnoj strategiji i Akcijskom
+planu zaštite okoliša i
+projekt nije sukladan međunarodnim obvezama države po pitanju zaštite okoliša.
+
+Rješenje o odobravanju ili odbijanju Studije o utjecaju na okoliš dostavlja se podnositelju zahtjeva i
+zainteresiranim subjektima iz članka 58. stavak 3. ovoga zakona.
+Dostavljanje Rješenja iz stavka 3. ovoga članka obavlja se sukladno odredbama Zakona o upravnom postupku.
+U slučaju prekograničnog utjecaja Federalno ministarstvo proslijedit će Rješenje drugom entitetu/državi na koju
+projekt može imati utjecaj.
+Članak 65.
+Sudjelovanje nadležnog ministarstva u postupcima izdavanja dopuštenja
+Nadležno ministarstvo sudjeluje u postupcima izdavanja urbanističkih suglasnosti.
+U postupcima iz stavka 1. ovoga članka nadležno ministarstvo provjerava jesu li se okolnosti pod kojima je
+vođen postupak procjene utjecaja na okoliš promijenile i jesu li ispunjeni uvjeti utvrđeni u Studiji o utjecaju na
+okoliš, odnosno u okolišnom dopuštenju.
+Postupci iz stavka 1. ovoga članka moraju biti završeni u roku od tri godine od dana donošenja Studije o utjecaju
+na okoliš. Po istjeku navedenoga roka Studija o utjecaju na okoliš ne može biti temeljem izdavanja dopuštenja iz
+stavka 1. ovoga članka.
+Ukoliko rok za izdavanje dopuštenja nije prekoračen krivnjom nositelja izrade Studije važenje Studije o utjecaju
+na okoliš produljuje se za dvije godine, s tim što se, po potrebi, Studija ažurira.
+Ukoliko je rok za izdavanje dopuštenja prekoračen krivnjom nadležnog ministarstva troškove ažuriranja snosi
+ministarstvo.
+X - IZDAVANJE OKOLIŠNIH DOPUŠTENJA I SPRIJEČAVANJE NESREĆA VELIKIH SRAZMJERA
+Članak 66.
+Djelatnosti ili pogoni i postrojenja koja ugrožavaju ili mogu ugroziti okoliš ili koja imaju ili mogu imati
+negativan utjecaj na okoliš bit će podvrgnuta posebnom režimu nadzora.
+Nadzor se sprovodi:
+•
+
+utvrđivanjem jesu li ispunjene posebne obveze i uvjeti propisani za djelatnosti ili pogone i postrojenja;
+
+•
+•
+•
+•
+•
+
+utvrđivanjem jesu li ispunjeni uvjeti utvrđeni u okolišnom dopuštenju;
+obavještavanjem nadležnog ministarstva o stanju sigurnosti i planu spriječavanja nesreća većih
+srazmjera prije izgradnje ili početka rada pogona i postrojenja;
+vođenjem upisnika o zagađenosti okoliša;
+redovitim inspekcijskim nadzorom i
+nalaganjem sanacijskih mjera za spriječavanje zaga- đenosti.
+Članak 67.
+Temeljne obveze operatora
+
+Pogoni i postrojenja moraju biti izgrađeni i funkcionirati tako da se:
+•
+
+ne ugrožava niti ometa zdravlje ljudi i ne označavaju nesnosnu/pretjeranu smetnju ljudima koji žive na
+području utjecaja postrojenja ili okolici uslijed emisija supstanci, buke, mirisa, vibracija, topline,
+prometa ili od postrojenja;
+
+poduzmu sve odgovarajuće preventivne mjere za spriječavanje zagađenja i ne uzroče značajnije zagađenje;
+izbjegava proizvodnja otpada, ukoliko dolazi do stvaranja otpada, količina će se svesti na najmanju moguću
+mjeru ili obavljati reciklaža ili, ukoliko to nije tehnički ili ekonomski izvodljivo, otpad se odlaže, a pritom se
+izbjegava ili smanjuje bilo kakav negativan utjecaj na okoliš;
+energetski i prirodni resursi učinkovito koriste;
+poduzmu neophodne mjere za spriječavanje nesreća i ograničavanje njihovih posljedica i
+poduzmu neophodne mjere nakon prestanka rada postrojenja za izbjegavanje bilo kakvog rizika od zagađenja i
+za povrat u zadovoljavajuće stanje lokacije na kojoj se nalazi postrojenje. Zadovoljavajuće stanje znači
+ispunjenost svih standarda kvalitete okoliša koji su odlučni za lokaciju postrojenja, osobito oni koji se tiču zaštite
+zemljišta i vode.
+Zahtjevi dani u stavku 1. ovoga članka značiju opće obveze operatora koje se trebaju ispuniti tijekom izgradnje,
+rada i prestanka rada pogona i postrojenja. Ovi standardi se moraju primijeniti prilikom izdavanja okolišnog
+dopuštenja.
+Za pogone i postrojenja kojima nije potrebno pribavljanje okolišnog dopuštenja nadležni će organ pri izdavanju
+urbanističke suglasnosti voditi računa o ispunjenju zahtjeva iz stavka 1. ovoga članka.
+Članak 68.
+Okolišno dopuštenje
+Okolišnom dopuštenju cilj je visoka razina zaštite okoliša.
+Provedbenim propisom utvrdit će se pogoni i postrojenja koji mogu biti izgrađeni i pušteni u rad samo ukoliko
+imaju okolišno dopuštenje izdano sukladno odredbama ovoga zakona i Zakona o upravnom postupku.
+Ukoliko je posebnim propisima utvrđeno izdavanje drugih dopuštenja za pogone i postrojenja dopuštenja će se
+izdavati zajedno/usklađeno s okolišnim dopuštenjem.
+Organi nadležni za izdavanje drugih dopuštenja uključuju se u postupak izdavanja okolišnog dopuštenja.
+Okolišno dopuštenje pribavlja se i u slučaju značajne promjene u radu pogona i postrojenja.
+Nadležno ministarstvo izdaje okolišno dopuštenje na pet godina.
+Članak 69.
+Zahtjev
+
+Zahtjev za izdavanjem okolišnog dopuštenja sadrži:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+ime i adresu operatora/investitora;
+lokaciju pogona i postrojenja kao i opis:
+pogona i postrojenja i djelatnosti (plan, tehnički opis rada, itd);
+osnovnih i pomoćnih tvoriva, ostalih supstanci i energije koja se koristi ili koju proizvodi pogon i
+postrojenje;
+izvora emisija iz pogona i postrojenja;
+stanja lokacije pogona i postrojenja;
+prirode i količine predviđenih emisija iz pogona i postrojenja u okoliš (zrak, voda, tlo) kao i
+identifikacija značajnih utjecaja na okoliš;
+predloženih mjera, tehnologija i drugih tehnika za sprječavanje ili ukoliko to nije moguće, smanjenje
+emisija iz postrojenja;
+mjera za spriječavanje proizvodnje i povrat korisnog materijala iz otpada koji proizvodi postrojenje;
+ostalih mjera radi usklađivanja s temeljnim obvezama operatora, posebno mjera nakon zatvaranja
+postrojenja;
+mjera planiranih za monitoring emisija unutar područja i/ili njihov utjecaj;
+predviđenih alternativnih rješenja;
+preslika zahtjeva za dobijanje drugih dopuštenja koja će biti izdana zajedno s okolišnim dopuštenjem i
+netehnički sažetak.
+
+Za pogone i postrojenja kojima je nadležno ministarstvo ustvrdilo porabu izrade Studije o utjecaju na okoliš uz
+zahtjev za izdavanje okolišnog dopuštenja umjesto podataka iz stavka 1. ovoga članka podnosi se Studija o
+utjecaju na okoliš.
+Ukoliko na temelju zahtjeva i priloženih dokaza za prethodnu procjenu utjecaja na okoliš nadležno ministarstvo
+ustvrdi da nije potrebna izrada Studije o utjecaju na okoliš, zahtjev za prethodnu procjenu smatrat će se
+zahtjevom za izdavanje okolišnog dopuštenja.
+Članak 70.
+Prekogranični utjecaji
+Ukoliko rad nekog pogona i postrojenja može izazvati značajne negativne posljedice na području druge države ili
+entiteta, ili ukoliko druga država ili entitet tako zahtjeva, zahtjev za izdavanje okolišnog dopuštenja bit će
+dostavljen drugom entitetu ili putem nadležnog organa na državnoj razini drugoj državi.
+Ukoliko u postupku izdavanja dopuštenja koji se vodi u drugoj državi ili entitetu Federalno ministarstvo zaprimi
+dokumentaciju koja ukazuje da pogon i postrojenje može imati negativan utjecaj na okoliš na području Federacije
+informirat će stanovništvo koje živi na tom području i pružiti im mogućnost davanja svojega komentara.
+Građani koji žive na području drugog entiteta imaju jednako pravo sudjelovanja u ovome postupku u svojstvu
+stranke kao i građani koji žive na području u kojemu pogon i postrojenje treba graditi.
+Detaljne informacije u svezi prekograničnih utjecaja rada pogona i postrojenja na drugu državu bit će određene u
+bilateralnim sporazumima. Detalji o postupcima vezanim za projekte koji će imati međuentitetske prekogranične
+utjecaje mogu biti određeni sprazumima. Ovakvi sporazumi se donose uz konzultiranje Međuentitetskog tijela za
+okoliš.
+Članak 71.
+Izdavanje okolišnog dopuštenja
+Nadležno ministarstvo izdaje okolišno dopuštenje u roku najdulje 120 dana od dana podnošenja zahtjeva.
+
+U slučajevima potrebne procjene utjecaja na okoliš okolišno dopuštenje izdaje se u roku od 60 dana od dana
+dostavljanja Studije o utjecaju na okoliš.
+Okolišno dopuštenje sadrži:
+•
+•
+•
+•
+•
+•
+
+granične vrijednosti emisija za zagađujuće tvari;
+uvjete za zaštitu zraka, tla, voda, biljnog i životinjskog svijeta;
+mjere za upravljanje otpadom koji proizvodi pogon i postrojenje;
+mjere za minimiziranje prekograničnog zagađenja;
+sustav samomonitoringa uz određivanje metodologije i učestalosti mjerenja i
+mjere vezane za uvjete rada u izvanrednim situacijama.
+
+Granične vrijednosti emisija i jednakovrijedni parametri i tehničke mjere temelje se na najboljim raspoloživim
+tehnologijama, uzimajući u obzir tehničke značajke pogona i postrojenja, njihov zemljopisni položaj i ostale
+uvjete.
+Ukoliko su standardima kvalitete predviđeni uvjeti strožiji od onih postignutih primjenom najboljih raspoloživih
+tehnologija utvrdit će se doknadne mjere neophodne za izdavanje okolišnog dopuštenja (npr. ograničenje radnih
+sati, manje zagađujućih goriva, itd).
+Članak 72.
+Postojeći pogoni i postrojenja
+Pogoni i postrojenja utvrđeni provedbenim propisom iz članka 68. ovoga zakona za koja su izdana dopuštenja
+prije stupanja na snagu ovoga zakona moraju pribaviti okolišno dopuštenje najkasnije do 2008 godine.
+Federalni i kantonalni ministar, svatko u okviru svoje nadležnosti, utvrdit će rokove za podnošenje zahtjeva za
+izdavanje okolišnog dopuštenja pogonima i postrojenjima iz stavka 1. ovoga članka.
+Članak 73.
+Podaci koje dostavlja operator
+Operator pogona i postrojenja za koje je izdano okolišno dopuštenje i operator pogona i postrojenja za koje nije
+potrebno okolišno dopuštenje dužan je redovito obavještavati nadležno ministarstvo o rezultatima monitoringa
+emisija, bez odlaganja prijaviti svaku izvanrednu situaciju koja značajno utječe na okoliš, dostaviti sve podatke i
+infomacije potrebne za ispunjavanje zahtjeva propisanih za izvješćivanja na državnoj i međudržavnoj razini.
+Članak 74.
+Ponovno razmatranje i izmjene dopuštenja
+Nadležno ministarstvo razmatra i obavlja izmjenu okolišnog dopuštenja ili, ako ona nije potrebna, urbanističke
+suglasnosti ukoliko:
+•
+•
+•
+
+je zagađenje koje stvara pogon i postrojenje značajno u tolikoj mjeri da se moraju izmijeniti postojeće
+granične vrijednosti emisija;
+je došlo do značajnih promjena u najboljim raspoloži- vim tehnologijama koje omogućuju značajno
+smanjenje emisija bez većih troškova ili
+sigurnost odvijanja rada i djelatnosti zahtijeva korištenje drugih tehnologija.
+
+Nadležno ministarstvo može na zahtjev zainteresiranih subjekata koji žive na području rada pogona i postrojenja,
+koje može imati negativan utjecaj i ugrožavati ili značiti opasnost po okoliš i zdravlje, preispitati okolišno
+dopuštenje.
+
+Ukoliko bi izmjene pogona i postrojenja radi prilagodbe zahtjevima u području zaštite okoliša prouzročile
+korjenite promjene pogona i postrojenja, nadležno će ministarstvo naložiti operatoru sačinjavanje plana
+prilagodbe s mjerama i rokovima za prilagodbu pogona i postrojenja temeljnim obvezama utvrđenim ovim
+zakonom.
+Članak 75.
+Spriječavanje i nadzor nesreća većih srazmjera
+Operator pogona i postrojenja dužan je poduzeti preventivne mjere neophodne za spriječavanje nesreća većih
+srazmjera i ograničiti njihov utjecaj na ljude i okoliš.
+Operator je dužan u bilo koje vrijeme prezentirati nadležnom ministarstvu dokaz o poduzetim mjerama.
+Članak 76.
+Informiranje o nesrećama većih srazmjera
+Operator pogona i postrojenja dužan je obavijestiti nadležno ministarstvo o nesreći većih srazmjera i čim budu
+dostupni dostaviti podatke o:
+•
+•
+•
+•
+
+okolnostima nesreće;
+prisutnim opasnim supstancama;
+procjeni utjecaja nesreće na ljude i okoliš,
+poduzetim žurnim mjerama.
+
+Operator je dužan obavijestiti nadležno ministarstvo o mjerama poduzetim za ublaživanje posljedica nesreće i
+spriječavanje pojave novih nesreća.
+Ukoliko daljnja istraga otkrije doknadne činjenice operator ih je dužan dostaviti nadležnom ministarstvu.
+Članak 77.
+Plan spriječavanja nesreća većih srazmjera
+Operator je dužan sačiniti Plan spriječavanja nesreća većih srazmjera kojime se postiže visoka razina zaštite ljudi
+i okoliša putem odgovarajućih sredstava, ustroja i sustava upravljanja, organizacije i kadrova, identifikacije i
+procjene opasnosti, nadzora rada, planiranja interventnih mjera i sprovedbe monitoringa.
+Operator je dužan izobavljati procjenu stanja sigurnosti za nove pogone i postrojenja u roku od najmanje tri
+mjeseca prije početka gradnje ili puštanja u rad pogona i postrojenja.
+Članak 78.
+Izvješće o stanju sigurnosti
+Za pogone i postrojenja u kojima su prisutne opasne supstance u količinama navedenim u provedbenom propisu
+operator je dužan sačiniti Izvješće o stanju sigurnosti iz kojega se vidi da su:
+•
+•
+•
+
+plan spriječavanja nesreća većih srazmjera i sustav sigurnosnog upravljanja za njegovu provedbu
+započeli se provoditi;
+rizici pojave većih nesreća identificirani i poduzete neophodne mjere za identificiranje takvih nesreća i
+ograničavanje njihovih posljedica;
+odgovarajuća sigurnost i pouzdanost uključene u projektiranje, gradnju, funkcioniranje i održavanje
+pogona i postrojenja i
+
+•
+
+napravljeni unutarnji planovi intervencija koji pružaju informacije za donošenje vanjskog plana.
+
+Izvješće iz stavka 1. ovoga članka mora sadržavati dovoljno informacija kako bi nadležno ministarstvo moglo
+odrediti lokacije za nove djelatnosti u blizini postojećih pogona i postrojenja i revidiranu listu opasnih supstanci
+prisutnih u danom pogonu i postrojenju.
+Operator obavlja reviziju Izvešća o stanju sigurnosti najmanje svakih pet godina.
+Na zahtjev nadležnog ministarstva ili samoinicijativno, operator obavlja izmjenu Izvješća o stanju sigurnosti s
+obrazlaženjem za novonastalo činjenično stanje i nove tehnologije, u svezi s pitanjem sigurnosti.
+Izvješće o stanju sigurnosti za postojeće pogone i postrojenja dostavlja se nadležnom ministarstvu u roku od dvije
+godine od dana stupanja na snagu ovoga zakona.
+Izvješće o stanju sigurnosti pogona i postrojenja mora biti dostupno javnosti.
+Članak 79.
+Promjene u radu postrojenja
+U slučaju promjena u radu pogona i postrojenja ili količini opasnih supstanci koje mogu rezultirati pojavom
+nesreća većih srazmjera operator je dužan preispitati i, ukoliko je neophodno, promijeniti Plan sprječavanja
+nesreća većih srazmjera ili Izvješće o stanju sigurnosti.
+Članak 80.
+Informacija o sigurnosnim mjerama
+Operator je dužan dostaviti informacije o sigurnosnim mjerama Federalnom ministarstvu, pravnim i fizičkim
+osobama na koje može utjecati nesreća većih srazmjera a prouzroči ju pogon i postrojenje kao i o odgovarajućem
+ponašanju u slučaju nesreće.
+Informacija će biti ponovno razmotrena svake treće godine ili, ukoliko je neophodno, ponovljena i revidirana u
+slučaju promjena u radu postrojenja najmanje svake pete godine.
+Informacija mora biti dostupna javnosti.
+Članak 81.
+Na temelju podnesene informacije nadležno ministarstvo vodi evidenciju i revidira upisnik pogona i postrojenja i
+upisnik prijavljenih nesreća većih srazmjera.
+Nadležno ministarstvo zabranit će uporabu ili puštanje u rad pogona i postrojenja ili dijelova pogona i postrojenja
+ukoliko postoje ozbiljni nedostaci u mjerama koje operator poduzima za spriječavanje ili ublaživanje nesreća ili
+ukoliko operator nije dostavio informaciju o stanju sigurnosti ili neku drugu traženu informaciju u navedenome
+roku.
+Članak 82.
+Domino učinak
+Na temelju informacije o stanju sigurnosti nadležno je ministarstvo dužno identificirati pogone i postrojenja ili
+skupine pogona i postrojenja u kojima vjerojatnoća ili mogućnost pojave posljedica uzročenih nesrećom većih
+srazmjera može biti povećana zbog lokacije ili blizine takvih pogona i postrojenja, te izobavljati identificiranje
+supstanci (Domino učinak).
+
+Nadležno je ministarstvo dužno osigurati razmjenu informacija o identificiranju pogona i postrojenja što će
+omogućiti operatorima ovih pogona i postrojenja uzimanje u obzir prirode i ukupnog rizika, nastalog zbog pojave
+nesreća većih srazmjera, pri izradi Plana spriječavanja većih nesreća, upravljanju sustavima sigurnosti, izradi
+Izvješća o stanju sigurnosti i unutarnjih planova intervencija u izvanrednim situacijama.
+Operatori pogona i postrojenja iz stavka 1. ovoga članka dužni su surađivati na informiranju javnosti i
+dostavljanju informacija nadležnom ministarstvu radi pripreme vanjskih planova intervencije.
+Članak 83.
+Unutarnji i vanjski planovi intervencije
+Operator je dužan izraditi Unutarnji plan intervencije sa sadržanim mjerama koje će se poduzeti u slučaju nesreće
+većih srazmjera i dostaviti ga organu nadležnom za upravljanje u izvanrednim situacijama radi izrade vanjskih
+planova inter- vencije za mjere koje će se poduzeti izvan pogona i postrojenja.
+Cilj izrade planova intervencije je:
+•
+•
+•
+•
+
+nadziranje nesreće na način da se njihove posljedice svedu na najmanju moguću mjeru i ograniči se
+njezin štetan utjecaj na ljude, okoliš i imovinu;
+primjenjivanje mjera neophodnih za zaštitu ljudi i okoliša od utjecaja nesreća većih srazmjera;
+prijenos neophodnih informacija javnosti i nadležnim službama i organima koje se nalaze u danom
+području i
+omogućivanje revitalizacije i čišćenja okoliša nakon nesreća većih srazmjera.
+
+Unutarnji i vanjski planovi intervencija moraju biti primije- njeni bez odlaganja u slučaju nesreća većih srazmjera
+ili u slučaju pojave nekontroliranog incidenta, koji bi mogao dovesti do nesreće većih srazmjera.
+Planovi moraju biti razmotreni, provjereni i ukoliko je neophodno promijenjeni i revidirani od operatora ili
+nadležnog ministarstva u vremenskim razmacima ne duljim od tri godine, uzimajući u obzir promjene do kojih je
+došlo u radu pogona i postrojenja, u planovima intervencije ili u novim tehnološkin saznanjima.
+Članak 84.
+Ciljevi spriječavanja nesreća većih srazmjera i ograničavanja njihovih posljedica uzimaju se u obzir pri izradi
+dokumenata prostornog uređenja i donošenju odluka sukladno Zakonu o prostornom uređenju, posebice pri
+određivanju lokacija za nove pogone i postrojenja, izmjeni na postojećim pogonima i postrojenjima i novim
+građevinama (poput prometnica, javnih mjesta i stambenih područja) u blizini naseobina.
+Pri izradi unutarnjih i vanjskih planova mora se voditi računa o udaljenosti između pogona i postrojenja i
+stambenih područja, javnih mjesta i područja posebne prirodne osjetljivosti ili interesa.
+U postojećim pogonima i postrojenjima vlasnik i nadležni organ moraju voditi računa o potrebi primjene
+doknadnih tehničkih mjera kako ne bi došlo do povećanja rizika po ljude ili okoliš.
+Članak 85.
+Nadležna ministarstva
+Za pogone i postrojenja kojima je potrebno okolišno dopuštenje ili za pogone i postrojenja kod kojih postoji
+opasnost od nesreća većih srazmjera nadležni su:
+•
+
+Federalno ministarstvo za velike i srednje pogone i postrojenja iznad pragova utvrđenih u provedbenom
+propisu i za pogone i postrojenja navedena u provedbenom propisu za koje postoji opasnost od nesreća
+većih srazmjera;
+
+•
+
+Kantonalno ministarstvo za manje pogone i postrojenja ispod pragova utvrđenih u provedbenom
+propisu, odnosno koji nisu navedeni u provedbenom propisu i veoma malim pogonima i postrojenjima
+čije emisije ne prelaze uobičajene emisije kućanstva i kojima nije potrebno okolišno dopuštenje.
+
+Federalno ministarstvo će provedbenim propisima definirati sadržaj Izvješća o stanju sigurnosti, Informacije o
+sigurnosnim mjerama i sadržaj unutarnjih i vanjskih planova intervencije.
+XI - USPOSTAVA STANDARDA KVALITETE OKOLIŠA
+Članak 86.
+Federalni ministar provedbenim propisima utvrđuje:
+•
+•
+•
+•
+•
+•
+•
+•
+
+doknadne zahtjeve koji se tiču dokumenata, a koji se podnose tijekom postupka izdavanja okolišnog
+dopuš- tenja;
+specifikacije zahtjeva okolišnih i drugih vrste dopuš- tenja;
+specifikaciju najboljih raspoloživih tehnologija za određene vrste postrojenja, posebice putem
+određivanja graničnih vrijednosti emisija i drugih tehničkih parametara i mjera;
+ostale standarde i uvjete za postrojenja i djelatnosti;
+mjerenja i podnošenje izvješća o emisijama, odlučnih metoda, dokumentaciju i prenošenje podataka
+nad- ležnim organima;
+kriterije za kvalifikacije stručnjaka koji pripremaju dokumente i sprovode samomonitoring;
+doknadne odredbe za spriječavanje nesreća većih srazmjera i
+standarde kvalitete okoliša.
+
+Propisi iz stavka 1. ovoga članka donose se na temelju preporuka Međuentitetskog tijela za okoliš ili standarda
+koje donosi Institut za standarde, mjeriteljstvo i intelektualno vlasništvo Bosne i Hercegovine.
+Članak 87.
+Standardi kvalitete okoliša
+Federalni ministar utvrđuje standarde kvalitete okoliša za vrste pogona i postrojenja ili djelatnosti sukladno
+najboljim raspoloživim tehnologijama i suvremenim znanstvenim dostignućima kako bi se negativni utjecaji
+pogona i postrojenja ili djelatnosti na okoliš spriječili ili sveli na najmanju moguću mjeru, a posebice:
+•
+•
+•
+
+uspostavom graničnih vrijednosti emisija za zagađujuće tvare;
+određivanjem tehnoloških i operativnih zahtjeva za pogone i postrojenja i
+određivanjem zahtjeva za mjerenja, monitoring i podnošenje izvješća.
+
+Standardi se primjenjuju i na postojeće pogone i postrojenja.
+Provedbenim propisima iz stavka 1. ovoga članka utvrđuju se rokovi za prilagodbu i opremu postojećih pogona i
+postrojenja, uzimajući u obzir potencijal zagađivanja i tehnologije kojima raspolaže postojeći pogon i postrojenje,
+te mogućnost korištenja shema za smanjivanje zagađenja pogona i postrojenja.
+Članak 88.
+Federalni ministar pri izradi propisa iz članka 87. stavak 1. ovoga zakona obavlja konzultacije s nadležnim
+organima na federalnoj i kantonalnoj razini, znanstvenim djelatnicima, drugim interesnim grupacijama, uzimajući
+u obzir međunarodne standarde i standarde i publikacije Europske unije, usporedne standarde drugih zemalja i
+znanstvene publikacije.
+Federalni ministar razmatra naputke i primjedbe subjekata iz stavka 1. ovoga članka i uzima ih u obzir prilikom
+izrade konačne verzije propisa.
+
+Članak 89.
+Obveze operatora
+Operator je dužan sprovoditi samomonitoring emisija i utjecaja koje pogon i postrojenje izazivaju.
+Operator je dužan osigurati provjeru usklađenosti rada pogona i postrojenja sa zakonskim zahtjevima koja
+sprovode stručne institucije svake tri godine, ukoliko nije drugačije određeno okolišnim dopuštenjem ili
+posebnim propisom.
+Nedostaci utvrđeni prilikom provjere pogona i postrojenja moraju se odmah sanirati. Nadležnom ministarstvu
+podnosi se izvješće o provjeri i sanacijskim mjerama koje se poduzimaju u slučaju utvrđenih nedostataka.
+Operator je dužan osigurati odgovarajuće održavanje pogona i redoviti nadzor nad radom tehničkih uređaja. U
+slučaju nesreća koje vode prekoračenju graničnih vrijednosti emisija operator je dužan odmah poduzeti sanacijske
+mjere s ciljem ponovne uspostave usklađenosti s propisima. Ukoliko nesreća može uzročiti ozbiljnu prijetnju po
+ljudsko zdravlje ili okoliš operator je dužan smanjiti ili privremeno obustaviti rad postrojenja.
+XII - NADZOR
+Članak 90.
+Nadzor nad sprovedbom odredaba ovoga zakona i propisa donesenih na temelju njega obavlja Federalno
+ministarstvo.
+Inspekcijski nadzor vrše Federalno i Kantonalno ministar- stvo, svatko u okviru svojih nadležnosti, putem
+inspektora zaštite okoliša.
+Za inspektora zaštite okoliša može se postaviti osoba sa visokom stručnom spremom, položenim stručnim
+ispitom i najmanje 5 godina iskustva na tim ili sličnim poslovima.
+Nadležno ministarstvo po službenoj dužnosti ili na zahtjev zainteresirane osobe obavlja nadzor postupa li
+operator po zahtjevima iz okolišnog dopuštenja, zakona ili provedbenog propisa.
+Nadležno ministarstvo donosi godišnji/polugodišnji program inspekcije kojime se uspostavlja sustavni okvir za
+inspekcije i monitoring, određuje prvenstvo za određene vrste pogona i postrojenja i područja prema postojećim
+problemima u području zaštite okoliša.
+Inspektor zaštite okoliša ima pravo pristupa svim prostori- jama, radnim područjima i postrojenjima radi
+sprovedbe inspek- cije na licu mjesta i može provjeravati sve dokumente, podatke, uređaje i tvarale koji se nalaze
+u pogonu i postrojenju, uzimati uzorke i sprovesti mjerenja.
+Operator i osoblje uposleni u postrojenju moraju omogućiti i pomoći inspektoru u radu tako što će osigurati sve
+neophodne informacije, podatke i dokumente.
+Inspektor zaštite okoliša sačinjava zapisnik o izvršenoj inspekciji koji obuhvaća:
+•
+•
+•
+•
+
+ime operatora i lokaciju;
+nadnevak i trajanje inspekcije;
+opis izvršene inspekcije i svih odlučnih nalaza, posebice tehničkih podataka i uzoraka i
+utvrđeno kršenje propisa i razloge i obrazloženja operatora/osoblja.
+
+Zapisnik se dostavlja operatoru i javnosti ukoliko je zahtijevano.
+Članak 91.
+
+Nadležno je ministarstvo dužno uspostaviti inspekciju i sustav nadzora nad pogonima i postrojenjima koja koriste
+opasne supstance, uključujući i skladištenje opasnih supstanci, radi nadzora nad upravljanjem sigurnosnim
+sustavom i provedbom Plana spriječavanja nesreća većih srazmjera.
+Nadležno je ministarstvo dužno izraditi program nadzora koji predviđa bar jedan godišnji nadzor na licu mjesta
+nad postrojenjima iz provedbenih propisa. Ukoliko postrojenje mora proći postupak procjene utjecaja na okoliš,
+rad organa za procjenu utjecaja bit će usklađen s radom inspektora zaštite okoliša.
+Članak 92.
+Inspektor zaštite okoliša nakon izvršenog inspekcijskog pregleda donosi rješenje kojim nalaže:
+•
+•
+•
+
+rok za otklanjanje nepravilnosti;
+sprovedbu neophodnih mjera, uključujući zatvaranje pogona i postrojenja ukoliko nepravilnosti nisu
+otklo- njene u ostavljenome roku i
+poduzimanje sanacijskih mjera.
+
+U slučaju ponovljenog kršenja propisa ili u slučaju ozbiljne opasnosti po ljudsko zdravlje i okoliš koja se ne
+može riješiti drugim mjerama inspektor će zaštite okoliša zatražiti od nadležnog ministarstva poništenje izdanog
+okolišnog dopuštenja.
+XIII - DRAGOVOLJNI PRISTUP
+Članak 93.
+Sustav eko-označavanja
+Sustav dodjele eko-oznaka uspostavlja se radi promoviranja izrade, proizvodnje, marketinga, i uporabe proizvoda
+sa smanjenim utjecajem na okoliš u odnosu na ukupno razdoblje trajanja tog proizvoda, te radi bolje
+informiranosti potrošača o utjecaju proizvoda na okoliš. Eko-oznaka dodjeljuje se proizvodima i uslugama.
+Eko-oznaka je amblem koji se utvrđuje provedbenim propisima.
+Utjecaji na okoliš se utvrđuju na temelju ispitivanja međusobnog djelovanja proizvoda s okolišem, uključujući
+korištenje energije i prirodnih resursa u odnosu na ukupan životni ciklus proizvoda.
+Sustav dodjele eko-oznaka mora biti sukladan postojećim i novonastalim zdravstvenim, sigurnosnim i okolišnim
+zah- tjevima.
+Sustav dodjele eko-oznaka obavlja se na način koji omogućuje dragovoljno sudjelovanje pravnih i fizičkih osoba
+čiji proizvodi i usluge udovoljuju zahtjevima ovoga sustava, suk- adno odredbama ovoga zakona i provedbenih
+propisa.
+Članak 94.
+Eko-oznaka se može dodijeliti proizvodima dostupnim u Federaciji, koji su sukladni temeljnim okolišnim
+zahtjevima i kriteriju eko-oznaka uspostavljenom prema skupini proizvoda.
+Pod skupinom proizvoda podrazumijeva se bilo koja vrsta proizvoda ili usluga sa sličnim namjenama te se kao
+takve izjednačuju u smislu uporabe i opažanja od potrošača.
+Za uvrštenost u ovu vrstu označavanja skupina proizvoda mora ispunjavati sljedeće uvjete:
+•
+•
+
+biti zastupljena u znatnoj mjeri u prodaji i prometu na tržištu;
+uključivati, tijekom jedne ili više faza ukupnog životnog ciklusa proizvoda, važan utjecaj na okoliš na
+globalnom ili regionalnom planu;
+
+•
+
+•
+
+značiti veliku mogućnost utjecaja na okoliš u smislu poboljšanja okoliša putem izbora potrošača i biti
+poticaj proizvođačima, ili onima koji pružaju usluge za iznalaženje konkurentske prednosti, nudeći
+proizvode odgovarajuće sustavu eko-oznaka, i
+znatan se dio prodajne količine proizvoda te skupine treba nalaziti u prodaji za konačnu potrošnju i
+uporabu.
+
+Eko-oznake se ne mogu stavljati na supstance ili preparate koji su označeni kao veoma toksični i opasni po okoliš
+ili su karcinogeni, toksični za reprodukciju ili su mutageni, niti na proizvode koji se izrađuju u procesima u
+kojima postoji vjerojatnoća da su izrazito opasni po ljudsko zdravlje ili okoliš ili njihova uobičajena primjena
+može biti opasna za potrošača.
+Dodjela eko-oznaka za hranu, piće, ljekarničke ili medicin- ske uređaje uredit će se provedbenim propisom.
+Članak 95.
+Federalno ministarstvo, sukladno provedbenim propisima, upravlja sustavom eko-oznaka od izbora skupina
+proizvoda i njihovog ekološkog kriterija do dodjele eko-oznake i zaključenja ugovora koji se odnosi na uvjete
+uporabe oznake.
+Izbor skupina proizvoda i ekološki kriterij tih skupina se uspostavlja nakon konzultacija s predstavnicima
+interesnih skupina u području industrije, trgovine, potrošačkih organizacija i organizacija za pitanje okoliša.
+Interesne skupine same biraju svoje predstavnike ovisno od skupine proizvoda o kojima se radi.
+Federalni ministar utvrđuje pravila postupka provedbenim propisom.
+Članak 96.
+Eko-oznaka se dodjeljuje na temelju dragovoljnih zahtjeva podnesenih od proizvođača, uvoznika, snabdjevača
+uslugama, trgovaca, maloprodajnih trgovaca.
+Odluku o dodjeli eko-oznake donosi Federalno ministarstvo nakon provjere jesu li ispoštovani zahtjevi ekološkog
+kriterija za te skupine proizvoda.
+Eko-oznaka dodjeljuje se za razdoblje od tri godine.
+Federalno ministarstvo zaključuje ugovor s podnositeljem zahtjeva za eko-oznaku kojim se utvrđuju uvjeti
+korištenja oznake i povlačenje ovlaštenja za korištenje oznake.
+Troškovi obrade zahtjeva i pristojbe za korištenje oznake uređuju se provedbenim propisom iz članka 95. stavak
+3. ovoga zakona.
+Eko-oznaka se ne može koristiti, niti se može pozivati na eko-oznaku pri reklamiranju dok se ne izobavlja dodjela
+oznake, a nakon dodjele može se koristiti samo za onu vrstu proizvoda za koju je dodijeljena.
+Članak 97.
+Sustav okolišnog upravljanja
+Sustav okolišnog upravljanja je sastavni dio ukupnog sustava bilo koje organizacije (primjerice: poduzeća,
+instituta za istraživanje ili naobrazbu, administracijske organizacije, itd.) i obuhvaća organizacijski ustroj,
+odgovornosti, prakse, postupke, procese i resurse za utvrđivanje provedbe sustava zaštite okoliša.
+Glavni ciljevi sustava iz stavka 1. ovoga članka su izobavljati procjenu i unaprjeđivanje operativnih djelatnosti u
+okviru zaštite okoliša, pružanje odgovarajućih informacija javnosti i stalno unaprjeđivanje operativnih djelatnosti
+u okviru zaštite okoliša.
+
+Temeljni elementi sustava okolišnog upravljanja su:
+•
+•
+•
+
+uspostava i provedba politike zaštite okoliša, programa i sustava upravljanja od organizacija;
+sustavne, objektivne i periodične procjene djelovanja elemenata iz alineje 1. ovoga stavka i
+informiranje o stalnom unaprjeđivanju u području zaštite okoliša.
+Članak 98.
+
+Sustav okolišnog upravljanja i audit, upisnik koji obuhvaća uvjete sudjelovanja u tome sustavu i postupak za
+evidentiranje u upisniku uređuju se posebnim propisom.
+Organizacije koje ispunjavaju uvjete za uključivanje u sustav okolišnog upravljanja moraju se registrirati.
+Registriranje organizacije, na temelju propisane okolišne izjave, obavlja nadležni organ.
+Za registriranje organizacije, pouzeće mora ispunjavati sljedeće uvjete:
+•
+
+•
+•
+
+•
+•
+
+•
+•
+•
+
+usvojiti mjere zaštite okoliša koje, osim što moraju biti suladne određenim zakonskim uvjetima,koji se
+odnose na pitanja okoliša, moraju obuhvaćati obveze kojima je cilj stalno unaprjeđivanje u području
+zaštite okoliša u smislu smanjivanja štetnog utjecaja na okoliš do razine koja odgovara ekonomski
+izvodljivoj primjeni odgovarajućih najboljih raspoloživih tehnologija;
+obavljati okolišne preglede;
+uvesti program zaštite okoliša i sustav okolišnog upravljanja primjenjiv za sve djelatnosti na tome
+mjestu. Programu je zaštite okoliša cilj ostvarivanje obveza sadržanih u mjerama zaštite i poboljšanja
+okoliša i unaprjeđivanje rada;
+provoditi audit i doprinositi auditu u pogledu zaštite okoliša;
+uspostaviti ciljeve na najvišoj razini odgovarajućeg sustava upravljanja koji su usmjereni ka stalnom
+unaprjeđivanju rada u području zaštite okoliša, u smislu određivanja audita i revidirati programe za
+zaštitu okoliša kako bi se omogućilo ostvarivanje ciljeva;
+pripremiti okolišni iskaz koji se objavljuje javno;
+imati sustavne mjere zaštite okoliša, program, sustav upravljanja, izobavljati pregled ili postupak
+nadzora i okolišnog iskaza ili provjeriti odgovara li okolišni iskaz zahtjevima neovisnih ovjerovatelja;
+dostaviti važeći okolišni iskaz nadležnom organu.
+Članak 99.
+Dragovoljni sporazumi
+
+Zaključivanje dragovoljnih sporazuma između organa koji zastupaju određene interese, skupina potencijalnih
+zagađivača ili pojedinačnih zagađivača i nadležnih organa uređuje se posebnim propisima kako bi se zadovoljili
+okolišni zahtjevi na okolišno prihvatljiv i ekonomski učinkovit način.
+Članak 100.
+Za zaključivanje dragovoljnih sporazuma potrebno je:
+•
+•
+•
+•
+•
+
+uspostaviti proces konzultacija u kojemu bi zainteresirane strane mogle dati svoje naputke o nacrtu
+sporazuma;
+zaključiti ugovor koji je obvezujući i može obuhvaćati sankcije primjenjive u slučaju nepoštovanja
+ugovora;
+konkretne ciljevi ugovora iskazati brojčanim vrijednostima;
+uspostaviti prijelazne ciljeve i definirati rok radi postizanja postupnog pristupa i
+definirati monitoring.
+
+Sporazum se objavljuje u "Službenim novinama Federacije BiH".
+
+XIV - FINANCIRANJE ZAŠTITE OKOLIŠA
+Članak 101.
+Fondovi za zaštitu okoliša
+Federalni fond za zaštitu okoliša i kantonalni fondovi za zaštitu okoliša osnivat će se zakonom s ciljem
+unaprjeđivanja razvitka ekonomskog ustroja povoljnog po okoliš; spriječavanja štete po okoliš; otklanjanja
+nastale štete u okolišu; očuvanja zaštićenih prirodnih područja; motiviranja i unaprjeđivanja najbolje raspoložive
+tehnologije i alternativa; unaprjeđivanja ekološke svijesti javnosti i istraživanja okoliša.
+Članak 102.
+Sredstva Federalnog fonda za zaštitu okoliša čine:
+•
+•
+•
+•
+
+sredstva iz proračuna Federacije;
+darovnice, zajmovi i krediti,
+naknade za obavljanje djelatnosti korištenjem resursa i
+financijski instrumenti koji obuhvaćaju naknade utvrđene odredbama od čl. 103. do 109. ovoga zakona.
+
+Propisom iz članka 101. ovoga zakona utvrdit će se visina i način obračuna i raspodjele sredstava iz stavka 1.
+ovoga članka.
+XV - ODGOVORNOST ZA ŠTETU U OKOLIŠU
+Članak 103.
+Radi spriječavanja nanošenja štete okolišu i osiguranja odgovarajue naknade, ovim zakonom uređuje se
+odgovornost za djelatnosti opasne po okoliš, sanaciju štete nanesene okolišu, teret dokazivanja, pristup
+informacijama o odgovornim osobama, pravila za davanje prava nevladinim organizacijama i dužnost odgovornih
+osoba da nadoknade štetu.
+Članak 104.
+Odgovornost za djelatnosti opasne po okoliš
+Operator koji obavlja djelatnost opasnu po okoliš odgovoran je za štetu nanesenu tom aktivnošću ljudima,
+imovini i okolišu, bez obzira na krivnju.
+Djelatnosti opasne po okoliš su one koje značiju značajan rizik za ljude, imovinu ili okoliš i to:
+•
+•
+•
+
+upravljanje lokacijama opasnim po okoliš,
+oslobađanje genetički modificiranih organizama i
+oslobađanje mikroorganizama.
+
+Lokacije značiju opasnost po okoliš zbog načina na koji se njima upravlja ili zbog tvarala koji se na njima koriste,
+kao što su rudnici, nalazišta mineralnih ulja ili rafinerije, postrojenja za snabdijevanje plinom i taljenje,
+termolektrane, koksne peći, postrojenja za proizvodnju i obradu metala i minerala, kemijska postrojenja,
+postrojenja za tretman, spaljivanje i skladištenje otpada, postrojenja za tretman otpadnih voda, klaonice,
+bojaonice i kožare, postrojenja za proizvodnju papira, brane, plinovodi ili naftovodi.
+Organizmi su bilo koje biološke jedinke sposobne za razmnažanje ili prenošenje genetičkog tvarala.
+Mikroorganizmi su bilo koje mikrobiološke jedinke, stanične ili bestanične, sposobne za replikaciju ili prijenos
+genetičkih tvari.
+
+Ukoliko više operatora zajedno obavlja opasnu djelatnost odgovornost snose zajednički. Za lokacije na kojima je
+rad prestao, odgovornost snosi posljednji operator.
+Članak 105.
+Izuzeci od odgovornosti
+Operator nije odgovoran za štetu uzrokovanu:
+•
+•
+•
+
+ratom ili nekom posebnom prirodnom pojavom;
+od strane treće osobe čija je namjera nanošenje štete ili
+zbog posebnih naredaba i mjera nadležnih organa koje su izravno uzročile štetu.
+
+Operator se oslobađa odgovornosti za štetu ukoliko dokaže da je primijenio odgovarajuće mjere zaštite koje su
+okolnosti zahtijevale kako bi spriječio ili ublažio štetu.
+Članak 106.
+Pretpostavka uzročnosti
+Ukoliko djelatnost opasna po okoliš može uslijed specifičnih okolnosti slučaja uzročiti štetu smatrat će se da je
+šteta nastala tom aktivnošću.
+Djelatnost koja uzroči štetu se procijenjuje na temelju načina rada, korištenih postrojenja, vrste i koncentracije
+tvara koje se upotrebljavaju ili nastaju tom aktivnošću, genetički modifici- ranih organizama ili mikroorganizama,
+meteoroloških uvjeta kao i vremena i mjesta nastanka štete.
+Pretpostavka uzročnosti se odbacuje ukoliko operator dokaže da nije uzročio štetu ili ukoliko dokaže kako je
+vjerovatnije da je štetu uzročio drugi operator ili neka druga okolnost.
+Članak 107.
+Pravo na informiranje
+Svatko tko tvrdi da je pretrpio štetu aktivnošću opasnom po okoliš može u bilo koje vrijeme zahtijevati podatke
+od operatora o okolnostima koje su od utjecaja za dokazivanje kako je dana djelatnost uzročila štetu.
+Operator protiv kojega je podnesena tužba za naknadu štete ima pravo na informacije od drugoga operatora
+sukladno stavku 1. ovoga članka.
+Članak 108.
+Financijska jamstva
+Operator koji obavlja djelatnost opasnu po okoliš dužan je putem osiguranja ili na neki drugi način osigurati
+sredstva za naknadu eventualne štete.
+Članak 109.
+Šteta nanesena okolišu
+Ukoliko opasna djelatnost nanosi štetu okolišu operator je dužan nadoknaditi troškove procjene štete i troškove
+mjera za povrat u prijašnje stanje.
+
+Zahtjev za naknadu štete obuhvaća i troškove mjera za spriječavanje ili ublaživanje štete nanesene okolišu kao i
+visinu štete nanesenu osobama i imovini koje su prouzročene tim mjerama.
+Pravo na troškove iz st. 1. i 2. ovoga članka snosi osoba koja poduzima ove mjere.
+Članak 110.
+Naknada za izazvanu štetu po okoliš
+Ukoliko se šteta nanesena okolišu ne može sanirati odgovarajućim mjerama, osoba koja je uzročila štetu
+odgovorna je za naknadu u visini vrijednosti uništenog dobra.
+Visina naknade treba biti približna ekonomskoj i ekološkoj vrijednosti uništenog dobra. Ukoliko se ta vrijednost
+ne može utvrditi uobičajenim ekonomskim metodama, sud će ustvrditi visinu štete po principu jednakosti
+uzimajući u obzir potrebne troškove sanacije, rizik koji djelatnost znači za okoliš, stupanj individualne
+odgovornosti i korist stečenu nanošenjem štete okolišu.
+Ukoliko odgovorna osoba nije uzročila štetu namjerno ili krajnjom nepažnjom ili ukoliko je odgovorna osoba
+slabog imovnog stanja te bi ga isplata dovela u oskudicu, sud može smanjiti iznos naknade na razumnu razinu.
+Federacija zadržava pravo na naknadu štete ukoliko nema drugih osoba koje imaju to pravo.
+Članak 111.
+Pitanja o odgovornosti za štetu nanesenu okolišu koja nisu posebno uređena ovim zakonom primjenjuju se opća
+pravila Zakona o obligacijskim odnosima.
+XVI - MEĐUENTITETSKA SURADNJA
+Članak 112.
+Međuentitetsko tijelo za okoliš uspostavlja se odlukama Vlade FBiH i Vlade Republike Srpske.
+Međuentitetsko tijelo za okoliš sastoji se od osam članova. Četiri člana imenuje Vlada FBiH, a četiri člana
+imenuje Vlada Republike Srpske.
+Međuentitetsko tijelo za okoliš se redovito sastaje najmanje šest puta godišnje i donosi odluke na temelju
+konsenzusa.
+Organizacija i način rada Međuentitetskog tijela za okoliš utvrdit će se odlukama entitetskih vlada.
+Nadležni organi i druge službe organa uprave, upravne organizacije iz oba entiteta dužni su pružati
+administracijsku potporu Međuentitetskom tijelu za okoliš, provoditi odluke Međuentitetskog tijela za okoliš
+sukladno ovlaštenjima utvrđenim entitetskim propisima.
+Članak 113.
+Međuentitetsko tijelo za okoliš se bavi svim pitanjima u području okoliša koja zahtijevaju usuglašen pristup
+entiteta, kao i drugim pitanjima koja su prenesena na Međuentitetsko tijelo za okoliš od entiteta ovim zakonom i
+drugim propisima, a osobito pitanja:
+•
+•
+•
+•
+
+međunarodnih sporazuma i programa u području okoliša;
+suradnje s međunarodnim organizacijama i drugim zemljama;
+koordiniranje primjene i donošenja zakona i drugih propisa;
+koordiniranje monitoringa provedbe standarda i procedura za okoliš;
+
+•
+•
+•
+•
+
+davanje preporuka za uspostavu usuglašenih standarda kvalitete okoliša na razini entiteta;
+koordiniranje entitetskih akcijskih planova i drugih programa i planova u području okoliša,
+koordiniranje monitoringa i sustava informiranja i
+prikupljanje i razmjena informacija.
+
+Međuentitetsko tijelo za okoliš pruža stručnu pomoć nadležnim entitetskim ministarstvima.
+Međuentitetsko tijelo za okoliš dužno je osigurati uobzirenje interesa oba entiteta pri planiranju projekata, osobito
+kada su u pitanju različite vrste korištenja okoliša koje su u proturječju, u područjima koja presijecaju
+međuentitetske crte razgraničenja.
+Članak 114.
+Međuentitetski program zaštite okoliša
+Međuentitetsko tijelo za okoliš donosi Međuentitetski program zaštite okoliša.
+Međuentitetski program zaštite okoliša obuhvaća pitanja koja zahtijevaju usuglašen pristup entiteta, naglašujući
+pozornost na suradnju na međunarodnoj razini i međunarodnim obvezama.
+Međuentitetski program zaštite okoliša izrađuje zajednička radna skupina koju formiraju predstavnici entiteta, uz
+ravnomjernu zastupljenost predstavnika entiteta, kantona, stručnih i poslovnih organizacija i udruga za zaštitu
+okoliša.
+Vlada FBiH imenuje 15 predstavnika za radnu skupinu, od kojih je po pet predstavnika federalnih ministarstava,
+kantona i stručnih, poslovnih organizacija i udruga za zaštitu okoliša na prijedlog federalnog ministra.
+Zajednička radna skupina formira se u roku od 90 dana od dana stupanja na snagu ovoga zakona. Radna skupina
+dužna je pripremiti nacrt međuentitetskog programa zaštite okoliša u roku od 6 mjeseci od dana formiranja.
+Nacrt međuentitetskog programa zaštite okoliša dostavlja se Savjetodavnom vijeću za okoliš i vladama entiteta
+radi davanja mišljenja u roku od 30 dana od dana dostave.
+Nakon obavljenih konzultacija zajednička radna skupina izrađuje konačan nacrt međuentitetskog programa i
+dostavlja ga Međuentitetskom tijelu za okoliš.
+Međuentitetski program zaštite okoliša se objavljuje u "Službenom glasniku BiH".
+Članak 115.
+Međunarodna suradnja
+Entiteti, pomoću Međuentitetskog tijela za okoliš, sudjeluju u međunarodnoj suradnji u područj okoliša putem
+nadležnog ministarstva Bosne i Hercegovine.
+XVII - KAZNENE ODREDBE
+Članak 116.
+Novčanom kaznom u iznosu od 1.000 KM do 10.000 KM kaznit će se za prekršaj svaka pravna osoba koja:
+•
+•
+•
+
+prekrši zahtjeve iz članka 67. ovoga zakona;
+izgradi ili upravlja radom pogona i postrojenja ili obav- lja djelatnosti bez pribavljenog okolišnog
+dopuštenja ili oprečno okolišnom dopuštenju ili propisima;
+ne ispunjava zahtjeve ili uvjete utvrđene okolišnim dopuštenjem ili propisima;
+
+•
+•
+•
+
+ne podnosi nadležnim organima informacije, podatke ili dokumente potrebne prema ovom zakonu ili
+drugim propisima;
+ne izradi Plan preventivnih mjera za spriječavanje nesreća većih srazmjera i ne poduzme preventivne
+mjere i
+ne izradi unutarnji plan intervencije i ne dostavi ga organu iz članka 83. ovog zakona.
+
+Novčanom kaznom u iznosu od 500 KM do 2.000 KM za prekršaje iz stavka 1. ovoga članka kaznit će se
+odgovorna osoba u pravnoj osobi.
+XVIII - PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 117.
+Parlament Federacije donijet će propis iz članka 48. ovoga zakona u roku od dvije godine od dana stupanja na
+snagu ovoga zakona.
+Parlament Federacije donijet će propis iz članka 101. ovoga zakona u roku od tri mjeseca od dana stupanja na
+snagu ovoga zakona.
+Vlada FBiH donijet će propis iz članka 46. stavak 7. ovoga zakona u roku od tri godine od dana stupanja na
+snagu ovoga zakona.
+Federalni ministar donijet će propise iz čl. 28., 35., 72., stavak 2., 85., stavak 2., 86., 87., 90., stavak 5. , 93.,
+stavak 2. i 95., stavak 3. ovoga zakona u roku od godinu dana od dana stupanja na snagu ovoga zakona.
+Federalni ministar donijet će propise iz čl. 56., 59. i 78. ovoga zakona u roku od tri mjeseca od dana stupanja na
+snagu ovoga zakona.
+Međuentitetsko tijelo za okoliš donijet će propis iz članka 114., stavak 1. ovoga zakona u roku od šest mjeseci od
+dana stupanja na snagu ovoga zakona.
+Skpština kantona donijet će propis iz članka 49. stavak 6. ovoga zakona u roku od tri godine od dana stupanja na
+snagu ovoga zakona.
+Članak 118.
+Odredbe posebnih zakona i provedbenih propisa kojima se uređuju pitanja zaštite okoliša koji nisu u oprečnosti
+sa ovim zakonom nastavljaju se primjenjivati.
+Članak 119.
+Ovaj zakon stupa na snagu osmoga dana od dana objave u "Službenim novinama Federacije BiH" a primjenjuje
+se istjekom 90 dana od dana stupanja na snagu.
+
+Predsjedatelj
+Doma naroda
+Parlamenta Federacije BiH
+Slavko Matić, v. r.
+
+Predsjedatelj
+Zastupničkog doma
+
+Parlamenta Federacije BiH
+Muhamed Ibrahimović, v. r.
+

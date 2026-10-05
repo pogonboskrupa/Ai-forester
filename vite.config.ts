@@ -3,6 +3,7 @@ import { VitePWA } from 'vite-plugin-pwa';
 
 // base './' jer GitHub Pages servira app iz podputanje (/Ai-forester/)
 export default defineConfig({
+  esbuild: { jsx: 'automatic', jsxImportSource: 'preact' },
   base: './',
   plugins: [
     VitePWA({

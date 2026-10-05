@@ -1,4 +1,5 @@
 node_modules
 dist
-public/data/articles.json
+public/data/
 .dev.vars
+__pycache__/

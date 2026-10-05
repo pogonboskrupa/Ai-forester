@@ -1,11 +1,452 @@
 [
-  {
-    "id": "usk-zakon-o-sumama",
-    "file": "usk-zakon-o-sumama.txt",
-    "title": "Zakon o šumama Unsko-sanskog kantona",
-    "level": "USK",
-    "gazette": "TODO: Službeni glasnik USK, broj/godina",
-    "inForce": true,
-    "sourceUrl": "TODO"
-  }
+ {
+  "id": "usk-zakon-o-sumama",
+  "file": "usk-zakon-o-sumama.txt",
+  "title": "Zakon o šumama USK",
+  "level": "USK",
+  "gazette": "Sl. glasnik USK 22/12 (izmjene: 16/16, 12/17)",
+  "inForce": true,
+  "sourceUrl": "https://vladausk.ba/v4/preuzimanje/9",
+  "topic": "Šumarstvo"
+ },
+ {
+  "id": "usk-zakon-izmjene-dopune-2016",
+  "file": "usk-zakon-izmjene-dopune-2016.txt",
+  "title": "Zakon o izmjenama i dopunama Zakona o šumama USK",
+  "level": "USK",
+  "gazette": "Sl. glasnik USK 16/16",
+  "inForce": true,
+  "sourceUrl": "https://vladausk.ba/v4/preuzimanje/9",
+  "topic": "Šumarstvo"
+ },
+ {
+  "id": "usk-zakon-izmjena-2017",
+  "file": "usk-zakon-izmjena-2017.txt",
+  "title": "Zakon o izmjeni Zakona o šumama USK",
+  "level": "USK",
+  "gazette": "Sl. glasnik USK 12/17",
+  "inForce": true,
+  "sourceUrl": "https://vladausk.ba/v4/preuzimanje/9",
+  "topic": "Šumarstvo"
+ },
+ {
+  "id": "usk-pravilnik-doznaka",
+  "file": "usk-pravilnik-doznaka.txt",
+  "title": "Pravilnik o načinu odabiranja, doznaci i sječi stabala ili površina za sječu (USK)",
+  "level": "USK",
+  "gazette": "Sl. glasnik USK 26/12",
+  "inForce": true,
+  "sourceUrl": "https://vladausk.ba/v4/preuzimanje/9",
+  "topic": "Šumarstvo"
+ },
+ {
+  "id": "usk-pravilnik-sumski-red",
+  "file": "usk-pravilnik-sumski-red.txt",
+  "title": "Pravilnik o obimu mjera o uspostavljanju i održavanju šumskog reda (USK)",
+  "level": "USK",
+  "gazette": "Sl. glasnik USK 26/12",
+  "inForce": true,
+  "sourceUrl": "https://vladausk.ba/v4/preuzimanje/9",
+  "topic": "Šumarstvo"
+ },
+ {
+  "id": "usk-pravilnik-pasa-sekundarni",
+  "file": "usk-pravilnik-pasa-sekundarni.txt",
+  "title": "Pravilnik o uslovima za pašu, žirenje, brst, kresanje i skupljanje u šumi (USK)",
+  "level": "USK",
+  "gazette": "Sl. glasnik USK 26/12",
+  "inForce": true,
+  "sourceUrl": "https://vladausk.ba/v4/preuzimanje/9",
+  "topic": "Šumarstvo"
+ },
+ {
+  "id": "usk-pravilnik-cuvari",
+  "file": "usk-pravilnik-cuvari.txt",
+  "title": "Pravilnik o zadacima čuvara šuma, legitimaciji i uniformi (USK)",
+  "level": "USK",
+  "gazette": "Sl. glasnik USK 26/12",
+  "inForce": true,
+  "sourceUrl": "https://vladausk.ba/v4/preuzimanje/9",
+  "topic": "Šumarstvo"
+ },
+ {
+  "id": "usk-pravilnik-zigosanje-otpremni",
+  "file": "usk-pravilnik-zigosanje-otpremni.txt",
+  "title": "Pravilnik o žigosanju, obrojčavanju, premjeravanju i otpremnom iskazu za drvo (USK)",
+  "level": "USK",
+  "gazette": "Sl. glasnik USK 26/12",
+  "inForce": true,
+  "sourceUrl": "https://vladausk.ba/v4/preuzimanje/9",
+  "topic": "Šumarstvo"
+ },
+ {
+  "id": "usk-odluka-zakup-sumskog-zemljista",
+  "file": "usk-odluka-zakup-sumskog-zemljista.txt",
+  "title": "Odluka o uslovima i načinu davanja šumskog zemljišta u državnom vlasništvu u zakup (USK)",
+  "level": "USK",
+  "gazette": "Sl. glasnik USK 7/13",
+  "inForce": true,
+  "sourceUrl": "https://vladausk.ba/v4/preuzimanje/9",
+  "topic": "Šumarstvo"
+ },
+ {
+  "id": "fbih-zakon-o-lovstvu",
+  "file": "fbih-zakon-o-lovstvu.txt",
+  "title": "Zakon o lovstvu FBiH (prečišćeni tekst, radni materijal)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 4/06, 8/10, 81/14",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-zakoni/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-zakon-o-sjemenu",
+  "file": "fbih-zakon-o-sjemenu.txt",
+  "title": "Zakon o sjemenu i sadnom materijalu šumskih i hortikulturnih vrsta drveća i grmlja (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 71/05",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-zakoni/",
+  "topic": "Sjeme i rasadnici"
+ },
+ {
+  "id": "fbih-zakon-o-sjemenu-izmjene",
+  "file": "fbih-zakon-o-sjemenu-izmjene.txt",
+  "title": "Zakon o izmjenama Zakona o sjemenu i sadnom materijalu šumskih i hortikulturnih vrsta (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH (izmjene)",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-zakoni/",
+  "topic": "Sjeme i rasadnici"
+ },
+ {
+  "id": "bih-zakon-zdravlje-bilja",
+  "file": "bih-zakon-zdravlje-bilja.txt",
+  "title": "Zakon o zaštiti zdravlja bilja (BiH)",
+  "level": "BiH",
+  "gazette": "Sl. glasnik BiH 23/03",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-zakoni/",
+  "topic": "Zdravlje bilja"
+ },
+ {
+  "id": "fbih-naputak-naknade-sume",
+  "file": "fbih-naputak-naknade-sume.txt",
+  "title": "Naputak o načinu obračunavanja, rokovima i postupku plaćanja naknada za zaštitu i unapređenje šuma (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 44/10",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-pravilnici/",
+  "topic": "Šumarstvo"
+ },
+ {
+  "id": "fbih-odluka-prodaja-sortimenata",
+  "file": "fbih-odluka-prodaja-sortimenata.txt",
+  "title": "Odluka o načinu prodaje šumskih drvnih sortimenata iz državnih šuma (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH (Vlada FBiH)",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-odluke/",
+  "topic": "Šumarstvo"
+ },
+ {
+  "id": "fbih-odluka-prodaja-sortimenata-izmjene",
+  "file": "fbih-odluka-prodaja-sortimenata-izmjene.txt",
+  "title": "Odluka o izmjenama i dopunama Odluke o načinu prodaje šumskih drvnih sortimenata (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH (Vlada FBiH)",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-odluke/",
+  "topic": "Šumarstvo"
+ },
+ {
+  "id": "fbih-pravilnik-registri-sjemena",
+  "file": "fbih-pravilnik-registri-sjemena.txt",
+  "title": "Pravilnik o sadržaju, obliku i načinu vođenja registara šumskog i hortikulturnog sjemena i sadnog materijala (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 28/06",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-pravilnici/",
+  "topic": "Sjeme i rasadnici"
+ },
+ {
+  "id": "fbih-pravilnik-evidencija-rasadnicka",
+  "file": "fbih-pravilnik-evidencija-rasadnicka.txt",
+  "title": "Pravilnik o evidenciji o pregledanoj rasadničkoj proizvodnji (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 19/08",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-pravilnici/",
+  "topic": "Sjeme i rasadnici"
+ },
+ {
+  "id": "fbih-pravilnik-kvalitet-sjemena",
+  "file": "fbih-pravilnik-kvalitet-sjemena.txt",
+  "title": "Pravilnik o uslovima koji osiguravaju zadržavanje kvaliteta sjemena (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 75/12",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-pravilnici/",
+  "topic": "Sjeme i rasadnici"
+ },
+ {
+  "id": "fbih-pravilnik-strucni-pregled",
+  "file": "fbih-pravilnik-strucni-pregled.txt",
+  "title": "Pravilnik o načinu i metodologiji provođenja stručnog pregleda nad proizvodnjom sjemena (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 81/06",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-pravilnici/",
+  "topic": "Sjeme i rasadnici"
+ },
+ {
+  "id": "fbih-pravilnik-kvalitet-sadnog",
+  "file": "fbih-pravilnik-kvalitet-sadnog.txt",
+  "title": "Pravilnik o uslovima koji osiguravaju održavanje kvaliteta šumskog i hortikulturnog sadnog materijala (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 19/08",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-pravilnici/",
+  "topic": "Sjeme i rasadnici"
+ },
+ {
+  "id": "fbih-pravilnik-ovlastene-ustanove",
+  "file": "fbih-pravilnik-ovlastene-ustanove.txt",
+  "title": "Pravilnik o uslovima za ovlaštene ustanove za izradu programa gospodarenja sjemenskim sastojinama (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 75/12",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-pravilnici/",
+  "topic": "Sjeme i rasadnici"
+ },
+ {
+  "id": "fbih-pravilnik-naknada-pregled",
+  "file": "fbih-pravilnik-naknada-pregled.txt",
+  "title": "Pravilnik o visini naknade za stručni pregled proizvodnje sjemena i sadnog materijala (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 75/12",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-pravilnici/",
+  "topic": "Sjeme i rasadnici"
+ },
+ {
+  "id": "fbih-pravilnik-lgo",
+  "file": "fbih-pravilnik-lgo.txt",
+  "title": "Pravilnik o sadržaju i nositeljima izrade lovnogospodarske osnove i godišnjeg plana gospodarenja (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 63/06",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-pravilnici/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-pravilnik-strucna-sluzba-lov",
+  "file": "fbih-pravilnik-strucna-sluzba-lov.txt",
+  "title": "Pravilnik o stručnoj službi za provedbu lovnogospodarske osnove (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 63/06",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-pravilnici/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-pravilnik-uvjeti-gospodarenja-lov",
+  "file": "fbih-pravilnik-uvjeti-gospodarenja-lov.txt",
+  "title": "Pravilnik o uvjetima gospodarenja lovištima (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 63/06",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-pravilnici/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-cjenovnik-odstrjel",
+  "file": "fbih-cjenovnik-odstrjel.txt",
+  "title": "Cjenovnik odstrjela i upotrebe divljači te drugih usluga u lovištu (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 74/12",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-pravilnici/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-pravilnik-sokolarski",
+  "file": "fbih-pravilnik-sokolarski.txt",
+  "title": "Pravilnik o programu sokolarskog ispita i načinu lova divljači pticama grabljivicama (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 31/09",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-pravilnici/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-pravilnik-vrijeme-lova",
+  "file": "fbih-pravilnik-vrijeme-lova.txt",
+  "title": "Pravilnik o vremenu lova divljači (lovostaj) (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 5/08",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-pravilnici/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-pravilnik-psi-lov",
+  "file": "fbih-pravilnik-psi-lov.txt",
+  "title": "Pravilnik o vrsti i broju pasa za lov na pojedine vrste divljači (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 5/08",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-pravilnici/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-pravilnik-legitimacija-lovocuvara",
+  "file": "fbih-pravilnik-legitimacija-lovocuvara.txt",
+  "title": "Pravilnik o obliku i sadržaju legitimacije lovočuvara (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 5/08",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-pravilnici/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-pravilnik-granice-lovista",
+  "file": "fbih-pravilnik-granice-lovista.txt",
+  "title": "Pravilnik o određivanju i obilježavanju granica lovišta i postupku osnivanja lovišta (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 5/08",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-pravilnici/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-pravilnik-katastar-lovista",
+  "file": "fbih-pravilnik-katastar-lovista.txt",
+  "title": "Pravilnik o sadržaju i načinu vođenja katastra lovišta (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 5/08",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-pravilnici/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-pravilnik-lovacki-ispit",
+  "file": "fbih-pravilnik-lovacki-ispit.txt",
+  "title": "Pravilnik o programu, uvjetima i načinu polaganja lovačkog ispita (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 5/08",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-pravilnici/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-pravilnik-porijeklo-divljaci",
+  "file": "fbih-pravilnik-porijeklo-divljaci.txt",
+  "title": "Pravilnik o obrascu potvrde o porijeklu divljači i uslovima preparacije (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 63/08",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-pravilnici/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-pravilnik-uniforma-lovocuvara",
+  "file": "fbih-pravilnik-uniforma-lovocuvara.txt",
+  "title": "Pravilnik o uniformi, oznakama, oružju i lovočuvarskom rejonu (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 63/08",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-pravilnici/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-pravilnik-trofeji-potvrde",
+  "file": "fbih-pravilnik-trofeji-potvrde.txt",
+  "title": "Pravilnik o potvrdama i trofejnom listu za trofeje odstrijeljene divljači (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 63/08",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-pravilnici/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-pravilnik-lovacko-oruzje",
+  "file": "fbih-pravilnik-lovacko-oruzje.txt",
+  "title": "Pravilnik o načinu upotrebe lovačkog oružja i naboja (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 5/08",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-pravilnici/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-pravilnik-banka-trofeja",
+  "file": "fbih-pravilnik-banka-trofeja.txt",
+  "title": "Pravilnik o banci podataka vrijednih trofeja i kategoriji vrhunskih trofeja (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 74/12",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/lovstvo-pravilnici/",
+  "topic": "Lovstvo"
+ },
+ {
+  "id": "fbih-uredba-o-sumama",
+  "file": "fbih-uredba-o-sumama.txt",
+  "title": "Uredba o šumama (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 83/09 (izmjene: 26/10, 38/10, 60/11)",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-uredbe/",
+  "topic": "Šumarstvo"
+ },
+ {
+  "id": "fbih-uredba-o-sumama-izmjene-2610",
+  "file": "fbih-uredba-o-sumama-izmjene-2610.txt",
+  "title": "Uredba o izmjenama i dopunama Uredbe o šumama (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 26/10",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-uredbe/",
+  "topic": "Šumarstvo"
+ },
+ {
+  "id": "fbih-uredba-o-sumama-izmjene-6011",
+  "file": "fbih-uredba-o-sumama-izmjene-6011.txt",
+  "title": "Uredba o izmjenama Uredbe o šumama (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 60/11",
+  "inForce": true,
+  "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-uredbe/",
+  "topic": "Šumarstvo"
+ },
+ {
+  "id": "fbih-zakon-o-zastiti-okolisa",
+  "file": "fbih-zakon-o-zastiti-okolisa.txt",
+  "title": "Zakon o zaštiti okoliša (FBiH, osnovni tekst)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 33/03 (izmjene: 38/09)",
+  "inForce": true,
+  "sourceUrl": "https://zppks.ba/wp-content/uploads/2022/02/zakon_o_zastiti_okolisa.pdf",
+  "topic": "Okoliš"
+ },
+ {
+  "id": "fbih-zakon-o-vodama",
+  "file": "fbih-zakon-o-vodama.txt",
+  "title": "Zakon o vodama (FBiH)",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 70/06",
+  "inForce": true,
+  "sourceUrl": "https://fuzip.gov.ba/wp-content/uploads/2022/09/Zakon_o_vodama_sl_novine_fbih_br_70_06-2.pdf",
+  "topic": "Vode"
+ },
+ {
+  "id": "usk-zakon-o-zastiti-od-pozara",
+  "file": "usk-zakon-o-zastiti-od-pozara.txt",
+  "title": "Zakon o zaštiti od požara i vatrogastvu USK",
+  "level": "USK",
+  "gazette": "Sl. glasnik USK 4/13",
+  "inForce": true,
+  "sourceUrl": "https://kucz.ks.gov.ba/sites/kucz.ks.gov.ba/files/2025-03/zakon_o_zastiti_od_pozara_i_vatrogastvu_unsko-sanskog_kantona.pdf",
+  "topic": "Požari"
+ }
 ]

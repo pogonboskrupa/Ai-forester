@@ -1,0 +1,2412 @@
+ZAKON
+O ZAŠTITI ZDRAVLJA BILJA
+I - OPĆE ODREDBE
+Član 1.
+Predmet
+Ovim zakonom regulira se zdravlje bilja, određuju se mjere
+i obaveze radi sprečavanja pojave, unošenja i širenja štetnih
+organizama na biljke, biljne proizvode i druge regulirane
+objekte/predmete kao i njihovo iskorjenjivanje, regulira se
+biološka zaštita bilja, određuje prikupljanje i razmjena podataka
+i sistemi informiranja, reguliraju se javne usluge u oblasti
+zdravlja bilja, određuju organi nadležni za provođenje Zakona i
+propisuju kazne za postupanje suprotno odredbama ovog
+zakona.
+Član 2.
+Svrha
+Svrha donošenja ovog zakona je da se osigura zaštita
+zdravlja bilja, a naročito:
+a) zaštita bilja i biljnih proizvoda od štetnih organizama,
+b) sprečavanje unošenja i širenja, kao i borba protiv
+štetnih organizama uvođenjem mjera za zaštitu bilja i
+biljnih proizvoda,
+c) otkrivanje i određivanje štetnih organizama,
+d) omogućavanje optimalne proizvodnje poljoprivrednog
+bilja i trgovina njime,
+e) zaštita okoliša kontrolom nad štetočinama, uvođenjem
+biološke zaštite bilja, aktivnostima praćenja i
+predviđanja,
+f) vođenje i praćenje razvoja zaštite bilja,
+g) osiguranje obrazovanja i informiranja javnosti o
+zdravlju bilja.
+Član 3.
+Značenje pojedinih izraza
+Izrazi upotrijebljeni u ovom zakonu imaju sljedeće
+značenje:
+
+GLASNIK BiH
+1.
+
+Četvrtak, 7. augusta 2003.
+
+Zdravlje bilja znači zaštitu zdravlja bilja, biljnih proizvoda
+i drugih reguliranih objekata od štetnih organizama
+upotrebom fitosanitarnih mjera.
+2. Biljke su:
+a) žive biljke,
+b) živi dijelovi biljki uključujući i sjemenje.
+Živim dijelovima biljki smatra se:
+(a) voće u botaničkom smislu, osim voća sačuvanog
+dubokim zamrzavanjem,
+(b) povrće, osim povrća sačuvanog dubokim zamrzavanjem,
+(c) gomolji, lukovice, rizomi i drugi podzemni dijelovi za
+reprodukciju,
+(d) rezano cvijeće,
+(e) grane s lišćem ili iglicama,
+(f) sječeno drveće s lišćem ili iglicama,
+(g) sjemenje znači sjemena u botaničkom smislu, koja su
+namijenjena za sijanje.
+3. Biljni proizvodi su proizvodi biljnog porijekla, neprerađeni
+ili prerađeni jednostavnim postupkom, ukoliko nisu
+obuhvaćeni u st.1. i 2. Biljni proizvod je i drvo ukoliko je u
+cijelosti ili djelimično sačuvalo svoju prirodnu kružnu
+površinu, okorano ili neokorano, ili je strugotina, iver,
+piljevina, otpaci ili ostaci drveta i ako se koristi u transportu
+za bilo koje vrste predmeta kao što su pregrada, oslonac ili
+paleta u slučaju da to predstavlja rizik za zdravlje biljke.
+4. Sađenje znači stavljanje biljki u svrhu osiguranja njihovog
+daljnjeg rasta i generativne ili vegetativne reprodukcije.
+5. Biljke za sađenje su:
+a) biljke koje su već zasađene i koje će ostati zasađene ili
+će se presaditi,
+b) biljke koje još nisu zasađene, ali su namijenjene za
+sadnju.
+6. Štetočine su organizmi koji pripadaju životinjskom ili
+biljnom carstvu, virusi, mikroplazme (fitoplazme) ili drugi
+patogeni organizmi štetni za biljke i biljne proizvode.
+7. Regulirani objekti/predmeti su polja, skladišta, ambalaža,
+transportna sredstva, kontejneri, tlo, odnosno svaki
+organizam, predmet i materijal koji može sadržavati ili
+ubrzati razvoj štetnog organizma i koji zahtijeva primjenu
+fitosanitarnih mjera.
+8. Pošiljka znači količinu biljki, biljnih proizvoda i
+reguliranih objekata koji se transportuju.
+9. Fitosanitarna mjera je svaki propis ili zvanični ili drugi
+postupak proveden u skladu s ovim članom sa ciljem
+sprečavanja unošenja ili širenja štetnih organizama.
+10. Fitosanitarni propis podrazumijeva ovaj zakon i sve
+propise donesene na osnovu njega i međunarodne ugovore
+iz oblasti zdravlja bilja, a koji su obavezni za Bosnu i
+Hercegovinu.
+11. Zemlja porijekla je zemlja u kojoj su uzrasle biljke iz kojih
+su napravljeni biljni proizvodi.
+12. Prijenos/prijevoz je svaki prijevoz biljki, biljnih proizvoda
+ili reguliranih objekata na teritoriji Bosne i Hercegovine,
+osim prijevoza unutar mjesta proizvodnje.
+13. Mjesto proizvodnje je površina ili grupa polja koja
+predstavlja pojednačnu proizvodnu jedinicu sa svim
+pratećim objektima i mehanizacijom.
+14. Uvoz je dovođenje pošiljki u carinsko područje Bosne i
+Hercegovine, bez obzira koja je vrsta upotrebe u skladu sa
+carinskim propisima dozvoljena za biljke, biljne proizvode i
+regulirane objekte, osim onih namijenjenih za tranzit.
+15. Pojava štetnih organizama je svaka pojava štetnih
+organizama u regionu na kojem štetni organizam još nije
+bio prisutan ili je prisutan u ograničenom stepenu.
+
+Četvrtak, 7. augusta 2003.
+
+SLUŽBENI G
+
+16. Izvoz je svaki izvoz (dijela) pošiljke sa carinskog područja
+Bosne i Hercegovine i obuhvata reeksport i privremeni
+izvoz.
+17. Tranzit je svaki prijevoz pošiljke kroz carinsko područje
+Bosne i Hercegovine pod carinskim nadzorom.
+18. Fitosanitarni certifikat je potvrda o zdravstvenom stanju
+pošiljke izdata od nadležnog tijela ovlaštenog za zdravlje
+bilja, općenito iz zemlje porijekla, a koja prati pošiljku koja
+se uvozi, izvozi ili je u tranzitu.
+19. Fitosanitarni certifikat za reeksport je potvrda o
+zdravstvenom stanju pošiljke izdata od nadležnog tijela
+ovlaštenog za zdravlje bilja zemlje u koju se pošiljka uvozi
+ili je uskladištena, prepakovana ili podijeljena, a koja prati
+pošiljku namijenjenu za reeksport.
+20. Pasoš za biljke je dokument koji potvrđuje da su biljke,
+biljni proizvodi i regulirani objekti/predmeti koji se prevoze
+na teritoriji Bosne i Hercegovine u skladu s odredbama
+ovog zakona, koje se odnose na zdravstvenu ispravnost
+biljaka.
+21. Vlasnik biljki, biljnih proizvoda i drugih reguliranih
+objekata (u daljem tekstu: vlasnik) je fizičko ili pravno lice
+koje ih posjeduje ili koje se bavi uzgojem, obradom,
+menadžmentom, prodajom ili drugom njihovom
+upotrebom.
+22. Kontrola štetnih organizama je zvanični postupak
+prikupljanja i vođenja podataka o prisustvu štetnih
+organizama ili njihovom odsustvu, na osnovu kontrola,
+praćenja zdravstvenog stanja, sistemskog nadzora ili drugih
+postupaka i na osnovu drugih raspoloživih izvora.
+23. Inspekcija je kontrola biljki, biljnih proizvoda ili drugih
+reguliranih objekata sa ciljem utvrđivanja prisustva štetnih
+organizama ili usklađenosti s fitosanitarnim propisima.
+24. Fitosanitarni inspektori, u smislu ovog zakona, inspektori
+su fitosanitarnih službi nadležnih organa entiteta i Brčko
+Distrikta Bosne i Hercegovine (u daljem tekstu: Brčko
+Distrikta).
+25. Nadležni organi, u smislu ovog zakona, su: Uprava Bosne i
+Hercegovine za zaštitu zdravlja bilja i nadležni organi
+entiteta i Brčko Distrikta.
+26. Kontrolno praćenje zdravstvenog stanja je redovan
+kontrolni postupak provjere zdravstvenog stanja biljki.
+27. Zvanični uzorak je uzorak koji izdvoji nadležni inspektor,
+odnosno pravno ili fizičko lice koje je javno ovlašteno na
+osnovu ovog zakona.
+II - ZAŠTITA ZDRAVLJA BILJA
+1. Organizacija i nadležnosti za provođenje mjera zaštite
+zdravlja bilja
+
+1.
+
+2.
+
+3.
+
+Član 4.
+Organizacija zaštite zdravlja bilja
+Zaštita zdravlja bilja je pravo i obaveza nadležnih organa
+Bosne i Hercegovine, entiteta i Brčko Distrikta, fizičkih i
+pravnih lica koji pružaju javne usluge iz oblasti zdravlja
+bilja, i vlasnika (u daljem tekstu: lica koja osiguravaju
+zdravlje bilja).
+U cilju osiguranja zdravlja bilja i vršenja drugih poslova iz
+ovog zakona i primjene međunarodnih konvencija i
+međunarodnih sporazuma iz oblasti zdravlja bilja
+obavezujućih za Bosnu i Hercegovinu, te međuentitetske
+koordinacije praćenja njihove primjene, osnovat će se
+Uprava Bosne i Hercegovine za zaštitu zdravlja bilja (u
+daljem tekstu: Uprava) kao samostalno pravno lice za
+zaštitu zdravlja bilja na cijelom području Bosne i
+Hercegovine.
+Vijeće ministara Bosne i Hercegovine (u daljem
+tekstu:Vijeće ministara) posebnim aktom osniva Upravu, u
+skladu s ovim zakonom, na prijedlog Ministarstva vanjske
+
+GLASNIK BiH
+
+trgovine i ekonomskih odnosa (u daljem tekstu: Ministarstvo).
+Član 5.
+Obaveze nadležnih organa Bosne i Hercegovine i lica koja
+pružaju javne usluge
+1. Nadležni organi Bosne i Hercegovine i lica koja pružaju
+javne usluge iz oblasti zdravlja bilja dužni su vršiti kontrolu
+ili učestvovati u nadzoru nad biljkama, biljnim
+proizvodima, parcelama zemljišta, skladištima, preradi i
+uskladištenju bilja i biljnih proizvoda, sredstvima za
+prijevoz bilja, biljnih proizvoda i reguliranih objekata, u
+cilju otkrivanja i izvještavanja o pojavi ili širenju štetnih
+organizama i njihovom suzbijanju.
+2. Lica koja pružaju javne usluge iz oblasti zdravlja bilja
+moraju bez odgađanja obavijestiti nadležnog inspektora koji
+je dužan obavijestiti nadležne organe o svim novim i
+iznenadnim pojavama štetnih organizama s listi I. A i II. A.
+
+1.
+
+2.
+3.
+4.
+
+Član 6.
+Obaveze vlasnika
+Vlasnici moraju nadzirati biljke koje rastu, uključujući
+kultivirana područja (polja, plantaže, rasadnike, vrtove,
+staklenike), slobodnorastuće biljke, skladišta, preradu i
+uskladištenje biljki i biljnih proizvoda, sredstva za transport
+biljki, biljnih proizvoda i reguliranih objekata, koja imaju za
+svoju upotrebu ili za upotrebu trećih lica ili ih uzgajaju i
+koriste u svrhu otkrivanja pojave ili širenja štetnih
+organizama.
+Vlasnici moraju odmah obavijestiti nadležnog inspektora
+koji je dužan obavijestiti nadležne organe o svim novim i
+iznenadnim pojavama štetnih organizama s listi I. A i II. A.
+Vlasnici moraju preduzeti mjere koje odredi nadležni
+inspektor u cilju sprečavanja širenja štetnih organizama ili
+njihovog suzbijanja.
+Ukoliko vlasnik ne izvrši mjere iz stava 3., nadležni
+inspektor dužan je narediti njihovo izvršenje na teret
+vlasnika.
+
+III - SPREČAVANJE POJAVE I ŠIRENJA ŠTETNIH
+ORGANIZAMA I NJIHOVO SUZBIJANJE
+1. Štetni organizmi, biljke, biljni proizvodi i regulirani
+objekti
+
+1.
+
+2.
+
+3.
+
+1)
+
+Član 7.
+Lista štetočina
+Štetni organizmi klasificiraju se prema riziku koji imaju po
+zdravlje i egzistenciju pojedinačnih vrsta biljki i prema
+riziku izazivanja znatne ekonomske štete. U cilju
+sprečavanja pojave i širenja štetnih organizama, potrebno je
+vršiti kontrolu štetnih organizama i provoditi mjere iz ovog
+zakona.
+Vrste štetnih organizama koji se smatraju posebno opasnim
+za biljke i biljne proizvode klasificiraju se kako slijedi:
+a) Lista I. A i Lista II. A odnosi se na cijelu teritoriju
+Bosne i Hercegovine.
+b) Lista I. B i Lista II. B odnosi se na određene zaštićene
+zone.
+Detaljan sadržaj listi iz ovog člana utvrđuje Vijeće
+ministara, na prijedlog Uprave.
+Član 8.
+Lista bilja, biljnih proizvoda i reguliranih objekata
+Vrste bilja, biljnih proizvoda i reguliranih objekata koji
+nose štetne organizme iz člana 7. stav 2. i koji predstavljaju
+rizik po zdravlje biljki klasificiraju se u sljedeće liste:
+a) Lista III. A koja se odnosi na zabranu unošenja,
+b) Lista III. B koja se odnosi na zabranu unošenja u
+određene zaštićene zone,
+
+SLUŽBENI G
+
+c) Lista IV. A koja se odnosi na specijalne fitosanitarne
+zahtjeve,
+d) Lista IV. B koja se odnosi na specijalne fitosanitarne
+zahtjeve za određene zaštićene zone,
+e) Lista V. A koja sadrži:
+1. Listu V. A I. koja se odnosi na biljne pasoše
+2. Listu V. A II. koja se odnosi na biljne pasoše za
+određene zaštićene zone,
+f) Lista V. B koja sadrži:
+1. Listu V. B I. koja se odnosi na fitosanitarne
+certifikate,
+
+2)
+
+1.
+
+2.
+
+3.
+
+1.
+
+2.
+3.
+
+4.
+
+5.
+
+1.
+
+2.
+
+3.
+
+2. Listu V. B II. koja se odnosi na fitosanitarne
+certifikate za određene zaštićene zone.
+Detaljniji sadržaj listi iz ovog člana određuje Vijeće
+ministara, na prijedlog Uprave.
+Član 9.
+Pojava štetnih organizama
+Ako se štetni organizmi s listi I. A ili II. A pojave na
+teritoriji Bosne i Hercegovine ili štetni organizmi s listi I. B
+ili II. B u posebno zaštićenim zonama ili se na biljkama,
+biljnim proizvodima ili reguliranim objektima pojave
+simptomi na osnovu kojih se sumnja na infekciju štetnim
+organizmima s listi I. A, II. A, I. B ili II. B, nosilac
+vlasništva mora odmah o tome obavijestiti nadležne organe
+na propisani način.
+Lica koja osiguravaju zdravlje bilja moraju odmah zaštititi
+biljke, biljne proizvode i regulirane objekte i spriječiti
+kontakt s drugim biljkama, biljnim proizvodima i
+reguliranim objektima u skladu s nalogom nadležnog
+inspektora.
+Način obavještavanja iz stava 1. utvrđuje Uprava.
+Član 10.
+Potvrđivanje štetnih organizama
+U slučaju sumnje iz stava 1. člana 9. treba izdvojiti zvanični
+uzorak i poslati ga u laboratorij na dijagnostičko testiranje.
+Ovo testiranje treba potvrditi ili odbaciti sumnju na
+infekciju štetnim organizmima i pokušati utvrditi uzrok
+infekcije, pri čemu se mora osigurati takav metod rukovanja
+zvaničnim uzorcima koji neće dovesti do opasnosti širenja
+štetnih organizama i koji će osigurati identitet uzorka.
+Dijagnostičko testiranje iz stava 1. treba uraditi laboratorij
+kojem je dato javno ovlaštenje prema članu 67. stav 1. za
+izvršenje zadataka iz člana 70. tačke 5. ovog zakona.
+Ako se potvrdi infekcija štetnim organizmima s listi I. A ili
+II. A, ili u zaštićenoj zoni s listi I. B ili II. B, nadležni
+inspektor dužan je narediti uništenje ili sklanjanje na drugi
+način, tretman ili drugu propisanu mjeru.
+Nadležni organi dužni su obavijestiti organizacije, servise i
+nosioce vlasništva nad biljkama o pojavi i rizicima od
+štetnih organizama i upoznati ih s najvažnijim mjerama da
+bi se spriječila infekcija štetnim organizmima.
+Uprava utvrđuje mjere iz stava 3.
+Član 11.
+Objavljivanje podataka o štetnim organizmima
+Nadležni organi entiteta i Brčko Distrikta dužni su voditi
+evidenciju na propisan način o pojavi i nalazima o štetnim
+organizmima i drugu potrebnu evidenciju o kontroli, u
+svrhu pružanja informacija na entitetskom nivou.
+Uprava je dužna voditi evidenciju na propisan način o
+pojavi i nalazima o štetnim organizmima i drugu potrebnu
+evidenciju o kontroli, u svrhu pružanja informacija na nivou
+Bosne i Hercegovine i međunarodnom nivou.
+Uprava je dužna propisati detaljniji sadržaj, oblike i metode
+vođenja evidencije iz st. 1. i 2. ovog člana.
+
+GLASNIK BiH
+4.
+5.
+
+1.
+2.
+
+3.
+
+1.
+
+2.
+
+3.
+
+4.
+
+Četvrtak, 7. augusta 2003.
+
+Podaci o pojavi tek otkrivenih štetnih organizama s listi I. A
+ili II. A u Bosni i Hercegovini mogu se dati ili objaviti na
+propisani način, uz prethodno odobrenje Uprave.
+Uprava donosi propis iz stava 4.
+Član 12.
+Posebno regulirano područje
+Posebno regulirano područje inficirano je ili ugroženo ili
+neinficirano područje u kojem je na propisan način
+osigurano zdravlje biljki.
+Kada se utvrdi prisustvo štetnih organizama i dok traje rizik
+uslijed njihovog prisustva, nadležni inspektor dužan je na
+propisan način označiti mjesto zaraze, u odnosu na vrste
+štetnih organizama, narediti propisane mjere i obavijestiti
+nosioce vlasništva o mjestu pojave infekcije.
+Uprava propisuje granice inficiranih, ugroženih i
+neinficiranih područja, mjere za otkrivanje, sprečavanje
+širenja i suzbijanja štetnih organizama, uslove povlačenja
+naređenih mjera i način obavještavanja.
+Član 13.
+Zaštićena zona
+Područja u kojima nije utvrđeno prisustvo jednog ili više
+štetnih organizama uprkos povoljnim uslovima za to ili
+područja u kojima postoji opasnost da će specifični štetni
+organizmi u toku povoljnih ekoloških uslova zaraziti
+određene biljke, uprkos činjenici da ti organizmi nisu
+utvrđeni, mogu se definirati kao zaštićena zona.
+Smatrat će se da je štetni organizam utvrđen u zaštićenoj
+zoni ako je poznato da se on tu javlja i da nisu preduzete
+fitosanitarne mjere za njegovo iskorjenjivanje, ili ako se u
+periodu od najmanje dvije godine pokazalo da su takve
+mjere neefikasne.
+U području u kojem nije utvrđeno prisustvo jednog ili više
+štetnih organizama uprkos povoljnim uslovima za to i ako je
+to područje na propisan način priznato kao zaštićena zona,
+nadležni organi entiteta dužni su na propisani način izvršiti
+ili osigurati izvršenje redovnih i sistemskih kontrola
+prisustva organizama na osnovu kojih je zaštićena zona
+proglašena. U zaštićenoj zoni, u kojoj postoji opasnost da se
+specifični štetni organizmi nastane na određenim biljkama
+pod povoljnim ekološkim uslovima, i ako ti organizmi nisu
+utvrđeni u Bosni i Hercegovini, sistemska kontrola nije
+obavezna.
+Uprava određuje zaštićene zone, detaljnije uslove vršenja
+sistemskih kontrola i liste zaštićenih zona.
+
+2. Zabrane i restrikcije
+
+1.
+2.
+3.
+4.
+
+1.
+2.
+
+Član 14.
+Zabrana unošenja i širenja štetnih organizama
+Zabranjeno je unošenje i širenje štetnih organizama s listi I.
+A i II. A.
+Zabranjeno je i unošenje i širenje u zaštićenu zonu štetnih
+organizama s listi I. B i II. B, na osnovu kojih je zaštićena
+zona proglašena.
+Svaki ulazak na teritoriju Bosne i Hercegovine ili u
+zaštićenu zonu smatrat će se kao unošenje u smislu st.1. i 2.
+Ako postoji rizik za zdravlje bilja na teritoriji Bosne i
+Hercegovine, može se zabraniti unošenje i širenje štetnih
+organizama koji nisu uključeni u liste st. 1. i 2.
+Član 15.
+Zabrana uvoza i provoza bilja, biljnih proizvoda i
+reguliranih objekata
+Zabranjen je uvoz bilja, biljnih proizvoda i reguliranih
+objekata s Liste III. A.
+Zabranjen je i uvoz u zaštićenu zonu bilja, biljnih proizvoda
+i reguliranih objekata s Liste III. B, na osnovu koje je
+zaštićena zona proglašena.
+
+Četvrtak, 7. augusta 2003.
+3.
+4.
+
+5.
+
+SLUŽBENI G
+
+Ako se ne ispune propisani fitosanitarni zahtjevi, zabranjuje
+se uvoz i kretanje biljki, biljnih proizvoda i reguliranih
+objekata s Liste IV. A.
+Ako se ne ispune propisani fitosanitarni zahtjevi, zabranjuje
+se uvoz i kretanje u zaštićenu zonu biljki, biljnih proizvoda i
+reguliranih objekata s Liste IV. B, na osnovu kojih je
+zaštićena zona proglašena.
+Ako postoji rizik za zdravlje biljki na teritoriji Bosne i
+Hercegovine, može se zabraniti uvoz i kretanje drugih vrsta
+biljki, biljnih proizvoda i reguliranih objekata koji nisu
+navedeni u listama iz st.1., 2., 3. i 4.
+
+Član 16.
+Izuzeci za eksperimentalni i istraživački rad i razne selekcije
+1. Nezavisno od odredbi čl. 14. i 15., naučne i istraživačke
+organizacije mogu uvoziti i prenositi štetne organizme s listi
+I. A, II. A, I. B i II. B i biljke, biljne proizvode i regulirane
+objekte s listi III. A, III. B, IV. A i IV. B ako:
+a) će se koristiti u eksperimentalne ili istraživačke svrhe
+za rad na raznim selekcijama,
+b) ako ispunjavaju propisane uslove vezane za stručne i
+tehničke sposobnosti, a koje utvrđuje Uprava posebnim
+propisom,
+c) imaju uvoznu dozvolu.
+2. Uvoznu dozvolu iz stava 1. izdaje Uprava na osnovu
+zahtjeva istraživačke organizacije iz stava 1.
+3. Zahtjev iz stava 1. treba sadržavati sljedeće:
+a) podatke o podnosiocu zahtjeva (firma i sjedište),
+b) podatke o štetnim organizmima ili biljkama, biljnim
+proizvodima i reguliranim objektima.
+4. Nadležni organi entiteta i Brčko Distrikta dužni su voditi
+zapisnike o svakom uvozu izvršenom prema stavu 1., o
+čemu su dužni obavijestiti Upravu najkasnije do desetog
+dana tekućeg mjeseca.
+5. Uprava određuje uslove koji se odnose na stručne i tehničke
+kapacitete, detaljniji sadržaj zahtjeva i formu i sadržaj
+uvozne dozvole iz ovog člana.
+
+1.
+
+2.
+
+3.
+
+1.
+
+Član 17.
+Pojedinačni slučajevi
+Izuzetno od odredbi čl. 14. i 15., Uprava može, u skladu s
+propisanim uslovima i ako ne postoji rizik od širenja štetnih
+organizama, u pojedinačnim slučajevima izuzetno
+dozvoliti:
+a) uvoz biljki, biljnih proizvoda i reguliranih objekata koji
+se uzgajaju ili koriste u neposrednoj blizini državne
+granice ako su namijenjeni za upotrebu u Bosni i
+Hercegovini u neposrednoj blizini državne granice;
+b) uvoz biljki, biljnih proizvoda i reguliranih objekata u
+slučaju blage zaraze štetnim organizmima, osim onih
+predviđenih za sađenje.
+Nadležni organi entiteta i Brčko Distrikta dužni su voditi
+zapisnike o svakom izuzetnom uvozu izvršenom u skladu sa
+stavom 1., o čemu su dužni obavijestiti Upravu najkasnije
+do desetog dana tekućeg mjeseca.
+Uprava utvrđuje detaljnije uslove za izuzetan uvoz biljki,
+biljnih proizvoda i reguliranih objekata.
+Član 18.
+Izuzetni slučajevi
+Odredbe iz čl. 14. i 15. ovog zakona neće se primjenjivati:
+a) na pošiljke koje su u tranzitu kroz teritoriju Bosne i
+Hercegovine;
+b) za male količine biljki, biljnih proizvoda i reguliranih
+objekata, uključujući prehrambene proizvode i stočnu
+hranu ukoliko će ih vlasnik ili primalac koristiti za
+neindustrijske ili nekomercijalne svrhe ili će ih koristiti
+u toku transporta.
+
+GLASNIK BiH
+2.
+
+Malom količinom smatra se: bilje, biljni proizvodi i
+regulirani objekti namijenjeni isključivo za ličnu upotrebu
+krajnjeg korisnika u količinama koje određuje Uprava.
+
+3. Registar proizvođača, prerađivača, uvoznika i
+distributera biljki, biljnih proizvoda i reguliranih objekata.
+
+1.
+
+2.
+
+3.
+4.
+
+1.
+
+2.
+3.
+
+4.
+5.
+6.
+
+1.
+
+Član 19.
+Registar
+Samo fizička i pravna lica koja ispunjavaju propisane
+uslove za vršenje registrirane aktivnosti ili aktivnosti
+obavještavanja i koja su upisana u registar proizvođača,
+prerađivača, uvoznika i distributera biljki, biljnih proizvoda
+i reguliranih objekata (u daljem tekstu: registar) iz ovog
+zakona mogu se baviti proizvodnjom, preradom, uvozom ili
+distribucijom biljki, biljnih proizvoda i reguliranih objekata
+s listi V. A i V. B.
+Upis u registar obavezan je za:
+a) proizvođače, prerađivače i distributere biljki, biljnih
+proizvoda i reguliranih objekata s Liste V. A;
+b) uvoznike biljki, biljnih proizvoda i reguliranih objekata
+s Liste V. B;
+c) proizvođače specijalnih biljki, biljnih proizvoda i
+reguliranih objekata koji nisu navedeni u Listi V. A i
+sabirne i distributivne centre.
+Jedinstveni registar za Bosnu i Hercegovinu uspostavlja i
+vodi Uprava.
+Nadležni organi entiteta i Brčko Distrikta dužni su voditi
+registre na svojim administrativnim područjima djelovanja.
+Član 20.
+Upis u registar
+Lica iz člana 19. koja su obavezna upisati se u registre
+moraju garantirati za odgovorno lice s tehničkim iskustvom
+u proizvodnji i održanju zdravlja bilja (u daljem tekstu: lice
+odgovorno za zdravlje bilja), čija dužnost će biti izvršenje
+obaveza iz člana 22. Uprava je dužna propisati detaljnije
+kriterije za stručne kvalifikacije.
+Podnosioci molbi za upis u registar moraju predati zahtjev
+nadležnom organu entiteta ili Brčko Distrikta na propisanim
+obrascima.
+Zahtjev, između ostalog, sadrži:
+a) identifikacione podatke podnosioca zahtjeva, firmu,
+odnosno ime i prezime i sjedište, odnosno adresu,
+odgovorno lice, poreski broj,
+b) lični matični broj i identifikacijski broj subjekta
+poslovanja LMBS, broj farme i broj iz registra farme,
+zakonski organizacioni oblik, tip aktivnosti,
+c) identifikacione podatke lica odgovornog za zdravlje
+bilja, podnosioca zahtjeva, ime i prezime, poreski broj,
+odnosno firme i sjedišta, odnosno broj i adresu.
+Obrazac i detaljniji sadržaj zahtjeva iz st. 2. i 3. propisuje
+Uprava.
+Nadležni organi entiteta i Brčko Distrikta dužni su izdati
+rješenje o upisu u registar najkasnije tri mjeseca nakon
+prijema kompletiranog zahtjeva.
+Ako fizičko, odnosno pravno lice prestane ispunjavati
+propisane uslove iz stava 1. ili ne ispuni obaveze iz člana
+22., nadležni organi entiteta ili Brčko Distrikta po službenoj
+dužnosti donose rješenje o brisanju iz registra i o tome
+obavještavaju Upravu do desetog dana u tekućem mjesecu.
+Član 21.
+Sadržaj registara
+Registri, između ostalog, sadrže sljedeće podatke:
+a) jedinstveni registarski broj predmeta ili LMSBS broj iz
+registra farme i broj predmeta,
+b) naziv firme, odnosno ime i prezime fizičkog lica i
+sjedište,
+
+SLUŽBENI G
+
+c)
+d)
+e)
+f)
+g)
+h)
+
+2.
+3.
+
+1.
+
+2.
+
+1.
+
+2.
+
+odgovorno lice pravnog lica,
+zakonski organizacioni oblik,
+poreski broj,
+lični matični broj subjekta poslovanja,
+vrstu aktivnosti,
+poljoprivredno zemljište po česticama i tipovima upotrebe,
+i) lice zaduženo za zdravlje bilja.
+Registar se može voditi putem računara.
+Uprava propisuje detaljan sadržaj i način vođenja
+Jedinstvenog registra i registara.
+
+Član 22.
+Obaveze upisnika u registar
+Lica koja su obavezna upisati se u registar, između ostalog,
+moraju:
+a) voditi tačne podatke o proizvodnji, preradi i trgovini
+biljem, biljnim proizvodima i reguliranim objektima,
+koje kupuju za uskladištenje ili sađenje, koje proizvode
+ili su ih ponudili na prodaju i te podatke čuvati
+najmanje jednu godinu;
+b) voditi i istovremeno popunjavati plan mjesta na kojem
+se uzgaja, proizvodi, skladišti, čuva ili koristi bilje,
+biljni proizvodi i regulirani objekti;
+c) redovno, na propisan način, vršiti vizuelne kontrole
+bilja;
+d) dozvoliti pristup nadležnom inspektoru da izvrši
+kontrolu bilja, prostora i dokumentacije i izdvoji
+zvanične uzorke;
+e) bez odgađanja obavijestiti nadležnog inspektora o
+svakoj neobičnoj pojavi i pojavi štetnih organizama,
+simptoma i drugim posebnostima na biljkama i o
+proizvodnji i pojavi zabranjenih biljnih vrsta;
+f) obavijestiti nadležni organ u propisanom roku o svim
+promjenama podataka unesenih u registar;
+g) svake godine nadležnom inspektoru u propisanom roku
+podnositi izvještaj o obimu i mjestu proizvodnje ili
+prerade bilja, biljnih proizvoda i reguliranih objekata;
+h) sarađivati s nadležnim inspektorom u cilju osiguranja
+zdravlja biljki.
+Uprava propisuje način vršenja kontrole zdravlja bilja,
+rokove, sadržaj i način saopćavanja podataka iz stava 1.
+Član 23.
+Izuzeci
+Nezavisno od člana 19. st. 1. i 2., upis u registar nije
+obavezan za male proizvođače i prerađivače ako je njihova
+cjelokupna proizvodnja ili prerada biljki, biljnih proizvoda i
+reguliranih objekata namijenjena za njihovu vlastitu
+upotrebu ukoliko se profesionalno ne bave proizvodnjom i
+preradom bilja i ukoliko nema opasnosti od širenja štetnih
+organizama.
+Uprava utvrđuju kriterije za određivanje malih proizvođača
+i prerađivača i širinu lokalnog tržišta.
+
+4. Uvoz, izvoz i tranzit pošiljki
+A) Uvoz
+
+1.
+
+2.
+
+Član 24.
+Tačke ulaska
+Pošiljke za koje je kontrola obavezna mogu se uvesti samo
+na određenim tačkama ulaska. Tačke ulaska moraju
+ispunjavati propisane uslove za vršenje kontrole prema
+ovom zakonu.
+Vijeće ministara, na prijedlog Uprave, propisuje uslove u
+vezi s prethodnim stavom i određuje tačke ulaska.
+
+GLASNIK BiH
+
+1.
+2.
+
+3.
+
+4.
+
+5.
+6.
+
+Četvrtak, 7. augusta 2003.
+
+Član 25.
+Uvoz
+Obaveznoj kontroli podliježu pošiljke iz Liste V. B I. koje
+se uvoze u zemlju, njihova ambalaža i, ako je potrebno,
+prijevozno sredstvo u kojem su transportovane.
+Kontrolom posebno treba utvrditi:
+a) da li pošiljku prati fitosanitarni certifikat;
+b) da pošiljka nije zaražena štetnim organizmima s listi I.
+A i II. A;
+c) da pošiljka ne sadrži biljke, biljne proizvode, niti
+regulirane objekte s Liste III. A;
+d) da pošiljka ispunjava fitosanitarne zahtjeve iz Liste
+IV. A.
+Pošiljke iz stava 1. treba da prate originalni fitosanitarni
+certifikati, u principu iz zemlje porijekla, osim kada se
+posebni fitosanitarni zahtjevi iz listi IV. A ili IV. B za
+određene vrste pošiljki koje određuje Uprava mogu ispuniti
+u zemlji koja nije zemlja porijekla.
+Pošiljke iz stava 1. za koje je izdat fitosanitarni certifikat u
+zemlji porijekla i koje su isporučene, uskladištene kao
+prepakovane ili podijeljene u drugoj državi koja nije zemlja
+porijekla, mora dodatno, uz originalni fitosanitarni certifikat
+ili njegovu ovjerenu kopiju, pratiti fitosanitarni certifikat o
+reeksportu izdat u toj drugoj državi. Ako su takve pošiljke
+bile prethodno uspješno uvezene u više različitih zemalja i
+ako je izdato više od jednog fitosanitarnog certifikata za
+reeksport, uz originalni fitosanitarni certifikat ili njegovu
+ovjerenu kopiju, moraju se priložiti i svi prethodni
+fitosanitarni certifikati za reeksport ili njihove ovjerene
+kopije.
+Kontrola se, također, može izvršiti i na drugim pošiljkama
+ako ovlašteni fitosanitarni inspektor sumnja da postoji
+opasnost za zdravlje biljki na teritoriji Bosne i Hercegovine.
+Uprava propisuje način vršenja kontrole iz stava 1.
+
+Član 26.
+Uvoz u zaštićenu zonu
+Pošiljke iz Liste V. B II. koje su uvezene u zaštićenu zonu,
+pored uslova datih u članu 25., moraju ispunjavati sljedeće
+uslove:
+a) da ne smiju biti zaražene štetnim organizmima s listi I.
+B ili II. B;
+b) da ne sadrže biljke, biljne proizvode i regulirane
+objekte s Liste III. B;
+c) da ispunjavaju posebne fitosanitarne zahtjeve iz Liste
+IV. B.
+Član 27.
+Istraživački i razvojni rad
+Pošiljke s Liste V. B, koje su namijenjene za probne,
+istraživačke ili razvojne svrhe i za rad na raznim selekcijama,
+moraju se kontrolirati i uz njih mora biti priložena uvozna
+dozvola prema članu 16., kao i fitosanitarni certifikat iz zemlje
+porijekla.
+Član 28.
+Posebni slučajevi
+Ako ne postoji rizik od širenja štetnih organizama, Uprava
+može, u skladu s propisanim uslovima prema članu 17.,
+dozvoliti uvoz biljki, biljnih proizvoda i reguliranih objekata s
+Liste V. B uzgajanih ili korištenih u neposrednoj blizini državne
+granice, bez fitosanitarnog certifikata i kontrole ako su
+namijenjeni za upotrebu u neposrednoj blizini državne granice
+te države.
+
+Četvrtak, 7. augusta 2003.
+
+SLUŽBENI G
+
+Član 29.
+Izuzeci
+Male količine bilja, biljnih proizvoda i reguliranih objekata
+s Liste V. B, u skladu sa članom 18., mogu se uvesti bez
+fitosanitarnog certifikata i kontrole.
+
+1.
+
+2.
+3.
+4.
+
+5.
+
+1.
+2.
+
+1.
+
+2.
+
+3.
+
+1.
+
+2.
+
+Član 30.
+Obaveze uvoznika i carinskih službenika
+Uvoznici, prijevoznici ili lica koja unose pošiljke iz člana
+25. stav 1. u Bosnu i Hercegovinu dužni su fitosanitarnog
+inspektora obavijestiti o prispijeću takvih pošiljki koje oni
+uvoze ili prepakuju u toku transporta.
+Carinski službenici ne mogu početi carinsku proceduru,
+osim kod tranzita, dok fitosanitarni inspektor ne izvrši
+kontrolu pošiljke iz stava 1. i ne izda dozvolu za uvoz.
+U slučaju pošiljki koje se uvoze, uvoznik mora preduzeti
+mjere koje naredi fitosanitarni inspektor.
+Carinski službenici moraju odbiti ulazak pošiljke da bi
+nadležnom inspektoru predali biljke, biljne proizvode i
+regulirane objekte koje lice unosi u Bosnu i Hercegovinu
+bez fitosanitarnog certifikata ili koje se nalaze na listama III.
+A ili III. B, osim malih količina iz člana 18., a ovaj je dužan
+narediti mjere propisane u skladu sa članom 10. stav 3.
+Uprava propisuje detaljnije uslove i metode uništenja biljki,
+biljnih proizvoda i reguliranih objekata.
+Član 31.
+Uvozna procedura
+Kontrola pošiljki iz člana 25. vrši se na prvoj tački ulaska u
+Bosnu i Hercegovinu, na kojoj se vrše druge
+administrativne formalnosti, uključujući carinjenje.
+Ako ne postoji rizik od širenja štetnih organizama, u
+slučajevima i pod uslovima koje propisuje Uprava, kontrola
+zdravlja biljki iz pošiljki može se također vršiti na zvanično
+određenim mjestima koja su pod carinskom kontrolom.
+Član 32.
+Dozvola ili odbijanje uvoza
+Ako su ispunjeni uslovi iz čl. 25.i 26., fitosanitarni inspektor
+dužan je nakon izvršene kontrole dati dozvolu za uvoz
+pošiljke i staviti žig na fitosanitarni certifikat ili fitosanitarni
+certifikat za reeksport upisujući datum ulaska i staviti pečat
+fitosanitarne kontrole. Ako nisu ispunjeni uslovi iz čl. 25. i
+26., fitosanitarni inspektor neće dozvoliti uvoz pošiljke i
+naredit će jednu ili više mjera člana 10. stav 3. U tom
+slučaju fitosanitarni inspektor stavlja jasnu oznaku na prvoj
+strani fitosanitarnog certifikata ili fitosanitarnog certifikata
+za reeksport žigom u vidu crvenog trokuta, čime certifikat
+postaje nevažeći.
+Ako fitosanitarni inspektor utvrdi da je dio pošiljke zaražen
+štetnim organizmima s listi I. A, I. B, II. A ili II. B, može se
+dozvoliti uvoz ostatka pošiljke ako ne postoji sumnja da
+može doći do infekcije tog dijela pošiljke i ako nema rizika
+od širenja štetnih organizama.
+Uprava propisuje veličinu žiga i podatke koje treba da
+sadrži.
+Član 33.
+Druge pošiljke za uvoz
+U slučaju uvoza pošiljki za koje se na osnovu prateće
+dokumentacije može zaključiti da ne sadrže biljke, biljne
+proizvode i regulirane objekte s Liste V. B, fitosanitarni
+inspektor može izvršiti kontrolu ako postoji dovoljno
+opravdana sumnja u vezi s identitetom pošiljke ili ako
+postoji rizik od širenja štetnih organizama.
+Ako i nakon izvršene kontrole fitosanitarni inspektor i dalje
+sumnja u identitet pošiljke, naročito u odnosu na rod, vrstu
+ili porijeklo, smatrat će se da pošiljka sadrži biljke, biljne
+proizvode i regulirane objekte s Liste V. B.
+
+GLASNIK BiH
+
+Član 34.
+Slobodna zona
+Na pošiljke koje se uvoze u slobodnu zonu ili u carinsko
+skladište u Bosni i Hercegovini, primjenjivat će se odredbe
+ovog zakona koje se odnose na uvoz pošiljki.
+B) Izvoz
+Član 35.
+Izvozna procedura
+1.
+
+Ako zemlja u koju se izvoze biljke, biljni proizvodi i
+regulirani objekti, koji su porijeklom iz Bosne i
+Hercegovine, zahtijeva fitosanitarni certifikat, fitosanitarni
+inspektor dužan je izvršiti kontrolu pošiljke prije izdavanja
+fitosanitarnog certifikata da bi provjerio da su ispunjeni
+propisani fitosanitarni zahtjevi zemlje u koju se izvozi.
+
+2.
+
+Ako zemlja u koju se izvoze biljke, biljni proizvodi i
+regulirani objekti koji nisu porijeklom iz Bosne i
+Hercegovine nego su uskladišteni, prepakovani ili
+distribuirani u Bosni i Hercegovini, zahtijeva fitosanitarni
+certifikat, fitosanitarni inspektor dužan je izvršiti kontrolu
+biljki, biljnih proizvoda i reguliranih objekata prije
+izdavanja fitosanitarnog certifikata za reeksport, da bi
+provjerio da su ispunjeni propisani fitosanitarni zahtjevi
+zemlje u koju se izvozi.
+
+3.
+
+Izdavanje fitosanitarnog certifikata smatrat će se službenim
+postupkom ili mjerom koju vrši fitosanitarni inspektor, čime
+on potvrđuje da su odredbe iz st. 1. i 2. ispunjene.
+
+4.
+
+Uprava propisuje formu i sadržaj fitosanitarnog certifikata i
+fitosanitarnog certifikata za reeksport.
+Član 36.
+Odgovornosti izvoznika
+
+1.
+
+Izvoznik je dužan fitosanitarnom inspektoru podnijeti
+zahtjev za izdavanje fitosanitarnog certifikata u roku koji
+određuje Uprava.
+
+2.
+
+Zahtjev za izdavanje fitosanitarnog certifikata mora
+obavezno sadržavati:
+a) identifikacione podatke podnosioca zahtjeva: firmu,
+odnosno ime i prezime i sjedište, odnosno adresu;
+b) podatke o pošiljci.
+
+3.
+
+Detaljniji sadržaj zahtjeva iz stava 2. propisuje Uprava.
+
+4.
+
+Izvoznici su dužni izvršiti mjere koje fitosanitarni inspektor
+naredi u toku kontrole pošiljke namijenjene za izvoz.
+
+C) Tranzit
+Član 37.
+Pošiljke u tranzitu
+1.
+
+Kontrola, u skladu sa članom 25. stav 2. ovog zakona, nije
+obavezna za pošiljke u tranzitu.
+
+2.
+
+Pošiljka iz stava 1. mora biti upakovana tako da ne postoji
+rizik od širenja štetnih organizama i ne smije se dijeliti,
+miješati s drugim pošiljkama ili prepakovati na carinskom
+području Bosne i Hercegovine.
+
+3.
+
+Ako pošiljka nije upakovana u skladu sa stavom 2. ili se
+pretovara, obavezna je kontrola u skladu sa članom 25. stav
+2.
+
+4.
+
+Nezavisno od odredbi stava 1., u slučaju osnovane sumnje
+da postoji rizik od unošenja ili širenja štetnih organizama,
+Uprava za određene pošiljke u tranzitu može propisati način
+tretiranja pošiljke, obaveznu kontrolu, način kontrole i
+odrediti mjere.
+
+SLUŽBENI G
+
+IV - PRIJEVOZ BILJA, BILJNIH PROIZVODA I
+REGULIRANIH OBJEKATA
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+3.
+
+1.
+
+2.
+
+3.
+4.
+5.
+
+6.
+
+Član 38.
+Prijevoz
+Biljke, biljni proizvodi i regulirani objekti s Liste V. A I.
+mogu se prenositi ako je uz biljku ili u pakovanju priložen
+pasoš za biljke ili se nalazi priložen u transportnom sredstvu
+kao prateći dokument.
+Pošiljke s Liste V. A, koje se prenose i namijenjene su za
+probne, istraživačke svrhe ili rad na raznim selekcijama,
+moraju se podvrgnuti kontroli i moraju imati pasoš za bilje.
+Član 39.
+Prijevoz u zaštićenu zonu
+Biljke, biljni proizvodi i regulirani objekti s Liste V. A II.
+mogu se prenositi u ili unutar zaštićene zone samo ako je uz
+pošiljku ili u pakovanju priložen pasoš koji važi za
+zaštićenu zonu ili se nalazi u prijevoznom sredstvu kao
+popratni dokument i ako su ispunjeni uslovi za prijevoz koje
+detaljnije propisuje Uprava.
+Odredbe stava 1. neće se primjenjivati na prijevoz biljki,
+biljnih proizvoda i reguliranih objekata kroz zaštićenu zonu
+ili iz zaštićene zone u uslovima koje propisuje Uprava.
+Član 40.
+Izuzeci
+Nezavisno od člana 38. stav 1., količine biljki, biljnih
+proizvoda i reguliranih objekata s Liste V. A koje prenose
+mali proizvođači ili mali prerađivači, koji se ne moraju
+upisati u registar u skladu sa članom 23., mogu se prenositi
+bez biljnog pasoša.
+Izuzetno od stava 1., biljke, biljni proizvodi i regulirani
+objekti s Liste V. A, koji su namijenjeni za prodaju
+krajnjem korisniku na lokalnom tržištu, mogu se prenositi
+bez biljnog pasoša ukoliko se mali proizvođači
+profesionalno ne bave proizvodnjom i preradom i ukoliko
+nema opasnosti za širenje štetnih organizama sa listi I. i II.
+Uprava utvrđuje kriterije za širinu lokalnog tržišta.
+Član 41.
+Proizvodnja, prerada, upotreba
+Biljke, biljni proizvodi i regulirani objekti s Liste V. A I.,
+koje proizvode, prerađuju i koriste pravna i fizička lica
+upisana u registar i koje su namijenjene za prijevoz, moraju
+se podvrgnuti kontroli da bi se provjerilo da:
+a) nisu zaražene štetnim organizmima s listi I. A i II. A,
+b) zadovoljavaju posebne fitosanitarne zahtjeve iz Liste
+IV. A.
+Biljke, biljni proizvodi i regulirani objekti s Liste V. A II.,
+koji su namijenjeni za prijevoz u zaštićenu zonu, moraju se
+podvrgnuti kontroli za svrhe navedene u stavu 1. da bi se
+provjerilo da:
+a) nisu zaražene štetnim organizmima s listi I. B i II. B,
+b) zadovoljavaju posebne fitosanitarne zahtjeve iz Liste
+IV. B.
+Kontrole kod kojih se utvrde uslovi iz st. 1. i 2. treba vršiti
+redovno, najmanje u propisanim vremenskim razmacima, ili
+bar jednom godišnje i bar vizuelno.
+Detaljnije metode kontrole iz st.1., 2. i 3. propisuje Uprava.
+Nezavisno od odredbi stava 3., kontrola se može vršiti
+nasumice da bi se provjerila zaštita zdravlja biljki i
+nezavisno od porijekla biljki, biljnih proizvoda i reguliranih
+objekata, u svako vrijeme i na svakom mjestu gdje se
+prenose, proizvode, skladište, prodaju ili drugdje koriste,
+kao i u postorijama kupca.
+Ako se tokom kontrole utvrdi da postoji rizik od širenja
+štetnih organizama ili da nisu ispunjeni propisani uslovi za
+prijevoz biljki, biljnih proizvoda i reguliranih objekata,
+
+GLASNIK BiH
+
+Četvrtak, 7. augusta 2003.
+
+nadležni inspektor može narediti mjere prema članu 12.
+stav 3.
+
+1.
+2.
+
+1.
+
+2.
+3.
+
+4.
+
+5.
+
+6.
+7.
+
+8.
+
+Član 42.
+Pasoš za bilje
+Pasoš za bilje moraju imati biljke, biljni proizvodi i
+regulirani objekti s Liste V. A.
+Pasoš za bilje izdaju nadležni organi i lica koja pružaju
+javne usluge iz oblasti zaštite bilja ili lica koja su dužna
+upisati se u registar prema članu 19. stav 2. (u daljem tekstu:
+ovlaštena lica) ako su od nadležnog organa entiteta ili Brčko
+Distrikta dobili dozvolu za to i ako su biljke, biljni
+proizvodi i regulirani objekti s Liste V. A podvrgnuti
+kontroli u skladu sa članom 41.
+Član 43.
+Dozvola za izdavanje biljnog pasoša
+Nadležni organi entiteta ili Brčko Distrikta ovlaštenim
+licima izdaju dozvolu za izdavanje biljnog pasoša ukoliko ta
+lica ispunjavaju sljedeće uslove:
+a) da su upisana u registar prema članu 19.,
+b) da su tehnički stručna za zaštitu bilja ili da garantiraju
+tehnički stručno lice za zaštitu bilja koje će voditi
+računa o izvršenju odgovornosti iz člana 49., koje je
+zaposleno kod ovlaštenog lica ili sa njim ima ugovorni
+odnos,
+c) da imaju formalno obavještenje od nadležnog
+inspektora da ispunjavaju uslove iz člana 22.
+Zahtjev za dobijanje dozvole za izdavanje biljnog pasoša
+predaje se nadležnim organima entiteta ili Brčko Distrikta
+na propisanom obrascu.
+U zahtjevu, osim podataka navedenih u članu 20., navode
+se:
+a) podaci o vrsti proizvodnje, prerade, prodaje ili uvoza
+biljki, biljnih proizvoda i reguliranih objekata;
+b) dokaz o ispunjavanju uslova iz stava 1.
+Smatrat će se da lice iz stava 1. b) ima stručne kvalifikacije
+ukoliko ima propisanu školsku spremu i certifikat o
+osnovnom znanju o štetnim organizmima, o njihovoj
+kontroli i propisima o zaštiti zdravlja bilja stečeno na
+kursevima za koje Uprava donosi programe, a koje provode
+nadležni organi entiteta ili Brčko Distrikta.
+Ako je lice odgovorno za zdravlje bilja u ugovornom
+odnosu s ovlaštenim licem, ovlašteno lice mora uz zahtjev
+priložiti kopiju ugovora koji mora sadržavati precizno
+definirane odgovornosti lica odgovornog za zdravlje
+biljaka.
+Formu i detaljniji sadržaj zahtjeva iz st. 2. i 3. i uslove koji
+se odnose na školsku spremu i formu potvrde o osnovnom
+znanju iz stava 4. određuje Uprava.
+Dozvole za izdavanje biljnih pasoša izdaju nadležni organi
+entiteta ili Brčko Distrikta u administrativnoj proceduri
+najkasnije tri mjeseca nakon prijema kompletnog zahtjeva i
+o tome obavještavaju Upravu, najkasnije do desetog dana
+tekućeg mjeseca.
+Ako pravno, odnosno fizičko lice prestane ispunjavati
+propisane uslove za izdavanje biljnih pasoša, dozvola se
+poništava na prijedlog ovlaštenog lica ili po službenoj
+dužnosti.
+
+Član 44.
+Evidencija o licima odgovornim za zdravlje bilja zaduženim
+za izdavanje biljnih pasoša
+1. Nadležni organi entiteta i Brčko Distrikta dužni su voditi
+evidenciju lica odgovornih za zdravlje bilja zaduženih za
+izdavanje biljnih pasoša.
+2. Evidenciju treba voditi na jedinstven način i ona treba
+sadržavati naziv firme, odnosno ime i prezime i sjedište,
+odnosno adresu lica odgovornog za zdravlje bilja i lično ime
+
+Četvrtak, 7. augusta 2003.
+
+3.
+4.
+
+1.
+
+2.
+
+SLUŽBENI G
+
+i adresu ovlaštenog lica koje je dalo garanciju za ovo
+odgovorno lice.
+Nadležni organi entiteta i Brčko Distrikta su, na zahtjev
+Uprave, dužni dostaviti podatke iz evidencije.
+Detaljnije podatke i način vođenja evidencije iz st. 1. i 2.
+propisuje Uprava.
+Član 45.
+Vrste biljnih pasoša
+Postoje sljedeće vrste biljnih pasoša:
+a) pasoši za biljke;
+b) zamjena za pasoš za bilje (oznaka ZBP);
+c) pasoš za biljke za zaštićene zone (oznaka ZZBP);
+Uprava propisuje formu i sadržaj biljnog pasoša.
+
+Član 46.
+Izdavanje biljnih pasoša za nezaražene biljke, biljne
+proizvode i regulirane objekte
+Ako kontrola utvrdi da su dijelovi biljki, biljnih proizvoda i
+reguliranih objekata koje registrirani proizvođač, odnosno
+prerađivač proizvodi, odnosno prerađuje ili koristi, ili je na bilo
+koji način prisutan na njihovim prostorima, zaraženim štetnim
+organizmima s listi I. A, I. B, II. A ili II. B, pasoš za biljke može
+biti izdat za ostale biljke, biljne proizvode i regulirane objekte
+ako ne postoji sumnja da su one zaražene niti postoji rizik od
+širenja štetnih organizama.
+
+1.
+2.
+
+Član 47.
+Zamjena za biljne pasoše
+Ako je pošiljka podijeljena ili se sastoji od više različitih
+pojedinačnih pošiljki koje već imaju biljne pasoše, potrebno
+je izdati zamjenu za pasoš za bilje za tu novu pošiljku.
+Ako se u slučaju iz stava 1. zdravstveno stanje pošiljke
+promijeni, zamjena za pasoš za bilje može se izdati samo
+nakon izvršene kontrole.
+
+Član 48.
+Zamjena za pasoš za bilje fitosanitarnim certifikatom
+1. Nakon kontrole pošiljki koje se uvoze i koje moraju pratiti
+fitosanitarni certifikat i koje se nalaze na Listi V. A,
+fitosanitarni inspektor treba izdati biljni pasoš za kretanje
+uvezene pošiljke kroz zemlju.
+2. Ako je pošiljka s Liste V. A, koju prati biljni pasoš iz stava
+1., podijeljena ili se sastoji od više različitih pojedinačnih
+pošiljki, mora se izdati novi pasoš za biljke.
+3. Ako se u slučaju iz stava 2. zdravstveno stanje uvezene
+pošiljke promijeni, pasoš za biljke može se izdati samo
+nakon izvršene kontrole.
+Član 49.
+Obaveze proizvođača, prerađivača, uvoznika i distributera
+pri izdavanju biljnih pasoša
+1. Proizvođači, prerađivači, uvoznici i distributeri biljki,
+biljnih proizvoda i reguliranih objektata iz člana 19. stav 2.,
+pored obaveza iz člana 22., obavezni su također:
+a) u propisanom vremenskom roku obavijestiti nadležni
+organ entiteta i Brčko Distrikta o svim promjenama
+koje se odnose na uslove za izdavanje biljnih pasoša,
+b) voditi računa o izdavanju pasoša za bilje u skladu s
+ovim zakonom,
+c) u propisanom vremenskom roku obavijestiti nadležnog
+inspektora o namjeravanom kretanju biljki, biljnih
+proizvoda i reguliranih objekata u zaštićene zone,
+d) izdavati biljne pasoše u skladu s propisanim sadržajem
+i oznakama,
+e) čuvati dokumenta i voditi evidenciju o izdavanju svih
+vrsta pasoša za bilje,
+
+GLASNIK BiH
+
+2.
+
+f) osigurati način pričvršćivanja biljnog pasoša koji
+onemogućava fizičko oštećenje i ponovnu upotrebu
+pasoša za biljke.
+Način i rokove za izvještavanje i rokove za čuvanje
+dokumentacije iz stava 1. određuje Uprava.
+
+Član 50.
+Obaveze kupaca biljki, biljnih proizvoda i reguliranih
+objekata
+1. Kupci biljki, biljnih proizvoda i reguliranih objekata,
+uključeni u marketing proizvedene robe, moraju kao krajnji
+korisnici čuvati sve vrste pasoša za bilje u skladu s
+propisanim rokovima.
+2. Uprava određuje rok čuvanja dokumenata iz stava 1.
+3. Kupci iz stava 1. dužni su dozvoliti nadležnom inspektoru
+pristup bilju, biljnim proizvodima i reguliranim objektima u
+svakoj fazi proizvodnje, prerade ili trgovine i dozvoliti
+kontrolu, uključujući i kontrolu dokumentacije.
+V - BIOLOŠKA KONTROLA
+Član 51.
+Biološka zaštita bilja
+Biološka zaštita bilja je način kontrole štetnih organizama u
+ratarstvu, u kojoj se koriste živi prirodni neprijatelji,
+antagonisti, odnosno protivnici ili njihovi proizvodi i druga
+samoreprodukujuća biotička bića.
+
+1.
+2.
+
+1.
+2.
+3.
+
+4.
+5.
+
+6.
+7.
+
+Član 52.
+Autohtone vrste organizama
+Autohtona vrsta organizama je vrsta koja je prirodno
+prisutna u ekosistemu.
+Unošenje, uzgoj i upotreba autohtonih vrsta organizama za
+biološku zaštitu bilja na pokrivenim prostorima i na
+otvorenom dozvoljena je ako su ispunjeni uslovi koji se
+odnose na stručne i tehničke kapacitete koje određuje
+Uprava u saradnji s organima odgovornim za očuvanje
+prirode.
+Član 53.
+Uvođenje stranih vrsta organizama
+Strana vrsta organizama je vrsta koju je nastanio čovjek a
+koja prije toga nije bila prisutna u određenom ekosistemu.
+Samo strane vrste organizama, koje se nalaze na listi koju je
+objavila Uprava, mogu se koristiti za biološku zaštitu bilja
+na pokrivenim prostorima i na otvorenom.
+Uprava, na osnovu prethodno pribavljene saglasnosti
+nadležnog organa entiteta i Brčko Distrikta, dužna je izdati
+dozvolu za uvoz i upotrebu stranih vrsta organizama iz
+stava 2., na osnovu nalaza koji potvrđuje da ta intervencija
+ne predstavlja prijetnju prirodnoj ravnoteži biološke
+raznovrsnosti, u skladu s propisima u oblasti očuvanja
+prirode.
+Dozvolu za uvoz iz stava 3. izdaje Uprava uz saglasnost
+nadležnog organa iz oblasti zaštite i očuvanja prirode.
+Nezavisno od odredbi stava 2., dozvola za uvoz i upotrebu
+stranih vrsta organizama može se izdati u svrhu biološke
+zaštite bilja, za naučne ili istraživačke organizacije, ukoliko
+se koriste za eksperimentalne, istraživačke, odnosno razvojne svrhe. Dozvola se izdaje na način propisan u stavu 4.
+Za dobijanje saglasnosti iz stava 3., podnosilac molbe mora
+također ispunjavati propisane uslove koji se odnose na
+zemljište/prostore, opremu i osoblje.
+Zahtjev za izdavanje saglasnosti iz stava 3. predaje se
+nadležnom organu entiteta i Brčko Distrikta. Zahtjev treba
+da sadrži naročito sljedeće podatke:
+a) firmu, odnosno ime i prezime i direkciju, odnosno
+sjedište,
+b) odgovorno lice,
+c) vrstu aktivnosti,
+
+8.
+9.
+
+SLUŽBENI G
+
+d) tip i način upotrebe u odnosu na ciljane štetne organizme,
+e) program naseljavanja i listu recipijenata,
+f) procjenu opasnosti za prirodu,
+g) dokaz da je upotreba organizama dozvoljena u bar tri
+uporedive evropske zemlje,
+h) dokaz da je organizam namijenjen za biološku kontrolu,
+i) dokaz o ispunjavanju drugih propisanih uslova.
+Detaljnije uslove iz stava 6. i detaljniji sadržaj zahtjeva iz
+stava 7. propisuje Uprava.
+Nadležni organi entiteta, Brčko Distrikta i Uprava dužni su
+voditi evidenciju o uvozu i upotrebi stranih vrsta
+organizama iz ovog člana.
+
+VI - PRIKUPLJANJE, UPOTREBA I RAZMJENA
+PODATAKA I INFORMACIJA
+
+1.
+
+2.
+
+Član 54.
+Prikupljanje i upotreba podataka
+Nadležni organi mogu, u skladu s ovim članom, prikupljati i
+koristiti podatke za vođenje i održavanje baze podataka za
+analizu i praćenje mjera zaštite zdravlja bilja, koje u okviru
+propisanih baza podataka vode službena državna i entitetska
+tijela, javne institucije i agencije, nosioci dozvola i druga
+ovlaštena tijela, posebno iz:
+a) registra farmi i evidencije subjekata;
+b) evidencije proizvođača i prerađivača poljoprivrednih i
+prehrambenih proizvoda;
+c) registra o korištenju zemljišta;
+d) registra prostornih jedinica;
+e) poreskog registra (poreski brojevi);
+f) centralnog registra stanovništva (ime i prezime, lični
+matični broj, mjesto boravka);
+g) zemljišnog registra (broj čestice, granice čestice,
+područje, vlasnik, upravnik, stanar);
+h) zemljišnog registra (vlasništvo i stanarska prava za
+pojedinačne čestice);
+i) poslovnog registra Bosne i Hercegovine;
+j) baza statističkih podataka iz oblasti poljoprivrede;
+k) baza carinskih podataka o uvozu i izvozu bilja i biljnih
+proizvoda;
+l) baza podataka Hidrometeorološkog zavoda.
+Nadležni organi mogu također koristiti osnovne topografske
+planove, topografske karte, geodetske karte i digitalne
+ortofotografske planove.
+
+Član 55.
+Saopćavanje podataka
+Nadležni organi mogu saopćavati podatke iz svog registra i
+baza podataka i drugim državnim tijelima, ako je to potrebno
+radi izvršavanja zakonom određenih poslova, kao i ovlaštenim
+organizacijama i davaocima javnih usluga, ako se podaci traže
+za izvršavanje poslova iz oblasti zaštite zdravlja bilja.
+
+1.
+2.
+
+Član 56.
+Sistem informiranja
+Lica koja se bave zaštitom bilja moraju voditi i redovno
+ažurirati propisanu evidenciju, registre i baze podataka koje
+su povezane sa sistemom informiranja.
+Uprava je dužna osigurati uvođenje i povezivanje sistema
+informiranja iz stava 1. sa sistemom informiranja nadležnih
+organa entiteta i Brčko Distrikta i međunarodnih
+informacionih sistema u oblasti zdravlja.
+
+GLASNIK BiH
+
+1.
+
+2.
+
+Četvrtak, 7. augusta 2003.
+
+Član 57.
+Međunarodna razmjena podataka i informacija
+Na međunarodnom nivou Uprava je dužna vršiti razmjenu
+naročito podataka i informacija:
+a) odgovornim zvaničnim tijelima;
+b) ovlaštenim javnim službama za pružanje javnih usluga
+iz oblasti zdravlja bilja;
+c) listi tačaka ulazaka preko kojih se pošiljke biljki mogu
+uvoziti u Bosnu i Hercegovinu;
+d) listi štetnih organizama koji su predmet kontrole;
+e) prisustvu ili pojavi štetnih organizama s liste propisane
+ovim zakonom na dijelu njene teritorije na kojem prije
+toga nisu bili prisutni i o poduzetim mjerama;
+f) pojavi, izbijanju, odnosno širenju štetnih organizama
+koji predstavljaju mogući rizik;
+g) bilo kakvoj pojavi štetnog organizma u zaštićenoj zoni
+na osnovu kojeg je zaštićena zona proglašena;
+h) nalazima sistemske kontrole u zaštićenoj zoni;
+i) propisima izdatim na osnovu ovog zakona;
+j) slučajevima u kojima su pošiljke biljki, biljnih
+proizvoda i reguliranih objekata zadržane jer nisu
+ispunjeni fitosanitarni zahtjevi;
+k) ostalim podacima i informacijama iz domena zaštite
+bilja na zahtjev međunarodnih tijela i organizacija.
+Podatke i informacije treba saopćavati u skladu s
+obavezama Bosne i Hercegovine po međunarodnim
+konvencijama i sporazumima.
+
+VII - TAKSE I TROŠKOVI
+
+1.
+
+2.
+3.
+4.
+5.
+6.
+7.
+
+Član 58.
+Troškovi
+Sve troškove testiranja biljki, biljnih proizvoda i reguliranih
+objekata, izvršenih na zahtjev fitosanitarnog inspektora radi
+utvrđivanja zdravstvenog stanja biljki, u slučajevima u
+kojima je rezultat analize nepovoljan za nosioca vlasništva,
+plaća nosilac vlasništva koji je izdvojio uzorke, ukoliko nije
+drugačije određeno.
+Sve troškove provođenja mjera iz ovog zakona izvršenih u
+cilju osiguranja zdravlja biljki snosi nosilac vlasništva.
+Troškove kurseva tehničke edukacije radi dobijanja dozvole
+za izdavanje biljnog pasoša snosi podnosilac zahtjeva.
+Za fitosanitarni certifikat plaća se propisana administrativna
+taksa, utvrđena posebnim propisom.
+Za kontrole se plaća posebna taksa.
+Uprava propisuje visinu posebne takse, vrste i količinu
+biljki, biljnih proizvoda i reguliranih objekata, kao i način
+plaćanja.
+Posebna taksa iz stava 6. prihod je budžeta entiteta i plaća se
+na poseban račun ugovoren u skladu s propisima koji
+reguliraju način plaćanja i raspodjele javnih novčanih
+prihoda.
+
+VIII - NAKNADA ŠTETE
+
+1.
+
+2.
+
+Član 59.
+Naknada štete
+Ako fitosanitarni inspektor naredi uništenje ili uklanjanje
+biljki, biljnih proizvoda i reguliranih objekata u skladu s
+ovim zakonom, vlasnik ima pravo na naknadu štete ako:
+a) je odmah obavijestio o pojavi ili sumnji na prisustvo
+štetnog organizma s listi I. A ili II. A ili u slučaju
+zaštićene zone s listi I. B ili II. B;
+b) ako je izvršio sve propisane i naređene mjere za zaštitu
+zdravlja bilja.
+Sredstva za naknadu štete iz stava 1. isplaćuju se iz budžeta
+entiteta i Brčko Distrikta.
+
+Četvrtak, 7. augusta 2003.
+3.
+4.
+
+5.
+6.
+
+7.
+8.
+
+SLUŽBENI G
+
+Naknada štete iz stava 1. neće se plaćati ako se štetni
+organizam pojavi kod uvoza biljki, biljnih proizvoda i
+reguliranih objekata u Bosnu i Hercegovinu.
+Naknada štete ostvaruje se na osnovu zahtjeva vlasnika
+uništenih ili na drugi način odstranjenih biljki, biljnih
+proizvoda i reguliranih objekata. Uz zahtjev koji se podnosi
+nadležnom organu entiteta ili Brčko Distrikta treba priložiti
+odluku nadležnog inspektora kojom se naređuju te mjere.
+Nadležni organ entiteta ili Brčko Distrikta donosi odluku o
+dodjeli i visini naknade štete.
+Protiv odluke o visini naknade nije dozvoljena žalba, niti je
+moguće pokrenuti upravni spor. Vlasnik može predložiti
+nadležnom sudu da procijeni naknadu u roku od 30 dana
+nakon uručenja odluke iz stava 5.
+Sud građanskim postupkom donosi odluku u skladu sa
+stavom 6.
+Detaljnije kriterije o određivanju nadoknade štete utvrđuje
+Uprava u saglasnosti s nadležnim organom entiteta i Brčko
+Distrikta.
+
+IX - JAVNE SLUŽBE U OBLASTI ZDRAVLJA BILJA
+
+1.
+
+2.
+3.
+
+4.
+
+Član 60.
+Definicija
+Javna služba u oblasti zdravlja bilja je zakonom definirana
+aktivnost pružanja usluga. Lica koja pružaju te usluge imaju
+posebne obaveze koje su od javnog interesa (u daljem
+tekstu: obaveze javnih službi).
+Aktivnosti javne službe u oblasti zdravlja bilja obuhvataju,
+prije svega, promatranje i predviđanje pojave štetnih
+organizama, kao i tehničke poslove iz oblasti zdravlja bilja.
+Zadaci iz oblasti promatranja i predviđanja pojave štetnih
+organizama su naročito:
+a) praćenje i promatranje razvoja štetnih organizama koji
+su normalno prisutni na biljkama i biljnim proizvodima
+i određivanje optimalnog vremena za njihovo suzbijanje,
+b) evidentiranje izbijanja i povećane populacije štetnih
+organizama (epifitotici),
+c) predviđanje razvoja i povećane pojave štetnih organizama na osnovu relevantnih podataka,
+d) pružanje meteoroloških, bioloških i drugih podataka u
+svrhu promatranja i predviđanja pojave štetnih organizama,
+e) vršenje osnovne terenske i laboratorijske dijagnostike
+štetnih organizama,
+f) izdavanje upozorenja i sprečavanje širenja štetnih organizama putem savjeta i uputstava za upotrebu proizvoda za zaštitu bilja i putem obavještavanja javnosti i
+relevantnih servisa,
+g) edukacija vlasnika iz oblasti primjene aktivnosti
+vezanih za zdravlje bilja.
+Tehnički zadaci iz oblasti zdravlja bilja naročito su:
+a) vršenje specijalnih laboratorijskih testova bilja, biljnih
+proizvoda i reguliranih objekata u svrhu dijagnosticiranja štetnih organizama,
+b) pružanje stručnog mišljenja vlasnicima u vezi sa
+zdravljem bilja,
+c) stručno usavršavanje lica odgovornih za zdravlje bilja
+vezano za izdavanje pasoša za bilje,
+d) izdavanje biljnih pasoša,
+e) vršenje istraživačkih i razvojnih aktivnosti,
+f) vršenje dezinfekcije i deratizacije radi zaštite zdravlja
+bilja,
+g) vršenje drugih tehničkih poslova.
+
+GLASNIK BiH
+5.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+2.
+
+Detaljnije propise u vezi s poslovima iz st. 3. i 4. donosi
+Uprava u saradnji s nadležnim organima entiteta i Brčko
+Distrikta.
+Član 61.
+Davaoci javnih usluga iz oblasti zdravlja bilja
+Aktivnosti javne službe iz oblasti zdravlja bilja vrše javne
+institucije i druga pravna i fizička lica koja zadovoljavaju
+propisane uslove u vezi sa osobljem, prostorne uslove i
+uslove koji se odnose na opremu.
+Uprava, u saradnji s nadležnim organima entiteta i Brčko
+Distrikta, propisuje uslove iz stava 1.
+Član 62.
+Obaveze javne službe
+Obaveze javne službe u oblasti zdravlja bilja su:
+a) redovne i kontinuirane aktivnosti i vršenje usluga;
+b) omogućavanje usluga fizičkim i pravnim licima koji se
+bave poljoprivrednim aktivnostima ili zaštitom bilja;
+c) pružanje usluga po unaprijed određenim cijenama.
+Ako davalac javnih usluga ne pruži javnu uslugu licu kojem
+je obavezan pružiti uslugu ili ne izvrši uslugu po propisanoj
+cijeni i drugim propisanim uslovima, korisnik usluge može
+tražiti od nadležnog organa entiteta ili Brčko Distrikta da
+odluči o pravima korisnika putem odluke kroz upravni
+postupak i naredi davaocu usluge da se ponaša po
+propisima.
+Član 63.
+Finansiranje usluga javnih službi
+Javne usluge iz oblasti zdravlja bilja finansiraju se iz:
+a) dijela ili cijele uplate za cijenu pružene usluge,
+b) budžeta entiteta i Brčko Distrikta,
+c) drugih izvora.
+Davaoci javnih usluga moraju odrediti sredstva iz budžeta
+entiteta i Brčko Distrikta za finansiranje programa javnih
+usluga samo za osiguranje tih javnih usluga.
+Član 64.
+Cijene usluga javnih službi
+Korisnici usluga javnih službi u oblasti zdravlja bilja
+plaćaju cijenu pojedinačnih usluga djelimično ili u cijelosti.
+Cijene usluga javnih službi iz oblasti zdravlja bilja i dio koji
+plaća korisnik određuje Uprava u saradnji s nadležnim
+organima entiteta i Brčko Distrikta.
+
+Član 65.
+Nadzor rada javnih službi
+Nadzor primjene javnih usluga u oblasti zdravlja bilja vrši
+Uprava u saradnji s nadležnim organima entiteta i Brčko
+Distrikta.
+
+1.
+
+2.
+
+Član 66.
+Dozvole
+Uprava, na prijedlog nadležnih organa entiteta i Brčko
+Distrikta, davaocima usluga izdaje dozvole za pružanje
+javnih usluga iz oblasti zdravlja bilja na osnovu poziva na
+javne konkurse koji se objavljuju u službenim glasilima
+entiteta i Brčko Distrikta.
+Javni pozivi na konkurse, prije svega, treba da sadržavaju:
+a) predmet dozvole,
+b) početak i trajanje dozvole,
+c) uslove koje mora ispunjavati nosilac dozvole,
+d) obavezne elemente ponuda,
+e) mjere koje se odnose na izbor,
+f) rok za donošenje odluke o izboru,
+g) druge eventualne stručne i tehničke uslove,
+
+3.
+
+4.
+5.
+
+6.
+7.
+
+1.
+
+SLUŽBENI G
+
+h) kontakt lice za davanje obavještenja o sadržaju javnog
+poziva na ponude,
+i) datum, mjesto i vrijeme otvaranja ponuda,
+j) način obavještavanja kandidata o izboru nosioca
+dozvole.
+Proceduru otvaranja i procjene ponuda određuju posebne
+komisije koje imenuje Uprava u saradnji s nadležnim
+organima entiteta i Brčko Distrikta. Otvaranju ponuda
+mogu prisustvovati predstavnici ponuđača.
+Odluka iz stavka 2.f) objavljuje se u službenim glasilima
+entiteta i Brčko Distrikta.
+Javni poziv na ponude iz stava 1. nije potreban za javne
+zavode iz oblasti poljoprivrede, kojima Uprava, u saradnji s
+nadležnim organima entiteta i Brčko Distrikta, izdaje
+dozvole na osnovu zahtjeva putem odluke kroz upravni
+postupak.
+Odnosi između Uprave i nosioca dozvole reguliraju se
+detaljnije ugovorom.
+Protiv odluke iz ovog člana nije dozvoljena žalba, ali se
+može pokrenuti upravni spor.
+Član 67.
+Ugovori
+Ugovor iz člana 66. stav 6. zaključuje se u pismenoj formi i
+sadrži:
+a) naziv davaoca usluga i stručna lica koja će obavljati
+aktivnosti,
+b) aktivnosti iz oblasti zdravlja bilja koje će obavljati
+davalac usluga,
+c) regiju u kojoj davalac usluga mora pružati javne usluge
+iz oblasti zdravlja bilja,
+d) način i uslove za vršenje aktivnosti određene
+ugovorom,
+e) prava, obaveze i odgovornosti davaoca usluga,
+f) radno vijeme i radne dane, odnosno način osiguranja
+aktivnosti,
+g) početak i trajanje dozvole,
+h) izvor finansiranja,
+i) nadzor nad vršenjem aktivnosti,
+j) prestanak važnosti dozvole,
+k) vremensko ograničenje za otkazivanje ugovora.
+
+X - JAVNO OVLAŠTENJE
+
+1.
+
+2.
+3.
+4.
+5.
+6.
+7.
+
+Član 68.
+Javno ovlaštenje
+Uprava, u saradnji s nadležnim organima entiteta i Brčko
+Distrikta, dodjeljuje javno ovlaštenje pravnim i fizičkim
+licima koja ispunjavaju uslove u odnosu na stručne,
+prostorne i tehničke sposobnosti za poslove iz člana 76. st.
+3., 4., 5., 6., 7., 8., 10. i 14.
+Uslove, koji se odnose na stručne kvalifikacije iz stava 1.,
+propisuje Uprava.
+Ispunjavanje uslova u vezi sa stručnim kvalifikacijama
+verificiraju komisije koje imenuje Uprava, u saradnji s
+nadležnim organima entiteta i Brčko Distrikta.
+Uprava, u saradnji s nadležnim organima entiteta i Brčko
+Distrikta, dodjeljuje javno ovlaštenje za vršenje poslova iz
+stava 1. na osnovu javnog poziva na ponude.
+Javni poziv na ponude iz stava 1. nije potreban za javne
+zavode iz oblasti poljoprivrede, kojima Uprava izdaje
+dozvole na osnovu zahtjeva.
+Uprava odlučuje o izboru davaoca usluga. U odluci treba
+navesti osoblje koje će vršiti delegirane aktivnosti.
+Ne dozvoljava se žalba na odluku iz stava 6., ali je moguć
+upravni spor.
+
+GLASNIK BiH
+8.
+9.
+
+Četvrtak, 7. augusta 2003.
+
+Nosioci javnih ovlaštenja odgovorni su nadležnim organima
+za obavljanje poslova za koje je dato javno ovlaštenje.
+Ako nosilac javnog ovlaštenja prestane ispunjavati uslove
+ili ako radi suprotno propisima, Uprava donosi odluku o
+ukidanju javnog ovlaštenja.
+
+XI - UDRUŽENJA IZ OBLASTI ZDRAVLJA BILJA KOJA
+RADE U JAVNOM INTERESU
+
+1.
+2.
+
+3.
+
+1.
+
+2.
+3.
+
+Član 69.
+Javni interes
+Udruženja iz oblasti zdravlja bilja su profesionalna i
+amaterska udruženja iz oblasti zdravlja bilja koja obavljaju
+aktivnosti od javnog interesa.
+Udruženje radi u javnom interesu:
+a) ako radi aktivno u oblasti zdravlja bilja;
+b) ako se bavi aktivnostima koje su od javnog interesa
+definirane u osnivačkim aktima;
+c) ako organizira edukacije/obuke o zdravlju bilja za
+članove i one koji nisu članovi;
+d) ako je jasno pokazano da se fondovi društva
+predominantno koriste u svrhu javnog interesa u
+periodu od dvije godine;
+e) ako je vršilo ove aktivnosti najmanje dvije godine.
+Uprava može propisati detaljnije uslove iz stava 2.
+Član 70.
+Status udruženja
+Nadležni organ udruženju koje ispunjava uslove iz člana 69.
+može odlukom dodijeliti status udruženja od javnog
+interesa, za period od najviše pet godina, uz mogućnost
+produženja na isti period.
+Udruženje se može finansirati za vršenje aktivnosti koje su
+u javnom interesu iz budžeta entiteta i Brčko Distrikta.
+Udruženju koje više ne ispunjava uslove iz prethodnog
+člana nadležni organ odlukom poništava status udruženja od
+javnog interesa.
+
+Član 71.
+Objavljivanje
+Odluka o dodjeli i ukidanju statusa udruženja od javnog
+interesa objavljuje se u službenim glasilima entiteta i Brčko
+Distrikta.
+XII - STRUČNI SAVJET ZA ZDRAVLJE BILJA
+
+1.
+
+2.
+
+Član 72.
+Stručni savjet za zdravlje bilja
+Uprava osniva Vijeće za zdravlje bilja (u daljem tekstu:
+Vijeće) kao stručno savjetodavno tijelo iz oblasti zdravlja
+bilja, koje će biti sastavljeno od stručnjaka iz oblasti
+zdravlja bilja, poljoprivrede, šumarstva, nauke i
+obrazovanja. Zadaci Vijeća su naročito:
+a) davanje savjeta o uvođenju mjera za sprečavanje
+unošenja, širenja i za suzbijanje štetnih organizama,
+b) predlaganje naučnih i edukativnih aktivnosti iz oblasti
+zdravlja bilja,
+c) praćenje sistemskih i razvojnih pitanja iz oblasti
+zdravlja bilja i predlaganje prioritetnih poslova,
+d) predlaganje procjene prioritetnih rizika od štetočina,
+e) predlaganje planova razvoja iz oblasti zdravlja bilja,
+f) saradnja u stvaranju osnova za pripremu zakonskih
+propisa.
+Uprava, u saradnji s nadležnim organima entiteta i Brčko
+Distrikta, donosi propis o sastavu i načinu rada Vijeća.
+
+Četvrtak, 7. augusta 2003.
+
+SLUŽBENI G
+
+XIII - NADLEŽNOST ODGOVORNIH ORGANA
+1. Vijeće ministara
+Član 73.
+Mjere
+Vijeće ministara, na prijedlog Uprave, može narediti
+sljedeće mjere:
+a) narediti zabranu proizvodnje pojedinih vrsta, sorti ili
+klonova bilja u određenim područjima,
+b) ograničiti ili zabraniti trgovinu pojedinih vrsta bilja,
+c) narediti mandatnu saradnju nosioca vlasništva u
+suzbijanju štetnih organizama i upotrebu njihove
+opreme u tu svrhu,
+d) narediti sve druge mjere potrebne za primjenu ovog
+zakona.
+2. Uprava
+
+1.
+
+2.
+3.
+
+1.
+
+2.
+
+Član 74.
+Status
+Uprava je centralno odgovorno tijelo za zaštitu bilja u Bosni
+i Hercegovini za saradnju i razmjenu informacija s
+međunarodnim zvaničnim tijelima i obavještavanje
+međunarodnih tijela.
+Uprava vrši upravne poslove i s njima povezane tehničke
+poslove, u skladu s ovim zakonom.
+U upravnim stvarima o kojima odlučuje Uprava, Vijeće
+ministara je drugostepeni organ.
+Član 75.
+Mjere koje provodi Uprava
+Radi sprečavanja unošenja i širenja štetnih organizama u
+Bosnu i Hercegovinu i njihovog suzbijanja, ako u zemlji
+postoji rizik, Uprava može odlukom:
+a) odrediti granice posebno reguliranih područja,
+b) ograničiti ili zabraniti prijenos pojedinih vrsta bilja na
+teritoriji Bosne i Hercegovine,
+c) ograničiti ili zabraniti uvoz i tranzit određenih vrsta
+bilja kroz teritoriju Bosne i Hercegovine.
+Uprava je dužna donijeti odluku iz stava 1.a) do izdavanja
+propisa iz člana 12. stav 3.
+
+Član 76.
+Ovlaštenja i zadaci Uprave
+Uprava obavlja sljedeće poslove i ima sljedeća ovlaštenja
+prema ovom zakonu:
+1. kreiranje politike iz oblasti zdravlja bilja,
+2. pripremanje zakonskih propisa i vršenje drugih upravnih
+poslova iz oblasti zdravlja bilja i brige za njihovo
+provođenje,
+3. redovno praćenje štetnih organizama u saradnji s nadležnim
+organima entiteta i Brčko Distrikta,
+4. analiza i procjena zdravstvenog stanja bilja u svrhu
+utvrđivanja pojave i širenja štetnih organizama u zemlji i
+inozemstvu,
+5. koordinacija s nadležnim organima entiteta i Brčko
+Distrikta pri vršenju laboratorijskih ispitivanja bilja, biljnih
+proizvoda i reguliranih objekata u svrhu dijagnosticiranja
+štetnih organizama s listi I. A, II. A, I. B i II. B,
+6. koordinacija s nadležnim organima entiteta i Brčko
+Distrikta pri vršenju procjene rizika u slučaju opasnosti od
+pojave ili nailaska novih štetnih organizama, izdavanje
+tehničkih uputstva i mjera,
+7. koordinacija s nadležnim organima entiteta i Brčko
+Distrikta u određivanju zaraženih regija, ugroženih regija,
+posebno reguliranih regija i zaštićenih zona,
+8. uspostavljanje i vođenje registara, evidencija i listi, u
+saradnji s nadležnim organima entiteta i Brčko Distrikta,
+
+GLASNIK BiH
+9.
+10.
+11.
+12.
+13.
+14.
+
+15.
+16.
+17.
+
+18.
+19.
+20.
+21.
+22.
+23.
+
+praćenje programa koji su u vezi s mjerama sprečavanja
+unošenja i širenja štetnih organizama i briga o
+implementaciji programa,
+predlaganje i praćenje mjera za sprečavanje, suzbijanje i
+iskorjenjivanje štetnih organizama,
+osiguranje provođenja fitosanitarnih mjera,
+koordinacija s nadležnim organima entiteta i Brčko
+Distrikta u vršenju poslova od strane javnih službi u skladu
+s ovim zakonom,
+obavještavanje o pojavi, izbijanju i širenju štetnih
+organizama u zemlji i inozemstvu,
+izrada izvještaja, analiza, informacija i drugih materijala za
+službena tijela i međunarodne organizacije koje je Bosna i
+Hercegovina dužna obavještavati u skladu s propisima i na
+osnovu međunarodnih ugovora,
+obavještavanje zemalja-izvoznica o zadržanim pošiljkama
+zbog neispunjavanja fitosanitarnih zahtjeva,
+saradnja u izradi međunarodnih sporazuma koje sklapa
+Bosna i Hercegovina u oblasti zdravlja bilja i briga za
+njihovu implementaciju,
+koordinacija s nadležnim organima entiteta i Brčko
+Distrikta pri obavještavanju javnosti i onih koji su
+zainteresirani o problemima iz oblasti zaštite bilja i
+izdavanje publikacija,
+briga oko vršenja jedinstvenih procedura rada u skladu s
+propisima i međunarodnim zahtjevima,
+uvođenje i održavanje sistema informiranja iz oblasti
+zdravlja bilja,
+osiguranje stručne obuke za osoblje Uprave,
+saradnja s drugim službenim tijelima i organizacijama u
+zemlji i inozemstvu iz oblasti zaštite zdravlja bilja,
+predstavljanje Bosne i Hercegovine u međunarodnim
+tijelima i organizacijama u oblasti zdravlja bilja,
+obavljanje drugih poslova u vezi sa zdravljem bilja.
+
+3. Nadležni organi entiteta i Brčko Distrikta
+Član 77.
+Ovlaštenja nadležnih organa entiteta i Brčko Distrikta
+U provođenju ovog zakona nadležni organi entiteta i Brčko
+Distrikta imaju sljedeća ovlaštenja:
+1. saradnja u kreiranju i provođenju politike iz oblasti zdravlja
+bilja,
+2. saradnja u pripremi zakonskih propisa i vršenje drugih
+upravnih poslova iz oblasti zdravlja bilja i briga za njihovo
+provođenje,
+3. redovno praćenje štetnih organizama,
+4. analiza i procjena zdravstvenog stanja bilja u svrhu
+utvrđivanja pojave i širenja štetnih organizama u zemlji,
+unutar administrativnog prostora dijelovanja,
+5. vršenje laboratorijskih ispitivanja biljki, biljnih proizvoda i
+reguliranih objekata u svrhu dijagnosticiranja štetnih
+organizama s listi I. A, II. A, I. B i II. B, u saradnji s
+Upravom,
+6. vršenje procjene rizika u slučaju opasnosti od pojave ili
+nailaska novih štetnih organizama, izdavanje tehničkih
+uputstava i mjera,
+7. proizvodnja tehničke osnove za određivanje zaraženih
+regija, ugroženih regija, posebno reguliranih regija i
+zaštićenih zona,
+8. uspostavljanje i vođenje registara, evidencija i listi, unutar
+administrativnog prostora djelovanja,
+9. provođenje mjera za sprečavanje unošenja i širenja štetnih
+organizama, suzbijanje i iskorjenjivanje štetnih organizama,
+10. osiguranje fitosanitarnih mjera,
+
+SLUŽBENI G
+
+11. stručni nadzor nad vršenjem poslova od strane javnih službi
+u skladu s ovim zakonom, unutar administrativnog prostora
+djelovanja,
+12. obavještavanje Uprave o pojavi, izbijanju i širenju štetnih
+organizama u zemlji unutar administrativnog prostora
+djelovanja,
+13. izrada izvještaja, analiza, informacija i drugih materijala iz
+oblasti zaštite zdravlja bilja za potrebe Uprave,
+14. obavještavanje Uprave o zadržanim uvoznim pošiljkama
+zbog neispunjavanja fitosanitarnih zahtjeva,
+15. saradnja u predlaganju međunarodnih sporazuma koje
+sklapa Bosna i Hercegovina u oblasti zdravlja bilja,
+16. obavještavanje javnosti i onih koji su zainteresirani o
+problemima iz oblasti zaštite bilja i izdavanje publikacija,
+unutar administrativnog prostora djelovanja,
+17. provođenje jedinstvenih procedura rada u skladu s
+propisima i međunarodnim zahtjevima,
+18. uvođenje i održavanje sistema informiranja iz oblasti
+zdravlja bilja, unutar administrativnog prostora djelovanja,
+19. osiguranje stručne obuke za osoblje nadležnih organa
+entiteta i Brčko Distrikta,
+20. obavljanje drugih poslova u vezi sa zdravljem bilja.
+4. Inspekcijski nadzor
+
+1.
+2.
+3.
+
+Član 78.
+Vršenje inspekcijskog nadzora
+Inspekcijski nadzor primjene ovog zakona i propisa
+donesenih na osnovu ovog zakona vrše fitosanitarni
+inspektori nadležnih organa entiteta i Brčko Distrikta.
+Mjere iz ovog zakona naređuju fitosanitarni inspektori
+rješenjem. Žalba na rješenje ne odgađa izvršenje rješenja.
+Nadležni organi entiteta i Brčko Distrikta su službena tijela
+drugostepenog nivoa u upravnim stvarima o kojima
+odlučuju nadležni inspektori.
+
+Član 79.
+Fitosanitarne službe u nadležnim organima entiteta i Brčko
+Distrikta
+1. Fitosanitarne službe u nadležnim organima entiteta i Brčko
+Distrikta treba da osiguraju jedinstvenu primjenu procedura
+rada i mjera iz oblasti zdravlja bilja u okviru priručnika za
+inspektore, vrše inspekcijsko praćenje zdravstvenog stanja
+biljki, osiguraju stručnu obuku za inspektore, sarađuju u
+izradi propisa u njihovom polju rada i vrše druge poslove
+određene zakonom ili drugim propisima.
+2. Fitosanitarne službe u nadležnim organima entiteta i Brčko
+Distrikta sarađuju u svom radu s Upravom, s drugim
+kontrolnim službama, institutima i drugim organizacijama i
+stručnjacima za poljoprivredu u Bosni i Hercegovini i
+inozemstvu.
+Član 80.
+Zadaci i ovlaštenja inspektora
+Fitosanitarni inspektori mogu na osnovu ovog zakona:
+1. imati pristup biljkama, biljnim proizvodima i reguliranim
+objektima u svako vrijeme i na svakom mjestu gdje se oni
+prevoze, proizvode, prerađuju, skladište, prodaju ili na
+drugi način koriste, kao i pristup u prostore kupaca i u toku
+uvoza, izvoza i tranzita,
+2. vršiti kontrolu bilja, biljnih proizvoda i reguliranih objekata
+u svako vrijeme i na svakom mjestu gdje se oni prevoze,
+proizvode, prerađuju, skladište, prodaju ili na drugi način
+koriste, kao i u prostore kupaca i u toku uvoza, izvoza i
+tranzita,
+3. vršiti kontrolu dokumentacije pravnih i fizičkih lica koja je
+u vezi sa zdravljem bilja,
+
+GLASNIK BiH
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+
+Četvrtak, 7. augusta 2003.
+
+za laboratorijske analize uzimati uzorke bilja, biljnih
+proizvoda i reguliranih objekata bez naknade za njihovu
+vrijednost,
+provjeravati da li su proizvođači, prerađivači, uvoznici i
+distributeri propisanih vrsta biljki i vrsta biljnih proizvoda
+upisani u službeni registar,
+provjeravati da li isti ispunjavaju uslove za izdavanje pasoša
+za bilje,
+provjeravati da li oni koji su, prema ovom zakonu, dužni
+upisati se u registar ispunjavaju svoje obaveze,
+provjeravati da li davaoci javnih usluga, pravna i fizička lica
+kojima je dato ovlaštenje na osnovu ovog zakona
+ispunjavaju propisane uslove,
+vršiti nadzor nad poslovima koje vrše davaoci javnih
+usluga,
+izdavati pasoše za bilje i vršiti nadzor nad izdavanjem
+pasoša za bilje,
+izdavati fitosanitarne certifikate za izvoz i fitosanitarne
+certifikate za reeksport,
+vršiti kontrolu registara i evidencije koja mu je potrebna za
+vršenje nadzora,
+vršiti kontrolu uvoza, uzgoja i upotrebe organizama za
+biološku zaštitu bilja,
+nadzirati provođenje mjera iz ovog zakona,
+vršiti druge poslove u vezi sa zdravljem bilja.
+
+Član 81.
+Mjere koje uvodi inspektor
+U vršenju kontrolnog nadzora prema ovom zakonu
+fitosanitarni inspektor može:
+1. zabraniti uvoz štetnih organizama s listi propisanih ovim
+zakonom i drugih određenih štetnih organizama,
+2. zabraniti uvoz i prijevoz bilja, biljnih proizvoda i
+reguliranih objekata koji ne ispunjavaju uslove iz ovog
+zakona,
+3. zabraniti uzgoj određenih vrsta bilja na mjestu proizvodnje
+na određeni vremenski period,
+4. narediti odgovarajući tretman pošiljke u toku uvoza, izvoza,
+prijevoza bilja, biljnih proizvoda i reguliranih objekata ako
+utvrdi da su zaraženi određenim štetnim organizmima,
+5. narediti uklanjanje samo zaraženog dijela pošiljke ako ne
+postoji rizik od širenja štetnih organizama,
+6. narediti da se pošiljka ne preda uvozniku, prijevozniku ili
+licu koje uvozi ili prevozi bilje, biljne proizvode i regulirane
+objekte dok se ne izvrši kontrola, odnosno dok se ne saznaju
+rezultati ispitivanja ili zvaničnog testiranja,
+7. u slučaju robe zaražene štetnim organizmima dozvoliti
+prijevoz bilja, biljnih proizvoda i reguliranih objekata (osim
+sjemenja i sadnica/sadnog materijala) u područja u kojima
+ne postoji rizik od širenja štetnih organizama, odnosno u
+mjesto industrijske prerade, pod njegovom kontrolom,
+8. narediti uništenje pošiljke u toku uvoza ili prijevoza bilja,
+biljnih proizvoda i reguliranih objekata ako postoji opasnost
+od širenja štetnih organizama ili ako se ne ispunjavaju
+uslovi iz ovog zakona,
+9. privremeno zabraniti aktivnosti proizvođača, odnosno
+prerađivača u cijelosti ili samo djelimično i izdavanje
+biljnog pasoša dok se ne utvrdi da je otklonjena opasnost od
+širenja štetnih organizama,
+10. zabraniti izdavanje pasoša za bilje ako nisu ispunjeni uslovi
+za njihovo izdavanje,
+11. predložiti nadležnim organima brisanje iz registra ako
+utvrdi da oni koji su obavezni prema registru ne ispunjavaju
+propisane uslove,
+
+Četvrtak, 7. augusta 2003.
+
+SLUŽBENI G
+
+12. predložiti nadležnim organima da se, u slučaju ponovljenih
+kršenja propisa, poništi dozvola za izdavanje pasoša za
+bilje,
+13. do prijema odluke nadležnih organa, davaocu javnih usluga
+zabraniti vršenje javnih usluga ako nisu ispunjeni propisani
+uslovi i predložiti poništenje dozvole, odnosno ovlaštenja,
+14. zabraniti uvoz, uzgoj ili upotrebu organizama za biološku
+zaštitu bilja ako nisu ispunjeni uslovi iz ovog zakona,
+15. narediti ispravku nepravilnosti i nedostataka u odnosu na
+ovaj zakon i na osnovu njega izdate propise, u roku koji on
+odredi,
+16. narediti potrebne mjere i aktivnosti za sprečavanje
+unošenja, pojave, širenja, kao i za suzbijanje štetnih
+organizama, za što je ovlašten zakonom i drugim propisima,
+17. odrediti novčane (mandatne) kazne na licu mjesta za
+slučajeve određene ovim zakonom, predložiti pokretanje
+procedure radi kršenja propisa ili prijaviti krivični prekršaj,
+18. narediti druge mjere u skladu s ovim zakonom, odnosno na
+osnovu njega izdatih propisa.
+Član 82.
+Uslovi imenovanja
+Uprava, u saradnji s nadležnim organima entiteta i Brčko
+Distrikta, propisuje istovjetne uslove imenovanja lica koja
+mogu biti imenovana za fitosanitarnog inspektora.
+
+1.
+2.
+
+Član 83.
+Akreditacija fitosanitarnog inspektora
+Fitosanitarni inspektori imaju akreditaciju kojom se
+identificiraju prilikom vršenja kontrole.
+Formu i sadržaj akreditacije propisuje Uprava u saradnji s
+nadležnim organima entiteta i Brčko Distrikta.
+
+XIV - KAZNENE ODREDBE
+
+1.
+
+Članak 84.
+Prekršaji
+Novčanom kaznom u iznosu od 4.000 KM do 80.000 KM
+kaznit će se pravno lice, ako:
+a) ne zaštiti i ne spriječi kontakt s drugim biljkama,
+biljnim proizvodima i reguliranim objektima (član 9.
+stav 2.),
+b) saopći ili objavi podatke suprotno odredbama iz člana
+11. stav 3.,
+c) saopći ili objavi podatke o pojavi novootkrivenih
+štetnih organizama u Bosni i Hercegovini bez
+odobrenja Uprave (član 11. stav 4.),
+d) unese ili raširi štetni organizam suprotno članu 14.,
+e) unese ili preveze bilje, biljne proizvode i regulirane
+objekte suprotno članu 15.,
+f) ponaša se suprotno članu 16. stav 1.,
+g) ponaša se suprotno članu 19. st. 1. i 2.,
+h) ponaša se suprotno članu 22. stav 1.,
+i) ne uvozi pošiljke bilja preko određenih tačaka ulaska
+(član 24. stav 1.),
+j) uvozi pošiljke s Liste V. B bez fitosanitarnog certifikata (član 25. st. 3. i 4.),
+k) uvozi pošiljke s Liste V. B koje nisu podvrgnute kontroli (član 25. stav 1.),
+l) ne obavijesti fitosanitarnog inspektora o prispijeću
+pošiljke bilja (član 30. stav 1.),
+m) ne osigura kontrolu bilja, biljnih proizvoda i
+reguliranih objekata (član 41. st. 1. i 2.),
+n) izda pasoš za biljke suprotno članu 46.,
+o) ponaša se suprotno članu 47.,
+p) ponaša se suprotno članu 48.,
+q) ponaša se suprotno članu 49.,
+
+GLASNIK BiH
+
+2.
+3.
+4.
+
+1.
+
+2.
+3.
+
+r) unese, uzgoji ili koristi autohtone organizme suprotno
+članu 52. stav 2.,
+s) unese ili koristi strane organizme suprotno članu 53. st.
+2. i 3.,
+t) ponaša se suprotno članu 55. stav 3.,
+u) kao vršilac javnog servisa na izvrši obaveze iz člana
+62. stav 1.,
+v) ne koristi novčana sredstva u skladu sa članom 63. stav
+2.,
+w) vrši se trgovina sjemenjem i sadnicama suprotno članu
+89.stav 4. i članu 90.stav 3.,
+x) ponaša se suprotno članu 91. stav 3.
+Odgovornom licu pravnog lica izriče se novčana kazna od
+1.500 KM do 40.000 KM za prekršaj iz stava 1.
+Fizičkom licu izriče se novčana kazna od 450 KM do 4.350
+KM za prekršaj iz stava 1.
+Postupak za utvrđivanje prekršaja iz ovog člana provode
+nadležni organi entiteta i Brčko Distrikta.
+Član 85.
+Mandatne kazne
+Pravno lice kažnjava se novčanom kaznom od 2.500 KM,
+koja će biti određena na licu mjesta ako:
+a) ponaša se suprotno članu 5. stav 2. ili članu 6. st. 1., 2.
+i 4.,
+b) ako ne primijeni mjere koje naredi fitosanitarni
+inspektor (član 30. stav 3., član 36. stav 4.),
+c) ako se ponaša suprotno članu 37.,
+d) ako prevozi bilje, biljne proizvode i regulirane objekte
+suprotno članu 38. ili članu 39. stav 1.,
+e) ako koristi pasoše za biljke bez dozvole nadležnog
+organa (član 42. stav 2.),
+f) ako se ponaša suprotno članu 50. st. 1. i 3.,
+g) ako kao lice koje se brine o zdravlju bilja ne vodi i
+istovremeno ne ažurira propisanu evidenciju, registre i
+baze podataka u skladu sa članom 56. stav 1.
+Odgovornom licu pravnog lica izriče se novčana kazna od
+850 KM, koja se propisuje na licu mjesta, za prekršaj prema
+stavu 1.
+Fizičkom licu izriče se novčana kazna od 1.700 KM, koja se
+propisuje na licu mjesta, za prekršaj prema stavu 1.
+
+XV - PRIJELAZNE I ZAVRŠNE ODREDBE
+
+1.
+
+2.
+
+Član 86.
+Rok za donošenje zakonskih propisa
+Nadležni organi dužni su u roku od godinu dana od dana
+stupanja na snagu ovog zakona donijeti propise predviđene
+ovim zakonom, osim propisa iz člana 4. koji je potrebno
+donijeti najkasnije trideset dana nakon stupanja na snagu
+ovog zakona, člana 35. koji je potrebno donijeti najkasnije
+tri mjeseca nakon stupanja na snagu ovog zakona i čl. 20.,
+21., 22. i 23., koje je potrebno donijeti najkasnije šest
+mjeseci nakon stupanja ovog zakona na snagu.
+Nadležni organi, osim propisa predviđenih pojedinim
+članovima ovog zakona, mogu donijeti i druge propise koji
+su potrebni za primjenu ovog zakona.
+
+Član 87.
+Certifikat o zdravstvenom stanju bilja pri izvozu
+Do donošenja propisa iz člana 35. stav 4., koji se odnosi na
+formu i sadržaj fitosanitarnog certifikata pri izvozu i reeksportu,
+fitosanitarni inspektor nadležnog organa entiteta i Brčko
+Distrikta dužan je izdati postojeći fitosanitarni certifikat pri
+izvozu ili reeksportu, ovjeren od nadležnog organa entiteta.
+
+SLUŽBENI G
+
+Član 88.
+Upis u registar
+Lica koja su obavezna upisati se u registar u skladu sa
+članom 19. stav 2. dužna su se upisati u registar najkasnije 12
+mjeseci nakon stupanja na snagu ovog zakona.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+Član 89.
+Potvrda zdravstvenog stanja pošiljki i uređaja
+Do početka primjene odredbi iz člana 93. koje se odnose na
+biljne pasoše, usjeve za proizvodnju sjemenja (u daljem
+tekstu: usjevi) i uređaje za proizvodnju sjemenja
+višegodišnjih biljki, jednogodišnjih biljki i ukrasnih biljki (u
+daljem tekstu: uređaji) moraju se obavezno podvrgnuti
+kontroli u skladu s propisima. Potrebno je na propisani
+način izdati certifikat o zdravstvenom stanju usjeva i
+uređaja.
+Do početka primjene odredbi ovog zakona koje se odnose
+na biljne pasoše obaveznu kontrolu i izdavanje certifikata o
+zdravstvenom stanju usjeva, odnosno uređaja vršit će
+ovlaštena organizacija u skladu s propisima.
+Ako obavezna kontrola usjeva, odnosno uređaja iz stava 2.
+utvrdi prisustvo štetnih organizama s Liste I. A, odnosno II.
+A, nadležni inspektor dužan je narediti mjere suzbijanja ili
+uništenja.
+Ako se obavezna kontrola bilja, odnosno uređaja ne izvrši i
+ne izda certifikat o zdravstvenom stanju sjemenja, odnosno
+uređaja, sjemenje, odnosno sadnice koje potječu od tih
+usjeva, odnosno uređaja ne mogu se pustiti u prodaju.
+Ako se odredbe ovog člana ne primijene, nadležni inspektor
+zabranit će prodaju.
+
+Član 90.
+Certifikat o zdravstvenom stanju bilja na unutrašnjem
+tržištu
+1. Do početka primjene odredbi ovog zakona koje se odnose
+na pasoš za bilje, fitosanitarni inspektor dužan je izdati
+certifikat o zdravstvenom stanju bilja na unutrašnjem tržištu
+za propisanu pošiljku sjemenja, odnosno sadnica koje se
+uvoze na teritoriju Bosne i Hercegovine.
+2. Certifikat iz prethodnog stava izdaje se ako je kontrola
+sjemenja, odnosno sadnica izvršena prije otklanjanja iz
+uređaja u kojem su proizvedene, prerađene ili upakovane i
+koji nije zaražen štetnim organizmima iznad propisanog
+procenta.
+3. Zabranjena je prodaja sjemenja, odnosno sadnica za koje
+nije izdat certifikat iz prethodnog stava.
+4. Ako odredbe iz ovog člana nisu izvršene, fitosanitarni
+inspektor dužan je zabraniti prodaju.
+
+1.
+
+2.
+3.
+4.
+
+Član 91.
+Praćenje zdravstvenog stanja uvezenih sadnica
+višegodišnjih biljki
+Stupanjem na snagu ovoga zakona, mora se obavezno kod
+krajnjeg korisnika pratiti zdravstveno stanje propisanih
+uvezenih sadnica višegodišnjih biljki koje mogu nositi
+štetne organizme s listi I. A i II. A, čije se prisustvo ne može
+utvrditi kontrolom tokom uvoza.
+Uvoznik sadnica iz stava 1. mora prilikom uvoza
+nadležnom inspektoru dostaviti deklaraciju s potrebnim
+podacima o krajnjem korisniku.
+Tokom praćenja stanja zdravlja kod krajnjeg korisnika,
+sadnice iz stava 1. ne mogu se premještati bez dozvole
+nadležnog organa.
+Nadležni inspektor dužan je u toku rasta pratiti stanje
+zdravlja uvezenog sadnog materijala iz stava 1. na propisani
+način.
+
+GLASNIK BiH
+
+Četvrtak, 7. augusta 2003.
+
+Član 92.
+Propisi entiteta
+Propisi entiteta kojima je regulirana zaštita zdravlja bilja, a
+koji su u suprotnosti s odredbama ovog zakona, prestaju važiti
+danom stupanja na snagu ovog zakona.
+Član 93.
+Primjena zakona
+Primjena odredbi iz čl. 38., 39., 40., 42., 43., 44., 45., 46.,
+47., 48., 49., 50., 58., 59. i člana 80. stav 10., te člana 81. st. 9.,
+10., 11. i 12. ovog zakona koje se odnose na biljne pasoše
+počinje petnaest mjeseci nakon stupanja na snagu ovog zakona.
+Član 94.
+Stupanje zakona na snagu
+Ovaj zakon stupa na snagu osmog dana od dana
+objavljivanja u "Službenom glasniku BiH", a objavit će se i u
+službenim glasilima entiteta i Brčko Distrikta.
+PS BiH broj 75/03
+27. juna 2003. godine
+Sarajevo
+Predsjedavajući
+Predsjedavajući
+Doma naroda
+Predstavničkog doma
+Parlamentarne skupštine BiH Parlamentarne skupštine BiH
+Velimir Jukić, s. r.
+Šefik Džaferović, s. r.

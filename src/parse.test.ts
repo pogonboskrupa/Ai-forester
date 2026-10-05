@@ -19,3 +19,20 @@ describe('tokenize', () => {
     expect(tokenize('šuma')[0]).toBe('suma');
   });
 });
+
+import { renderMarkdown } from './md';
+describe('renderMarkdown', () => {
+  it('escapuje HTML i označava citate', () => {
+    const h = renderMarkdown('<script>x</script>\n- [Zakon o šumama, član 5]');
+    expect(h).not.toContain('<script>');
+    expect(h).toContain('class="cite"');
+  });
+});
+
+describe('parseArticles bez članova', () => {
+  it('dijeli akt na dijelove', () => {
+    const a = parseArticles('NAPUTAK\n\n1.\n\nPrvi paragraf.\n\n2.\n\nDrugi.', law);
+    expect(a.length).toBeGreaterThan(0);
+    expect(a[0]?.number).toBe('dio 1');
+  });
+});

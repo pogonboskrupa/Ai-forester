@@ -1,0 +1,2918 @@
+ZAKON O VODAMA
+Sl. novine FBIH br. 70/2006
+
+I. OSNOVNE ODREDBE
+Član 1
+Predmet Zakona
+(1) Ovim Zakonom uređuje se način upravljanja vodama unutar teritorije Federacije Bosne i Hercegovine (u
+daljnjem tekstu: Federacija).
+(2) Upravljanje vodama obuhvata: zaštitu voda, korištenje voda, zaštitu od štetnog djelovanja voda i uređenje
+vodotoka i drugih voda.
+(3) Ovim Zakonom uređuju se: vodno dobro i javno vodno dobro, vodni objekti, pravna lica i druge institucije
+nadležne za pojedina pitanja upravljanja vodama i druga problematika vezana za vode u Federaciji.
+
+Član 2
+Svrha Zakona
+(1) Svrha ovog Zakona je osiguranje upravljanja vodama s ciljem:
+1. smanjenja zagađenja voda, postizanja dobrog stanja voda i sprečavanja degradacije voda;
+2. postizanja održivog korištenja voda;
+3. osiguranja pravičnog pristupa vodama;
+4. poticanja društvenog i privrednog razvoja;
+5. zaštite ekosistema;
+6. smanjenja rizika od poplava i drugih negativnih uticaja voda;
+7. osiguranja učešća javnosti u donošenju odluka koje se odnose na vode;
+8. sprečavanja i rješavanja sukoba vezanih za zaštitu i korištenje voda;
+9. ispunjavanja obaveza iz međunarodnih ugovora koji su obavezujući za Bosnu i Hercegovinu.
+
+II. OSNOVNA NAČELA I DEFINICIJE
+Član 3
+Opća načela
+(1) Vode su opće dobro i kao takve su pod posebnom zaštitom Bosne i Hercegovine, Federacije, kantona, grada i
+općine.
+(2) Upravljanje vodama zasniva se na načelima:
+1. nekomercijalnosti, prema kojem voda u osnovi nije komercijalni proizvod, već naslijeđe koje se mora čuvati,
+štititi i u skladu tome postupati;
+2. cjelovitosti, koje uzima u obzir prirodne procese i dinamiku voda te međusobnu povezanost i međuzavisnost
+vodnih i uz vodu vezanih ekosistema;
+3. dugoročne zaštite kvaliteta i racionalne upotrebe raspoloživih količina vode;
+4. osiguranja zaštite od štetnog djelovanja voda koje proizilazi iz potreba za zaštitu stanovništva i njihove imovine,
+uzimajući u obzir djelovanje prirodnih procesa;
+5. ekonomskog vrednovanja voda koje uključuje troškove opterećenja, zaštite i uređenja voda i zaštite od štetnog
+djelovanja voda;
+6. učešća javnosti kod donošenja planova upravljanja vodama;
+7. uzimanja u obzir najboljih raspoloživih tehnologija i novih naučnih dostignuća o prirodnim zakonitostima i
+najboljih okolišnih praksi.
+
+Član 4
+Definicije
+Izrazi upotrijebljeni u ovom Zakonu imaju sljedeća značenja:
+1. "površinske vode" označavaju sve kopnene vode, izuzev podzemnih voda, prijelazne i obalne morske vode,
+izuzev morskih voda koje pripadaju teritorijalnim vodama;
+2. "kopnene vode" označavaju sve stajaće ili tekuće vode na površini kopna i sve podzemne vode na kopnenoj
+strani od linije od koje se mjeri širina teritorijalnih voda;
+
+3. "podzemne vode" označavaju sve vode ispod površine zemlje u zasićenoj zoni i koje su u direktnom kontaktu
+sa površinskim i podzemnim slojevima zemljišta;
+4. "rijeka" označava vodu koja najvećim dijelom teče po površini zemlje, ali koja može jednim dijelom svog toka
+teći i ispod zemlje;
+5. "obalne morske vode" označavaju površinske vode na strani prema kopnu ograničene linijom čija je svaka
+tačka udaljena jednu morsku milju od granične linije na kojoj se mjeri širina teritorijalnih voda, a gdje je to slučaj,
+od vanjske granice prijelaznih voda;
+6. "prijelazne vode" označavaju površinske vode u blizini ušća rijeka u more, koje su prema karakteru djelimično
+slane uslijed blizine obalnih voda, ali su pod znatnim uticajem doticaja svježe vode;
+7. "vodotok" označava korito tekuće vode zajedno sa obalama i vodom koja njime stalno ili povremeno teče;
+8. "korito" označava terensko udubljenje kroz koje stalno ili povremeno teče voda;
+9. "režim voda" označava niz hidroloških, hidromorfoloških, hidrauličkih, hemijskih i bioloških svojstava
+površinskih i podzemnih voda u određenom području i u određenom vremenu;
+10. "promjena režima voda" označava sve promjene u režimu voda nastalih kao rezultat prirodnih sila ili ljudskih
+aktivnosti;
+11. "ekosistemi" označavaju akvatične, poluakvatične i kopnene ekosisteme koji su direktno ili indirektno zavisni
+od voda;
+12. "riječni bazen (sliv)" označava površinu zemljišta sa kojeg se svo površinsko otjecanje slijeva mrežom potoka,
+rijeka i eventualno jezera prema ušću, estuariji ili delti u more;
+13. "podbazen (podsliv)" označava površinu zemljišta sa kojeg se svo površinsko otjecanje slijeva mrežom
+potoka, rijeka i eventualno jezera prema određenoj tački vodotoka (obično je to ušće u drugu rijeku ili jezero);
+14. "vodno područje (distrikt)" označava područja kopna i mora koja čine jedan ili više susjednih riječnih bazena
+(slivova) i zajedno sa njima pripadajućim podzemnim i obalnim morskim vodama i određeno je kao osnovna
+jedinica za upravljanje vodama;
+15. "prekogranične vode" označavaju vode koje čine ili presijecaju granicu Bosne i Hercegovine;
+16. "vodno tijelo površinskih voda" označava izolovan i posebno posmatran dio površinske vode kao što je:
+jezero, potok, rijeka ili kanal, dio potoka, rijeke ili kanala, prijelazne vode ili pojas obalne morske vode;
+17. "stanje površinskih voda" označava stanje vodnog tijela površinskih voda koje je određeno njegovim
+ekološkim ili hemijskim stanjem, uzimajući ono koje je lošije;
+18. "ekološko stanje" označava kvalitet strukture i funkcije ekosistema površinskih voda;
+19. "hemijsko stanje" označava stepen hemijskog zagađenja voda;
+20. "vještačko vodno tijelo" označava vodno tijelo površinskih voda nastalo ljudskom djelatnošću;
+21. "jako izmijenjeno vodno tijelo" označava vodno tijelo površinskih voda koje je zbog fizičkih promjena
+uzrokovanih ljudskom djelatnošću, značajno promijenilo svoje karakteristike;
+22. "akvifer" označava sloj ispod površine zemlje ili proslojke u stijenama ili drugim geološkim formacijama koje
+imaju takvu poroznost i vodopropusnost da omogućuju ili značajan protok podzemne vode ili zahvatanje
+značajnih količina podzemne vode;
+23. "vodno tijelo podzemnih voda" označava određenu zapreminu podzemne vode unutar jednog ili više akvifera;
+24. "stanje podzemnih voda" označava stanje vodnog tijela podzemnih voda koje je određeno njegovim
+kvantitativnim ili hemijskim stanjem, uzimajući ono koje je lošije;
+25. "kvantitativno stanje podzemnih voda" označava stepen u kojem na tijelo podzemnih voda utiče direktno i
+indirektno crpljenje;
+26. "voda za piće" označava vodu namijenjenu za ljudsku upotrebu koja po kvalitetu odgovara posebnim
+propisima koje donosi ministarstvo nadležno za pitanja zdravstva;
+27. "javno vodosnabdijevanje" označava poslove zahvatanja podzemnih ili površinskih voda za snabdijevanje
+vodom stanovništva, njihovo prečišćavanje do stepena zdravstvene ispravnosti i dovođenja do mjesta potrošnje i
+raspodjele korisnicima voda, ako je ukupna zahvaćena količina veća od 10m3 na dan;
+28. "mineralne vode" označavaju podzemne vode koje prema svojim karakteristikama odgovaraju posebnim
+standardima za mineralne vode, a zahvataju se iz bunara ili vrela;
+29. "termalne vode" označavaju podzemne vode koje prema svojim karakteristikama odgovaraju posebnim
+standardima za termalne vode, a zahvataju se iz bunara ili vrela;
+30. "termomineralne vode" označavaju termalne vode sa osobinama mineralnih voda;
+31. "direktno ispuštanje u podzemne vode" označava ispuštanje zagađenja u podzemne vode bez filtracije kroz
+površinske ili podzemne slojeve zemljišta;
+32. "materijal u vodotocima" označava šljunak, pijesak, mulj, bilje i druge slične prirodne ili vještačke materijale
+koji se uklanjaju iz vodotoka ili sa vodnog dobra u cilju njihovog održavanja ili reguliranja;
+33. "opasne materije" označavaju materije ili grupu materija koje su toksične, trajne i podložne bioakumulaciji, kao
+i druge materije ili grupe materijai iste ili slične rizičnosti;
+34. "prioritetne materije" označavaju materije definirane članom 2. tačka 30. Direktive 2000/60/EC Evropskog
+parlamenta i Vijeća;
+
+35. "zagađujuća materija" označava svaku materiju sposobnu da prouzrokuje zagađenje, a posebno materije
+navedene u aneksu VIII Direktive 2000/60/EC Evropskog parlamenta i Vijeća;
+36. "otpadna voda" označava vodu koja je promijenila svoje prirodne, fizičke, hemijske ili biološke osobine
+rezultatom ljudskih aktivnosti;
+37. "lice" označava fizičko ili pravno lice;
+38. "operator" označava lice koje upravlja ili kontrolira postrojenje ili aktivnost, odnosno lice kojem je, u skladu sa
+zakonom, prenijeto takvo ovlaštenje;
+39. "aktivnost" označava bilo koju aktivnost koja ima ili može imati uticaj na kvalitet ili kvantitet voda, ekosisteme,
+na morfologiju vodotoka ili njegovo korištenje;
+40. "zainteresirana strana" označava lice na čije pravo, interes ili obaveze može uticati aktivnost drugog lica;
+41. "uređeni inundacioni pojas" označava zemljište između riječnog korita i vanjskog (vodnog) ruba odbrambenog
+nasipa;
+42. "urbano područje" označava jedno naselje ili više naselja koja predstavljaju prostornu urbanu cijelinu ili
+prostorno-funkcionalno međusobno povezanu cjelinu utvrđenih Prostornim planom Federacije, kantona, grada i
+općine, prema propisima o prostornom planiranju.
+
+III. RAZVRSTAVANJE POVRŠINSKIH VODA, VODNO DOBRO I VODNI
+OBJEKTI
+Član 5
+Razvrstavanje površinskih voda
+(1) Površinske vode se, prema značaju kojeg imaju za upravljanje vodama, razvrstavaju u vode I. kategorije i
+vode II. kategorije.
+(2) Vode I kategorije su:
+A) na Vodnom području Save
+Vodotoci Vještačke akumulacije
+1. Sava 1. Hazna
+2. Una 2. Vidara
+3. Unac 3. Jajce I
+4. Sana 4. Jajce II
+5. Vrbas 5. Župica
+6. Pliva
+7. Bosna
+8. Krivaja
+9.Usora
+10. Spreča (nizvodno od ušća Jale)
+11. Željeznica
+12. Tinja
+13. Drina
+14. Sanica
+15. Klokot
+B) na Vodnom području Jadranskog mora
+Vodotoci Vještačke akumulacije
+1. Neretva 1. Rama
+2. Trebišnjica (regulirani dio vodotoka) 2. Jablanica
+3. Matica (Vrljika) 3. Grabovica
+4. Tihaljina, Mlada, Trebižat 4. Salakovac
+5. Bregava 5. Mostar
+6. Krupa 6. Buško blato
+7. Lištica 7. Majdej (nizvodno od Širokog Brijega)
+8. Rama 8. Lipa
+Prirodna jezera i močvarna područja
+1. Boračko jezero
+2. Blidinje
+3. Hutovo blato
+Sve preostale vode su vode II. kategorije.
+
+Član 6
+Podjela površinskih voda
+(1) Površinske vode obuhvataju tekuće i stajaće vode.
+(2) Tekuće vode su prirodni vodotoci kao što su bujice, potoci i rijeke, bez obzira na to da li imaju stalan ili
+povremen tok.
+(3) Tekuće vode obuhvataju i regulirane vodotoke, vodotoke koji su nastali izmještanjem prirodnog vodotoka ili
+djelimičnim zahvatanjem voda iz prirodnog vodotoka.
+(4) Stajaće vode su: obalne morske vode, prirodna jezera, uključujući i ona koja povremeno presušuju, bare,
+močvare i druge prirodne vodne akumulacije koje imaju stalan ili povremen dotok ili oticaj površinskih ili
+podzemnih voda.
+(5) Stajaće vode su i vodne akumulacije koje su nastale pregrađivanjem tekućih voda ili drugim zahvatima u
+prostoru.
+
+Član 7
+Vodno dobro
+(1) Vodno dobro, prema ovom Zakonu, jeste skup zemljišnih čestica koje obuhvataju:
+1. zemljište na kojem je površinska voda trajno ili povremeno prisutna i zbog toga se oblikuju posebni hidrološki,
+geomorfološki i biološki odnosi koji određuju vodne i od vode zavisne ekosisteme;
+2. osnovno korito tekućih voda, uključujući otoke i obale do izrazite geomorfološke promjene;
+3. priobalni pojas širine 15 metara od granice obale (izrazite morfološke promjene) za površinske vode I.
+kategorije, odnosno priobalni pojas širine 5 metara od granice obale (izrazite morfološke promjene) za površinske
+vode II. kategorije;
+4. zemljište potopljeno stajaćim vodama, uključujući obalu do najvišeg zabilježenog vodostaja;
+5. napuštena riječna korita koje voda povremeno plavi, močvare i zemljišta koja su potopljena vodom zbog
+zahvata u prostoru;
+6. uređeni inundacioni pojas;
+7. zemljište ispod i pored vodnih objekata iz člana 14. stav 1. tačka 1. ovog Zakona.
+(2) Bez obzira na odredbe stava 1. tačka 3. ovog člana, Vlada Federacije Bosne i Hercegovine (u daljnjem tekstu:
+Vlada Federacije) može odrediti drugačiju širinu zemljišta priobalnog pojasa, ako je to potrebno zbog: zaštite
+voda, zaštite od štetnog djelovanja voda, omogućavanja opće upotrebe voda i djelovanja nadležnih institucija
+kojima su dodijeljena javna ovlaštenja prema ovom Zakonu.
+(3) Vodno dobro može biti u vlasništvu Federacije, kantona, grada, općine, pravnog ili fizičkog lica.
+(4) U slučaju prodaje zemljišne čestice u vlasništvu pravnog ili fizičkog lica koja pripada vodnom dobru pravo
+preče kupnje ima Federacija, kanton, grad, odnosno općina.
+
+Član 8
+Određivanje granice vodnog dobra
+(1) Federalni ministar poljoprivrede, vodoprivrede i šumarstva (u daljnjem tekstu: federalni ministar) donosi propis
+o načinu određivanja granice vodnog dobra iz člana 7. stav 1. ovog Zakona i o postupku utvrđivanja pripadnosti
+zemljišne čestice javnom vodnom dobru iz člana 9. st. 1. i 2. ovog Zakona.
+(2) Granicu pojedinačnog vodnog dobra određuje, na osnovu propisa iz stava 1. ovog člana, Federalno
+ministarstvo poljoprivrede, vodoprivrede i šumarstva (u daljnjem tekstu: Federalno ministarstvo) za površinske
+vode I. kategorije, a za površinske vode II. kategorije kantonalno ministarstvo nadležno za vode.
+(3) Granica vodnog dobra upisuje se u zemljišni katastar.
+
+Član 9
+Javno vodno dobro
+(1) Javno vodno dobro čine zemljišne čestice iz člana 7. stav 1. ovog Zakona koje su do dana stupanja na snagu
+ovog Zakona bile upisane u zemljišnim knjigama kao javno dobro, državno vlasništvo ili vlasništvo grada ili
+općine, odnosno koje su na osnovu zakona postale državno vlasništvo.
+(2) Javnim vodnim dobrom smatraju se, sve do dokaza suprotnog, i one zemljišne čestice iz člana 7. stav 1. ovog
+Zakona koje do dana stupanja na snagu ovog Zakona nisu bile upisane u zemljišne knjige, odnosno koje su
+upisane u zemljišne knjige, ali niko nije naveden kao njihov vlasnik.
+(3) Javno vodno dobro definirano u stavu 1. ovog člana je dobro od općeg interesa i u vlasništvu je:
+1. Federacije za sve površinske vode I. kategorije, u smislu ovog Zakona,
+2. grada i općine za sve površinske vode II. kategorije, u smislu ovog Zakona, ako to nije drugačije uređeno
+posebnim kantonalnim propisom.
+
+(4) Ovlaštenja upravljanja javnim vodnim dobrom vrše organi vlasti, pravna lica i druge institucije u obimu i na
+način propisan ovim Zakonom ili drugim aktima nadležnog organa kojima je preneseno pravo upravljanja javnim
+vodnim dobrom.
+
+Član 10
+(1) Rješenjem federalnog ministra utvrđuje se pripadnost vodnog dobra javnom vodnom dobru za površinske
+vode I. kategorije, prema propisu iz člana 8. stav 1. ovog Zakona.
+(2) Rješenjem kantonalnog ministra nadležnog za vode utvrđuje se pripadnost vodnog dobra javnom vodnom
+dobru za površinske vode II. kategorije, prema propisu iz člana 8. stav 1. ovog Zakona.
+(3) Javno vodno dobro ne može biti predmet prometa, ali može, pod posebnim uvjetima određenim ovim
+Zakonom ili na zakonu zasnovanom podzakonskom propisu, biti predmet ograničenog prava korištenja u formi
+zakupa.
+(4) Federalni ministar donosi propis o načinu i uvjetima ograničenog prava korištenja javnog vodnog dobra iz
+stava 3. ovog člana.
+
+Član 11
+(1) Zemljišna čestica prestaje biti dijelom javnog vodnog dobra pod sljedećim uvjetima:
+1. ukoliko se rješenjem nadležnog ministra iz člana 10. st. 1. i 2. ovog Zakona utvrdi da ta čestica prestaje
+ispunjavati uvjete vodnog dobra iz člana 7. stava 1. ovog Zakona;
+2. donošenjem odluke Vlade Federacije kojom je, na drugi način, za posebne opće potrebe i namjene, određena
+upotreba tog javnog vodnog dobra.
+(2) Status javnog vodnog dobra prestaje datumom upisa promjene statusa u zemljišne knjige na osnovu
+donesenog rješenja, ili odluke iz stava 1. ovog člana.
+
+Član 12
+Zahvati na vodnom dobru
+(1) Na vodnom dobru nije dozvoljeno izvoditi zahvate, osim:
+1. gradnje objekata javne infrastrukture (putevi, željeznice, mostovi, gasovodi i sl.);
+2. gradnje zaštitnih vodnih objekata;
+3. zahvata koji se odnose na poboljšanje hidromorfoloških i bioloških karakteristika površinskih voda;
+4. zahvata koji se odnose na zaštitu prirode;
+5. gradnje objekata potrebnih za korištenje voda (objekti za zahvat i akumuliranje vode) i objekata za osiguranje
+plovidbe i zaštitu od utapanja na prirodnim kupalištima;
+6. gradnje objekata namijenjenih zaštiti voda od zagađenja;
+7. gradnje objekata namijenjenih za potrebe rada državnih organa, zaštitu i spasavanje ljudi, životinja ili imovine
+od prirodnih i drugih nesreća, te provođenje zadataka policije.
+(2) Zahvati iz stava 1. ovog člana podliježu uvjetima propisanim ovim Zakonom i propisima o građenju.
+
+Član 13
+Vodni objekti
+Vodni objekti su objekti ili skupovi objekata koji, zajedno sa pripadajućim uređajima, čine tehničku, odnosno
+tehnološku cjelinu i služe za zaštitu od štetnog djelovanja voda, zahvatanje voda radi njihovog namjenskog
+korištenja i zaštitu voda od zagađivanja.
+
+Član 14
+Vrste objekata s obzirom na namjenu
+(1) Vodni objekti s obzirom na njihovu namjenu, su:
+1. zaštitni objekti - nasipi, obaloutvrde, uređena korita vodotoka, odvodni kanali, obodni (lateralni) kanali za zaštitu
+od vanjskih voda, odvodni tuneli, brane sa akumulacijama, ustave, retenzije, crpne stanice za odbranu od poplava
+i drugi pripadajući objekti, kao i objekti za zaštitu od erozija i bujica;
+2. objekti za odvodnjavanje, osnovna i detaljna odvodna kanalska mreža, crpne stanice za odvodnjavanje i drugi
+pripadajući objekti;
+3. objekti za iskorištavanje voda za:
+- vodosnabdijevanje (izuzev za opću upotrebu voda) - brane i akumulacije, vodozahvati, bunari, kaptaže sa
+odgovarajućom opremom, postrojenja za prečišćavanje vode za piće, rezervoari i cjevovodi i drugi pripadajući
+objekti,
+- snabdijevanje vodom privrednih subjekata - brane i akumulacije, vodozahvati, bunari, kaptaže sa
+odgovarajućom opremom, cjevovodi i drugi pripadajući objekti,
+
+- navodnjavanje - brane i akumulacije, dovodni kanali i tuneli, vodozahvatne građevine, crpne stanice, ustave,
+dovodna i razvodna mreža i drugi pripadajući objekti,
+- korištenje vodnih snaga - brane i akumulacije, vodozahvati, dovodni i odvodni objekti i drugi pripadajući objekti i
+oprema,
+- plovidbu - plovni putevi, prevodnice, ustave i drugi pripadajući objekti i oprema,
+- ostale namjene - objekti za uzgoj riba, rekreacioni bazeni, jezera i dr.;
+4. objekti za zaštitu voda od zagađivanja (u daljnjem tekstu: vodni objekti za zaštitu voda) - kolektori za prijem i
+transport otpadnih voda, postrojenja za prečišćavanje otpadnih voda, ispusti u prijemnik i drugi pripadajući objekti
+i oprema.
+(2) Vodni objekti iz stava 1. ovog člana mogu služiti istovremeno i za više namjena - višenamjenski vodni objekti.
+
+Član 15
+Vlasništvo nad objektima
+(1) Zaštitni vodni objekti iz člana 14. stav 1. tačka 1. ovog Zakona na vodotocima koji pripadaju površinskim
+vodama I. kategorije su u vlasništvu Federacije, izuzev uređenih korita u urbanim područjima.
+(2) Pravo upravljanja i korištenja vodnih objekata iz stava 1. ovog člana Federacija prenosi na nadležne agencije
+za vode iz člana 152. ovog Zakona u obimu i na način propisan ovim Zakonom ili drugim aktima Federacije.
+(3) Zaštitni vodni objekti iz člana 14. stav 1. tačka 1. ovog Zakona na vodotocima koji pripadaju površinskim
+vodama II. kategorije i uređena korita u urbanim područjima na površinskim vodama I. kategorije su u vlasništvu
+grada i općine, ukoliko kantonalnim propisom nije drugačije određeno.
+(4) Vlasnici vodnih objekata iz stava 3. ovog člana pravo upravljanja i korištenja mogu prenijeti u nadležnost
+organa vlasti, pravnog lica ili druge institucije u obimu i na način propisan ovim Zakonom ili drugim aktima grada i
+općine.
+
+Član 16
+(1) Vodni objekti iz člana 14. stav 1. tač. 2. i 3. alineja 2., 3. i 6. ovog Zakona, koji su izgrađeni državnim
+sredstvima, u vlasništvu su kantona na čijem području se nalaze.
+(2) Vlasnici vodnih objekata iz stava 1. ovog člana pravo upravljanja i korištenja mogu prenijeti na pravna lica.
+(3) Vodne objekte iz člana 14. stav 1. tač. 2. i 3. alineje 2., 3. i 6. ovog Zakona koje su za svoje potrebe izgradila
+pravna ili fizička lica u njihovom su vlasništvu i ona brinu o upravljanju tim objektima.
+
+Član 17
+(1) Vodni objekti iz člana 14. stav 1. tačka 3. alineja 1. i tačka 4. ovog Zakona su u vlasništvu grada ili općine,
+ukoliko kantonalnim propisom nije drugačije određeno.
+(2) Vlasnici vodnih objekata iz stava 1. ovog člana pravo upravljanja i korištenja mogu prenijeti na pravna lica
+osnovana prema propisima o komunalnoj djelatnosti.
+(3) Vodne objekte iz člana 14. stav 1. tačka 3. alineja 1. i tačka 4. ovog Zakona koje su za svoje potrebe izgradila
+pravna ili fizička lica u njihovom su vlasništvu i ona brinu o upravljanju tim objektima.
+
+Član 18
+Vodni objekti iz člana 14. stav 1. tačka 3. alineja 4. ovog Zakona u vlasništvu su pravnih ili fizičkih lica koja su
+izgradila te objekte i ona brinu o upravljanju tim objektima.
+
+Član 19
+(1) Vodni objekti iz člana 14. stav 1. tačka 3. alineja 5. ovog Zakona u vlasništvu su Federacije.
+(2) Vlasnik vodnog objekta iz stava 1. ovog člana može prenijeti pravo upravljanja i korištenja na pravno lice ili
+drugu instituciju u obimu i na način propisan zakonom.
+
+Član 20
+(1) Vlasnici, odnosno korisnici vodnih objekata iz čl. 15., 16., 17., 18. i 19. ovog Zakona dužni su objekte održavati
+u funkcionalnom stanju i koristiti ih u skladu sa njihovom prirodom i namjenom.
+(2) Vlasnik, odnosno korisnik vodnog objekta iz stava 1. ovog člana dužan je, u slučaju prestanka upotrebe tog
+objekta, postupiti u skladu sa vodnim aktom, odnosno objekat održavati u stanju koje neće prouzrokovati štete
+režimu voda i trećim licima.
+(3) Ako vlasnik, odnosno korisnik ne održava vodni objekat u funkcionalnom stanju i ne koristi ga na način
+određen u stavu 1. ovog člana, federalna vodna inspekcija iz člana 183. stav 1. ovog Zakona, odnosno
+kantonalna vodna inspekcija iz člana 198. ovog Zakona rješenjem nalaže potrebne mjere.
+
+(4) Vlasnik, odnosno korisnik vodnog objekta dužan je vodni objekat održavati i koristiti u skladu sa općim aktom
+o održavanju, korištenju i osmatranju vodnog objekta i postupanju u slučaju kvara ili havarije na objektu.
+(5) Vlasnik, odnosno korisnik vodnog objekta dužan je brinuti se o čuvanju vodnih objekata i uređaja na njima od
+slučajnog ili namjernog oštećenja ili uništenja.
+(6) Federalni ministar donosi propis o sadržaju općeg akta iz stava 4. ovog člana.
+(7) Korisnik vodnih objekata iz člana 14. stav 1. tačka 1. ovog Zakona nije odgovoran za štete trećim licima koje
+su nastale zbog neizgrađenosti ili nedovoljne osposobljenosti vodnih objekata.
+
+IV. UPRAVLJANJE VODAMA
+Član 21
+Upravljanje vodama
+Upravljanje vodama je u nadležnosti Bosne i Hercegovine, Federacije, kantona, grada i općine na način utvrđen
+ovim Zakonom.
+
+Član 22
+Ciljevi upravljanja vodama
+Ciljevi upravljanja vodama su: postizanje dobrog stanja, odnosno dobrog ekološkog potencijala površinskih i
+podzemnih voda, odnosno vodnih i za vodu vezanih ekosistema, umanjenje šteta prouzrokovanih raznim štetnim
+djelovanjem voda, osiguranje potrebnih količina vode odgovarajućeg kvaliteta za razne namjene i podsticanje
+održivog korištenja voda, uzimajući u obzir dugoročnu zaštitu raspoloživih izvorišta i njihovog kvaliteta.
+
+1. Teritorijalne osnove upravljanja vodama
+Član 23
+Vodna područja
+(1) Osnovna teritorijalna jedinica za upravljanje vodama je vodno područje.
+(2) U svrhu upravljanja vodama na teritoriji Bosne i Hercegovine, odnosno Federacije utvrđuju se sljedeća vodna
+područja:
+1. Vodno područje Save i
+2. Vodno područje Jadranskog mora.
+(3) Vodno područje Save obuhvata dio međunarodnog riječnog bazena Dunava (dio međunarodnog podbazena
+Save) na teritoriji Bosne i Hercegovine, odnosno Federacije.
+(4) Vodno područje Jadranskog mora obuhvata dijelove međunarodnih riječnih bazena Neretve sa Trebišnjicom,
+Cetine i Krke na teritoriji Bosne i Hercegovine, odnosno Federacije.
+(5) Granice riječnih bazena i vodnih područja na teritoriji Federacije utvrđuje Vlada Federacije na prijedlog
+Federalnog ministarstva.
+
+2. Strategija i planovi upravljanja vodama
+Član 24
+Strategija upravljanja vodama
+(1) Politika upravljanja vodama određuje se strategijom upravljanja vodama.
+(2) Federalno ministarstvo priprema prijedlog strategije upravljanja vodama, uz saglasnost federalnog
+ministarstva nadležnog za okoliš.
+(3) Strategija upravljanja vodama sadrži naročito:
+1. ocjenu stanja u području upravljanja vodama;
+2. ciljeve i pravce zaštite voda, zaštitu od štetnog djelovanja voda i održivog korištenja voda;
+3. prioritete za postizanje ciljeva upravljanja vodama;
+4. ocjenu potrebnih sredstava za provođenje programa i rokove za postizanje ciljeva;
+5. potrebne aktivnosti za provođenje obaveza iz međunarodnih ugovora koji se odnose na upravljanje vodama.
+(4) Prijedlog strategije iz stava 2. ovog člana dostavlja se federalnom ministarstvu nadležnom za okoliš,
+kantonalnim ministarstvima nadležnim za vode i savjetodavnim vijećima vodnih područja iz člana164. ovog
+Zakona radi davanja primjedbi i sugestija.
+(5) Primjedbe i sugestije na prijedlog strategije upravljanja vodama dostavljaju se u roku od tri mjeseca od dana
+prijema prijedloga.
+
+(6) Federalno ministarstvo obavezno je uspostaviti i osigurati koordinaciju svih aktivnosti sa ministarstvom
+Republike Srpske nadležnim za vode kako bi se osiguralo donošenje jedinstvene strategije upravljanja vodama
+za cijelu Bosnu i Hercegovinu.
+(7) Strategiju upravljanja vodama usvaja, na prijedlog Vlade Federacije, Parlament Federacije Bosne i
+Hercegovine (u daljnjem tekstu: Parlament Federacije), odnosno Parlamentarna skupština Bosne i Hercegovine
+(u daljnjem tekstu: Parlamentarna skupština BiH) za period do 12 godina.
+(8) Prva strategija upravljanja vodama donijet će se najkasnije do 2009. godine.
+(9) Strategija upravljanja vodama je dio Strategije zaštite okoliša.
+
+Član 25
+Planovi upravljanja vodama
+(1) Za provođenje strategije iz člana 24. stav 7. ovog Zakona donose se planovi upravljanja vodama za Vodno
+područje Save i Vodno područje Jadranskog mora.
+(2) Plan upravljanja vodama iz stava 1. ovog člana obavezno sadrži:
+1. opći opis karakteristika vodnog područja i to:
+a) za površinske vode:
+- karte položaja i granica vodnih tijela,
+- karte ekoregija i tipova površinskih voda u vodnom području,
+- oznaku referentnih uvjeta za tipove površinskih voda;
+b) za podzemne vode:
+- karte položaja i granica vodnih tijela podzemnih voda;
+2. sažeti prikaz svih značajnih pritisaka i uticaja ljudske djelatnosti na stanje površinskih i podzemnih voda
+uključujući:
+- procjenu zagađenja iz tačkastih izvora,
+- procjenu zagađenja iz rasutih izvora, uključujući i pregled korištenja zemljišta,
+- procjenu pritisaka na kvantitativno stanje voda, uključujući i zahvatanje,
+- analizu ostalih uticaja ljudskih djelatnosti na stanje voda;
+3. identifikaciju i karte zaštićenih područja;
+4. kartu mreže monitoringa te prikaz rezultata programa monitoringa kojim se prati stanje:
+- površinskih voda (ekološko i hemijsko),
+- podzemnih voda (hemijsko i kvantitativno),
+- zaštićenih područja;
+5. ciljeve upravljanja vodama, a naročito:
+- ciljeve za postizanje dobrog stanja i ekološkog potencijala vodnih tijela,
+- ciljeve u vezi sa uređenjem voda i zaštite od štetnog djelovanja voda,
+- ciljeve za održivo korištenje voda,
+- rokove za postizanje navedenih ciljeva;
+6. pregled ekonomskih analiza korištenja voda;
+7. prikaz programa mjera uključujući i načine za dostizanje ciljeva iz tačke 5. stav 2. ovog člana i to:
+- sažeti prikaz mjera za zaštitu voda,
+- izvještaj o praktičnim koracima i mjerama preduzetim radi primjene načela povrata troškova korištenja voda,
+- pregled mjera preduzetih radi uspostavljanja monitoringa svih izvorišta koja se koriste ili se planiraju koristiti za
+javno vodosnabdijevanje čija je izdašnost veća od 100m3/dan,
+- sažeti prikaz kontrole zahvatanja i akumuliranja vode uključujući i pregled registara i navođenje slučajeva u
+kojima su načinjeni izuzeci,
+- sažeti prikaz izvršenih kontrola za tačkaste ispuste i druge djelatnosti koje utiču na stanje voda,
+- navođenje slučajeva u kojima je dopušteno direktno ispuštanje u podzemne vode,
+- pregled mjera preduzetih za sprečavanje zagađenja voda u vezi sa prioritetnim materijama,
+- pregled mjera preduzetih radi sprečavanja ili smanjenja uticaja akcidentnih zagađenja,
+- pregled mjera preduzetih za vodna tijela za koja je upitno dostizanje ciljeva iz tačke 5. stav 2. ovog člana,
+- detaljni prikaz dopunskih mjera za koje se ukazala potreba radi postizanja postavljenih ciljeva iz tačke 5. stav 2.
+ovog člana,
+- detaljni prikaz mjera radi sprečavanja zagađenja mora,
+- procjenu potrebnih sredstava za provođenje programa mjera kao i utvrđivanje načina osiguranja tih sredstava;
+8. pregled svih detaljnijih programa i planova upravljanja vodama koji se odnose na određene riječne bazene,
+podbazene, sektorske planove, probleme ili tipove voda zajedno sa pregledom njihovih sadržaja;
+
+9. izvještaj koji obuhvata opis aktivnosti i rezultate učešća javnosti u postupku izrade plana;
+10. listu institucija i način dobivanja dokumenata na osnovu kojih je izrađen plan;
+11. pregled međunarodnih obaveza koje je preuzela Bosna i Hercegovina, koje se odnose na upravljanje vodama
+te način njihovog izvršavanja.
+(3) Izmjena i dopuna plana upravljanja vodama, pored sadržaja iz stava 2. ovog člana, sadrži i:
+1. pregled svih promjena ili dopuna plana od dana njegovog stupanja na snagu,
+2. ocjenu stepena dostignutih ciljeva,
+3. pregled mjera koje su bile predviđene u prethodnom planu, a nisu realizirane sa navođenjem razloga
+nerealizacije,
+4. pregled mjera koje nisu bile predviđene u prethodnom planu, a realizirane su radi postizanja ciljeva.
+(4) Detaljan sadržaj i način donošenja plana iz stava 1. ovog člana propisuje se posebnim aktom koji, na prijedlog
+Federalnog ministarstva, donosi Vlada Federacije.
+(5) Akt iz stava 4. ovog člana uskladit će se na nivou Bosne i Hercegovine u odnosu na pitanja koja su u
+nadležnosti Bosne i Hercegovine.
+
+Član 26
+Program mjera
+(1) Program mjera sadrži osnovne mjere potrebne za postizanje ciljeva u vezi sa zaštitom voda, uređenjem voda i
+zaštitom od štetnog djelovanja voda i korištenjem voda.
+(2) Osnovne mjere iz stava 1. ovog člana su:
+1. mjere koje se odnose na zaštitu voda:
+- određene ovim Zakonom i podzakonskim aktima donesenim na osnovu ovog Zakona,
+- određene propisima o zaštiti okoliša i zaštiti prirode, a koji se odnose na vodne i o vodi zavisne ekosisteme,
+- kojima se osigurava odgovarajući kvalitet vode za snabdijevanje pitkom vodom,
+2. mjere koje se odnose na uređenje voda i zaštitu od štetnog djelovanja voda i to na:
+- očuvanje i izravnavanje količina voda,
+- zaštitu od štetnog djelovanja voda,
+- određivanje obima gradnje vodnih objekata;
+3. mjere koje se odnose na korištenje voda, a koje:
+- se primjenjuju u postupcima izdavanja dozvola za korištenje voda,
+- se odnose na povrat troškova za korištenje i zaštitu voda,
+- podstiču održivo korištenje voda.
+(3) Program mjera može sadržavati i dopunske mjere, ako su potrebne za postizanje dobrog stanja voda.
+(4) U programu mjera određuju se i prioriteti realizacije pojedinih mjera iz stava 2. tačka 2. ovog člana.
+(5) Ako se na osnovu monitoringa ili drugih podataka utvrdi da ciljevi iz strategije i planova upravljanja vodama za
+pojedino vodno tijelo neće biti dostignuti, Federalno ministarstvo utvrdit će razloge, pregledati i provjeriti izdate
+dozvole i koncesije, pregledati i prilagoditi programe monitoringa, te predložiti Vladi Federacije da usvoji dodatne
+mjere, uključujući i određivanje strožijih graničnih vrijednosti za opterećenje voda.
+(6) Program mjera je dio plana upravljanja vodama.
+(7) Vlada Federacije svake dvije godine izvještava Parlament Federacije o provođenju programa mjera iz ovog
+člana.
+
+Član 27
+Rokovi za izradu i revidiranje plana upravljanja vodama
+(1) Prvi planovi upravljanja vodama donijet će se najkasnije do 2012. godine.
+(2) Planovi upravljanja vodama se revidiraju i dopunjavaju svakih šest godina, u skladu sa postupkom za
+pripremu i donošenje plana upravljanja vodama.
+
+Član 28
+Priprema prvog plana upravljanja vodama
+Radni plan za pripremu planova upravljanja vodama saopštava se javnosti iz člana 38. stav 1. ovog Zakona
+najkasnije tri godine prije donošenja plana.
+
+Član 29
+Posebne dužnosti agencije za vode u upravljanju vodama
+Nadležna agencija za vode iz člana 152. ovog Zakona:
+
+1. priprema analizu karakteristika vodnog područja;
+2. priprema pregled uticaja ljudskih aktivnosti na stanje površinskih i podzemnih voda;
+3. priprema ekonomsku analizu korištenja voda;
+4. uspostavlja registar zaštićenih područja iz člana 65. ovog Zakona, kao i područja sa posebnom zaštitom
+određenih odlukom Vlade Federacije;
+5. uspostavlja registar vodnih tijela koja se koriste ili se planiraju koristiti za zahvatanje vode za ljudsku potrošnju;
+6. priprema klasifikaciju ekološkog, hemijskog i kvantitativnog stanja voda;
+7. priprema program i organizira praćenje stanja voda;
+8. priprema plan upravljanja vodama i program mjera.
+
+Član 30
+Ciljevi zaštite okoliša u planovima upravljanja vodama
+(1) Provođenjem programa mjera utvrđenih planovima upravljanja vodama osigurava se:
+1. sprečavanje pogoršanja stanja vodnih tijela površinskih i podzemnih voda i postizanje njihovog najmanje
+dobrog stanja;
+2. postizanje dobrog ekološkog potencijala i dobrog hemijskog stanja vještačkih ili jako izmijenjenih vodnih tijela;
+3. zaštita, unapređenje i obnova vodnih tijela površinskih voda radi postizanja stanja iz tač. 1. i 2. stav 1. ovog
+člana najkasnije za šest godina od usvajanja prvog plana upravljanja vodama;
+4. zaštita, unapređenje i obnova vodnih tijela podzemnih voda radi postizanja stanja iz tačke 1. ovog stava
+najkasnije za šest godina od usvajanja prvog plana upravljanja vodama;
+5. provođenje progresivnog smanjenja zagađenja vodnih tijela površinskih voda prioritetnim materijama;
+6. postupno smanjenje zagađenja vodnih tijela podzemnih voda uzrokovanog ljudskom djelatnošću;
+7. harmonizacija standarda i ciljeva zaštite voda u zaštićenim zonama prema kojima su uspostavljena pojedina
+zaštićena područja iz tačke 4. stav 1. ovog člana, sa međunarodnim standardima za takvu zaštitu najkasnije za
+šest godina od usvajanja prvog plana upravljanja vodama.
+(2) Privremeno pogoršanje stanja vodnih tijela neće se smatrati kršenjem ciljeva upravljanja vodama, ako je to
+rezultat okolnosti nastalih prirodnim promjenama ili zbog više sile, ili se to pogoršanje realno nije moglo
+predvidjeti, pod uvjetom da su preduzeti svi praktični koraci radi sprečavanja daljnjeg pogoršanja stanja.
+
+Član 31
+Određivanje karakteristika tipova vodnih tijela
+(1) U cilju postizanja i održavanja dobrog stanja ili dobrog ekološkog potencijala vrši se određivanje karakteristika
+tipova vodnih tijela.
+(2) Vodna tijela površinskih voda u vodnom području razvrstavaju se u jedan od sljedećih tipova: rijeke, jezera,
+prijelazne vode i obalne morske vode ili kao vještačka ili jako izmijenjena vodna tijela.
+(3) U svakoj kategoriji površinskih voda iz člana 5. ovog Zakona površinske vode u vodnom području razvrstavaju
+se u tipove u skladu sa metodologijom utvrđenom podzakonskim propisom iz člana 43. stav 1. tačka 1. ovog
+Zakona.
+(4) Za vještačka ili jako izmijenjena vodna tijela primjenjuje se ista metodologija kao i za tipove površinskih voda
+koji najbliže odgovaraju opisu tog vještačkog ili jako izmijenjenog vodnog tijela.
+(5) Određivanje karakteristika vodnih tijela površinskih i podzemnih voda vrši se u skladu sa metodologijom
+utvrđenom podzakonskim propisom iz člana 43. stav 1. tačka 1. ovog Zakona. Za početno određivanje
+karakteristika vodna tijela mogu se grupisati.
+
+Član 32
+Klasifikacija stanja voda
+(1) Klasifikacija stanja vodnih tijela površinskih i podzemnih voda određuje se na osnovu jačine promjena
+uzrokovanih ljudskim aktivnostima.
+(2) Stanje vodnog tijela površinskih voda određuje se njegovim ekološkim i hemijskim stanjem, zavisno od toga
+koje je lošije.
+(3) Ekološko stanje vodnog tijela površinskih voda klasifikuje se kao visoko, dobro, umjereno, slabo i loše.
+Klasifikacija se vrši prema referentnim uvjetima koji se utvrđuju podzakonskim propisom iz člana 43. stav 1. tačka
+2. ovog Zakona.
+(4) Hemijsko stanje vodnog tijela površinskih voda klasifikuje se kao dobro i loše. Klasifikacija se vrši prema
+referentnim uvjetima koji se utvrđuju podzakonskim propisom iz člana 43. stav 1. tačka 2. ovog Zakona.
+(5) Stanje vodnog tijela podzemne vode određuje se njegovim kvantitativnim i hemijskim stanjem zavisno od toga
+koje je lošije. Klasifikacija kvantitativnog i hemijskog stanja podzemnih voda vrši se prema podzakonskom propisu
+iz člana 43. stav 1. tačka 3. ovog Zakona.
+
+(6) Za vještačka i jako izmijenjena vodna tijela površinskih voda primjenjuju se kriteriji za određivanje ekološkog
+stanja vodnih tijela površinskih voda iz stava 3. ovog člana, uzimajući ono koje im je najsličnije. Pri klasifikaciji
+ekološkog stanja osobine za visoko ekološko stanje određivat će se kao uvjeti za maksimalni ekološki potencijal.
+
+Član 33
+Vještačka ili jako izmijenjena vodna tijela
+(1) U planu upravljanja vodama vodno tijelo površinskih voda može se proglasiti kao vještačko ili jako izmijenjeno
+kada:
+1. promjene njegovih hidromorfoloških karakteristika, neophodnih za postizanje dobrog ekološkog stanja, imaju
+značajne negativne posljedice na:
+- širi okoliš,
+- plovidbu uključujući lučka postrojenja ili rekreaciju,
+- djelatnosti za koje se voda akumulira kao što su vodosnabdijevanje , energetika ili navodnjavanje,
+- regulaciju voda, zaštitu od poplava, odvodnjavanje,
+- ostale jednako važne razvojne djelatnosti;
+2. korisni efekti koji se mogu postići upotrebom vještačkih ili jako izmijenjenih vodnih tijela zbog tehničke
+neizvodivosti ili previsokih troškova ne mogu se dostići na drugi način koji se smatra po okoliš boljom opcijom.
+(2) Opredjeljenje za proglašenje vodnog tijela površinskih voda za vještačko ili jako izmijenjeno, kao i razlozi za
+to, posebno se navode u planovima upravljanja vodama i revidiraju se svakih šest godina.
+
+Član 34
+Postepeno postizanje ciljeva zaštite okoliša
+(1) Rokovi iz člana 30. ovog Zakona mogu se produžiti u planu upravljanja vodama radi postepenog postizanja
+ciljeva, pod uvjetom da ne dođe do daljnjeg pogoršanja stanja vodnog tijela, ako:
+1. postizanje poboljšanja u zadanom roku bude tehnički neizvodljivo ili nesrazmjerno skupo, ili
+2. prirodni uvjeti ne dozvoljavaju pravovremeno poboljšanje stanja vodnog tijela.
+(2) Produženje rokova i razlozi za produženje posebno se razrađuju i objašnjavaju u planu upravljanja vodama.
+(3) Produženje je ograničeno na najviše dva daljnja revidiranja plana upravljanja, izuzev kada prirodni uvjeti ne
+dozvoljavaju postizanje ciljeva u tom periodu.
+
+Član 35
+Modifikacija okolišnih ciljeva
+(1) Za određena vodna tijela koja su jače ugrožena ljudskim djelatnostima ili je njihovo prirodno stanje takvo da bi
+postizanje ciljeva zaštite okoliša bilo teško izvodivo ili nesrazmjerno skupo, mogu se uspostaviti manje strogi
+ciljevi iz člana 30. ovog Zakona, ako su kumulativno ispunjeni sljedeći uvjeti:
+1. ako zbog ljudske djelatnosti, društveno-ekonomske potrebe i potrebe zaštite okoliša ne mogu biti ostvareni na
+drugi način, iako bi to bila znatno bolja okolišna opcija, ali je ona neracionalno skupa;
+2. ako postignuto je najviše moguće ekološko i hemijsko stanje za površinske vode, uz uticaje koji se objektivno
+nisu mogli izbjeći zbog karaktera ljudske djelatnosti ili zagađenja;
+3. ako postignute su najmanje moguće promjene dobrog stanja podzemnih voda, uz uticaje koji se objektivno nisu
+mogli izbjeći zbog karaktera ljudske djelatnosti ili zagađenja;
+4. ako ne dolazi do daljnjeg pogoršanja stanja tog vodnog tijela;
+5. ako razlozi za uspostavljanje manje strogih ciljeva zaštite okoliša objašnjeni su u planu upravljanja vodama.
+(2) Manje strogi ciljevi zaštite okoliša uspostavljeni u planovima upravljanja vodama revidiraju se svakih šest
+godina.
+
+Član 36
+Izuzeci od okolišnih ciljeva
+(1) Izuzeci od okolišnih ciljeva iz člana 30. ovog Zakona mogu se uspostaviti u planu upravljanja vodama kada je:
+1. zbog promjene karakteristika vodnog tijela nemoguće postići dobro stanje podzemnih voda, dobro ekološko
+stanje površinskih voda ili, gdje je to značajno, dobar ekološki potencijal vještačkog vodnog tijela i gdje je
+nemoguće spriječiti pogoršanje stanja vodnih tijela,
+2. usljed ljudskih aktivnosti u sklopu održivog razvoja nemoguće spriječiti pogoršanje vodnog tijela iz visokog u
+dobro stanje.
+(2) Izuzeci od okolišnih ciljeva mogu se uspostaviti pod sljedećim uvjetima:
+1. ako su preduzeti svi praktični koraci za ublažavanje negativnog uticaja na stanje vodnog tijela;
+2. ako su razlozi modifikacije i promjene navedeni i objašnjeni u planu upravljanja vodama;
+
+3. ako su koristi za ljudsko zdravlje, sigurnost i održivi razvoj veće od onih koje bi se postigle ispunjavanjem
+okolišnih ciljeva iz člana 30. ovog Zakona;
+4. ako se koristi, koje su dobivene ovim modifikacijama ili promjenama, ne mogu postići na drugi način zbog
+tehničke neizvodivosti ili nerealno visokih troškova.
+
+Član 37
+Primjena čl. 33., 34., 35. i 36. ovog Zakona na određena vodna tijela ne smije trajno isključiti niti ugroziti
+ostvarenje ciljeva iz člana 30. ovog Zakona na drugim vodnim tijelima i mora garantirati jedinstven nivo zaštite
+unutar vodnog područja.
+
+Član 38
+Konsultovanje javnosti
+(1) O početku pripreme plana upravljanja vodama agencija za vodno područje iz člana 152. ovog Zakona pisanim
+putem obavještava Savjetodavno vijeće za vode iz člana 164. ovog Zakona, kanton, grad i općinu, a putem
+sredstava javnog informiranja pravna i fizička lica koja imaju sjedište, odnosno prebivalište na teritoriji vodnog
+područja za koje se priprema plan najmanje tri godine prije početka perioda na koji se plan odnosi.
+(2) Pisano obavještenje iz stava 1. ovog člana sadrži poziv na saradnju, okvirni sadržaj plana i rokove za
+pripremu i usvajanje plana.
+(3) Pravna i fizička lica iz stava 1. ovog člana u roku od godinu dana od obavještenja dostavljaju agenciji za
+vodno područje pisane prijedloge i mišljenja o svim pitanjima koja se odnose na plan upravljanja vodama.
+(4) Agencija za vodno područje najmanje dvije godine prije početka perioda na koji se plan odnosi prezentira
+pravnim i fizičkim licima iz stava 1. ovog člana periodični izvještaj o toku priprema plana koji naročito sadrži opis
+značajnijih pitanja upravljanja vodama.
+(5) Agencija za vodno područje javno objavljuje nacrt plana najmanje godinu dana prije početka perioda na koji se
+plan odnosi. Na zahtjev pravnih i fizičkih lica iz stava 1. ovog člana agencija za vodno područje dužna je
+omogućiti uvid u dokumente na osnovu kojih je napravljen nacrt plana.
+(6) Pravna i fizička lica iz stava 1. ovog člana mogu dostaviti agenciji za vodno područje pisane primjedbe na
+nacrt plana u roku od šest mjeseci nakon njegovog objavljivanja.
+(7) Agencija za vodno područje u roku od tri mjeseca po prijemu primjedbi iz stava 6. ovog člana priprema
+izvještaj koji sadrži usvojene, odnosno odbijene primjedbe na nacrt plana iz stava 5. ovog člana sa
+obrazloženjem. Izvještaj je sastavni dio plana.
+(8) Postupci i zahtjevi koji se odnose na konsultovanje javnosti u planiranju u oblasti upravljanja vodama mogu se
+urediti propisima Bosne i Hercegovine.
+(9) Konsultovanje javnosti u međunarodnim riječnim bazenima može se dodatno regulirati međunarodnim
+sporazumima koje zaključi Bosna i Hercegovina.
+(10) Nakon zaključivanja postupaka iz ovog člana agencija za vodno područje priprema prijedlog plana.
+
+Član 39
+Koordinacija izrade planova za upravljanje vodama
+(1) U toku izrade plana upravljanja vodama iz člana 25. ovog Zakona nadležne institucije za izradu plana
+obavezno uspostavljaju i osiguravaju koordinaciju svih aktivnosti sa odgovarajućom nadležnom institucijom za
+izradu plana za isto vodno područje iz Republike Srpske i Distrikta Brčko Bosne i Hercegovine (u daljnjem tekstu:
+Distrikt Brčko) radi osiguranja donošenja jedinstvenog plana upravljanja vodama vodnog područja u Bosni i
+Hercegovini.
+(2) Postupci i zahtjevi koji se tiču koordinacije izrade i donošenja planova upravljanja vodama pojedinog vodnog
+područja mogu se urediti propisima Bosne i Hercegovine.
+(3) Koordinacija pripreme planova upravljanja vodama međunarodnih riječnih bazena može se dodatno regulirati
+međunarodnim sporazumima koje zaključi Bosna i Hercegovina.
+
+Član 40
+Donošenje planova za upravljanje vodama
+(1) Plan upravljanja vodama vodnog područja donosi Vlada Federacije na prijedlog federalnog ministra, u skladu
+sa propisom iz člana 25. stav 4. ovog Zakona. Odluka o usvojenom planu objavljuje se u "Službenim novinama
+Federacije BiH".
+(2) Vlada Federacije doneseni plan upravljanja vodama podnosi Vijeću ministara Bosne i Hercegovine radi
+usvajanja, u skladu sa procedurom propisanom odgovarajućim zakonom Bosne i Hercegovine.
+(3) Federalno ministarstvo obavještava ministarstvo Bosne i Hercegovine nadležno za vode i organ Republike
+Srpske nadležan za vode o donesenom planu upravljanja vodama.
+(4) Doneseni plan upravljanja vodama objavljuje se i u elektronskoj formi.
+
+(5) Postupak objavljivanja donesnog plana upravljanja vodama može se urediti propisima Bosne i Hercegovine.
+(6) Postupak objavljivanja donesenog plana upravljanja vodama u međunarodnom riječnom bazenu može se
+dodatno regulirati međunarodnim sporazumima koje zaključi Bosna i Hercegovina.
+
+Član 41
+Ostali planovi
+(1) Planovi iz člana 25. ovog Zakona mogu se dopuniti izradom detaljnijih programa i planova upravljanja vodama
+za pojedine podbazene, pojedine kategorije voda i pojedina pitanja upravljanja vodama.
+(2) Planovi iz stava 1. ovog člana moraju biti u skladu sa planovima upravljanja vodama odgovarajućeg vodnog
+područja.
+(3) Agencija za vodno područje o pripremi plana iz stava 1. ovog člana pisanim putem obavještava Savjetodavno
+vijeće vodnog područja iz člana 164. ovog Zakona, kanton, grad i općinu na koje se odnosi plan, a putem
+sredstava javnog informiranja pravna i fizička lica koja na tom području imaju sjedište, odnosno prebivalište.
+(4) Agencija za vodno područje prezentira nacrt plana iz stava 1. ovog člana licima iz stava 3. ovog člana koja
+mogu u roku od 60 dana od prezentacije dostaviti agenciji pisane prijedloge, mišljenja i inicijative.
+(5) Agencija za vodno područje prije usvajanja plana iz stava 1. ovog člana obavještava lica iz stava 3. ovog člana
+u kojoj mjeri i na koji način je uzela u obzir njihove prijedloge, mišljenja i inicijative.
+(6) Planove iz stava 1. ovog člana donosi Vlada Federacije na prijedlog federalnog ministra, u skladu sa propisom
+iz člana 25. stav 4. ovog Zakona. Odluka o usvojenom planu objavljuje se u "Službenim novinama Federacije
+BiH".
+
+Član 42
+Povezanost planova upravljanja vodama sa prostornim i
+(1) U prostorne planove i druge planove koji utiču na zaštitu voda, njihovo uređenje i korištenje unose se
+zaštićena i ugrožena područja prema odredbama ovog Zakona.
+(2) Predlagač nacrta plana iz stava 1. ovog člana mora kod njegove pripreme uzeti u obzir režim dozvoljenih
+aktivnosti i zabrane koje se odnose na zahvate u prostoru na područjima iz stava 1. ovog člana.
+(3) Predlagač nacrta plana iz stava 1. ovog člana mora u postupku njegove pripreme izabrati način korištenja
+prostora koji je moguć u skladu sa ovim Zakonom.
+(4) Predlagač nacrta prostornog plana mora u postupku njegove pripreme odrediti zahvate u prostoru koji se
+odnose na izgradnju vodne infrastrukture i koji su predviđeni planovima upravljanja vodama.
+(5) Predlagač nacrta prostornog plana Federacije, kantona, grada i općine mora dobiti saglasnost federalnog
+ministra na nacrt tog plana.
+(6) Federalni ministar izdaje saglasnost iz stava 5. ovog člana, ako utvrdi da je taj plan u skladu sa planom
+upravljanja vodama i odredbama ovog Zakona.
+(7) U slučajevima izmjene područja iz stava 1. ovog člana, izmjene režima dozvoljenih aktivnosti i zabrana ili
+donošenja akta iz čl. 67., 68., 71., 72., 74. i 77., kao i člana 86. stav 2. ovog Zakona za novouspostavljena
+područja, nakon objave prostornog plana ili drugog plana, zahvati u prostoru usklađuju se sa ovim promjenama.
+
+Član 43
+Propisi Vlade Federacije
+(1) Vlada Federacije na prijedlog federalnog ministra donosi propise o:
+1. metodologiji za određivanje tipova vodnih tijela površinskih voda i karakterizaciju vodnih tijela površinskih i
+podzemnih voda iz člana 31. ovog Zakona;
+2. referentnim uvjetima za klasifikaciju ekološkog stanja i dopuštene granične vrijednosti parametara hemijskog
+kvaliteta za klasifikaciju hemijskog stanja vodnog tijela površinskih voda iz člana 32. ovog Zakona;
+3. parametrima kvantitativnog i hemijskog kvaliteta za klasifikaciju stanja vodnog tijela podzemnih voda iz člana
+32. ovog Zakona;
+4. postupku provođenja ekonomske analize korištenja voda;
+5. uspostavljanju ciljeva zaštite okoliša iz čl. od 30. do 37. ovog Zakona;
+6. monitoringu i sadržaju programa monitoringa voda.
+(2) Vlada Federacije donosi propise iz stava 1. ovog člana, samo ako Vijeće ministara Bosne i Hercegovine nije
+donijelo takav propis.
+(3) Prije donošenja propisa iz stava 1. ovog člana Vlada Federacije će, uz konsultaciju sa Vladom Republike
+Srpske, osigurati njegovu harmonizaciju sa odgovarajućim propisom Republike Srpske.
+
+V. KORIŠTENJE VODA
+Član 44
+
+Korištenje voda
+Korištenje voda, prema ovom Zakonu, obuhvata:
+1. zahvatanje, crpljenje i upotrebu površinskih i podzemnih voda za različite namjene (snabdijevanje vodom za
+piće, sanitarne i tehnološke potrebe, navodnjavanje i dr.);
+2. korištenje vodnih snaga za proizvodnju električne energije i druge pogonske namjene;
+3. korištenje voda za uzgoj ribe;
+4. korištenje voda za plovidbu;
+5. korištenje voda za sport, kupanje, rekreaciju i druge slične namjene.
+
+Član 45
+(1) Svakome je dozvoljeno korištenje voda pod uvjetima određenim ovim Zakonom.
+(2) Voda se mora koristiti racionalno i ekonomično. Svaki korisnik vode dužan je koristiti vodu na način i u obimu
+kojim se voda čuva od rasipanja i štetnih promjena njenog svojstva (kvaliteta) i omogućuje zakonsko pravo
+korištenja voda drugim licima.
+
+Član 46
+Opća upotreba vode
+(1) Svakome je dozvoljeno koristiti vodu običnim načinom koji ne zahtijeva posebne naprave i ne isključuje druge
+od jednakog korištenja vode (opća upotreba vode).
+(2) Opća upotreba vode obuhvata naročito:
+1. zahvatanje vode bez posebnih naprava iz vodotoka i jezera za osnovne potrebe jednog domaćinstva;
+2. zahvatanje podzemne vode (bunar na vlastitom zemljištu) ili vode sa izvora na vlastitom zemljištu koja se
+koristi za osnovne potrebe jednog domaćinstva;
+3. prikupljanje i korištenje oborinskih voda za osnovne potrebe jednog domaćinstva koje se sakupljaju na
+vlastitom zemljištu;
+4. rekreaciju na vodama.
+(3) Osnovnim potrebama domaćinstva iz stava 2. ovog člana smatra se korištenje vode za piće, održavanje
+čistoće i slične potrebe u domaćinstvu. Takvim korištenjem ne smatra se korištenje vode za navodnjavanje, te
+korištenje vode u tehnološkom procesu pri obavljanju privredne djelatnosti.
+
+Član 47
+(1) Za svako korištenje vode koje prelazi obim opće upotrebe iz člana 46. ovog Zakona potrebna je vodna
+dozvola, u skladu sa ovim Zakonom.
+(2) Korištenje vode za snabdijevanje stanovništva vodom za piće, sanitarne potrebe i potrebe protivpožarne
+zaštite ima prednost u odnosu na korištenje vode za ostale namjene iz člana 44. ovog Zakona.
+(3) Planom upravljanja vodama može se, zbog određenih specifičnih uvjeta i potreba, odrediti pravo prednosti
+korištenja vode za ostale namjene, uz obavezno davanje prvenstva za namjene iz stava 2. ovog člana.
+
+Član 48
+Kvalitet vode za piće
+(1) Kvalitet vode koja se koristi za piće (vodosnabdijevanje) mora odgovarati uvjetima utvrđenim propisom o
+kvalitetu vode za piće koji donosi federalni ministar nadležan za zdravstvo.
+(2) Pravno lice koje obavlja djelatnost vodosnabdijevanja dužno je osigurati stalni i sistematski pregled vode i
+preduzimati mjere za osiguranje zdravstvene ispravnosti vode za piće i tehničke ispravnosti uređaja, u skladu sa
+propisom iz stava 1. ovog člana.
+(3) Kontrolu vode za potrebe snabdijevanja vodom za piće može vršiti samo ovlaštena laboratorija.
+(4) Uvjete koje mora ispunjavati ovlaštena laboratorija, sadržaj i način dobivanja ovlaštenja propisuje federalni
+ministar nadležan za zdravstvo.
+
+Član 49
+Korištenje vode iz izvora i podzemnih voda
+(1) Korištenje vode iz izvora i podzemne vode, osim opće upotrebe vode, može se odobriti samo ako su
+prethodno obavljeni vodoistražni radovi.
+(2) Vodoistražnim radovima smatraju se radovi i ispitivanja radi utvrđivanja postojanja, rasprostranjenosti, količine
+i kvaliteta podzemne vode na određenom području.
+
+Član 50
+
+Obaveza vođenja evidencije
+(1) Pravna i fizička lica koja zahvataju i crpe vodu, osim opće upotrebe vode, dužna su voditi evidenciju o
+količinama zahvaćene vode i o tome dostavljati podatke nadležnoj agenciji za vodno područje.
+(2) Propis o sadržaju i načinu vođenja evidencije i dostavljanje podataka iz stava 1. ovog člana donosi federalni
+ministar.
+
+Član 51
+Melioracioni sistemi
+(1) U svrhu građenja i/ili korištenja melioracionog sistema za navodnjavanje i/ili odvodnju od interesa za više
+vlasnika ili korisnika zemljišta, može se osnovati posebno pravno lice (zadruga, udruženje i sl.).
+(2) Pravno lice iz stava 1. ovog člana dužno je pribaviti pravo na korištenja vode.
+(3) Pravno lice iz stava 1. ovog člana dužno je osigurati finansijska sredstva za održavanje i rad melioracionog
+sistema.
+(4) Pravno lice iz stava 1. ovog člana kojem je preneseno pravo na upravljanje i korištenje vodnih objekata iz
+člana 14. stav 1. tač. 2. i 3. alineja 3. ovog Zakona, a u vezi sa članom 16. st. 1. i 2. ovog Zakona, dužno je
+osigurati finansijska sredstva za održavanje i rad melioracionog sistema.
+(5) Pravno lice iz stava 1. ovog člana može poslove tehničkog održavanja melioracionog sistema povjeriti
+pravnom licu registriranom za obavljanje takve djelatnosti.
+
+Član 52
+Obaveza prijavljivanja
+(1) Pravno i fizičko lice koje prilikom rudarskih radova, iskopa tunela, drugih iskopa i bušenja tla naiđe na
+podzemnu vodu dužno je najkasnije u roku od 48 sati od nalaska vode to prijaviti vodnom inspektoru, odnosno
+agenciji za vodno područje ili najbližoj policijskoj upravi koja je dužna o tome odmah obavijestiti nadležnu agenciju
+za vodno područje.
+(2) Pravno ili fizičko lice iz stava 1. ovog člana dužno je vodnom inspektoru ili ovlaštenom licu agencije za vodno
+područje dopustiti uzimanje podataka i obavljanje potrebnih ispitivanja radi utvrđivanja ležišta, količine i kvaliteta
+vode te preduzeti potrebne mjere osiguranja koje mu naloži vodni inspektor ili ovlašteno lice.
+
+VI. ZAŠTITA VODA
+1. Zabrane i ograničenja
+Član 53
+Opća zaštita voda
+(1) Ispuštanje otpadne vode u površinske vode dozvoljeno je samo na način i pod uvjetima određenim ovim
+Zakonom i podzakonskim propisom iz člana 55. stav 1. ovog Zakona.
+(2) Zabranjeno je ispuštanje otpadne vode u prirodno jezero, ribnjak, močvaru i drugu prirodnu vodnu akumulaciju
+koja ima stalan ili povremen dotok ili isticanje površinske ili podzemne vode, kao i u vodnu akumulaciju koja je
+nastala zbog vađenja ili iskorištavanja mineralne sirovine ili drugog sličnog zahvata, a koja je u kontaktu sa
+podzemnom vodom.
+(3) U prirodnom jezeru, ribnjaku, močvari i drugoj prirodnoj vodnoj akumulaciji koja ima stalan ili povremen dotok
+ili isticanje površinske ili podzemne vode zabranjeno je korištenje vode na način koji bi mogao prouzrokovati
+ugrožavanje njenog ekološkog ili hemijskog stanja.
+(4) Ispuštanje otpadne vode direktno u podzemnu vodu je zabranjeno.
+(5) Indirektno ispuštanje otpadne vode u podzemnu vodu dozvoljeno je samo na način i pod uvjetima utvrđenim
+ovim Zakonom i podzakonskim propisom iz člana 55. stav 1. ovog Zakona.
+
+Član 54
+Opća obaveza odvodnje i tretmana otpadnih voda
+(1) Fizičko i pravno lice dužno je otpadnu vodu ispuštati u javni kanalizacioni sistem ili na drugi način, u skladu sa
+odlukom o odvodnji otpadnih voda.
+(2) Odluka iz stava 1. ovog člana sadrži naročito: odredbe o načinu odvodnje otpadnih voda, obavezu priključenja
+na javni kanalizacioni sistem, uvjete i način ispuštanja otpadnih voda na područjima na kojima nije izgrađen takav
+sistem, obavezu posebnog odlaganja i odstranjivanja opasnih i drugih materija, te obavezu održavanja javnih
+kanalizacionih sistema.
+(3) Odluku o odvodnji otpadnih voda na području grada, odnosno općine donosi gradsko, odnosno općinsko
+vijeće. U slučaju da se istim sistemom javne odvodnje otpadnih voda odvodi voda sa područja više općina odluku
+donosi organ određen propisom kantona.
+
+Član 55
+Granične vrijednosti za ispuštanje otpadnih voda
+(1) Vlada Federacije donosi propis o graničnim vrijednostima zagađujućih materija u otpadnim vodama i drugim
+zahtjevima kada je u pitanju ispuštanje otpadnih voda u površinske vode i indirektno ispuštanje otpadnih voda u
+podzemne vode , kao i propis o opasnim i prioritetnim materijama na prijedlog federalnog ministra nadležnog za
+okoliš.
+(2) Vlada Federacije donosi propis iz stava 1. ovog člana samo ako Vijeće ministara Bosne i Hercegovine nije
+donijelo takav propis.
+(3) Prije donošenja propisa iz stava 1. ovog člana Vlada Federacije mora osigurati, uz konsultaciju sa Vladom
+Republike Srpske, njegovu potpunu harmonizaciju sa odgovarajućim propisom Republike Srpske.
+(4) Vlada kantona može propisati dodatne (strožije) uvjete od uvjeta navedenih u propisu iz stava 1. ovog člana
+za vode koje su u nadležnosti kantona.
+
+Član 56
+Zabrana đubrenja i upotrebe sredstava za zaštitu bilja
+(1) Federalni ministar, uz saglasnost sa federalnim ministrom nadležnim za okoliš, donosi propis o pravilima
+dobre poljoprivredne prakse koja se primjenjuje u područjima gdje je voda zagađena nitratima i sredstvima za
+zaštitu bilja, ili u područjima gdje postoji rizik od takvog zagađenja.
+(2) Federalni ministar u saradnji sa federalnim ministrom nadležnim za okoliš donosi propis o metodologiji za
+određivanje područja iz stava 1. ovog člana.
+(3) Federalni ministar može svojim propisom ograničiti ili zabraniti korištenje vještačkih đubriva, gnojiva ili
+sredstava za zaštitu bilja u područjima iz stava 1. ovog člana.
+(4) Zabranjena je upotreba đubriva ili upotreba sredstava za zaštitu bilja na vodnom dobru.
+
+Član 57
+Ograničenja plovidbe
+(1) Vlada Federacije na prijedlog federalnog ministra određuje pojedinačne površinske vode ili dijelove
+površinskih voda na kojima je zabranjena plovidba plovilima koja za pogon koriste naftne derivate.
+(2) Zabrana iz stava 1. ovog člana ne odnosi se na plovila koja su u funkciji spasavanja ljudi, imovine i dobara,
+kao i na plovila u funkciji provođenja policijskih zadataka i odbrane.
+(3) Zaštita obalnih morskih voda od zagađenja prouzrokovanog plovilima uređuje se u skladu sa posebnim
+propisima koji uređuju područje pomorskog prijevoza.
+(4) Zabranjeno je ispuštanje otpadne vode koja nastaje u plovilu direktno iz plovila, osim nezagađene vode za
+hlađenje.
+
+Član 58
+Zabrana pranja vozila
+Zabranjeno je prati vozilo (automobil, kamion i druge mašine i uređaje) u površinskoj vodi i na zemljištu koje
+pripada vodnom dobru.
+
+Član 59
+Odlaganje i deponovanje opasnih materija ili otpada
+(1) Zabranjeno je proizvoditi, rukovati, čuvati i odlagati opasne materije i otpad na vodama i vodnom dobru.
+(2) Pod otpadom, u smislu ovog Zakona, podrazumijevaju se materije definirane u Zakonu o upravljanju otpadom
+("Službene novine Federacije BiH", broj 33/03).
+(3) Izuzetno od stava 1. ovog člana, federalni ministar nadležan za okoliš može propisati posebne uvjete za
+proizvodnju, rukovanje i čuvanje opasnih materija i otpada za djelatnosti luka, odbranu i slične svrhe.
+
+Član 60
+Prijevoz opasnih materija
+U propisima koji se odnose na prijevoz i pretovar opasnih materija na kopnenim vodama i na moru uređuju se
+uvjeti prijevoza i pretovara tih materija kako bi se mogućnost zagađenja voda isključila ili svela na najmanju
+moguću mjeru.
+
+Član 61
+Akcidenti/incidenti
+
+(1) Ako je uslijed iznenadnog slučaja, kvara ili iz drugih razloga nastala opasnost od zagađenja vode, pravno i
+fizičko lice u vezi sa čijim je djelovanjem ili propustom takva opasnost nastala mora odmah preduzeti sve
+potrebne mjere za sprečavanje ili ublažavanje uticaja prouzrokovanih incidentom, te spriječiti ponovni nastanak
+incidenta, a zatim, bez odlaganja, o tome obavijesti najbližu policijsku upravu, vodnu inspekciju, federalnu
+inspekciju nadležnu za zaštitu okoliša, agenciju za vodno područje ili operativni centar civilne zaštite.
+(2) Svako fizičko lice koje primijeti da je došlo do situacije iz stava 1. ovog člana dužno je o tome obavijestiti
+najbližu policijsku upravu, vodnu inspekciju, okolišnu inspekciju, agenciju za vodno područje ili operativni centar
+civilne zaštite.
+(3) Policijska uprava i operativni centar civilne zaštite po saznanju o nastalom zagađenju, odnosno opasnosti od
+zagađenja vode obavještavaju najbližeg vodnog inspektora, okolišnog inspektora, odnosno mjesno nadležnu
+agenciju za vodno područje.
+(4) Nadležna agencija za vodno područje ili drugo pravno lice određeno planom upravljanja vodama neposredno
+po saznanju o zagađenju vode ili nastanku opasnosti od zagađenja preduzimaju mjere za otklanjanje ili
+sprečavanje zagađenja, odnosno preduzimaju sve mjere radi svođenja štetnih posljedica po okoliš na najmanju
+moguću mjeru.
+(5) Agencija za vodno područje može u cilju izvršenja radova iz stava 4. ovog člana angažirati najbliže
+specijalizirano i ovlašteno pravno lice.
+(6) Federalni ministar propisuje uvjete koje mora ispunjavati pravno lice iz stava 5. ovog člana (kadrovi, oprema i
+dr.) i način davanja ovlaštenja.
+(7) Ovlaštenje iz stava 6. ovog člana daje Federalno ministarstvo.
+(8) Troškove preduzetih mjera (otklanjanje posljedica) snosi pravno i fizičko lice čija je radnja ili propuštanje
+radnje izazvalo zagađenje ili opasnost od zagađenja.
+(9) Federalni ministar nadležan za okoliš, uz saglasnost sa federalnim ministrom, propisuje postupak i mjere koje
+se preduzimaju u slučaju akcidenta.
+
+Član 62
+Ekološki prihvatljiv protok
+(1) Ekološki prihvatiljiv protok predstavlja minimalni protok koji osigurava očuvanje prirodne ravnoteže i
+ekosistema vezanih za vodu.
+(2) Ekološki prihvatljiv protok utvrđuje se na osnovu provedenih istražnih radova i u skladu sa metodologijom za
+njegovo određivanje utvrđenih propisom iz stava 4. ovog člana.
+(3) Do donošenja propisa iz stava 4. ovog člana ekološki prihvatljiv protok utvrđuje se na osnovu hidroloških
+osobina vodnog tijela za karakteristične sezone kao minimalni srednji mjesečni protok 95% od vjerovatnoće
+pojave.
+(4) Federalni ministar, uz saglasnost sa federalnim ministrom nadležnim za okoliš, donosi propis o načinu
+određivanja ekološki prihvatljivog protoka. Ovaj propis naročito sadrži metodologiju i potrebna istraživanja,
+uzimajući u obzir specifičnosti lokalnog ekosistema i sezonske varijacije protoka i procedure određivanja ovog
+protoka.
+(5) Troškove potrebnih istraživanja snosi investitor, odnosno korisnik.
+
+Član 63
+Vađenje materijala
+Vađenje materijala iz vodotoka dozvoljeno je u obimu i na način koji bitno ne mijenja prirodne procese, ne remeti
+prirodnu ravnotežu ekosistema ili ne pospješuje štetno djelovanje voda.
+
+Član 64
+Referentna i ovlaštene laboratorije
+(1) Za praćenja stanja voda, verifikaciju rezultata rada ovlaštene laboratorije i za izvršavanje zadataka iz
+nadležnosti Federalnog ministarstva, federalnog ministarstva nadležnog za okoliš, kantonalnih ministarstava
+nadležnih za vode i okoliš i agencije za vodno područje, nadležna je referentna laboratorija.
+(2) Do osnivanja referentne laboratorije na državnom nivou poslovi i zadaci referentne laboratorije mogu se
+dodijeliti nekoj od ovlaštenih laboratorija.
+(3) Monitoring kvaliteta otpadne vode i efluenta sa postrojenja za prečišćavanje otpadne vode može vršiti samo
+ovlaštena laboratorija.
+(4) Nadzor nad provođenjem odredbi o zaštiti voda utvrđenih ovim Zakonom, preduzimanje mjera i izricanje kazni
+zbog njihove povrede može se vršiti samo na osnovu rezultata analize referentne, odnosno ovlaštene laboratorije.
+(5) Uvjete koje mora ispunjavati referentna, odnosno ovlaštena laboratorija, sadržaj i način davanja ovlaštenja
+utvrđuje federalni ministar posebnim propisom.
+(6) Ovlaštenje za rad laboratorije iz stava 5. ovog člana daje Federalno ministarstvo.
+
+2. Zaštićena područja
+
+Član 65
+Vrste zaštićenih područja
+(1) U cilju osnivanja posebne zaštite površinskih i podzemnih voda, staništa biljnih i životinjskih vrsta ili akvatičnih
+vrsta područja i vodna tijela mogu se proglasiti zaštićenim područjima.
+(2) Zaštićena područja su:
+1. područja namijenjena za zahvatanje vode za piće;
+2. područja namijenjena zaštiti ekonomski važnih akvatičnih vrsta;
+3. površinska vodna tijela namijenjena rekreaciji uključujući i područja određena za kupanje;
+4. područja podložna eutrofikaciji i područja osjetljiva na nitrate;
+5. područja namijenjena zaštiti staništa biljnih i životinjskih vrsta ili akvatičnih vrsta u kojima je održavanje ili
+poboljšanje stanja voda bitan uvjet za njihov opstanak i reprodukciju.
+
+Član 66
+Područja zaštite izvorišta vode za piće
+(1) Područje na kojem se nalazi izvorište vode koje se po količini i kvalitetu može koristiti ili se koristi za javno
+vodosnabdijevanje mora biti zaštićeno od zagađenja i drugih nepovoljnih uticaja na zdravstvenu ispravnost vode
+ili izdašnost izvorišta.
+(2) Na području iz stava 1. ovog člana provodi se zaštita izvorišta utvrđivanjem zona sanitarne zaštite čija se
+veličina, granice, sanitarni režim, mjere zaštite i drugi uvjeti određuju prema propisu iz stava 3. ovog člana.
+(3) Federalni ministar, u saradnji sa federalnim ministrima nadležnim za zdravstvo i okoliš, donosi propis o načinu
+utvrđivanja uvjeta za određivanje zona sanitarne zaštite i zaštitnih mjera za izvorište iz stava 1. ovog člana.
+(4) Na osnovu propisa iz stava 3. ovog člana i istražnih radova donosi se odluka o provođenju zaštite izvorišta.
+Odluka sadrži naročito: granice zona sanitarne zaštite, sanitarne i druge uvjete u pojedinim zonama i druge mjere
+zaštite, zabrane i ograničenja, izvore i način finansiranja za provođenje zaštitnih mjera, nazive organa i pravna
+lica koja će provoditi odluku, te kazne za povredu odredaba te odluke.
+
+Član 67
+Zone sanitarne zaštite u planovima upravljanja vodama
+Zone sanitarne zaštite utvrđene odlukom o zaštiti izvorišta, kao i prostor rezerviran za uspostavljanje zona
+sanitarne zaštite za izvorišta koja se koriste i za koje nije donesena odluka unose se u plan upravljanja vodama.
+
+Član 68
+Odluka o zaštiti izvorišta
+(1) Zone sanitarne zaštite i zaštitne mjere utvrđuje općinski organ uprave nadležan za vode na čijem području se
+nalazi izvorište.
+(2) Odluku o zaštiti izvorišta čije se zone sanitarne zaštite prostiru na području jednog grada ili općine donosi
+nadležno gradsko, odnosno općinsko vijeće.
+(3) Odluku o zaštiti izvorišta čije se zone sanitarne zaštite prostiru na području više gradova ili općina u sastavu
+istog kantona donosi organ određen propisom kantona.
+(4) Odluku o zaštiti izvorišta čije se zone sanitarne zaštite prostiru na području dvaju ili više kantona donosi Vlada
+Federacije na prijedlog Federalnog ministarstva.
+(5) Odluku o zaštiti izvorišta čije se zone sanitarne zaštite prostiru na području Federacije i Republike Srpske,
+odnosno Distrikta Brčko donose sporazumno vlade Federacije i Republike Srpske, odnosno Distrikta Brčko.
+(6) Odluka o zaštiti izvorišta čije se zone sanitarne zaštite prostiru na području Bosne i Hercegovine i susjedne
+države mora biti usklađena sa međunarodnim ugovorom koji je potpisala Bosna i Hercegovina.
+
+Član 69
+Zaštićena područja rezervi kopnenih voda
+(1) Pored zaštićenih područja iz člana 66. ovog Zakona agencija za vodno područje može utvrditi i zaštićena
+područja rezervi kopnenih voda, bez obzira na njihovu buduću namjenu.
+(2) Područja iz stava 1. ovog člana određuju se na osnovu utvrđenih rezervi kopnenih voda koje se, s obzirom na
+svoje hemijske, fizičko-hemijske i mikrobiološke karakteristike klasificiraju u najviši red.
+(3) Na prijedlog agencije za vodno područje federalni ministar u saradnji sa federalnim ministrima nadležnim za
+zdravstvo i prostorno uređenje donosi propis za utvrđivanje ograničenja i zabrana opterećenja prostora i aktivnosti
+koje mogu ugroziti kvalitativno ili kvantitativno stanje kopnenih voda u područjima iz stava 2. ovog člana.
+
+Član 70
+
+Privremena zaštita
+(1) Za izvorište vode od značaja za buduće snabdijevanje vodom za piće, korištenje izvora mineralne, termalne,
+termomineralne ili druge podzemne vode agencija za vodno područje predlaže donošenje odluke o privremenoj
+zaštiti područja na kojem se izvorište nalazi.
+(2) Odlukom o privremenoj zaštiti iz stava 1. ovog člana utvrđuje se:
+1. granica zaštićenog područja,
+2. privremeni režim zaštite vode u zaštićenom području i u pojedinačnom zaštićenom pojasu,
+3. način finansiranja zaštite i održavanja područja,
+4. nadzor nad provođenjem propisanog režima.
+(3) Odluka iz stava 2. ovog člana primjenjuje se do stupanja na snagu odluke o zaštiti iz člana 68. ovog Zakona.
+(4) Nadležni organ iz člana 68. ovog Zakona, na prijedlog agencije za vodno područje, za područja iz stava 1.
+ovog člana provodi mjere zaštite u skladu sa odredbama ovog Zakona.
+
+Član 71
+Područja namijenjena zaštiti ekonomski važnih akvatičnih vrsta
+(1) Zaštita područja na kojima se vrši uzgoj ekonomski važnih akvatičnih vrsta vrši se uspostavljanjem posebne
+zaštite od zagađivanja i drugih nepovoljnih uticaja na pojedine akvatične vrste.
+(2) Federalni ministar u saradnji sa federalnim ministrom nadležnim za veterinarstvo i federalnim ministrom
+nadležnim za prostorno uređenje, donosi propis o načinu utvrđivanja područja iz stava 1. ovog člana i mjere
+zaštite u tim područjima.
+(3) Prijedlog odluke o zaštiti područja iz stava 1. ovog člana priprema pravno ili fizičko lice koje obavlja djelatnost
+uzgoja akvatične vrste.
+(4) U zavisnosti od prostiranja zaštićenog područja iz stava 1. ovog člana odluku o zaštiti donosi općinski organ
+uprave nadležan za vode, odnosno organ iz člana 68. st. 3., 4., 5. i 6. ovog Zakona.
+
+Član 72
+Vodna tijela namijenjena rekreaciji
+(1) Kupalište je područje za javnu rekreaciju na vodi (plivanje i dr.) i područje na kome nije zabranjeno kupanje,
+koje se tradicionalno koristi za tu namjenu.
+(2) Kupalište proglašava općinski organ uprave nadležan za vode, u skladu sa propisom iz stava 6. ovog člana.
+(3) Na području kupališta nije dozvoljeno postavljanje stalnih ili privremenih objekata ili drugih prepreka koje bi
+sprečavale slobodan protok vode, slobodan prijelaz preko vodnog dobra, odnosno sprečavale slobodan prilaz
+obalama i koritu vodotoka, prirodnog i vještačkog jezera, kao i obalnoj morskoj vodi.
+(4) Područje iz stava 1. ovog člana mora biti zaštićeno od zagađenja i od ostalih oblika korištenja ili pojava koje
+mogu uticati na kvalitet vode za kupanje. Aktivnosti koje ugrožavaju ili bi mogle ugroziti zdravlje ili život kupača
+moraju se zabraniti.
+(5) Kupališta iz stava 1. ovog člana unose se u plan upravljanja vodama i prostorne planove.
+(6) Federalni ministar u saradnji sa federalnim ministrom nadležnim za zdravstvo propisuje kriterije za područja iz
+stava 1. ovog člana.
+
+Član 73
+Područja podložna eutrofikaciji i osjetljiva na nitrate
+(1) U cilju zaštite voda područja podložna eutrofikaciji i područja osjetljiva na nitrate razvrstavaju se na osjetljiva i
+manje osjetljiva područja.
+(2) Federalni ministar nadležan za okoliš, uz saglasnost sa federalnim ministrom, donosi propis za utvrđivanje
+osjetljivih i manje osjetljivih područja kao i mjere zaštite, zabrane i ograničenja u osjetljivom području.
+
+Član 74
+Proglašavanje osjetljivih i manje osjetljivih područja
+(1) Federalni ministar nadležan za okoliš proglašava osjetljiva područja na teritoriji Federacije.
+(2) Osjetljivo područje koje se prostire na teritoriji Federacije i Republike Srpske proglašava ministarstvo Bosne i
+Hercegovine nadležno za vode, na prijedlog ministara Federacije i Republike Srpske nadležnih za vode i okoliš.
+(3) Osjetljivo područje koje se prostire na teritoriji Bosne i Hercegovine i susjedne države proglašava organ Bosne
+i Hercegovine određen propisom Bosne i Hercegovine.
+
+Član 75
+Obaveze i ograničenja aktivnosti u osjetljivim područjima
+
+(1) U osjetljivom području ograničavaju se ili zabranjuju aktivnosti koje mogu ugroziti kvantitativno ili kvalitativno
+stanje vode, u skladu sa propisom iz člana 73. stav 2. ovog Zakona.
+(2) Vlasnik, odnosno posjednik zemljišta u osjetljivom području obavezno provodi mjere zaštite kvantiteta i
+kvaliteta vode.
+(3) Zabrane i ograničenja periodično se revidiraju u zavisnosti od rezultata monitoringa.
+(4) Primjena dobre poljoprivredne prakse obavezna je u osjetljivim područjima. Vlada Federacije može donijeti
+odluku o primjeni ove prakse za cijelu teritoriju Federacije.
+
+Član 76
+Monitoring u osjetljivim područjima
+(1) Monitoring u osjetljivim područjima je obavezan i obuhvata monitoring vode i monitoring aktivnosti.
+(2) Federalni ministar nadležan za okoliš, uz saglasnost sa federalnim ministrom, donosi propis o načinu
+monitoringa iz stava 1. ovog člana.
+
+Član 77
+Područja namijenjena zaštiti staništa ili vrsta
+Područje namijenjeno zaštiti staništa biljnih i životinjskih vrsta ili akvatičnih vrsta, gdje je održavanje ili poboljšanje
+stanja vode bitan uvjet za njihov opstanak ili reprodukciju, utvrđuje se u skladu sa propisima o zaštiti okoliša i
+zaštiti prirode.
+
+Član 78
+Renaturalizacija površinskih voda
+(1) U cilju poboljšanja narušene prirodne ravnoteže ekosistema površinskih voda federalni ministar u saradnji sa
+federalnim ministrom nadležnim za okoliš daje inicijativu za provođenje njihove renaturalizacije.
+(2) Mjere i metode renaturalizacije utvrđuju se planom upravljanja vodama, a provodi ih Federalno ministarstvo i
+federalno ministarstvo nadležno za okoliš.
+(3) Renaturalizacija može biti hitna, potrebna ili preporučljiva o čemu odlučuje federalni ministar, uz saglasnost sa
+federalnim ministrom nadležnim za okoliš.
+
+Član 79
+Ograničenje u svrhu zaštite akvatičnih i poluakvatičnih organizama
+(1) U cilju zaštite akvatičnih i poluakvatičnih vrsta i njihovih staništa pri opterećivanju vode ili vodnog zemljišta
+mora se voditi računa o:
+1. održavanju uvjeta za njihovu reprodukciju,
+2. održavanju odgovarajućih uvjeta u njihovim zimskim skloništima,
+3. održavanju ostalih uvjeta vezanih za njihovo održanje i razvoj uključujući njihovu zamjenu i obogaćivanje,
+4. očuvanju postignutih ciljeva kvaliteta vode iz člana 30. ovog Zakona.
+(2) Obaveze iz stava 1. ovog člana utvrđuju se u vodnoj saglasnosti.
+(3) Federalni ministar nadležan za okoliš može, u skladu sa pravilima o očuvanju prirode, propisati metode i
+uvjete zaštite za pojedinačne slučajeve opterećenja voda, obala ili vodnog dobra.
+(4) Propis iz stava 3. ovog člana može sadržavati obaveze za osiguranje prolaza za akvatične i poluakvatične
+vrste.
+
+VII. UREĐENJE VODOTOKA I DRUGIH VODA I ZAŠTITA OD ŠTETNOG
+DJELOVANJA VODA
+Član 80
+Uređenje vodotoka i drugih voda
+Uređenje vodotoka i drugih voda, prema ovom Zakonu, jeste održavanje vodotoka i vodnog dobra, kao i drugi
+radovi kojima se omogućava kontrolirani i neškodljivi protok vode.
+
+Član 81
+Održavanje vodotoka, vodnog dobra i vodnih objekata
+Održavanje vodotoka, vodnog dobra, vodnih objekata i sistema obuhvata naročito:
+1. rad na održavanju prirodnih i vještačkih vodotoka kao što je oblaganje korita i obala, čišćenje, uklanjanje
+nanosa i djelimično produbljavanje dna korita, ublažavanje zavoja bez značajnije promjene trase korita i sl.;
+
+2. izvođenje zemljanih i sličnih radova na uređenju i održavanju obala, zemljane radove u inundacionom pojasu,
+krčenje i košenje rastinja, obnavljanje i održavanje propusta i prijelaza;
+3. održavanje regulacionih i zaštitnih vodnih objekata kao što je popravak, pojačanje i obnavljanje nasipa, krčenje,
+košenje i rad na vegetativnoj zaštiti objekta, zamjena oštećenih dijelova građevine i sl.;
+4. održavanje vodnih objekata za melioracionu odvodnju kao što je čišćenje, tehničko i vegetativno održavanje
+objekata i pojasa uz objekte, zemljani radovi na manjim dopunama kanalske mreže, ublažavanje zavoja i nagiba,
+drenažni radovi, izrada tipskih propusta i sličnih objekata koji su sastavni dio kanalske mreže, njihovo obnavljanje,
+zamjena i sl.
+
+Član 82
+Poboljšanje hidromorfološkog stanja površinskih voda
+(1) Radi poboljšanja narušene prirodne ravnoteže vodnih i priobalnih ekosistema, ili zbog slabog stanja voda,
+naročito na vještačkom i jako izmijenjenom vodnom tijelu, provode se mjere za poboljšanje dinamike prirodnih
+procesa voda.
+(2) Mjere za poboljšanje hidromorfološkog stanja obuhvataju obnovu i ponovno uspostavljanje strukture i oblika
+vodnog tijela koje utiču na poboljšanje njegovog hemijskog i ekološkog stanja.
+(3) Mjere iz stava 1. ovog člana određuju se programom mjera iz člana 26. stav 3. ovog Zakona.
+
+Član 83
+Planiranje i izvođenje uređenja
+Zahvati radi uređenja voda planiraju se i izvode na način koji ne utiče na pogoršanje karakteristika režima voda i
+bitno ne remete prirodnu ravnotežu vodnih i priobalnih ekosistema.
+
+Član 84
+Obaveze nadležnih nivoa vlasti
+(1) Federacija, kanton, grad i općina osiguravaju uređenje vodotoka i drugih voda u skladu sa čl. 5. i 9. ovog
+Zakona, svako u okviru svoje nadležnosti.
+(2) Federacija, kanton, grad, općina i pravno lice osiguravaju izgradnju, rekonstrukciju i održavanje vodnih
+objekata iz čl. od 15. do 19. ovog Zakona, svako u okviru svoje nadležnosti, na način propisan ovim Zakonom.
+
+Član 85
+Zaštita od štetnog djelovanja voda
+(1) Pod zaštitom od štetnog djelovanja voda podrazumijeva se provođenje aktivnosti i mjera u cilju smanjenja ili
+sprečavanja ugroženosti ljudi i materijalnih dobara od štetnog djelovanja voda i otklanjanje posljedica njihovog
+djelovanja.
+(2) Zaštita od štetnog djelovanja voda odnosi se na odbranu od poplava i leda na vodotocima i zaštitu od erozije i
+bujica.
+(3) Pored zaštite iz stava 2. ovog člana zaštita od štetnog djelovanja voda obuhvata i mjere zaštite i otklanjanja
+posljedica prouzrokovanih vanrednim zagađenjem voda.
+
+Član 86
+Ugrožena područja
+(1) Radi smanjenja stepena ugroženosti ljudi i materijalnih dobara i radi provođenja mjera i aktivnosti zaštite od
+štetnog djelovanja voda, određuje se područje koje je ugroženo:
+1. poplavama (u daljnjem tekstu: poplavno područje),
+2. erozijom površinskih voda (u daljnjem tekstu: erozivno područje).
+(2) Područja iz stava 1. ovog člana (u daljnjem tekstu: ugrožena područja) određuje Vlada Federacije, na prijedlog
+federalnog ministra, uzimajući u obzir prirodne mogućnosti i uvjete za nastanak štetnog djelovanja voda, broj
+potencijalno ugroženih stanovnika i veličinu moguće štete na zemljištu, objektima i drugim dobrima.
+(3) Radi zaštite od štetnog djelovanja voda, s obzirom na stepen ugroženosti, zemljište na ugroženom području
+može se podijeliti na kategorije.
+(4) Federalni ministar donosi propis o načinu određivanja ugroženog područja i razvrstavanju zemljišta na
+kategorije ugroženosti.
+
+Član 87
+Poplavno područje
+Poplavno područje je područje uz vodotok koje može biti poplavljeno tokom poplavnog događaja uslijed izlijevanja
+vode iz korita, bez obzira na to da li je područje osigurano zaštitnim objektima.
+
+Član 88
+Erozivno područje
+Erozivno područje je zemljište koje je stalno ili povremeno pod uticajem površinske, dubinske ili bočne erozije
+vode, a koje je:
+1. izvor plavina (erozivo žarište),
+2. pod uticajem bujica,
+3. sastavljeno od tla podložnog ispiranju,
+4. pod uticajem morskih talasa.
+
+Član 89
+Obaveze nadležnih nivoa vlasti
+(1) U cilju zaštite od štetnog djelovanja voda, Federacija, kantoni, gradovi i općine na ugroženom području
+osiguravaju, svako u okviru svoje nadležnosti prema odredbama ovog Zakona, planiranje mjera zaštite, gradnju i
+upravljanje zaštitnim vodnim objektima, a naročito gradnju nasipa, brana, pregrada, objekata za stabilizaciju dna i
+obala, objekata za odvođenje unutrašnjih voda i dr.
+(2) Mjere i aktivnosti iz stava 1. ovog člana provode se i izvan ugroženog područja sve do nivoa riječnog bazena,
+ako se njima povećava stepen zaštite.
+(3) Ciljevi zaštite od štetnog djelovanja voda moraju biti sadržani i u drugim sektorskim planovima, u skladu sa
+odredbama člana 42. ovog Zakona.
+(4) Mjere i aktivnosti zaštite od poplava dijele se na sljedeće faze: fazu planiranja i pripremnu fazu, fazu aktivne
+odbrane od poplava i fazu sanacije posljedica štetnog djelovanja voda.
+
+Član 90
+Obim zaštite od štetnog djelovanja voda
+(1) Obim zaštite od štetnog djelovanja voda i potrebne mjere određuju se sljedećim planovima: posebnim
+planovima zaštite od poplava i leda, planovima zaštite od erozije i bujica i planovima zaštite od vanrednog
+zagađenja voda.
+(2) Kod određivanja obima zaštite iz stava 1. ovog člana u obzir se naročito uzimaju:
+1. značaj ugroženog područja, veličina naselja, vrijednost infrastrukture ili zemljišta;
+2. prirodne i socijalne prilike stanovništva na ugroženom području;
+3. potrebne mjere za zaštitu, uključujući i ocjenu njihove izvodljivosti, visinu troškova, te posljedice za prirodnu
+ravnotežu;
+4. osjetljivost vodnog talasa na mogućnost iznenadnog zagađenja.
+(3) Vlada Federacije na prijedlog federalnog ministra donosi propis o vrstama i sadržaju planova iz stava 1. ovog
+člana.
+
+Član 91
+Osmatranje, prognoza i rano upozorenje
+(1) Federacija osigurava neposredno, u skladu sa propisima sektora voda i sektora zaštite od prirodnih i drugih
+nesreća, obavljanje djelatnosti monitoringa prirodnih i drugih pojava koje su u vezi sa zaštitom od štetnog
+djelovanja voda, a naročito:
+1. praćenje i prognozu vanrednih hidroloških stanja i drugih prirodnih pojava kao što su poplave, pojava bujica i
+erozije i leda na vodotocima,
+2. praćenje stanja visokih pregrada (brana) na osnovu podataka pogonskog monitoringa vodnih objekata ili
+uređaja iz člana 15. stav 1. ovog Zakona.
+(2) Agencija za vodno područje dužna je uspostaviti sistem za praćenje i prognozu vanrednih hidroloških stanja
+na pripadajućem vodnom području i osigurati pravovremeno obavještavanje stanovništva na ugroženim
+područjima.
+(3) Federalni meteorološki zavod dužan je uspostaviti sistem za praćenje i prognozu vanrednih meteoroloških
+stanja i prognozu takvih stanja pravovremeno dostavljati u informacioni sistem voda iz člana 98. ovog Zakona.
+(4) Vlasnik, odnosno operator objekata od značaja za zaštitu od štetnog djelovanja voda dužan je vršiti monitoring
+i podatke o tome dostavljati u informacioni sistem voda iz člana 98. ovog Zakona na način propisan vodnim
+aktom.
+(5) Podaci monitoringa iz st. 1., 2., 3. i 4. ovog člana dio su sistema praćenja, obavještavanja i uzbunjivanja, u
+skladu sa propisima o zaštiti od prirodnih i drugih nesreća.
+
+Član 92
+Faza aktivne odbrane od poplava
+
+(1) Za vrijeme neposredne opasnosti od pojave velikih (poplavnih) voda, Federacija, kanton, grad i općina
+osiguravaju, svako u okviru svoje nadležnosti prema odredbama ovog Zakona, provođenje mjera aktivne odbrane
+od poplava.
+(2) Mjere iz stava 1. ovog člana su naročito:
+1. mjere na ugroženim područjima i zaštitnim vodnim objektima kojima se sprečava nastanak težih posljedica
+štetnog djelovanja voda;
+2. neprekidna dežurna služba pravnog lica iz člana 157. ovog Zakona u vrijeme opasnosti i za vrijeme trajanja
+velikih voda;
+3. povećan nadzor nad zaštitnim objektima i na ugroženim područjima;
+4. odstranjivanje naplavina u cilju povećanja kapaciteta protočnosti riječnog korita;
+5. provođenje privremenih mjera kao što je postavljanje odbrambenog nasipa, nasipanje, saniranje proboja i dr.
+(3) Kod provođenja aktivne faze odbrane od poplava potrebno je preduzeti najveće moguće mjere zaštite zaštitnih
+vodnih objekata i uređaja, kao i najveće moguće mjere za očuvanje karakteristika ekosistema i prirodnih
+vrijednosti.
+(4) Federalni ministar, na osnovu propisa iz člana 90. stav 3. ovog Zakona, donosi plan o mjerama i načinu
+njihovog provođenja za područja uz površinske vode I. kategorije.
+(5) Kantonalni ministar nadležan za vode, na osnovu propisa iz člana 90. stav 3. ovog Zakona, donosi plan o
+mjerama i načinu njihovog provođenja za područja uz površinske vode II kategorije na teritoriji kantona.
+
+Član 93
+Način provođenja mjera
+Kod provođenja mjera aktivne odbrane od poplava ili kod vanrednog zagađenja nadležni organi vlasti, pravna i
+fizička lica moraju postupati tako da u što manjoj mogućoj mjeri ugroze kvalitet vode i da ne oštete vodno dobro i
+priobalno zemljište, vodne objekte i drugu infrastrukturu, te u najvećoj mogućoj mjeri očuvaju hidromorfološke
+karakteristike vodotoka.
+
+Član 94
+Sanacije posljedica štetnog djelovanja voda
+(1) Sanacija posljedica štetnog djelovanja voda izvodi se na osnovu programa sanacije.
+(2) Ako su posljedice štetnog djelovanja voda nastale na vodnom, priobalnom ili drugom zemljištu ili na vodnoj
+infrastrukturi ili drugom vodnom objektu i uređaju koji je u vlasništvu Federacije, sredstva za njihovu sanaciju
+osigurava Federacija.
+(3) Ako su posljedice štetnog djelovanja voda nastale na vodnom objektu ili uređaju namijenjenom za posebno
+korištenje voda i vodnog dobra koji nije u vlasništvu Federacije, njegovu sanaciju dužan je osigurati vlasnik ili
+operator.
+(4) Ako lice iz stava 3. ovog člana ne osigura sanaciju, a to je značajno za funkcioniranje sistema zaštite od
+štetnog djelovanja voda, Federalno ministarstvo sanaciju osigurava na njegov teret.
+(5) Bez obzira na odredbe st. od 2. do 4. ovog člana troškove sanacije posljedica vanrednog zagađenja voda
+snosi pravno i/ili fizičko lice zbog čije je radnje ili propuštanja radnje nastupilo zagađenje.
+(6) Program sanacije iz stava 1. ovog člana predlaže Federalno ministarstvo, a donosi Vlada Federacije u roku od
+šest mjeseci od dana procjene štete i pripreme prijedloga programa sanacije. Procjenu štete i pripremu prijedloga
+programa sanacije vrši posebna komisija za procjenu štete, u skladu sa ovim Zakonom i propisima o zaštiti od
+prirodnih i drugih nesreća.
+
+Član 95
+Opće zabrane
+Na vodnom dobru i priobalnom zemljištu zabranjene su djelatnosti i zahvati u prostoru koji mogu:
+1. ugroziti stabilnost vodnog i priobalnog zemljišta,
+2. umanjiti stepen zaštite od štetnog djelovanja voda,
+3. spriječiti normalan protok vode, naplavina i mulja,
+4. onemogućiti opstanak i razmnožavanje vodnih i za vodu vezanih organizama.
+
+Član 96
+Zabrane na poplavnom području
+(1) Na poplavnom području su, osim zabrana iz člana 12. ovog Zakona, izričito zabranjene i sve aktivnosti koje
+mogu za vrijeme poplava imati štetan uticaj na vode, vodno dobro, priobalno zemljište i zaštitne objekte, a
+naročito:
+
+1. na odbrambenom nasipu, odnosno obodnom kanalu i inundacionom području kopati zemlju, saditi drveće i
+grmlje, pobijati kolje i druge predmete, kao i postavljati rampe, ako ovim Zakonom nije drugačije određeno;
+2. na nasipu graditi objekte koji nemaju karakter zaštitnog objekta;
+3. vršiti vađenje materijala (šljunak, pijesak, kamen i glina) u inundacionom području, odnosno u branjenom
+području na udaljenosti manjoj od 100 metara od vanjske (vodne) nožice nasipa;
+4. graditi bunare na udaljenosti manjoj od 50 metara od vanjske nožice nasipa, kopati (bušiti) jame ili paralelne
+kanale na udaljenosti manjoj od 20 metara od unutrašnje nožice, odnosno 10 metara od vanjske nožice nasipa;
+5. podizati ograde i živice i saditi drveće na udaljenosti manjoj od 20 metara sa unutrašnje strane i 10 metara sa
+vanjske strane od nožice nasipa, kao i graditi objekte (stambeni, privredni i drugi) sa unutrašnje strane nasipa na
+udaljenosti manjoj od 20 metara od nožice nasipa i u inundacionom području;
+6. obrađivati zemlju na udaljenosti manjoj od 10 metara od nožice nasipa;
+7. podizati pregrade u inundacionom području;
+8. puštati po nasipu, obodnom i odvodnom kanalu stoku radi ispaše ili prevoditi stoku izvan mjesta određenog za
+prijelaz;
+9. oštećivati ili uništavati uređaje na nasipu (rampa, oznaka, vodomjer i dr.) ili uređaje za registraciju promjena na
+vodama ili druge znakove;
+10. na nasipu i njegovom zaštitnom pojasu i u inundacionom području istovarati ili ostavljati bilo kakav materijal,
+izuzev materijala za odbranu od poplava (deponija, kamen i zemlja);
+11. oštećivati ili neovlašteno rukovati akumulacijama i njihovom opremom, crpnim stanicama, ustavama,
+kanalima, tunelima, kulama zatvaračnicama i njenim pripadajućim objektima, dalekovodima, trafostanicama i
+sistemom veza;
+12. neovlašteno koristiti pristupne puteve do zaštitnih objekata;
+13. mijenjati pravac vodotoka i kanala bez vodne saglasnosti i vodne dozvole, odnosno protivno uvjetima
+određenim u vodnoj saglasnosti i vodnoj dozvoli;
+14. unositi u vodotoke, jezera, more, akumulacije i retenzije, kao i deponovati na obale vodotoka, jezera, mora,
+akumulacija i retenzija kamen, zemlju, jalovinu i druge krute i tečne materije i materijale;
+15. saditi drveće na udaljenosti manjoj od 10 metara od linije dopiranja velikih voda vodotoka i mora, odnosno 10
+metara od rubne linije akumulacije ili retenzije, obodnog ili vještačkog kanala, izuzev zaštitnih šuma;
+16. podizati zgrade i druge objekte koji ne služe odbrani od poplava i koji sprečavaju prilaz vodotoku na
+udaljenosti manjoj od 10 metara od linije dopiranja velikih stogodišnjih voda za sve površinske vode, najvišeg
+nivoa obalnog mora, izuzev ako je vlasniku ili korisniku uvjetovana izgradnja objekta prethodnim preduzimanjem
+zaštitnih mjera kojima se onemogućuju ili smanjuju štetne posljedice od voda;
+17. vršiti radnje koje mogu oštetiti korito i obale vodotoka, jezera, odnosno korito kanala, korito i obale
+akumulacije ili retenzije ili tunela ili smetati slobodnom oticanju vode;
+18. izvoditi radove u blizini vodotoka, jezera, kanala, tunela, akumulacije i retenzije, koji bi mogli ugroziti stabilnost
+zaštitnih vodnih objekata ili njihovu upotrebu (kopanje šljunka, pijeska, kamena i sl.).
+(2) Zabranjeno je, bez pisane saglasnosti nadležnog organa za vode:
+1. u inundacionom području saditi drveće i grmlje, sjeći drveće i krčiti rastinje;
+2. u inundacionom području sjeći zaštitne šume ili drugo drveće i vršiti druge radove koji mogu dovesti do
+erozivnih procesa;
+3. pristajati plovnom objektu uz obale vodotoka, jezera ili uz morsku obalu radi utovara ili istovara tereta i na obali
+vodotoka, jezera ili na morskoj obali deponovati ili istovarati materijale, odnosno materije namijenjene utovaru u
+plovni objekat;
+4. vršiti promet vozilima po odbrambenim nasipima.
+
+Član 97
+Zabrane na erozivnom području
+(1) Na erozivnom području zabranjeno je:
+1. izvoditi građevinske i druge zahvate u prostoru na način koji pospješuje eroziju i nastanak bujica;
+2. ogolijevanje površina;
+3. krčenje šumskih površina koje sprečavaju klizanje zemljišta i snježne naslage, izravnavaju protoke ili na drugi
+način štite nizvodna područja od štetnih uticaja erozije;
+4. zatrpavanje izvora;
+5. sakupljanje ili odvođenje sabranih voda preko erozivnih ili kliznih zemljišta bez nadzora;
+6. ograničavanje protoka vodenih bujica, jačanje erozivne snage vode i slabljenje uravnoteženih odnosa;
+7. izvlačenje, odlaganje ili skladištenje drva i drugih materijala;
+8. zatrpavanje otkopanim ili otpadnim materijalom;
+9. skupljanje naplavina sa dna i korita osim za osiguranje protočne moći korita bujica.
+
+(2) Uvjeti za zahvat u prostoru na ugroženom području detaljno se određuju vodnim aktima, u skladu sa
+odredbom iz člana 109. stav 2. tačka 3. ovog Zakona.
+
+VIII. INFORMACIONI SISTEM VODA
+Član 98
+Ciljevi uspostave Informacionog sistema voda
+(1) Opći ciljevi uspostave Informacionog sistema voda (u daljnjem tekstu: ISV) su:
+1. racionalizacija, integracija i optimizacija odlučivanja u sektoru voda kroz proces korištenja informacione i
+komunikacione tehnologije,
+2. razmjena i objedinjavanje informacija interno - unutar sektora voda i eksterno - sa vanjskim i međunarodnim
+institucijama.
+(2) Posebni ciljevi uspostave ISV su:
+1. unapređenje tačnosti i pouzdanosti informacija iz sistema upravljanja vodama;
+2. skraćivanje vremena dostupnosti informacija sistemu upravljanja vodama;
+3. uspostavljanje osnove za kontinuirano praćenje promjena sistema upravljanja vodama;
+4. racionalno korištenje i zaštita vodnih resursa;
+5. povećanje kvaliteta u donošenju razvojnih odluka;
+6. povećanje intelektualnog kapitala;
+7. promocija pozitivne slike o upravljanju vodama zasnovane na profesionalnom i odgovornom radu.
+
+Član 99
+Sadržaj ISV
+(1) ISV, prema odredbama ovog Zakona, sadrži dvije osnovne grupe podataka i to:
+1. podatke u nadležnosti institucija u sektoru voda,
+2. podatke u nadležnosti vanjskih institucija (civilna zaštita, vatrogasci, policija i dr.) koji su od značaja za
+upravljanje vodama.
+(2) Osnovnu grupu podataka iz stava 1. tačka 1. ovog člana čine:
+1. vodni katastar,
+2. vodna knjiga,
+3. evidencija izdatih koncesija na vodama i vodnom dobru,
+4. evidencija o inspekcijskim pregledima,
+5. podaci o intelektualnom kapitalu,
+6. ostala dokumentacija.
+(3) Osnovnu grupu podataka iz stava 1. tačka 2. ovog člana čine:
+1. geografski podaci i resursi,
+2. demografski, sociološki i ekonomski podaci.
+
+Član 100
+Vodni katastar
+(1) Vodni katastar čine katastri:
+1. voda,
+2. vodnog dobra i vodnih objekata,
+3. uređenja i zaštite od štetnog djelovanja voda,
+4. korištenja voda,
+5. zaštite voda,
+6. ostale vodne dokumentacije.
+(2) Katastar voda sadrži podatke o površinskim, podzemnim i prijelaznim vodama i obalnim morskim vodama.
+(3) Vodni katastri sadrže vremenski nepromjenljive i vremenski promjenljive podatke.
+
+Član 101
+Vodna knjiga
+(1) U vodnoj knjizi evidentiraju se svi podaci o izdatim vodnim aktima i nalozima.
+(2) Vodna knjiga sastoji se od upisnika, zbirke isprava i tehničke dokumentacije.
+(3) Vodnu knjigu vodi organ iz člana 139. ovog Zakona nadležan za izdavanje vodnih akata.
+
+(4) Kantonalni, gradski, odnosno općinski organ nadležan za vode dužan je dostaviti kopiju izdatog vodnog akta
+mjesno nadležnoj agenciji za vode.
+
+Član 102
+Evidencija koncesija na vodama i vodnom dobru
+(1) Evidencija izdatih koncesija na vodama i vodnom dobru sadrži podatke o odlukama i ugovorima o
+koncesijama na vodama i vodnom dobru.
+(2) Organ koji dodjeli koncesiju iz stava 1. ovog člana dužan je dostaviti kopiju dokumentacije o dodijeli koncesije
+mjesno nadležnoj agenciji za vode.
+
+Član 103
+Evidencija inspekcijskih pregleda
+Vodna inspekcija dužna je dostaviti kopiju predmeta o inspekcijskom pregledu mjesno nadležnoj agenciji za
+vodno područje.
+
+Član 104
+Organizacija i upravljanje ISV
+(1) U cilju optimalnog prikupljanja, korištenja i povezivanja osnovnih grupa podataka koji čine osnovu za
+upravljanje vodama na nivou riječnog bazena, ISV se uspostavlja na nivou vodnih područja i to za:
+1. Vodno područje Save,
+2. Vodno područje Jadranskog mora.
+(2) Mjesno nadležna agencija za vodno područje organizira, uspostavlja i upravlja ISV.
+(3) Federalni ministar donosi propis o uspostavi i upravljanju ISV.
+
+Član 105
+Obaveza ustupanja podataka za ISV
+Federalni, kantonalni, gradski i općinski organ i druge institucije nadležne za vode, kao i organi, institucije i druga
+fizička i pravna lica koji posjeduju podatke od značaja za upravljanje vodama obavezni su ustupiti te podatke
+mjesno nadležnoj agenciji za vodno područje bez naknade.
+
+Član 106
+Pristup informacijama ISV
+(1) Agencija za vodno područje na zahtjev federalnog, kantonalnog, gradskog i općinskog organa uprave
+nadležnog za vode i agencije za vodno područje sa istog vodnog područje Republike Srpske i nadležnog organa
+za vode Distrikta Brčko daje traženu informaciju iz ISV bez naknade.
+(2) Agencija za vodno područje na zahtjev pravnog ili fizičkog lica izdaje traženu informaciju iz ISV uz naknadu, u
+skladu sa Zakonom o slobodi pristupa informacijama u Federaciji Bosne i Hercegovine ("Službene novine
+Federacije BiH", broj 32/01).
+
+IX. VODNI AKTI
+Član 107
+Vrste vodnih akata
+(1) Radi osiguranja upravljanja vodama i osiguranja pravičnog pristupa vodi svim pravnim i fizičkim licima ovim
+Zakonom propisuje se način ostvarivanja prava na vodu izdavanjem vodnih akata. Vodni akti, u smislu ovog
+Zakona, su:
+1. prethodna vodna saglasnost,
+2. vodna saglasnost i
+3. vodna dozvola.
+(2) Vodni akti su upravni akti i izdaju se u formi rješenja, ako ovim Zakonom nije drugačije propisano.
+(3) Postupak izdavanja vodnih akata provodi se prema pravilima utvrđenim ovim Zakonom, uz supsidijarnu
+primjenu Zakona o upravnom postupku ("Službene novine Federacije BiH", broj 2/98 i 48/99).
+(4) Federalni ministar donosi propis o sadržaju, obliku, uvjetima, načinu izdavanja, čuvanja i drugim pitanjima od
+značaja za vodne akte iz stava 1. ovog člana.
+
+Član 108
+Sadržaj vodnog akta
+
+Vodni akt sadrži naročito:
+1. ime, odnosno naziv fizičkog odnosno pravnog lica i podatke za kontakt sa podnosiocem zahtjeva i nosiocem
+prava iz akta, kao i kratku oznaku predmeta postupka;
+2. opis mjesta, vrstu, obim i namjene prava iz akta;
+3. vremensko važenje akta;
+4. rok za početak aktivnosti iz akta koji se izdaje, koji može biti najviše tri godine;
+5. rok za završetak aktivnosti iz akta koji se izdaje, koji može biti najviše pet godina;
+6. uvjete za sprečavanje ili ublažavanje negativnih uticaja;
+7. iznos troškova postupka;
+8. pouku o pravnom lijeku.
+
+Član 109
+Aktivnosti za koje su uvijek potrebni vodni akti
+(1) Prethodna vodna saglasnost, vodna saglasnost i vodna dozvola moraju se pribaviti, bez obzira na njihove
+uticaje za sljedeće aktivnosti:
+1. zahvatanje vode u svim privrednim granama i djelatnostima, a naročito za:
+- industriju i energetiku,
+- poljoprivredu,
+- vodosnabdijevanje,
+- uslužne djelatnosti koje u tehnološkom postupku koriste vodu,
+- turističke djelatnosti;
+2. ispuštanje otpadnih voda u površinske vode;
+3. indirektno ispuštanje otpadnih voda u podzemne vode;
+4. vještačko prihranjivanje podzemnih voda;
+5. vađenje materijala iz vodotoka;
+6. izgradnju objekata za iskorištavanje hidroenergije;
+7. trajno podizanje nivoa vode i kao rezultat toga plavljenje normalno suhog zemljišta;
+8. izgradnju objekata za zaštitu od poplava;
+9. izgradnju saobraćajnica (cestovne i željezničke) uključujući i šumske puteve;
+10. izgradnju mostova ili drugih objekata iznad ili u vodotoku;
+11. izgradnju ili uređenje deponija otpada;
+12. pokretanje postupka izdavanja koncesija na vodama i vodnom dobru;
+13. za promet opasnih materija kao i proizvoda od tih materija koji nakon upotrebe dospjevaju u vode;
+14. uređenje vodotoka.
+(2) Pored aktivnosti iz stava 1. ovog člana prethodna vodna saglasnost, vodna saglasnost i vodna dozvola izdaju
+se i za aktivnosti koje mogu:
+1. privremeno ili trajno degradirati kvalitet voda, ili ometati poboljšanje njihovog postojećeg kvaliteta;
+2. štetno uticati na akvatične i poluakvatične ekosisteme;
+3. povećati rizik od poplave ili erozije;
+4. značajno smanjiti kvantitet voda, promijeniti morfologiju vodotoka, ometati korištenje površinskih voda za
+rekreaciju i dr.
+(3) Aktivnosti iz stava 2. ovog člana detaljnije se definiraju propisom iz člana 107. stav 4. ovog Zakona.
+
+Član 110
+Objekti i aktivnosti za koje nisu potrebni vodni akti
+(1) Vodni akti nisu potrebni za korištenje vode koja ne prelazi obim opće upotrebe vode iz člana 46. ovog Zakona.
+(2) Vodni akti nisu potrebni za gašenje požara i preduzimanje hitnih sanitarnih i drugih mjera u slučaju opće
+opasnosti.
+(3) Vodni akti nisu potrebni za objekte i aktivnosti koji ne podliježu obavezi pribavljanja okolinske dozvole, u
+smislu odredaba Zakona o zaštiti okoliša ("Službene novine Federacije BiH", broj 33/03), a koji vodu za obavljanje
+privredne ili obrtničke djelatnosti osiguravaju priključkom na javni vodovodni sistem i ispuštanje otpadnih voda
+vrše u javni kanalizacioni sistem, prema odobrenju operatora tih sistema.
+(4) Vodne akte nije potrebno pribaviti ni za građenje novih i rekonstrukciju postojećih stambenih objekata koji se
+snabdijevaju vodom priključkom na javni vodovodni sistem, a ispuštanje otpadnih voda vrše u javni kanalizacioni
+sistem.
+
+(5) Odredbe st. 3. i 4. ovog člana ne odnose se na objekte koji svojim gabaritom i načinom fundiranja utiču na
+režim podzemnih voda.
+(6) Operator vodovodnog, odnosno kanalizacionog sistema ne može izdati odobrenje za priključak na vodovodni
+sistem, odnosno na kanalizacioni sistem fizičkim i pravnim licima iz st. 3. i 4. ovog člana, ako sam za taj sistem ne
+posjeduje vodnu dozvolu.
+(7) Sadržaj odobrenja iz stava 3. ovog člana utvrđuje se propisom iz člana 107. stav 4. ovog Zakona.
+
+Član 111
+Prethodna vodna saglasnost
+(1) Prethodnom vodnom saglasnošću odlučuje se o postojanju uvjeta za ostvarivanje prava na vodu podnosioca
+zahtjeva, kao i način ostvarivanja tog prava, te uvjeti kojima mora udovoljiti dokumentacija za građenje novih,
+rekonstrukciju ili uklanjanje postojećih objekata i druge aktivnosti koje se ne smatraju građenjem, a mogu trajno,
+povremeno ili privremeno uticati na promjenu režima voda.
+(2) Prethodna vodna saglasnost iz stava 1. ovog člana pribavlja se u postupku izdavanja okolinske dozvole
+urbanističke saglasnosti za objekte i aktivnosti za koje nije potrebna okolinska dozvola i u postupku izdavanja
+koncesije na vodama i vodnom dobru.
+(3) Za objekte ili radove za koje je pribavljena prethodna vodna saglasnost iz stava 1. ovog člana, a za koje nije
+podnesen zahtjev za izdavanje vodne saglasnosti, prethodna vodna saglasnost prestaje važiti istekom roka od tri
+godine.
+
+Član 112
+Prethodna vodna saglasnost i okolinska dozvola
+(1) Okolinska dozvola za pogone i postrojenja za koje je neophodno pribaviti okolinsku dozvolu, u skladu sa
+Zakonom o zaštiti okoliša, izdaje se na osnovu prethodne vodne saglasnosti za objekte za koje je ovim Zakonom
+propisana obaveza pribavljanja prethodne vodne saglasnosti.
+(2) Zahtjev za izdavanje prethodne vodne saglasnosti iz stava 1. ovog člana podnosi organ nadležan za izdavanje
+okolinske dozvole.
+(3) Za pogone, postrojenja i aktivnosti koji prije dobivanja okolinske dozvole moraju proći proceduru procjene
+uticaja na okoliš, organ nadležan za izdavanje vodnih akata učestvuje u postupku procjene uticaja na okoliš, na
+zahtjev organa koji vodi postupak procjene uticaja na okoliš.
+(4) Za pogone, postrojenja ili aktivnosti koji moraju proći proceduru procjene uticaja na okoliš, uz zahtjev iz člana
+120. stav 1. ovog Zakona podnosi se i studija o uticaju na okoliš, u skladu sa odredbama Zakona o zaštiti okoliša.
+
+Član 113
+Prethodna vodna saglasnost i koncesije
+(1) Organ nadležan za izdavanje koncesije za korištenje vode i vodnog dobra obavezan je, prije pokretanja
+postupka za dodjelu koncesije, pribaviti prethodnu vodnu saglasnost od nadležnog organa u skladu sa
+odredbama ovog Zakona.
+(2) Prethodna vodna saglasnost iz stava 1. ovog člana se, nakon provođenja postupka dodjele koncesije, prenosi
+na pravno lice koje je dobilo koncesiju.
+(3) Pravno lice iz stava 2. ovog člana dužno je pribaviti ostale vodne akte, u skladu sa odredbama ovog Zakona.
+
+Član 114
+Vodna saglasnost
+(1) Vodnom saglasnošću utvrđuje se da je dokumentacija priložena uz zahtjev za izdavanje vodne saglasnosti u
+skladu sa prethodnom vodnom saglasnošću, propisima o vodama i planskim dokumentima.
+(2) Odobrenje za građenje novih ili rekonstrukciju postojećih objekata, u smislu propisa o prostornom uređenju,
+izdaje se po izdatoj vodnoj saglasnosti za objekte za koje je ovim Zakonom propisana obaveza pribavljanja vodne
+saglasnosti.
+(3) Vodna saglasnost izdaje se u skladu sa odredbama člana 120. ovog Zakona, uz ovjeru dokumentacije za
+građenje čime se potvrđuje da je ta dokumentacija urađena u skladu sa prethodnom vodnom saglasnošću. Ovjera
+se vrši upisivanjem broja i stavljanjem otiska pečata organa nadležnog za izdavanje vodnog akta na tu
+dokumentaciju.
+(4) Vodna saglasnost neće se izdati ako dokumentacija za građenje ili druge aktivnosti nisu urađene u skladu sa
+prethodnom vodnom saglasnošću.
+(5) Za izuzetne slučajeve, za koje nije potrebna vodna dozvola, prema odredbama člana 115. stav 1. ovog
+Zakona, sastavni dio vodne saglasnosti su uvjeti za uređenje lokaliteta i predmetne dionice vodotoka.
+(6) Vodna saglasnost prestaje da važi istekom roka od dvije godine od dana njenog izdavanja ukoliko do tog dana
+nije pribavljeno odobrenje za građenje i započeti radovi.
+
+Član 115
+Vodna dozvola
+(1) Vodna dozvola potrebna je za sve objekte i aktivnosti za koje je ovim Zakonom propisano izdavanje vodne
+saglasnosti, izuzev za vađenje materijala iz vodotoka iz člana 63. i uređenje vodotoka iz člana 80. ovog Zakona.
+(2) Ako se zbog promjene u tehnologiji ili iz drugih razloga naknadno izmijeni obim i uvjeti korištenja vode,
+odnosno ispuštanje otpadnih voda u površinske vode, potrebna je nova vodna dozvola.
+
+Član 116
+(1) Vodnom dozvolom utvrđuje se namjena, način i uvjeti iskorištavanja vode, režim rada objekata i postrojenja,
+način i uvjeti ispuštanja otpadnih voda, način i uvjeti odlaganja krutog i tečnog otpada i drugi uvjeti.
+(2) Vodnom dozvolom utvrđuje se da su ispunjeni uvjeti određeni vodnom saglasnošću i da je uz zahtjev za
+izdavanje vodne dozvole priložen opći akt iz člana 20. stav 6. ovog Zakona, koji se donosi prije izdavanja vodne
+dozvole.
+
+Član 117
+(1) Vodna dozvola izdaje se na određeno vrijeme, a najduže do 15 godina.
+(2) Pravo na korištenje ili upotrebu vode ili ispuštanje otpadnih voda stečeno na osnovu vodne dozvole ne može
+se prenositi na drugo pravno i fizičko lice.
+(3) Izdavanje vodne dozvole prethodi izdavanju upotrebne dozvole u smislu propisa o građenju.
+
+Član 118
+(1) Vodna dozvola prestaje važiti:
+1. istekom roka važnosti vodne dozvole,
+2. odricanjem korisnika od prava iz vodne dozvole,
+3. nekorištenjem prava iz vodne dozvole bez opravdanih razloga duže od dvije godine.
+(2) Rješenje o utvrđivanju prestanka prava, u smislu odredbe iz stava 1. ovog člana, donosi organ koji je izdao
+vodnu dozvolu.
+(3) U slučaju iz stava 1. tačka 1. ovog člana vodna dozvola može se produžiti na zahtjev korisnika.
+
+Član 119
+Obaveze budućeg imaoca prava na korištenje voda
+(1) Vodnim aktom može se odrediti da budući imalac prava na korištenje voda mora kod planiranja, izgradnje i
+rada objekta omogućiti i korištenje tog objekta za zaštitu od štetnog djelovanja voda.
+(2) Vodnim aktom može se odrediti da budući imalac prava na korištenje voda mora omogućiti korištenje vodnog
+objekta za opću upotrebu vode ili za snabdijevanje vodom za piće, ako to bitno ne pogoršava uvjete ostvarivanja
+njegovog prava.
+
+Član 120
+Zahtjev za izdavanje vodnog akta
+(1) Vodni akt izdaje se na pisani zahtjev investitora, odnosno korisnika, organa nadležnog za izdavanje
+urbanističke saglasnosti prema propisima o prostornom uređenju, organa nadležnog za izdavanje okolinske
+dozvole ili organa nadležnog za pokretanje postupka za dodjelu koncesija na vodama i vodnom dobru prema
+propisima o koncesijama.
+(2) Uz zahtjev za izdavanje vodnog akta dostavljaju se potrebni podaci o lokalitetu, vrsti i obimu aktivnosti koja se
+namjerava provesti i tehnička dokumentacija kojom se obrađuje konkretna aktivnost. Vrsta i sadržaj podataka i
+dokumentacije određuje se propisom iz člana 107. stav 4. ovog Zakona.
+(3) Vodne akte izdaje nadležni organ iz člana 139. ovog Zakona.
+(4) Vodni akti kojima se regulira korištenje prekograničnih voda ili ispuštanje otpadnih u prekogranične vode
+izdaju se u skladu sa procedurama utvrđenim međunarodnim ugovorima ili konvencijama.
+(5) Dokumentaciju koja se podnosi uz zahtjev za izdavanje vodnog akta izrađuje pravno lice koje je registrirano za
+tu djelatnost.
+(6) Federalni ministar donosi propis kojim se propisuju uvjeti i kriteriji koje mora ispunjavati pravno lice iz stava 5.
+ovog člana.
+
+Član 121
+Dodatni zahtjevi prema podnosiocu zahtjeva
+
+(1) Zavisno od prirode aktivnosti i njenih očekivanih uticaja organ nadležan za izdavanje vodnih akata može
+zahtijevati dodatne podatke i dopunu dokumentacije.
+(2) Dodatne podatke ili dopunu dokumentacije organ iz stava 1. ovog člana dužan je zatražiti u pisanom obliku sa
+navođenjem dokumentacije i podataka koji se traže, uz upozorenje podnosiocu zahtjeva o posljedicama koje će
+nastupiti ako zahtjev ne bude ispunjen. Tražena dokumentacija i podaci dostavljaju se u roku koji odredi organ
+koji vodi postupak.
+(3) Ako investitor, korisnik ili nadležni organ iz člana 120. stav 1. ovog Zakona ne dostavi dokumentaciju u roku
+koji mu odredi organ koji vodi postupak, zahtjev za izdavanje vodnog akta odbacit će se zaključkom protiv kojeg
+je dopuštena posebna žalba.
+
+Član 122
+Stručno mišljenje agencije za vode
+(1) Kantonalni, gradski ili općinski organ uprave nadležan za izdavanje vodnih akata u postupku izdavanja vodnog
+akata iz svoje nadležnosti može zatražiti stručno mišljenje nadležne agencije za vodno područje.
+(2) Propisom iz člana 107. stav 4. ovog Zakona uređuje se postupak izdavanja stručnog mišljenja iz stava 1. ovog
+člana.
+
+Član 123
+Saradnja organa u postupku izdavanja vodnih akata
+(1) Ako se u postupku izdavanja vodnog akta, a posebno prethodne vodne saglasnosti utvrdi postojanje razloga
+koji ukazuju da objekat, instalacija ili aktivnosti koje se planiraju ili nalaze na teritoriji Federacije mogu imati
+negativne uticaje na vode na teritoriji Republike Srpske, nadležni organ Federacije dostavlja podatke i
+dokumentaciju iz zahtjeva nadležnom organu Republike Srpske i traži izdavanje prethodne saglasnosti.
+(2) Ako se razlozi iz stava 1. ovog člana odnose na negativne uticaje na vode druge države, nadležni organ iz
+člana 139. ovog Zakona dužan je putem institucije Bosne i Hercegovine nadležne za vode proslijediti podatke iz
+dokumentacije nadležnom organu odnosne države u cilju njegovog izjašnjavanja.
+(3) U provođenju aktivnosti iz stava 2. ovog člana nadležna institucija postupa u skladu sa konvencijama i
+međunarodnim sporazumima koji su ratifikovani, odnosno potpisani od Bosne i Hercegovine.
+
+Član 124
+Obavještavanje zainteresiranih strana i javnosti
+(1) Radi osiguranja učešća javnosti u radu i rješavanja mogućeg sukoba interesa, nadležni organ iz člana 139.
+ovog Zakona prije izdavanja prethodne vodne saglasnosti obavezno o zahtjevu obavještava zainteresirane strane
+i javnost na području riječnog sliva, putem obavještenja na oglasnoj ploči organa nadležnog za izdavanje vodnih
+akata, oglašavanjem u lokalnom sredstvu javnog informiranja, a u slučaju međuentitetskog uticaja u najmanje dva
+sredstva javnog informiranja koja su dostupna javnosti i na teritoriji Republike Srpske.
+(2) Javni oglas iz stava 1. ovog člana sadrži informacije propisane podzakonskim aktom iz člana 107. stav 4. ovog
+Zakona.
+(3) Nadležni organ iz člana 139. ovog Zakona dužan je zainteresiranim stranama i javnosti odrediti rok za pisano
+izjašnjenje o predloženim aktivnostima iz zahtjeva koji ne može biti duži od 30 dana od dana javnog
+obavještavanja, odnosno od dana dostavljanja obavještenja o vođenju postupka.
+(4) Nadležni organ iz člana 139. ovog Zakona može, prema slobodnoj ocjeni, organizirati javnu raspravu o pitanju
+iz stava 1. ovog člana.
+(5) Na poziv nadležnog organa koji izdaje okolinsku dozvolu za učešće na javnoj raspravi organ koji je izdao
+prethodnu vodnu saglasnost učestvuje u javnoj raspravi.
+
+Član 125
+Izjašnjenje podnosioca zahtjeva
+(1) Podnosilac zahtjeva ima pravo pisano se izjasniti o mišljenju nadležnog organa i i o primjedbama i mišljenjima
+dostavljenim u postupku izjašnjenja javnosti, zainteresiranih strana i javne rasprave.
+(2) Izjašnjenje iz stava 1. ovog člana podnosilac zahtjeva dostavlja u roku koji određuje organ koji vodi postupak.
+Propuštanje izjašnjenja u datom roku ne odlaže vođenje postupka.
+
+Član 126
+Dostavljanje odluke i obavještavanje
+(1) Rješenje izdatog vodnog akta mora biti dostupno zainteresiranim stranama i javnosti na njihov zahtjev.
+(2) Izdati vodni akt nadležni organ iz člana 139. ovog Zakona dostavlja podnosiocu zahtjeva.
+(3) Na izdati vodni akt podnosilac zahtjeva i zainteresirana strana imaju pravo žalbe.
+
+(4) Izdati vodni akt nadležni organ iz člana 139. ovog Zakona objavljuje na način utvrđen podzakonskim propisom
+iz člana 107. stav 4. ovog Zakona.
+
+Član 127
+Troškovi postupka
+(1) Troškove postupka izdavanja vodnog akta snosi podnosilac zahtjeva.
+(2) O troškovima postupka iz stava 1. ovog člana nadležni organ iz člana 139. ovog Zakona odlučuje posebnim
+zaključkom.
+
+Član 128
+Dodatni uvjeti u izdatom vodnom aktu
+Nadležni organ iz člana 139. ovog Zakona može u izdatom vodnom aktu propisati i posebne uvjete radi
+sprečavanja ili ublažavanja negativnih uticaja uzrokovanih aktivnošću koja je predmet akta, radi obaveze zaštite
+objekta koji je predmet vodnog akta od štetnog djelovanja voda i sl.
+
+Član 129
+Vremensko važenje vodnog akta
+(1) Vodni akti izdaju se na određeno vrijeme utvrđeno odredbama ovog Zakona. U zavisnosti od tehnološke
+složenosti objekta vodna dozvola može se izdati i na kraći period od vremena utvrđenog u članu 117. stav 1. ovog
+Zakona.
+(2) Ako je vodna dozvola izdata na period duži od pet godina, utvrđeni uvjeti iz dozvole moraju se preispitati
+svakih pet godina. Organ koji je izdao dozvolu po službenoj dužnosti pokreće postupak preispitivanja uvjeta iz
+dozvole, uz zahtjev korisniku da u određenom roku dostavi neophodnu dokumentaciju.
+(3) Ukoliko korisnik ne postupi po zahtjevu organa, nadležni organ iz člana 139. ovog Zakona ukida izdatu vodnu
+dozvolu.
+
+Član 130
+Izmjene vodnih akata
+(1) Nadležni organ iz člana 139. ovog Zakona može izmijeniti ranije izdati vodni akt ako:
+1. izmjena je potrebna radi osiguranja snabdijevanja vodom za piće iz člana 47. stav 2. ovog Zakona,
+2. uticaji aktivnosti koja je predmet vodnog akta bitno su drugačiji od onih koji su procijenjeni prilikom izdavanja
+vodnog akta,
+3. zbog uvođenja naprednije tehnologije uticaji aktivnosti mogli bi biti bitno smanjeni bez prevelikih troškova po
+korisnika,
+4. izmjena je potrebna zbog izvršavanja međunarodnih ugovora koje zaključi Bosna i Hercegovina.
+(2) Izmjene iz stava 1. ovog člana nadležni organ ne može izvršiti, ako bi one spriječile ili znatno ometale
+nastavak izvođenja aktivnosti.
+(3) Zahtjev za izmjenu vodnog akta može podnijeti organ inspekcije, nosilac prava iz vodnog akta ili
+zainteresirana strana. Organ koji izdaje vodni akt izmjenu akta pokreće po službenoj dužnosti.
+(4) Zahtjev za izmjenu vodnog akta rješava se po istom postupku kao i zahtjev za njegovo izdavanje.
+
+Član 131
+Privremeno ograničenje i prilagođavanje prava na korištenje voda
+(1) Za osiguranje potrebnih količina i kvaliteta vode i očuvanje prirodne ravnoteže vodnih i od vode zavisnih
+ekosistema u slučaju prirodne pojave koja prouzrokuje privremeni nedostatak vode ili nastupi opasnost od štetnog
+djelovanja voda, može se posebnim rješenjem imaocu prava na korištenje vode privremeno ograničiti ili obustaviti
+ili utvrditi obaveza da tehničkim ili drugim mjerama u određenom periodu prilagodi ostvarivanje prava na
+korištenje vode na određenom području.
+(2) Pored ograničenja iz stava 1. ovog člana može se na određenom području privremeno ograničiti ili privremeno
+obustaviti provođenje prava na korištenje vode, ako dođe do ekološke nesreće, većeg oštećenja na vodnim
+objektima, ili drugih događaja koji prouzrokuju nedostatak vode, ili nastupi opasnost od štetnog djelovanja voda.
+(3) Kod ograničenja ili prekida korištenja vode iz st. 1. i 2. ovog člana prioritet ima osiguranje vode za piće i vode
+za zaštitu od požara.
+(4) Ako imalac prava na korištenje ne poštuje ograničenja iz st. 1. i 2. ovog člana, djelomično ili u cijelosti mu se
+oduzima pravo na korištenje vode.
+(5) Zbog privremenog ograničenja ili privremenog prekida ostvarivanja prava na korištenje vode iz st. 1. i 2. ovog
+člana imalac prava nema pravo na naknadu štete.
+
+(6) Bez obzira na odredbe iz stava 5. ovog člana imalac prava na korištenje vode može zahtijevati naknadu štete
+neposredno od lica koje je prouzrokovalo ekološku nesreću, oštećenje vodnog objekta ili drugog događaja iz
+stava 2. ovog člana.
+(7) Odredbe iz st. 1. i 2. ovog člana ne odnose se na imaoca prava na korištenje vode za snabdijevanje
+stanovništva vodom za piće.
+(8) O oduzimanju prava iz stava 4. ovog člana odlučuje organ koji je izdao vodni akt.
+
+Član 132
+Nalog
+(1) Ako u roku važenja vodnog akta nastupi okolnost iz člana 131. st. 1. i 2. ovog Zakona, organ nadležan za
+izdavanje vodnog akta može, radi usklađivanja postupanja u skladu sa novonastalim uvjetima, izdati nalog.
+(2) Nalogom iz stava 1. ovog člana nalaže se korisniku da u određenom roku izvrši neku radnju, izvrši ulaganja ili
+se uzdrži od nekog činjenja radi uklanjanja opasnosti od prijetećeg ili već nastalog poremećaja režima voda.
+(3) Na oblik i način izdavanja naloga na odgovarajući način primjenjuju se odredbe o rješenju u upravnom
+postupku, ako ovim Zakonom nije drugačije određeno.
+
+Član 133
+Izdavanje naloga
+(1) Nalog izdaje isključivo organ koji je izdao vodni akt.
+(2) Primjerak naloga dostavlja se federalnoj, odnosno kantonalnoj vodnoj inspekciji.
+
+Član 134
+Prigovor na nalog
+(1) Protiv naloga može se u roku od sedam dana od dana prijema rješenja izjaviti prigovor organu koji je izdao
+nalog.
+(2) Prigovor ne odlaže izvršenje izdatog naloga.
+(3) Rok za donošenje rješenja po prigovoru na izdati nalog je 15 dana od dana podnošenja prigovora.
+
+Član 135
+Oduzimanje vodnog akta
+(1) Pravnom licu može se trajno ili privremeno oduzeti vodni akt.
+(2) Rješenje o trajnom ili privremenom oduzimanju vodnog akta donosi organ koji je izdao vodni akt.
+
+Član 136
+Privremeno oduzimanje
+(1) Vodni akt oduzet će se privremeno kada korisnik u roku određenom u nalogu ne obavi radnju, ne izvrši
+ulaganje ili se ne uzdrži od činjenja naloženog u nalogu i ako zbog neizvršenja naloga ne nastupi neposredna
+opasnost po život i zdravlje ljudi ili poremećaj u privredi.
+(2) Vodni akt može se privremeno oduzeti na period do šest mjeseci u kom roku se korisniku obustavlja pravo
+koje je stekao na osnovu vodnog akta i u kom roku je korisnik dužan da izvrši radnju zbog koje mu je privremeno
+oduzet vodni akt.
+
+Član 137
+Trajno oduzimanje
+Vodni akt oduzima se trajno, ako:
+1. u određenom roku korisnik ne obavi radnju, ne izvrši ulaganje ili se ne uzdrži od činjenja naloženog u nalogu
+zbog čega mu je vodni akt privremeno oduzet,
+2. neizvršenjem naloga mogla bi nastupiti ili je nastupila teška i neposredna opasnost za život ili zdravlje ljudi, ili
+ako je došlo do poremećaja u privredi,
+3. podnosilac zahtjeva da netačne podatke koji su nadležni organ doveli u zabludu u pogledu činjenica
+odlučujućih za izdavanje vodnog akta,
+4. uvjeti iz vodnog akta bitno su prekršeni uprkos pisanog upozorenja od organa inspekcije,
+5. aktivnost se ne vrši u periodu od dvije uzastopne godine,
+6. aktivnost uzrokuje uticaje koji su zabranjeni ovim Zakonom, a ti uticaji ne mogu biti spriječeni ili ublaženi
+izmjenama vodnog akta u skladu sa odredbama člana 130. stav 1. ovog Zakona.
+
+Član 138
+
+Postupak oduzimanja vodnog akta
+(1) Zahtjev za oduzimanje vodnog akta podnosi organ inspekcije ili nadležni organ iz člana 139. ovog Zakona po
+službenoj dužnosti.
+(2) Nadležni organ iz stava 1. ovog člana odmah obavještava nosioca prava iz vodog akta o podnesenom
+zahtjevu za oduzimanje vodnog akta. Nosilac prava iz vodnog akta dužan je dati odgovor na obavijest.
+(3) Nosilac prava iz vodnog akta kome je oduzet vodni akt može zatražiti izdavanje novog vodnog akta, ako ispuni
+potrebne uvjete utvrđene propisom iz člana 107. stav 4. ovog Zakona.
+(4) Rješenje o trajnom oduzimanju vodnog akta dostavlja se federalnom, kantonalnom, gradskom i općinskom
+organu nadležnom za prostorno uređenje i zaštitu okoliša.
+
+Član 139
+Podjela nadležnosti izdavanja vodnih akata
+(1) Agencija za vodno područje nadležna je za izdavanje vodnih akata za:
+1. zahvatanje vode u količini većoj od 10 litara u sekundi;
+2. ispuštanje otpadnih voda za naselja koja imaju više od 2.000 stanovnika;
+3. ispuštanje tehnoloških otpadnih voda u površinske vode;
+4. indirektno ispuštanje otpadnih voda u podzemne vode;
+5. vještačko prihranjivanje podzemnih voda;
+6. vađenje materijala iz površinskih voda I. kategorije;
+7. izgradnju hidroelektrane za proizvodnju električne energije kada je:
+- postrojenje locirano na površinskim vodama I. kategorije,
+- postrojenje locirano na površinskim vodama II. kategorije i snage veće od 5 MW,
+- dva ili više postrojenja locirano je na površinskim vodama II. kategorije, snage veće od po 2MW, a nalaze se na
+međusobnoj udaljenosti manjoj od 2 kilometra;
+8. formiranje akumulacije koja je:
+- locirana na površinskim vodama I. kategorije,
+- locirana na području dvaju ili više kantona;
+9. izgradnju objekata za zaštitu od poplava na površinskim vodama I. kategorije, kao i izgradnju objekata za
+zaštitu od poplava na površinskim vodama II. kategorije koji mogu uticati na:
+- površinske vode I. kategorije,
+- vodno dobro koje se nalazi uz površinske vode I. kategorije;
+10. aktivnosti iz člana 109. stav 2. tač. od 1. do 4. ovog Zakona.
+(2) Kantonalno ministarstvo nadležno za vode nadležno je za izdavanje vodnih akata za:
+1. zahvatanje vode u količini do 10 litara u sekundi;
+2. ispuštanje otpadnih voda za naselja koja imaju do 2.000 stanovnika;
+3. vađenje materijala iz površinskih voda II. kategorije;
+4. izgradnju hidroelektrane za proizvodnju električne energije kada je postrojenje locirano na površinskim vodama
+II. kategorije, snage do 5MW;
+5. formiranje akumulacije koja je locirana na površinskim vodama II. kategorije i nalazi se na području kantona;
+6. izgradnju objekata za zaštitu od poplava na površinskim vodama II. kategorije, ako te aktivnosti ne utiču na
+površinske vode I kategorije.
+(3) Kantonalnim propisom utvrđuje se prijenos dijela kantonalnih nadležnosti za izdavanje vodnih akata za grad i
+općinu.
+
+X. OGRANIČENJA PRAVA VLASNIKA I KORISNIKA ZEMLJIŠTA
+Član 140
+Služnosti
+Za ustanovljavanje prava služnosti radi provođenja ovog Zakona primjenjuju se odredbe Zakona o vlasničkopravnim odnosima ("Službene novine Federacije BiH", broj 6/98 i 29/03), te odredbe o služnostima iz propisa o
+građenju i eksproprijaciji.
+
+Član 141
+Pravo prijelaza preko zemljišta
+Vlasnik, odnosno korisnik zemljišta dužan je dopustiti prijelaz preko zemljišta licima koja su ovlaštena istraživati,
+premjeravati, snimati ili obilježavati vodno dobro ili vode, kao i licima koja izvode radove na izgradnji,
+rekonstrukciji ili održavanju vodnih objekata ili postrojenja iz člana 14. ovog Zakona.
+
+Član 142
+Rješenje o privremenom zauzimanju zemljišta
+(1) Ako vlasnik, odnosno korisnik zemljišta ne postupi u skladu sa odredbom iz člana 141. ovog Zakona, rješenje
+o privremenom korištenju zemljišta donosi općinski organ uprave nadležan za imovinsko-pravne poslove
+najkasnije u roku od osam dana od dana podnošenja zahtjeva.
+(2) Žalba protiv rješenja iz stava 1. ovog člana ne odlaže izvršenje rješenja.
+
+Član 143
+Privremeno korištenje zemljišta radi zaštite od voda
+(1) Vlasnik, odnosno korisnik zemljišta na ugroženom području iz člana 86. stav 1. ovog Zakona dužan je dozvoliti
+privremeno korištenje tog zemljišta za provođenje mjera i aktivnosti zaštite iz čl. 85. i 92. ovog Zakona.
+(2) Izvođač radova dužan je kod provođenja mjera i aktivnosti iz stava 1. ovog člana u što manjoj mjeri uticati na
+stanje zemljišta, a po prestanku opasnosti od štetnog djelovanja voda nastalu štetu otkloniti.
+
+Član 144
+(1) Ako vlasnik, odnosno korisnik zemljišta iz člana 143. stav 1. ovog Zakona ne dozvoli privremeno korištenje tog
+zemljišta, rješenjem općinskog organa uprave nadležnog za imovinsko-pravne poslove naložit će mu se da
+postupi u skladu sa odredbama člana 143. stav 1. ovog Zakona.
+(2) Žalba protiv rješenja iz stava 1. ovog člana ne odlaže izvršenje rješenja.
+
+Član 145
+Korištenje materijala za odbranu od poplava
+(1) Izvođač radova kod provođenja mjera i aktivnosti odbrane od poplava ima pravo koristiti šljunak, pijesak,
+zemlju ili drugi materijal sa zemljišta vlasnika, odnosno korisnika zemljišta na kojem se provode mjere i aktivnosti
+iz člana 92. ovog Zakona.
+(2) Izvođač radova dužan je kod korištenja zemljišta iz stava 1. ovog člana u što manjoj mjeri uticati na stanje
+zemljišta, a po prestanku opasnosti od poplava nastalu štetu otkloniti.
+
+Član 146
+(1) Vlasnik, odnosno korisnik zemljišta iz člana 143. stav 1. ovog Zakona dužan je dozvoliti korištenje šljunka,
+pijeska, zemlje ili drugog materijala sa tog zemljišta za provođenje mjera i aktivnosti iz člana 92. ovog Zakona.
+(2) Ako vlasnik, odnosno korisnik ne dozvoli korištenje zemljišta u skladu sa odredbom stava 1. ovog člana,
+općinski organ uprave nadležan za imovinsko-pravne poslove donosi rješenje o korištenju tog zemljišta.
+(3) Žalba protiv rješenja iz stava 2. ovog člana ne odlaže izvršenje rješenja.
+
+Član 147
+Ograničenja prava vlasništva i odšteta
+(1) Vlasnik, odnosno korisnik zemljišta ima pravo na naknadu štete koja nastane zbog privremenog korišenja
+zemljišta iz člana 141. ovog Zakona, odnosno naknadu u slučaju nemogućnosti potpunog otklanjanja štete
+nastale provođenjem mjera i aktivnosti iz člana 143. stav 1. i člana 145. stav 1. ovog Zakona.
+(2) Vlasnik odnosno korisnik zemljišta koje je predmet ograničenja iz čl. 141., 143. i 146. ovog Zakona naknadu iz
+stava 1. ovog člana sporazumno utvrđuje sa agencijom za vodno područje, ministarstvom kantona nadležnim za
+vode, odnosno organom uprave grada ili općine nadležnim za vode. Ako se sporazum ne postigne, o visini
+naknade odlučuje nadležni sud.
+
+Član 148
+(1) Ako u provođenju zaštitnih mjera iz člana 68. ovog Zakona nastupi šteta vlasniku, odnosno korisniku objekta i
+druge nekretnine, investitor, odnosno vlasnik ili korisnik sistema za snabdijevanje vodom dužan je utvrditi način
+obeštećenja po općim propisima za naknadu štete kao i izvore sredstava za obeštećenje.
+(2) Ako investitor, odnosno vlasnik ili korisnik sistema za snabdijevanje vodom ne postigne sporazum o naknadi iz
+stava 1. ovog člana, naknada se vrši u skladu sa propisima o eksproprijaciji.
+
+Član 149
+Vlasnik, odnosno korisnik zemljišta koje se nalazi na ugroženom području iz člana 86. ovog Zakona nema pravo
+na naknadu štete za ograničenja ili zabrane iz čl. od 95. do 97. ovog Zakona.
+
+Član 150
+
+Odvodnja oborinskih i drenažnih voda
+(1) Ukoliko se ne uzrokuje značajnija šteta ili smetnja fizičkom ili pravnom licu i ukoliko odvodnja vode ne može
+razumno biti izvršena na drugi način, vlasnik ili posjednik zemljišta za koje postoji potreba odvodnje oborinskih ili
+drenažnih voda može:
+1. sagraditi kanal ili bilo koji drugi objekat na zemljištu koje je u vlasništvu fizičkog ili pravnog lica, uz njegovu
+saglasnost,
+2. odvoditi oborinske ili drenažne vode u kanal ili drugi odgovarajući objekat koji je u vlasništvu fizičkog ili pravnog
+lica, uz njegovu saglasnost.
+(2) Fizičko ili pravno lice koje preduzima aktivnosti iz stava 1. tačka 1. ovog člana obavezno je održavati objekat u
+stanju koje ne uzrokuje nastanak štete na zemljištu drugog fizičkog ili pravnog lica. Fizičko ili pravno lice koje
+preduzima aktivnosti iz stava 1. tačka 2. ovog člana snosi troškove za potrebne izmjene u navedenim objektima,
+kao i njegov pripadajući dio budućih troškova održavanja objekata.
+(3) U slučaju da strane iz st. 1. i 2. ovog člana ne postignu dogovor o spornom pitanju odlučuje nadležni organ
+uprave, odnosno sud.
+
+Član 151
+Prijelaz i korištenje zemljišta za vršenje monitoringa voda
+(1) Vlasnik, odnosno korisnik zemljišta dužan je dozvoliti prelazak preko zemljišta i korištenje zemljišta organu
+nadležnom za vode, agenciji za vodno područje, operatoru ili drugim licima angažiranim za vršenje monitoringa
+voda.
+(2) U slučaju da je vršenje monitoringa iz stava 1. ovog člana onemogućeno o spornom pitanju odlučuje općinski
+organ uprave nadležan za imovinsko-pravne poslove.
+(3) Vlasnik, odnosno korisnik zemljišta iz stava 1. ovog člana ima pravo na naknadu štete. Visina naknade
+sporazumno se utvrđuje. Ako se sporazum ne postigne, o visini naknade odlučuje nadležni sud.
+
+XI. ORGANIZACIJA UPRAVLJANJA VODAMA
+1. Agencije za vode
+
+Član 152
+Osnivanje agencija za vode
+(1) Ovim Zakonom osnivaju se agencije za vodna područja (u daljnjem tekstu: agencije za vode) radi provođenja
+zadataka upravljanja vodama koji se ovim Zakonom i propisima donesenim na osnovu ovog Zakona stavljaju u
+njihovu nadležnost.
+(2) Agencije za vode iz stava 1. ovog člana su:
+1. "Agencija za vodno područje rijeke Save" i
+2. "Agencija za vodno područje Jadranskog mora" .
+(3) Skraćeni nazivi agencija za vode glase:
+1. "AVP Sava" i
+2. "AVP Jadransko more".
+(4) Sjedište "AVP Sava" je u Sarajevu a sjedište"AVP Jadransko more" u Mostaru.
+(5) Mjesna nadležnost "AVP Sava" i "AVP Jadransko more" obuhvata pripadajuće vodno područje određeno
+aktom iz člana 23. stav 5. ovog Zakona.
+
+Član 153
+(1) Agencije za vode su federalne javne ustanove koje djeluju u skladu sa propisima koji reguliraju rad ustanova,
+ako ovim Zakonom nije drugačije utvrđeno.
+(2) Agencije za vode su pravna lica sa pravima, obavezama i odgovornostima utvrđenim ovim Zakonom, drugim
+zakonima i statutom agencije.
+(3) Agencije za vode su neprofitna pravna lica koja posluju putem svog transakcijskog računa za obavljanje
+djelatnosti.
+(4) Agencije za vode upisuju se u sudski registar.
+(5) Rad agencija za vode je javan. Agencija za vode o svom radu obavještava javnost pravovremeno i istinito na
+način određen statutom agencije.
+
+Član 154
+Područni uredi agencija
+(1) U cilju osiguranja efikasnog izvršavanja zadataka iz nadležnosti agencije za vode i promoviranja principa
+približavanja korisniku osnivaju se područni uredi "AVP Sava" za: podsliv rijeke Une u Bihaću, podsliv rijeke
+Vrbas u Jajcu, podsliv rijeke Bosne u Zenici i podsliv rijeke Drine u Goraždu, te područni ured "AVP Jadransko
+
+more" za slivove Cetine i Krke u Livnu i područni ured u Konjicu za gornji tok rijeke Neretve sa Rakitnicom i
+srednji uzjezerni tok rijeke Neretve.
+(2) Za područja sa specifičnom problematikom u oblasti voda agencije za vode mogu osnovati i druge područne
+urede.
+(3) Odluku o osnivanju područnih ureda iz stava 2. ovog člana donosi federalni ministar na prijedlog upravnog
+odbora agencije za vode.
+(4) Područni uredi iz st. 1. i 2. ovog člana su organizacione jedinice agencije za vode. Poslovi, zadaci i djelokrug
+rada područnih ureda uređuju se statutom agencije za vode.
+
+Član 155
+Zadaci agencije za vode
+(1) Zadaci agencije za vode su trajno i nesmetano obavljanje poslova kojima se ostvaruje upravljanje vodama u
+obimu utvrđenom planovima iz člana 160. st. 1. i 2. tačka 2. ovog Zakona i u skladu sa sredstvima koja se na
+osnovu ovog Zakona osiguravaju za te namjene.
+(2) Za obavljanje poslova od javnog interesa agencija za vode ima, u skladu sa ovim Zakonom, propisana
+ovlaštenja u okviru kojih donosi upravne i druge akte, te odlučuje o pitanjima značajnim za upravljanje vodama.
+(3) U okviru ovlaštenja iz stava 2. ovog člana agencija za vode vrši ovlaštenja i obaveze Federacije prema
+zaštitnim vodnim objektima iz člana 14. stav 1. tačka 1. ovog Zakona koji su u vlasništvu Federacije.
+
+Član 156
+(1) Pored zadataka iz čl. 29. i 155. ovog Zakona agencija za vode na području za koje je nadležna obavlja i
+sljedeće poslove:
+1. organizira, prikuplja, upravlja i vrši distribuciju podataka o vodnim resursima u skladu sa odredbama ovog
+Zakona uključujući i uspostavu i održavanje ISV;
+2. organizira hidrološki monitoring i monitoring kvaliteta voda, monitoring ekološkog stanja površinskih voda, te
+monitoring podzemnih voda, priprema izvještaj o stanju voda i predlaže potrebne mjere;
+3. priprema plan upravljanja vodama za pripadajuće vodno područje, organizira izradu tehničke dokumentacije za
+pojedina pitanja upravljanja vodama, te obavlja i druge poslove koji se odnose na upravljanje vodama, u skladu
+sa ovim Zakonom;
+4. priprema planove za sprečavanje i smanjenje štetnih uticaja prouzrokovanih poplavama, sušama, erozijom
+obala vodnog tijela i organizira implementaciju tih planova;
+5. upravlja javnim vodnim dobrom iz člana 9. stav 3. tačka 1. ovog Zakona na način određen ovim Zakonom;
+6. preduzima hitne mjere na sprečavanju ili smanjenju štetnih uticaja prouzrokovanih incidentnim zagađenjima i
+priprema planove za takve mjere;
+7. izdaje vodne akte u skladu sa ovim Zakonom za čije se potrebe uspostavlja posebna organizaciona jedinica u
+okviru agencije za vode;
+8. daje stručna mišljenja prema zahtjevima za izdavanje vodnih akata iz nadležnosti kantonalnog ministarstva
+nadležnog za vode;
+9. daje stručna mišljenja sa stanovišta voda o dokumentima iz nadležnosti drugih federalnih i kantonalnih
+ministarstava koja zatraže ti organi;
+10. učestvuje u pripremi politike sektora voda i legislative koja se odnosi na vode;
+11. promovira istraživački rad u oblasti voda i održivog upravljanja vodama;
+12. organizira podizanje javne svijesti vezane za održivo korištenje voda, zaštitu voda i zaštitu vodnih ekosistema;
+13. učestvuje u koordinaciji aktivnosti na izradi i provođenju planova upravljanja vodama sa nadležnim
+organizacijama iz Republike Srpske na nivou Bosne i Hercegovine, odnosno sa nadležnim tijelima za područje
+međunarodnog podsliva rijeke Save i međunarodnih riječnih bazena Neretve i Cetine;
+14. prema odluci Federalnog ministarstva provodi aktivnosti vezane za implementaciju projekata koje finansiraju
+međunarodne institucije, odnosno koji se finansiraju iz budžeta Federacije;
+15. vrši redovne konsultacije sa agencijom za vodno područje u Republici Srpskoj na istom vodnom području koje
+se odnose na poslove iz stava 1. tač. od 1. do 14. ovog člana;
+16. preduzima aktivnosti vezane za prikupljanje vodnih naknada i izvještavanje nadležnih institucija o stepenu
+izmirenja obaveza od obveznika plaćanja vodnih naknada i dr.;
+17. obavlja i druge poslove propisane ovim Zakonom i aktima agencije za vode.
+(2) Agencije za vode obavezne su uskladiti metodologiju i način izvršavanja zadataka iz čl. 29. i 155. ovog
+Zakona i stava 1. ovog člana za područje Federacije, a zadatke iz stava 1. tačka 10. ovog člana pripremiti
+objedinjeno za cijelo područje Federacije.
+
+Član 157
+Povjeravanje stručno-tehničkih poslova trećim licima
+
+(1) Obavljanje stručno-tehničkih poslova iz svoje nadležnosti agencija za vode može ustupiti ovlaštenim pravnim
+licima.
+(2) Federalni ministar propisuje uvjete i kriterije koje moraju zadovoljiti ovlaštena pravna lica iz stava 1. ovog
+člana i način izdavanja ovlaštenja.
+
+Član 158
+Statut agencije za vode
+(1) Agencija za vode ima statut i druge opće akte.
+(2) Statutom agencije za vode uređuju se naročito:
+1. djelokrug rada;
+2. upravljanje, rukovođenje i nadzor nad radom agencije za vode;
+3. unutrašnja organizacija agencije za vode;
+4. ovlaštenja i odgovornosti direktora agencije za vode;
+5. ograničenja u pogledu sticanja, opterećivanja i otuđivanja nekretnina i druge imovine agencije za vode;
+6. namjena i način raspoređivanja, odnosno korištenja sredstava agencije za vode;
+7. javnost rada, saradnja sa državnim organima i drugim institucijama u ostvarivanju djelatnosti agencije za vode;
+8. obavljanje stručnih, administrativnih i drugih poslova agencije za vode;
+9. pitanja za koja je zakonom propisano da se uređuju statutom;
+10. druga pitanja od značaja za obavljanje djelatnosti i poslovanje agencije za vode.
+
+Član 159
+Upravni odbor agencije za vode
+(1) Agencijom za vode upravlja upravni odbor.
+(2) Upravni odbor broji pet članova. Predsjednika i članove upravnog odbora imenuje i razrješava Vlada
+Federacije na prijedlog Federalnog ministarstva, a na osnovu provedenog javnog konkursa, u skladu sa
+zakonom.
+(3) Članovi upravnog odbora biraju se iz reda stručnjaka sa područja upravljanja vodama, javnih finansija i drugih
+oblasti, s tim da se jedan Član upravnog odbora imenuje iz reda zaposlenika agencije za vode i jedan Član iz
+Federalnog ministarstva.
+(4) Upravni odbor imenuje se na period od četiri godine. Za člana upravnog odbora može se imenovati jedno lice
+najviše u dva mandata.
+(5) Predsjednik Upravnog odbora ne može biti iz istog konstitutivnog naroda kao i direktor Agencije za vode.
+
+Član 160
+Nadležnost upravnog odbora
+(1) Upravni odbor, uz saglasnost Vlade Federacije, donosi dokument okvirnog plana i finansijskog plana agencije
+za vode za period od najmanje tri godine.
+(2) Upravni odbor, uz saglasnost Federalnog ministarstva:
+1. donosi statut agencije za vode,
+2. donosi godišnji plan i finansijski plan agencije za vode,
+3. usvaja izvještaj o poslovanju agencije za vode za prethodnu godinu,
+4. imenuje i razrješava direktora agencije za vode.
+(3) Upravni odbor samostalno:
+1. usvaja godišnji obračun o finansijskom poslovanju agencije za vode,
+2. usvaja izvještaje o poslovanju i obračune o finansijskom poslovanju agencije za vode u toku godine,
+3. donosi opća akta agencije za vode,
+4. odlučuje o drugim pitanjima određenim zakonom i statutom agencije za vode.
+(4) Upravni odbor agencije za vode naročito je odgovoran za provođenje utvrđene politike upravljanja vodama i
+naloga Federalnog ministarstva.
+(5) Način rada i donošenja odluka upravnog odbora uređuje se statutom agencije za vode.
+
+Član 161
+Nadzorni odbor
+(1) Kontrolu rada agencije za vode vrši nadzorni odbor.
+(2) Nadzorni odbor broji tri člana. Predsjednika i članove nadzornog odbora imenuje i razrješava Vlada Federacije
+na prijedlog Federalnog ministarstva.
+
+(3) Nadzorni odbor imenuje se na period od četiri godine.
+
+Član 162
+(1) Nadzorni odbor obavlja sljedeće poslove:
+1. analizira izvještaj o poslovanju agencije za vode,
+2. pregleda godišnji izvještaj o poslovanju i godišnji obračun finansijskog poslovanja agencije za vode,
+3. pregleda i provjerava urednost i zakonitost vođenja poslovnih knjiga,
+4. izvještava Federalno ministarstvo, upravni odbor i direktora agencije za vode o rezultatima nadzora.
+(2) Način rada i donošenje odluka nadzornog odbora uređuju se statutom agencije za vode.
+
+Član 163
+Direktor agencije
+(1) Agencijom za vode rukovodi direktor. Direktor predstavlja i zastupa agenciju za vode.
+(2) Direktora agencije za vode imenuje i razrješava upravni odbor, uz saglasnost Federalnog ministarstva.
+Mandat direktora je četiri godine.
+(3) Direktor se bira na osnovu javnog konkursa koji mora biti objavljen u najmanje dva dnevna lista koja se
+distribuiraju na cijelom područje Federacije, što se vrši u skladu sa zakonom i statutom agencije za vode.
+(4) Za direktora agencije za vode imenuje se lice koje ima univerzitetsku diplomu. Detaljnije odredbe o uvjetima
+koje mora ispunjavati lice koje se imenuje za direktora i postupak imenovanja direktora određuju se statutom
+agencije za vode.
+(5) Direktor agencije za vode odgovoran je upravnom odboru za rad agencije. Detaljnije odredbe o djelokrugu,
+ovlaštenjima i odgovornostima direktora određuju se statutom agencije za vode.
+
+2. Savjetodavno vijeće vodnog područja
+Član 164
+Uspostavljanje savjetodavnog vijeća
+(1) Za razmatranje sistemskih pitanja upravljanja vodama od značaja za vodno područje, razmatranje različitih
+potreba i interesa, te predlaganje mjera za razvoj i poboljšanje upravljanja vodama na vodnom području, Vlada
+Federacije osniva:
+1. Savjetodavno vijeće Vodnog područja rijeke Save i
+2. Savjetodavno vijeće Vodnog područja Jadranskog mora.
+(2) Sastav i broj članova vijeća vodnog područja (u daljnjem tekstu: vijeće) utvrđuje se aktom o osnivanju vijeća,
+uzimajući u obzir osobine vodnog područja, broj kantona na vodnom području, značaj različitih vidova korištenja
+voda i druge specifičnosti vodnog područja, u skladu sa sljedećim kriterijima:
+1. Vladu Federacije predstavlja najmanje pet članova prema nadležnostima i interesima za pitanje voda;
+2. svaki kanton sa vodnog područja predstavlja najmanje jedan član. Ukupan broj predstavnika kantona utvrđuje
+se u skladu sa površinom i brojem stanovnika kantona, s tim da ukupan broj predstavnika kantona u vijeću ne
+može biti manji od ukupnog broja predstavnika Vlade Federacije;
+3. predstavnici korisnika voda čine najmanje jednu trećinu svih članova vijeća;
+4. nevladine organizacije sa vodnog područja u vijeću predstavljaju najmanje tri člana;
+5. naučne institucije sa sjedištem na vodnom području koje se bave problematikom voda, okoliša i drugih sličnih
+oblasti u vijeću predstavljaju najmanje tri člana.
+(3) Akt o osnivanju vijeća i njegov sastav, u skladu sa odredbama stava 2. ovog člana, donosi Vlada Federacije
+na prijedlog Federalnog ministarstva.
+(4) Troškovi rada vijeća finansiraju se iz budžeta Federacije.
+(5) Vlada Federacije na prijedlog Federalnog ministarstva propisuje vrstu i visinu troškova iz stava 4. ovog člana.
+
+Član 165
+Uloga i zadaci vijeća
+(1) Vijeće iz člana 164. stav 1. ovog Zakona obavlja sljedeće:
+1. učestvuje u pripremi nacrta plana upravljanja vodama i strategije upravljanja vodama;
+2. razmatra i daje mišljenje o strateškim dokumentima iz nadležnosti drugih federalnih i kantonalnih ministarstava
+koja se odnose na upravljanje vodama i obrnuto;
+3. razmatra i daje mišljenje o pitanjima od interesa za riječni bazen ili podsliv u sklopu vodnog područja, a koje se
+tiče međuentitetske saradnje;
+
+4. razmatra i daje mišljenje o pitanjima od interesa za oba vodna područja koja se odnose na korištenje ili zaštitu
+voda;
+5. razmatra i daje mišljenje o pitanjima upravljanja vodama koja su od značaja za međuentitetsku saradnju, za
+Bosnu i Hercegovinu u cjelini i međunarodne obaveze Bosne i Hercegovine.
+(2) Vijeće daje mišljenje na sva pitanja koja se odnose na vode, a koja od vijeća zatraži Vlada Federacije ili vlade
+kantona.
+(3) Vladi Federacije i agenciji za vode vijeće može predložiti studijske ili istražne radove koji se odnose na pitanja
+upravljanja vodama na vodnom području.
+(4) Prilikom obavljanja poslova iz svoje nadležnosti agencija za vode uzima u obzir mišljenje i preporuke vijeća.
+
+Član 166
+Način rada vijeća
+(1) Vijeće donosi poslovnik o svom radu.
+(2) Vijeće se sastaje najmanje tri puta godišnje.
+(3) Sastancima vijeća prisustvuje direktor agencije za vode.
+(4) Vijeće je dužno osigurati mogućnost prisustva sastancima vijeća predstavnicima agencije za vode sa istog
+vodnog područja Republike Srpske.
+
+3. Upravljanje vodama na kantonalnom nivou
+Član 167
+(1) Kanton je nadležan za obavljanje poslova i zadataka koji su ovim Zakonom dati u njegovu nadležnost, a način
+organizacije obavljanja tih poslova uređuje se propisom kantona.
+(2) Kanton svojim propisom može određene poslove iz svoje nadležnosti prenijeti na grad i/ili općinu na svom
+području.
+
+XII. FINANSIRANJE UPRAVLJANJA VODAMA
+Član 168
+Izvori sredstava
+Sredstva za obavljanje poslova i zadataka određenih ovim Zakonom osiguravaju se iz:
+1. opće vodne naknade;
+2. posebnih vodnih naknada;
+3. prihoda po osnovu zakupa javnog vodnog dobra;
+4. budžeta Federacije, budžeta kantona, budžeta grada i općine;
+5. kreditnih sredstava;
+6. sredstava osiguranih posebnim zakonom;
+7. donacija i ostalih sredstava u skladu sa zakonom.
+
+Član 169
+Opća vodna naknada
+(1) Obveznici plaćanja opće vodne naknade su fizička i pravna lica registrirana za obavljanje djelatnosti.
+(2) Obveznici iz stava 1. ovog člana dužni su plaćati opću vodnu naknadu u visini od 0,5% od osnovice koju čini
+netoplaća zaposlenika u radnom odnosu na neodređeno i na određeno vrijeme i naknada isplaćena na osnovu
+ugovora o djelu.
+(3) Naknada iz stava 2. ovog člana obračunava se i uplaćuje istovremeno sa isplatom plaća, odnosno utvrđene
+naknade po ugovoru.
+
+Član 170
+Posebne vodne naknade
+(1) Posebne vodne naknade su :
+1. naknada za korištenje površinskih i podzemnih voda koja obuhvata zahvatanje:
+- vode za javno vodosnabdijevanje,
+- vode i mineralne vode koja se koristi za flaširanje vode,
+- vode za navodnjavanje,
+- vode za uzgajanje ribe u ribnjacima,
+- vode za industrijske procese, uključujuči i termoelektrane,
+
+- vode za druge namjene.
+Naknada iz tačke 1. stav 1. ovog člana obračunava se na osnovu količine zahvaćene vode izražene u m3. Visina
+ove naknade može biti različita, zavisno od namjene i kvaliteta vode;
+2. naknada za korištenje vode za proizvodnju električne energije dobivene korištenjem hidroenergije. Ova
+naknada obračunava se na osnovu proizvedene električne energije izražene u kWh;
+3. naknada za zaštitu voda:
+- koju plaćaju vlasnici transportnih sredstava koja za pogon koriste naftu ili naftne derivate. Ova naknada
+obračunava se na osnovu količine zagađenja voda izraženog preko ekvivalentnog broja stanovnika (u daljnjem
+tekstu: EBS),
+- za ispuštanje otpadnih voda. Ova naknada obračunava se na osnovu količine zagađenja voda izraženog preko
+EBS,
+- za uzgoj ribe. Ova naknada se obračunava po 1kg proizvedene ribe,
+- za upotrebu vještačkih đubriva i hemikalija za zaštitu biljaka. Ova naknada obračunava se po 1kg proizvedenog
+ili uvezenog vještačkog đubriva ili hemikalije za zaštitu biljaka;
+4. naknada za vađenje materijala iz vodotoka. Ova naknada obračunava se po 1m3 izvađenog materijala;
+5. naknada za zaštitu od poplava:
+- poljoprivrednog, šumskog ili građevinskog zemljišta koje je zaštićeno objektima za zaštitu od poplava.
+Primjenjuju se definicije poljoprivrednog, šumskog ili građevinskog zemljišta usvojene u poreznim propisima. Ova
+naknada obračunava se po 1ha zaštićenog zemljišta. Visina ove naknade može biti različita, zavisno od vrste
+branjenog zemljišta,
+- stambenih, poslovnih i drugih objekata koji su zaštićeni objektima za zaštitu od poplava. Ova naknada
+obračunava se po 1m2 korisne površine objekta.
+(2) Obveznik plaćanja posebnih vodnih naknada iz stava 1. tač. 1., 2. i 3. alineja 2. i 3. i tačka 4. ovog člana je
+fizičko i pravno lice koje je dužno pribaviti vodnu dozvolu, odnosno vodnu saglasnost za odgovarajuću aktivnost,
+u smislu odredbi ovog Zakona. Ovoj obavezi ne podliježe fizičko i pravno lice iz člana 110. stav 3. ovog Zakona
+jer je u tom slučaju obveznik plaćanja naknade operator javnog vodovodnog, odnosno kanalizacionog sistema.
+(3) Obveznik plaćanja posebne vodne naknade iz stava 1. tačka 3. alineja 1. ovog člana je fizičko i pravno lice na
+čije je ime registrirano transportno sredstvo, odnosno vlasnik građevinske mašine za koju nije potrebna
+registracija.
+(4) Obveznik plaćanja posebne vodne naknade iz stava 1. tačka 3. alineja 4. ovog člana je fizičko i pravno lice
+koje proizvodi ili uvozi vještačka đubriva ili hemikalije za zaštitu biljaka.
+(5) Obveznik plaćanja posebne vodne naknade iz stava 1. tačka 5. alineja 1. i 2. ovog člana je vlasnik zemljišta,
+odnosno objekta.
+
+Član 171
+Visina posebne vodne naknade
+Visinu posebne vodne naknade iz člana 170. ovog Zakona propisuje Vlada Federacije na zajednički prijedlog
+Federalnog ministarstva i federalnog ministra nadležnog za okoliš, uz prethodnu saglasnost federalnog
+ministarstva nadležnog za finansije.
+
+Član 172
+Oslobađanje od plaćanja posebnih vodnih naknada
+Posebna vodna naknada za zaštitu od poplava iz člana 170. stav 1. tačka 5. alineja 1. i 2. ovog Zakona ne plaća
+se u sljedećim slučajevima:
+1. za nekretnine koje neposredno služe za zračni, željeznički i putni saobraćaj, osiguranje zdravstvene i socijalne
+zaštite, obrazovanje, kulturu, groblja ili vjerske svrhe;
+2. za poljoprivredno i šumsko zemljište ukoliko je vlasnik zemljišta roditelj, supružnik ili malodobno djete poginulog
+borca branioca, kao i fizičko lice koje je u stanju socijalne potrebe, ukoliko to zemljište nije dato u zakup drugom
+fizičkom ili pravnom licu, o čemu odlučuje federalni organ nadležan za utvrđivanje poreznih obaveza;
+3. za zaštitne vodne objekte iz člana 14. stav 1. tačka 1. ovog Zakona, vodne objekte za odvodnjavanje iz člana
+14. stav 1. tačka 2. ovog Zakona i javno vodno dobro iz člana 9. ovog Zakona.
+
+Član 173
+Privremeno izuzeće od plaćanja posebne vodne naknade
+(1) Obveznik plaćanja posebne vodne naknade iz člana 170. stav 1. tačka 3. alineja 2. ovog Zakona može u
+posebnim slučajevima biti u cijelosti ili djelomično oslobođen plaćanja posebne vodne naknade.
+(2) Obveznik iz stava 1. ovog člana u cijelosti se oslobođa plaćanja posebne vodne naknade ako:
+
+1. samostalno vrši prečišćavanje otpadnih voda na način da ispunjava uvjete o graničnim vrijednostima
+zagađujućih materija iz člana 55. ovog Zakona i ako mulj sa postrojenja za prečišćavanje odlaže na propisan
+način,
+2. u mogućnosti je dokazati odgovarajućim tehničkim elaboratom osiguravanje smanjenja emisije zagađujućih
+materija ispod vrijednosti utvrđenih propisom iz člana 55. ovog Zakona.
+(3) Obveznik iz stava 1. ovog člana djelomično se oslobađa plaćanja posebne vodne naknade, ako ta sredstva
+upotrijebi za investiranje u radove na smanjenju emisije zagađujućih materija.
+(4) Oslobađanje od plaćanja naknade iz stava 3. ovog člana vrši se do najviše 40% od iznosa godišnje posebne
+vodne naknade kada je obveznik u mogućnosti dokazati da je pristupio radovima na smanjenju emisije
+zagađujućih materija.
+(5) U slučaju neizvršenja preuzetih obaveza iz stava 4. ovog člana obveznik je dužan uplatiti puni iznos posebne
+vodne naknade u roku od šest mjeseci.
+(6) Obveznik iz stava 5. ovog člana nema pravo na podnošenje zahtjeva za oslobađanje od plaćanja posebne
+vodne naknade u naredne dvije godine.
+(7) Vlada Federacije na prijedlog federalnog ministra i federalnog ministra nadležnog za okoliš donosi propis o
+uvjetima za oslobađanje od plaćanja posebne vodne naknade kojim se detaljno reguliraju uvjeti, procedura, rokovi
+i mjere u slučajevima neizvršenja obaveza na smanjenju emisije zagađujućih materija.
+(8) Federalno ministarstvo odlučuje o oslobađanju od plaćanja posebne vodne naknade, u skladu sa propisom iz
+stava 7. ovog člana.
+
+Član 174
+Prikupljanje vodnih naknada
+(1) Način obračunavanja, postupak i rokove za obračunavanje i plaćanje, kao i kontrolu izmirivanja obaveza na
+osnovu opće vodne naknade i posebnih vodnih naknada propisuje federalni ministar u saradnji sa federalnim
+ministrom finansija.
+(2) Sredstva od izdavanja u zakup javnog vodnog dobra ostvaruju se na osnovu ugovora o zakupu i uplaćuju na
+uplatni račun otvoren u skladu sa posebnim propisom za uplatu javnih prihoda.
+
+Član 175
+Kamata na zakašnjele uplate
+Kamate na neblagovremene uplate na osnovu opće vodne naknade, posebnih vodnih naknada i prihoda od
+izdavanja u zakup javnog vodnog dobra obračunavaju se i uplaćuju u skladu sa Zakonom o visini stope zatezne
+kamate na javne prihode ("Službene novine Federacije BiH", broj 48/01, 52/01 i 42/06.).
+
+Član 176
+Platni nalog
+Naplata vodnih naknada iz čl. 169., 170. i 175. ovog Zakona i prihoda od zakupa javnog vodnog dobra vrši se
+platnim nalogom za uplatu javnih prihoda na uplatne račune otvorene u skladu sa posebnim propisom za uplatu
+javnih prihoda koji donosi Federalno ministarstvo finansija.
+
+Član 177
+Raspodjela vodnih naknada
+(1) Vodne naknade iz čl. 169. i 170. ovog Zakona i prihodi prikupljeni na osnovu zakupa javnog vodnog dobra na
+površinskim vodama I kategorije raspoređuju se na sljedeći način:
+1. nadležnoj agenciji za vode 40%,
+2. u korist budžeta kantona 45% i
+3. u korist Fonda za zaštitu okoliša Federacije 15%.
+(2) Prihodi od zakupa javog vodnog dobra na površinskim vodama II. kategorije u cijelosti pripadaju budžetu
+kantona.
+(3) Za korištenje sredstava iz stava 1. tačka 2. i stava 2. ovog člana kantoni su dužni uspostaviti instituciju
+propisom iz člana 167. stav 1. ovog Zakona.
+(4) Raspodjela sredstava iz stava 1. ovog člana može se promijeniti. O potrebi promjene raspodjele sredstava
+odlučuje Vlada Federacije svake dvije godine na usaglašeni prijedlog Federalnog ministarstva, federalnog
+ministarstva nadležnog za okoliš i kantonalnih ministarstva nadležnih za vode.
+
+Član 178
+Korištenje prihoda
+(1) Prihodi iz člana 177. stav 1. tačka 1. ovog Zakona koriste se za:
+
+1. poslove i zadatke iz čl. 29. i 156. ovog Zakona,
+2. održavanje zaštitnih objekata u vlasništvu Federacije,
+3. druge poslove i aktivnosti koje su ovim Zakonom povjerene agenciji za vode i
+4. finansiranje rada agencije za vode.
+(2) Prihodi iz člana 177. stav 1. tačka 2. ovog Zakona koriste se za sufinansiranje izgradnje i održavanja vodnih
+objekata iz člana 14. stav 1. ovog Zakona, osim objekata iz tačke 3. alineje 2., 4., 5. i 6. tog člana, kao i ostale
+aktivnosti vezane za poslove upravljanja vodama (izrada tehničke dokumentacije, podloga za izdavanje koncesija
+i dr.), u skladu sa godišnjim planom i programom kantonalnog ministarstva nadležnog za vode.
+(3) Prihodi iz člana 177. stav 1. tačka 3. ovog Zakona koriste se isključivo za provođenje zadataka koji su ovim
+Zakonom dati u nadležnost federalnom ministarstvu nadležnom za okoliš i za sufinansiranje infrastrukture za
+zaštitu voda od značaja za Federaciju.
+
+XIII. NADZOR NAD PROVOĐENJEM OVOG ZAKONA
+1. Nadzor Federalnog ministarstva
+Član 179
+Federalno ministarstvo vrši upravni nadzor nad provođenjem ovog Zakona i propisa donesenih na osnovu ovog
+Zakona, kao i upravni nadzor nad radom agencija za vode u obavljanju poslova koji su ovim Zakonom dati u
+nadležnost agencija za vode.
+
+Član 180
+(1) U vršenju nadzora nad obavljanjem poslova koji su ovim Zakonom dati u nadležnost agencija za vode,
+Federalno ministarstvo ostvaruje neposredan uvid i kontrolu u postupanje agencija za vode, vrši pregled akata i
+dokumentacije koju donose agencije i o kojoj vode evidenciju, daje naloge i instrukcije za obavljanje poslova i
+traži podatke i obavještenja o izvršavanju obaveza iz ovog Zakona i drugih propisa donesenih na osnovu ovog
+Zakona i izvještaje o izvršavanju zadataka agencija propisanih ovim Zakonom.
+(2) Ako Federalno ministarstvo utvrdi da agencija za vode ne izvršava obaveze iz ovog Zakona i propise
+donesene na osnovu ovog Zakona koje su u njenoj nadležnosti, ili opće akte za čije izvršenje je ovlaštena, ili
+utvrdi nepravilnosti u radu agencije, određuje rok u kojem se obaveze iz ovog Zakona, propis ili opći akt moraju
+izvršiti, odnosno nepravilnosti otkloniti.
+(3) Ako agencija za vode u roku ne izvrši obavezu koja joj je naložena prema odredbama stava 2. ovog člana,
+Federalno ministarstvo o utvrđenom propustu ili nepravilnosti obavijestit će Vladu Federacije.
+(4) U slučaju iz stava 3. ovog člana Vlada Federacije izdaje smjernice agenciji za vode, odnosno preduzima mjere
+kojima se osigurava obavljanje poslova na način utvrđen ovim Zakonom.
+
+Član 181
+(1) Federalno ministarstvo vrši nadzor nad zakonitošću vodnih akata koje donose agencije za vode, kao i
+kantonalni, gradski i općinski organi uprave nadležni za vode rješavajući u upravnim stvarima o pravima i
+obavezama fizičkih i pravnih lica koja su ovim Zakonom propisana kao nadležnost agencija za vode, odnosno
+nadležnost kantonalnog, gradskog i općinskog organa uprave nadležnih za vode.
+(2) Protiv rješenja agencije za vode o izdatom vodnom aktu iz člana 107. ovog Zakona, a u vezi sa članom 139.
+stav 1. ovog Zakona donesenog u prvostepenom postupku, žalba se izjavljuje Federalnom ministarstvu.
+(3) Protiv rješenja kantonalnog, gradskog, odnosno općinskog organa uprave nadležnog za vode o izdatom
+vodnom aktu iz člana 107. ovog Zakona, a u vezi sa članom 139. stav 2. ovog Zakona donesenog u
+prvostepenom postupku, žalba se izjavljuje Federalnom ministarstvu.
+
+2. Organizacija vršenja inspekcijskog nadzora
+Član 182
+Zajednička odredba
+Inspekcijski nadzor nad provođenjem ovog Zakona i propisa donesenih na osnovu ovog Zakona provodi se u
+skladu sa odredbama ovog Zakona i Zakona o organizaciji organa uprave u Federaciji Bosne i Hercegovine
+("Službene novine Federacije BiH", broj 35/05) koje se odnose na inspekcijski nadzor.
+
+a) Federalna vodna inspekcija
+Član 183
+
+(1) Inspekcijski nadzor nad provođenjem ovog Zakona i propisa donesenih na osnovu ovog Zakona koji su ovim
+Zakonom dati u nadležnost Federacije, provodi Federalno ministarstvo putem federalne vodne inspekcije, koja se
+nalazi u sastavu Federalnog ministarstva, u skladu sa članom 216. ovog Zakona.
+(2) Inspekcijski nadzor nad provođenjem propisa donesenih na osnovu ovog Zakona, a koje donosi federalni
+ministar nadležan za okoliš, provodi federalno ministarstvo nadležno za okoliš putem federalne inspekcije
+nadležne za zaštitu okoliša.
+
+Član 184
+Organizacija federalne vodne inspekcije
+(1) U cilju osiguranja efikasnog obavljanja inspekcijskih poslova federalna vodna inspekcija organizira se za:
+1. neposredni sliv Save,
+2. podsliv Une sa Glinom i Koranom,
+3. podsliv Vrbasa,
+4. podsliv Bosne,
+5. podsliv Drine,
+6. bazen Neretve,
+7. bazene Krke i Cetine i
+8. obalno more.
+(2) Broj i teritorijalna raspoređenost federalnih vodnih inspektora utvrđuje se Pravilnikom o unutrašnjoj organizaciji
+Federalnog ministarstva.
+
+Član 185
+Glavni i federalni vodni inspektori
+(1) Glavni federalni vodni inspektor i federalni vodni inspektori postavljaju se u skladu sa Zakonom o državnoj
+službi u Federaciji Bosne i Hercegovine ("Službene novine Federacije BiH", br. 29/03, 23/04, 39/04, 54/04, 67/05 i
+8/06).
+(2) Posebni uvjeti koje mora ispuniti lice koje se postavlja za glavnog federalnog vodnog inspektora i federalnog
+vodnog inspektora utvrđuju se Pravilnikom iz člana 184. stav 2. ovog Zakona.
+
+Član 186
+Predmet inspekcijskog nadzora
+Inspekcijski nadzor obuhvata:
+1. preduzimanje inspekcijskih radnji na utvrđivanju stanja izvršavanja propisa kod pravnih i fizičkih lica koja su u
+obavljanju svoje djelatnosti i radu dužna postupati prema odredbama ovog Zakona i propisa donesenih na osnovu
+ovog Zakona,
+2. određivanje upravnih mjera radi sprečavanja i otklanjanja nezakonitosti u izvršavanju propisa iz tačke 1. ovog
+člana,
+3. preduzimanje drugih mjera određenih ovim Zakonom i drugim propisima.
+
+Član 187
+Ovlaštenja inspektora
+(1) Pored ovlaštenja i dužnosti iz člana 182. ovog Zakona federalni vodni inspektor, prema ovom Zakonu,
+ovlašten je i dužan:
+1. spriječiti neovlašteno korištenje vode, u smislu odredaba ovog Zakona;
+2. spriječiti ili ograničiti ostvarivanje prava na korištenje vode, ako se ona ne koriste u skladu sa vodnom
+dozvolom;
+3. zaustaviti izgradnju ili izvođenje zahvata u prostoru, ako se ta izgradnja i zahvati izvode bez ili u suprotnosti sa
+vodnom saglasnosti;
+4. odrediti privremeni prekid obavljanja djelatnosti, ako se krše odredbe dozvole iz tačke 2. stav 1. ovog člana;
+5. zabraniti upotrebu objekta i uređaja, ako se koriste bez ili u suprotnosti sa vodnom dozvolom;
+6. zabraniti ili ograničiti ispuštanje otpadnih voda u površinske vode ili indirektno ispuštanje otpadnih voda u
+podzemne vode, ako se to ispuštanje vrši u suprotnosti sa odredbama člana 55. ovog Zakona i odrediti
+uspostavljanje prvobitnog stanja;
+7. zabraniti vađenje materijala iz površinskih voda, ako se vađenje tog materijala vrši bez vodnog ili u suprotnosti
+sa vodnim aktima;
+8. odrediti obavezu utvrđivanja štete i naknade štete nastale radnjama iz tačke 7. stav 1. ovog člana i obavezu
+vraćanja u prvobitno stanje;
+
+9. odrediti i druge mjere u skladu sa ovim Zakonom, ili na osnovu propisa i vodnih akata donesenih na osnovu
+ovog Zakona.
+(2) Ako je potrebno da se otklone izvori i posljedice prekomjernog zagađivanja vode, federalni vodni inspektor
+može odrediti sanacione mjere ili predložiti Federalnom ministarstvu pripremu i provođenje sanacionog programa.
+
+Član 188
+Upravne radnje
+(1) Federalni vodni inspektor u obavljanju poslova inspekcijskog nadzora o utvrđenim činjenicama sačinjava
+zapisnik.
+(2) Federalni vodni inspektor donosi pisano rješenje i odmah naređuje njegovo izvršenje, ako:
+1. prijeti nastanak neposredne opasnosti od poplava, izlijevanja voda ili pogoršanja stanja u toku poplave;
+2. prijeti nastanak nestašice vode ili teškoće u snabdijevanju vodom;
+3. postoji opasnost od zagađenja vode ili je nastupilo zagađenje u obimu u kojem to predstavlja neposrednu
+opasnost po život i zdravlje ljudi ili za životinjski ili biljni svijet;
+4. postoji neposredna opasnost za zagađenje izvora vode namijenjenog snabdijevanju vodom za piće;
+5. postoji neposredna opasnost za zagađenje površinskih i podzemnih voda;
+6. nastupi suša, ili bi iz drugih razloga moglo doći do nestašice vode ili poteškoća u snabdijevanju vodom za piće;
+7. postoji neposredna opasnost od pojave odrona zemlje, klizišta ili drugih vidova erozije;
+8. je to potrebno za osiguranje provođenja opće upotrebe voda iz člana 46. ovog Zakona ili za osiguranje stvarne
+služnosti iz čl. od 140. do 151. ovog Zakona, ukoliko se vlasnik ili drugi korisnik vodnog dobra iz čl. 7. i 8. ovog
+Zakona ili drugog priobalnog zemljišta suprotstavlja prelasku preko svoje zemlje ili obavljanju radova radi
+provođenja ovog Zakona;
+9. je to potrebno za osiguranje izvođenja radova na istraživanju voda, u skladu sa odredbama ovog Zakona;
+10. zahtijevaju to i druge hitne situacije određene zakonom.
+(3) Izuzetno, federalni vodni inspektor za slučajeve iz tač. 1., 3., 4., 7. i 10. stav 2. ovog člana može donijeti
+usmeno rješenje i narediti njegovo izvršenje bez odlaganja, s tim što je dužan donijeti pisano rješenje najkasnije u
+roku od osam dana od dana donošenja usmenog rješenja. Sadržaj pisanog rješenja mora odgovarati sadržaju
+usmenog rješenja.
+(4) Ako pravno ili fizičko lice koje je odgovorno za opasnosti i posljedice iz tač. 1., 3., 4., 7. i 10. stav 2. ovog člana
+ne postupi odmah po nalogu vodnog inspektora, ili ako se ne može identifikovati lice odgovorno za nastanak
+opasnosti i posljedica, vodna inspekcija će angažirati ovlaštenu instituciju iz člana 189. stav 1. ovog Zakona za
+provođenje mjera radi elimininacije opasnosti ili ublažavanja posljedica.
+(5) Troškove nastale provođenjem mjera iz stava 4. ovog člana snosi nadležna agencija za vode, a te troškove
+naknadno naplaćuje od odgovornog lica zbog čijeg je djelovanja ili propuštanja djelovanja došlo do nastanka
+opasnosti, odnosno neželjenih posljedica.
+
+Član 189
+Stručni poslovi po nalogu inspekcije
+(1) Obavljanje određenih stručnih poslova za potrebe inspekcijskog nadzora (radovi na sprečavanju širenja
+zagađenja u slučaju akcidenta i čišćenje zagađenja iz vode i vodnog dobra, ispitivanje, ekspertiza i sl.) koji
+zahtijevaju posebnu tehničku opremu i specijalizirane stručnjake ili primjenu naučnih metoda i postupaka, može
+se povjeriti ovlaštenim i osposobljenim institucijama (ustanova, preduzeće, laboratorij, društvo) koje obavljaju
+takve poslove.
+(2) Institucije iz stava 1. ovog člana angažiraju se na osnovu naloga federalnog vodnog inspektora putem mjesno
+nadležne agencije za vode.
+
+Član 190
+Inspekcijski postupci
+(1) Kada utvrdi da je povrijeđen ovaj Zakon, propis ili drugi akt donesen na osnovu ovog Zakona, federalni vodni
+inspektor zapisnikom konstatuje nepravilnost ili nedostatak i rješenjem određuje mjere i rok za njihovo otklanjanje.
+(2) Pored ovlaštenja i dužnosti određenih zakonom, u slučaju iz stava 1. ovog člana, federalni vodni inspektor
+ovlašten je i dužan:
+1. narediti obustavljanje izvođenja radova, ako se vrše protivno vodnom aktu ili se vrše bez vodnog akta, a
+propisana je obaveza njegovog pribavljanja;
+2. narediti, u saradnji sa građevinsko-urbanističkom inspekcijom, uklanjanje sagrađenog objekta ili postrojenja
+izgrađenog bez vodnog akta, ako u roku od 60 dana nije pribavljen vodni akt;
+3. narediti privremenu obustavu rada, odnosno obavljanje djelatnosti pravnog lica ili njegovog dijela, ako utvrdi da
+otpadne vode sadrže opasne materije u količini većoj od dozvoljene ili se zahvataju veće količine vode od
+dozvoljenih;
+
+4. zabraniti preduzimanje radnji koje nisu dozvoljene ovim Zakonom.
+(3) Federalni vodni inspektor sarađuje sa organom vodne inspekcije susjednih i drugih država o pitanjima
+nedozvoljene promjene režima voda na kontrolnim profilima međudržavnih vodotoka u skladu sa međunarodnim
+ugovorom, sporazumom ili konvencijom koje je zaključila Bosna i Hercegovina.
+
+Član 191
+Pokretanje postupaka
+(1) Federalni vodni inspektor dužan je uvijek kada utvrdi da je učinjeno djelo koje ima obilježje prekršaja
+propisanog ovim Zakonom, podnijeti zahtjev nadležnom organu za pokretanje prekršajnog postupka.
+(2) Federalni vodni inspektor dužan je uvijek kada utvrdi da je učinjeno djelo koje ima obilježje krivičnog djela, čija
+su obilježja propisana krivičnim zakonom, podnijeti pisanu prijavu nadležnom tužilaštvu.
+
+Član 192
+Žalbe na rješenje inspektora
+(1) Protiv rješenja federalnog vodnog inspektora žalba se izjavljuje Federalnom ministarstvu putem Federalne
+vodne inspekcije.
+(2) Protiv rješenja kantonalnog, gradskog, odnosno općinskog vodnog inspektora, koje je doneseno na osnovu
+ovog Zakona i propisa donesenih na osnovu ovog Zakona, žalba se izjavljuje Federalnoj vodnoj inspekciji putem
+kantonalne, gradske, odnosno općinske vodne inspekcije.
+(3) Žalba protiv rješenja vodnog inspektora odlaže izvršenje rješenja, osim u slučajevima iz člana 188. st. 2. i 3.
+ovog Zakona.
+
+Član 193
+Akcidenti
+(1) U slučaju akcidenta ili drugog vanrednog događaja, odmah po saznanju za njegovo nastupanje vodni
+inspektor je dužan, na području za koje je nadležan, preduzeti radnje i mjere predviđene ovim Zakonom i
+propisima donesenim na osnovu ovog Zakona, bez obzira na stvarnu nadležnost (federalna ili kantonalna) i o
+tome obavijestiti federalnu inspekciju nadležnu za zaštitu okoliša.
+(2) U provođenju aktivnosti iz stava 1. ovog člana vodni inspektori dužni su sarađivati i razmjenjivati informacije o
+mjerama i aktivnostima koje su preduzete ili koje je neophodno preduzeti.
+
+Član 194
+Saradnja vodnih inspektora
+(1) Federalni vodni inspektori dužni su međusobno sarađivati i informirati se o pojavama, problemima i načinu
+rješavanja pojedinih slučajeva. Inicijativu za saradnju može pokrenuti svaki od vodnih inspektora.
+(2) Saradnja iz stava 1. ovog člana ostvaruje se i sa vodnim kantonalnim i vodnim gradskim i općinskim
+inspektorima.
+(3) Glavni federalni vodni inspektor dužan je inicirati i organizirati održavanje zajedničkog sastanka svih vodnih
+inspektora iz st. 1. i 2. ovog člana najmanje dva puta godišnje o čemu vodi posebnu zabilješku koju dostavlja
+federalnom ministru, agencijama za vode i kantonalnim ministarstvima nadležnim za vode.
+(4) Federalna vodna inspekcija u svom radu sarađuje i sa drugim inspekcijama i organima u obavljanju svojih
+ovlaštenja.
+
+Član 195
+Odnosi federalne i kantonalne vodne inspekcije
+(1) Ako federalni vodni inspektor utvrdi da kantonalni vodni inspektor ne provodi odredbe ovog Zakona koje se
+odnose na nadzor iz njegove nadležnosti, pisanim putem zatražit će od kantonalnog organa uprave nadležnog za
+vodnu inspekciju preduzimanje bez odlaganja zakonom utvrđenih mjera i aktivnosti.
+(2) Ako i pored preduzete aktivnosti iz stava 1. ovog člana od federalnog vodnog inspektora kantonalni vodni
+inspektor ne preduzme zakonom utvrđene mjere, federalni vodni inspektor dužan je provesti te mjere na teret
+budžeta kantona i o tome obavijestiti kantonalnog ministra nadležnog za vode.
+
+Član 196
+Posebna ovlaštenja federalnog vodnog inspektora
+(1) Izuzetno, prema zahtjevu kantonalnog ministarstva nadležnog za vode federalni ministar može rješenjem
+odrediti da nadzor nad provođenjem ovog Zakona iz nadležnosti kantona na području kantona vrši federalni vodni
+inspektor na određeno vrijeme.
+(2) Protiv rješenja iz stava 1. ovog člana nije dozvoljena posebna žalba.
+
+Član 197
+Obaveze agencija za vode prema vodnoj inspekciji
+U cilju obavljanja poslova inspekcijskog nadzora i preduzimanja inspekcijskih mjera propisanih ovim Zakonom i
+propisima donesenim na osnovu ovog Zakona agencije za vode su dužne, na zahtjev nadležnog federalnog ili
+kantonalnog vodnog ili okolišnog inspektora:
+1. dostaviti potrebne podatke, akte ili dokumentaciju,
+2. dati odgovarajuće stručno mišljenje,
+3. izvršiti ispitivanje, odnosno organizirati vršenje dodatno potrebnih ispitivanja kvaliteta vode,
+4. izvršiti i druge potrebne radnje iz nadležnosti agencije.
+
+b) Kantonalna vodna inspekcija
+Član 198
+(1) Inspekcijski nadzor nad provođenjem ovog Zakona i propisa donesenih na osnovu ovog Zakona, a koji su
+ovim Zakonom stavljeni u nadležnost kantona, provodi kantonalni organ uprave nadležan za vode putem
+kantonalne vodne inspekcije.
+(2) Grad, odnosno općina mogu formirati gradsku, odnosno općinsku vodnu inspekciju za vršenje inspekcijskog
+nadzora koji su ovim Zakonom stavljeni u nadležnost kantona, što se utvrđuje propisom kantona.
+(3) U obavljanju poslova iz stava 1. ovog člana kantonalna vodna inspekcija postupa u skladu sa odredbama čl.
+od 186. do 198. ovog Zakona.
+
+c) Međuentitetska saradnja vodnih inspekcijskih službi
+Član 199
+(1) Federalna vodna inspekcija dužna je sarađivati i međusobno se informirati sa vodnom inspekcijom Republike
+Srpske o pojavama, problemima i načinu rješavanja pojedinih slučajeva od zajedničkog interesa.
+(2) Prijedlog za održavanje zajedničkih sastanaka inspekcija iz stava 1. ovog člana daje glavni federalni vodni
+inspektor ili glavni vodni inspektor Republike Srpske.
+
+Član 200
+Vodni inspektori Federacije imaju pravo zajedno sa vodnom inspekcijom Republike Srpske izvršiti inspekcijski
+pregled u sljedećim slučajevima:
+1. ako je došlo do incidentnog zagađenja na vodama i vodnom dobru čije su posljedice evidentne na teritoriji
+Federacije i Republike Srpske;
+2. ako se utvrdi da objekat, instalacija ili aktivnost koja se nalazi ili odvija na teritoriji Republike Srpske ima
+negativne uticaje na vode na teritoriji Federacije;
+3. ako se utvrdi da objekat, instalacija ili aktivnost koja se nalazi ili odvija na teritoriji Federacije ima negativne
+uticaje na vode na teritoriji Republike Srpske;
+4. kada o tome postignu dogovor glavni vodni inspektori Federacije i Republike Srpske.
+
+Član 201
+(1) U slučaju zajedničkog inspekcijskog pregleda vodnih inspektora iz Federacije i Republike Srpske zapisnik
+sačinjava i preduzima odgovarajuće upravne mjere inspektor iz Federacije ako se desio incident u Federaciji, ili
+ako se objekat ili aktivnost koja je predmet inspekcijskog pregleda nalazi na teritoriji Federacije, odnosno u
+Republici Srpskoj, ako se desio incident u Republici Srpskoj ili ako se objekat ili aktivnost koja je predmet
+inspekcijskog pregleda nalazi na teritoriji Republike Srpske.
+(2) U slučaju inspekcijskog pregleda iz stava 1. ovog člana vodni inspektor iz Federacije, odnosno Republike
+Srpske na čijoj teritoriji su evidentni uticaji može sačiniti službenu zabilješku.
+(3) Vodni inspektori u slučajevima iz st. 1. i 2. ovog člana obavezno razmjenjuju kopije sačinjenog zapisnika,
+zabilješke i druge relevantne dokumente.
+
+Član 202
+(1) Zajednički inspekcijski pregled vodni inspektori iz Federacije i Republike Srpske dogovaraju putem glavnih
+vodnih inspektora.
+(2) Inicijativu za zajednički inspekcijski pregled može pokrenuti bilo koji od vodnih inspektora usmenim ili pisanim
+zahtjevom koji upućuje glavnom inspektoru ili nadležnom ministru iz Federacije, odnosno Republike Srpske.
+(3) Glavni vodni inspektori dužni su o dogovoru iz stava 1. ovog člana obavijestiti svog nadležnog ministra.
+
+3. Vodočuvarska služba
+Član 203
+(1) Radi sprečavanja zagađenja voda i oštećenja vodnih objekata Federalno ministarstvo može organizirati
+vodočuvarsku službu.
+(2) Federalni ministar donosi propis o ovlaštenjima i zadacima vodočuvarske službe iz stava 1. ovog člana.
+(3) Federalni ministar, uz saglasnost sa federalnim ministrom pravde, donosi propis o službenom znaku, iskaznici
+i uniformi vodočuvara.
+
+XIV. KAZNENE ODREDBE
+Član 204
+Prekršaji
+(1) Novčanom kaznom u iznosu od 5.000,00 KM do 50.000,00 KM bit će kažnjeno za prekršaj pravno lice ako:
+1. postupa suprotno odredbama iz člana 12. ovog Zakona;
+2. vodni objekat iz člana 14. ovog Zakona ne održava u funkcionalnom stanju i ne koristi ga u skladu sa njegovom
+prirodom i namjenom (Član 20. stav 1.);
+3. po prestanku upotrebe vodnog objekta iz člana 14. ovog Zakona ne postupi u skladu sa odredbama iz člana
+20. stav 2. ovog Zakona;
+4. ne čuva vodni objekat iz člana 14. ovog Zakona i uređaje na njemu u skladu sa odredbama iz člana 20. stav 5.
+ovog Zakona;
+5. ne osigura stalni i sistematski pregled vode i ne preduzme mjere za osiguranje zdravstvene ispravnosti vode za
+piće i tehničke ispravnosti uređaja (Član 48. stav 2.);
+6. vrši radnje suprotno odredbama iz člana 53. st. 2., 3. i 4. ovog Zakona;
+7. otpadnu vodu ispušta suprotno odredbi iz člana 54. stav 1. ovog Zakona;
+8. proizvodi, rukuje, čuva ili odlaže opasne materije i otpad na vodama i vodnom dobru (Član 59. stav 1.);
+9. ne preduzme mjere za sprečavanje ili ublažavanje uticaja prouzrokovanih incidentom i o tome pravovremeno
+ne obavijesti policijsku upravu, vodnu inspekciju ili agenciju za vode (Član 61. stav 1.);
+10. ne provodi odluku o zaštiti izvorišta (Član 66. stav 4.);
+11. ne preduzme mjere za zaštitu kupališta iz člana 72. stav 1. ovog Zakona (Član 72. stav 4.);
+12. obavlja radove i radnje zabranjene članom 96. stav 1. i članom 97. ovog Zakona;
+13. koristi vodu, ispušta otpadne vode u površinske vode i vodno dobro ili vrši druge aktivnosti i zahvate bez
+pribavljenog vodnog akta za koje je ovim Zakonom propisana obaveza pribavljanja vodnog akta (Član 109.);
+14. koristi vodu, ispušta otpadne vode u površinske vode i vodno dobro ili vrši druge aktivnosti i zahvate suprotno
+odredbama iz vodnog akta;
+15. po isteku roka važenja vodne saglasnosti za vađenje materijala ne dovede korito i obale vodotoka u stanje
+predviđeno vodnim aktom (Član 114. stav 5.);
+16. ne postupi po rješenju vodnog inspektora iz člana 190. stav 1. ovog Zakona.
+(2) Za prekršaj iz stava 1. ovog člana bit će kažnjeno i odgovorno lice u pravnom licu novčanom kaznom u iznosu
+od 500,00 KM do 5.000,00 KM.
+
+Član 205
+(1) Novčanom kaznom u iznosu od 2.000,00 KM do 20.000,00 KM bit će kažnjeno za prekršaj pravno lice ako:
+1. ne vodi evidenciju o količinama zahvaćene vode i o tome ne dostavlja podatke nadležnoj agenciji za vode
+(Član 50. stav 1.);
+2. prilikom rudarskih radova, iskopa tunela i drugih iskopa i bušenja tla naiđe na podzemnu vodu i o tome ne
+obavijesti nadležni organ (Član 52. stav 1.);
+3. ne dozvoli ovlaštenom licu uzimanje podataka i obavljanje potrebnih ispitivanja nađenog ležišta vode (Član 52.
+stav 2.);
+4. upotrebljava đubrivo ili sredstva za zaštitu biljaka na vodnom dobru (Član 56. stav 4.);
+5. vrši plovidbu plovilom koje za pogon koristi naftne derivate na površinskim vodama na kojima je to zabranjeno
+(Član 57. stav 1.);
+6. ispušta otpadne vode direktno iz plovila (Član 57. stav 4.);
+7. pere vozilo ili druge mašine i uređaje u površinskoj vodi (Član 58.);
+8. primijeti incident iz člana 61. stav 1. ovog Zakona, a o tome ne obavijesti nadležni organ (Član 61. stav 2.);
+9. ne poštuje odredbe odluke iz člana 70. stav 2. ovog Zakona;
+10. ne vrši zaštitu ekonomski važnih akvatičnih vrsta iz člana 71. stav 1. ovog Zakona;
+
+11. postavlja stalne ili privremene objekte ili druge prepreke ili ako sprečava slobodan prijelaz preko vodnog
+dobra i prilaz obalama na području kupališta (Član 72. stav 3.);
+12. ne provodi mjere zaštite kvantiteta i kvaliteta vode u osjetljivom području (Član 75. stav 2.);
+13. ne vrši monitoring od značaja za zaštitu od štetnog djelovanja vode i o tome ne dostavlja podatke u ISV (Član
+91. stav 4.);
+14. vrši radove i radnje zabranjene članom 96. stav 2. ovog Zakona;
+15. ne ustupi mjesno nadležnoj agenciji za vodno područje podatke koje posjeduje, a koji su od značaja za
+upravljanje vodama (Član 105.).
+(2) Za prekršaj iz stava 1. ovog člana bit će kažnjeno i odgovorno lice u pravnom licu novčanom kaznom u iznosu
+od 300,00 KM do 3.000,00 KM.
+
+Član 206
+Novčanom kaznom u iznosu od 100,00 KM do 2.000,00 KM bit će kažnjeno za prekršaj fizičko lice ako:
+1. postupa suprotno odredbama iz člana 12. ovog Zakona;
+2. vodni objekat iz člana 16. stav 3., člana 17. stav 3. i člana 18. ovog Zakona ne održava u funkcionalnom stanju
+i ne koristi ga u skladu sa njegovom prirodom i namjenom (Član 20. stav 1.);
+3. po prestanku upotrebe vodnog objekta iz člana 16. stav 3., člana 17. stav 3. i člana 18. ovog Zakona ne postupi
+u skladu sa odredbama iz člana 20. stav 2. ovog Zakona;
+4. ne čuva vodni objekat iz člana 16. stav 3., člana 17. stav 3. i člana 18. ovog Zakona i uređaje na njemu u
+skladu sa odredbama iz člana 20. stav 5. ovog Zakona;
+5. ne dozvoli ovlaštenom licu uzimanje podataka i obavljanje potrebnih ispitivanja nađenog ležišta vode (Član 52.
+stav 2.);
+6. vrši radnje suprotno odredbama iz člana 53. st. 1., 2., 3. i 4. ovog Zakona, ili indirektno ispušta otpadne vode u
+podzemne vode protivno načinu i uvjetima utvrđenim ovim Zakonom i preko graničnih vrijednosti utvrđenih
+podzakonskim propisom iz člana 55. stav 1. ovog Zakona;
+7. otpadnu vodu ispušta suprotno odredbi iz člana 54. stav 1. ovog Zakona;
+8. upotrebljava đubrivo ili sredstva za zaštitu biljaka na vodnom dobru (Član 56. stav 4.);
+9. vrši plovidbu plovilom koje za pogon koristi naftne derivate na površinskim vodama na kojima je to zabranjeno
+(Član 57. stav 1.);
+10. ispušta otpadne vode direktno iz plovila (Član 57. stav 4.);
+11. pere vozilo ili druge mašine i uređaje u površinskoj vodi (Član 58.);
+12. proizvodi, rukuje, čuva ili odlaže opasne materije i otpad na vodama i vodnom dobru (Član 59. stav 1.);
+13. ne preduzme potrebne mjere u sprečavanju ili ublažavanju uticaja prouzrokovanih incidentom i o tome
+pravovremeno ne obavijesti policijsku upravu, vodnu inspekciju ili agenciju za vode (Član 61. stav 1.);
+14. o incidentu iz člana 61. stav 1. ovog Zakona ne obavijesti nadležni organ (Član 61. stav 2.);
+15. ne poštuje zabrane iz odluke o zaštiti izvorišta iz člana 66. stav 4. ovog Zakona;
+16. ne poštuje zabrane iz odluke iz člana 70. stav 2. ovog Zakona;
+17. ne poštuje zabrane iz odluke o zaštiti ekonomski važnih akvatičnih vrsta iz člana 71. stav 1. ovog Zakona;
+18. postavlja stalne ili privremene objekte ili druge prepreke ili ako sprečava slobodan prijelaz preko vodnog
+dobra i prilaz obalama na području kupališta (Član 72. stav 3.);
+19. ne provodi mjere zaštite kvantiteta i kvaliteta vode u osjetljivom području (Član 75. stav 2.);
+20. obavlja radove i radnje zabranjene čl. 96. i 97. ovog Zakona;
+21. ne ustupi mjesno nadležnoj agenciji za vodno područje podatke koje posjeduje, a od značaja su za
+upravljanje vodama (Član 105.);
+22. koristi vodu, ispušta otpadne vode u površinske vode i vodno dobro ili vrši druge aktivnosti i zahvate bez
+pribavljenog vodnog akta za koje je ovim Zakonom propisana obaveza pribavljanja vodnog akta (Član 109.);
+23. koristi vodu, ispušta otpadne vode u površinske vode i vodno dobro ili vrši druge aktivnosti i zahvate suprotno
+odredbama iz vodnog akta;
+24. po isteku roka važenja vodne saglasnosti za vađenje materijala ne dovede korito i obale vodotoka u stanje
+predviđeno vodnim aktom (Član 114. stav 5.);
+25. ne postupi po rješenju vodnog inspektora iz člana 190. stav 1. ovog Zakona.
+
+XV. PRIJELAZNE I ZAVRŠNE ODREDBE
+Član 207
+Početak rada agencija za vode
+(1) "Agencija za vodno područje rijeke Save" i "Agencija za vodno područje Jadranskog mora" organizirat će se,
+sudski registrirati i početi sa radom u skladu sa ovim Zakonom u roku od šest mjeseci od dana stupanja na snagu
+ovog Zakona.
+
+(2) Osnivački akt za upis u sudski registar agencija za vode iz stava 1. ovog člana je ovaj Zakon.
+(3) Datum početka rada agencija iz stava 1. ovog člana je datum upisa u sudski registar.
+(4) Do početka rada agencija za vode Javno preduzeće za "Vodno područje slivova rijeke Save "Sarajevo i Javno
+preduzeće za "Vodno područje slivova Jadranskog mora" Mostar, poslove i zadatke iz svoje nadležnosti obavljaju
+prema Zakonu o vodama ("Službene novine Federacije BiH", broj 18/98) i propisima donesenim na osnovu tog
+Zakona.
+
+Član 208
+Do datuma upisa u sudski registar agencija iz člana 207. stav 1. ovog Zakona sredstva posebnih vodoprivrednih
+naknada uplaćivat će se u skladu sa Pravilnikom o načinu uplate javnih prihoda iz budžeta i vanbudžetskih
+fondova na teritoriji Federacije Bosne i Hercegovine ("Službene novine Federacije BiH", broj 6/05).
+
+Član 209
+Danom upisa u sudski registar agencija iz člana 207. stav 1. ovog Zakona:
+1. prestaju sa radom Javno preduzeće za "Vodno područje slivova rijeke Save" Sarajevo i Javno preduzeće za
+"Vodno područje slivova Jadranskog mora "Mostar;
+2. imovina, prava i obaveze Javnog preduzeća za "Vodno područje slivova rijeke Save" Sarajevo postaju imovina,
+prava i obaveze "Agencije za vodno područje rijeke Save" Sarajevo;
+3. imovina, prava i obaveze Javnog preduzeća za "Vodno područje slivova Jadranskog mora" Mostar postaju
+imovina, prava i obaveze "Agencije za vodno područje Jadranskog mora "Mostar.
+
+Član 210
+Status zaposlenika javnih preduzeća za vodna područja
+(1) Danom upisa u sudski registar "Agencije za vodno područje rijeke Save" zaposlenici Javnog preduzeća za
+"Vodno područje slivova rijeke Save" Sarajevo postaju zaposlenici "Agencije za vodno područje rijeke Save".
+(2) Danom upisa u sudski registar "Agencije za vodno područje Jadranskog mora" zaposlenici Javnog preduzeća
+za "Vodno područje slivova Jadranskog mora" Mostar postaju zaposlenici "Agencije za vodno područje
+Jadranskog mora".
+
+Član 211
+Upravni odbori
+(1) Vlada Federacije imenovat će predsjednika i članove upravnog odbora "Agencije za vodno područje rijeke
+Save", odnosno "Agencije za vodno područje Jadranskog mora" u roku od tri mjeseca od dana stupanja na snagu
+ovog Zakona.
+(2) Danom upisa u sudski registar agencija iz člana 207. stav 1. ovog Zakona, prestaje sa radom Upravni odbor
+Javnog preduzeća za "Vodno područje slivova rijeke Save"Sarajevo i Upravni odbor Javnog preduzeća za "Vodno
+područje slivova Jadranskog mora " Mostar.
+(3) Član upravnog odbora iz reda zaposlenika agencije za vode iz člana 207. stav 1. ovog Zakona za prvi upravni
+odbor bira se i imenuje iz reda zaposlenika Javnog preduzeća za "Vodno područje slivova rijeke Save" Sarajevo i
+Javnog preduzeća za "Vodno područje slivova Jadranskog mora" Mostar.
+
+Član 212
+Osnivanje savjetodavnog vijeća vodnog područja
+Savjetodavna vijeća vodnih područja iz člana 164. stav 1. ovog Zakona osnovat će se u roku od jedne godine od
+dana upisa u sudski registar agencija iz člana 207. stav 1. ovog Zakona.
+
+Član 213
+Planski dokumenti
+Do donešenja strategije upravljanja vodama iz člana 24. ovog Zakona kao planski dokumenti za upravljanje
+vodama u Federaciji koristit će se odgovarajući planovi i programi razvoja vodoprivrede i pojedinih oblasti
+vodoprivrede (zaštita od štetnog djelovanja voda, zaštita voda i korištenje voda) doneseni do dana stupanja na
+snagu ovog Zakona.
+
+Član 214
+Ranije izdati vodoprivredni akti
+(1) Vodoprivredne dozvole koje su izdate do dana početka rada agencija za vode iz člana 152. ovog Zakona,
+usaglasit će se sa odredbama ovog Zakona u roku do pet godina od dana stupanja na snagu ovog Zakona.
+
+(2) Vodoprivredni uvjeti koji su izdati do dana početka rada agencija za vode iz člana 152. ovog Zakona, usaglasit
+će se sa odredbama ovog Zakona pri izdavanju vodne saglasnosti.
+(3) Vodoprivredne saglasnosti koje su izdate do dana početka rada agencija za vode iz člana 152. ovog Zakona
+usaglasit će se sa odredbama ovog Zakona pri izdavanju vodnih dozvola.
+(4) Nosioci prava iz vodoprivrednog akta iz stava 1. ovog člana dužni su podnijeti zahtjev za preispitivanje vodne
+dozvole u roku do dvije godine od dana stupanja na snagu ovog Zakona.
+(5) U slučaju da zahtjev iz stava 4. ovog člana nije podnesen u roku iz stava 4. ovog člana vodoprivredni akt iz
+stava 1. ovog člana prestaje važiti.
+(6) Odredbe iz stava 1. ovog člana ne odnose se na vodoprivredne dozvole koje važe pet godina ili manje od
+dana stupanja na snagu ovog Zakona.
+
+Član 215
+Neriješeni zahtjevi za izdavanje vodoprivrednih akata
+Zahtjevi za izdavanje vodoprivrednih akata koji su podneseni nadležnom organu do dana početka rada agencija
+iz člana 152. ovog Zakona rješavat će se u skladu sa Zakonom o vodama ("Službene novine Federacije BiH", broj
+18/98) i propisima donesenim na osnovu tog Zakona.
+
+Član 216
+Inspekcijski nadzor
+(1) Do dana početka rada agencija iz člana 152. ovog Zakona inspekcijski nadzor vršit će se u skladu sa
+Zakonom o vodama ("Službene novine Federacije BiH", broj 18/98) i propisima donesenim na osnovu tog
+Zakona.
+(2) Odredbe člana 183. stav 1., člana 184. i člana 198. stav 1. ovog Zakona primjenjivat će se do dana
+organiziranja vodne inspekcije posebnim federalnim zakonom.
+
+Član 217
+Postupci po žalbama
+Postupci po žalbama koje nisu riješene do dana početka rada agencija iz člana 152. ovog Zakona rješavat će se
+u skladu sa Zakonom o vodama ("Službene novine Federacije BiH", broj 18/98) i propisima donesenim na osnovu
+tog Zakona.
+
+Član 218
+Postojeći objekti i aktivnosti za koje nije izdat vodoprivredni akt
+(1) Vlasnici, odnosno korisnici postojećih objekata i postrojenja koja iskorištavaju vode ili ispuštaju otpadne vode i
+druge opasne i štetne materije u vode za koje nije pribavljena vodoprivredna dozvola do dana stupanja na snagu
+ovog Zakona dužni su podnijeti zahtjev za izdavanje vodne dozvole u roku od šest mjeseci od dana početka rada
+agencija iz člana 152. ovog Zakona.
+(2) U slučaju da zahtjev iz stava 1. ovog člana nije podnesen u predviđenom roku, rješenjem nadležnog organa
+vodne inspekcije zabranit će se upotreba objekata, odnosno postrojenja iz stava 1. ovog člana.
+
+Član 219
+Rokovi za donošenje propisa Vlade Federacije
+(1) Propise iz člana 43. stav 1. i propis iz člana 25. stav 4. ovog Zakona Vlada Federacije donosi u roku od dvije
+godine od dana stupanja na snagu ovog Zakona.
+(2) Ostale propise za provođenje ovog Zakona Vlada Federacije donosi u roku od:
+1. šest mjeseci od dana stupanja na snagu ovog Zakona propise iz čl. 23. i 164. stav 3. i 5. i Član 171. ovog
+Zakona,
+2. jedne godine od dana stupanja na snagu ovog Zakona propis iz člana 173. stav 7. ovog Zakona,
+3. dvije godine od dana stupanja na snagu ovog Zakona propise iz čl. 55. i 57. ovog Zakona.
+
+Član 220
+Rokovi za donošenje propisa federalnih ministara
+(1) Propise za provođenje ovog Zakona federalni ministar donosi u roku od:
+1. šest mjeseci od dana stupanja na snagu ovog Zakona propis iz člana 107. stav 4., člana 120. stav 6. i člana
+174. stav 1. ovog Zakona,
+2. jedne godine od dana stupanja na snagu ovog Zakona propise iz čl. 10., 50. i 104. ovog Zakona,
+3. dvije godine od dana stupanja na snagu ovog Zakona propise iz čl. 64., 66., 86. i 90. ovog Zakona.
+
+(2) Propise iz čl. 59., 61., 73., 74. i 76. ovog Zakona federalni ministar nadležan za okoliš donosi u roku od godinu
+dana od dana stupanja na snagu ovog Zakona.
+
+Član 221
+Primjena postojećih podzakonskih propisa
+Do donošenja propisa iz člana 219. st. 1. i 2. i člana 220. st. 1. i 2. ovog Zakona primjenjivat će se podzakonski
+propisi doneseni na osnovu Zakona o vodama ("Službene novine Federacije BiH", broj 18/98), kao i podzakonski
+propisi koji su se primjenjivali do dana stupanja na snagu ovog Zakona, a koji nisu u suprotnosti sa ovim
+Zakonom.
+
+Član 222
+Kantonalni propisi
+(1) Kantoni su dužni odredbe kantonalnog zakona o vodama uskladiti sa odredbama ovog Zakona u roku od šest
+mjeseci od dana stupanja na snagu ovog Zakona.
+(2) Zakonima kantona reguliraju se pitanja organizacije i načina obavljanja poslova koji su ovim Zakonom stavljeni
+u nadležnost kantona.
+
+Član 223
+Prestanak primjene zakona
+Danom početka primjene ovog Zakona prestaju važiti:
+1. Zakon o vodama ("Službene novine Federacije BiH", broj 18/98),
+2. Zakon o zaštiti voda ("Službene novine Federacije BiH", br. 33/03 i 54/04.).
+
+Član 224
+Stupanje na snagu i početak primjene
+Ovaj Zakon stupa na snagu osmog dana od dana objavljivanja u "Službenim novinama Federacije BiH", a
+njegova primjena počinje danom početka rada agencija za vode, u skladu sa članom 207. stav 3. ovog Zakona.
+
