@@ -21,7 +21,12 @@ npm test
 ## Dodavanje propisa
 Tekst u `data/raw/<id>.txt` (članovi kao `Član N.`), unos u `data/registry.json`, pa `npm run ingest`. Za glasnike u PDF-u: `python3 scripts/extract_acts.py glasnik.pdf <broj_akta> data/raw/<id>.txt`. Status: `docs/propisi.md`.
 
-## Proxy (Claude API)
+## Proxy bez instalacije (Cloudflare dashboard)
+1. dash.cloudflare.com → Workers & Pages → Create → Create Worker → Deploy → Edit code
+2. Zamijeni sadržaj sadržajem `worker/worker.js` → Deploy
+3. Settings → Variables and Secrets: dodaj secrete `ANTHROPIC_API_KEY`, `ACCESS_CODE` i varijablu `ALLOWED_ORIGIN` (adresa tvog Pages sajta, npr. `https://pogonboskrupa.github.io`)
+
+## Proxy (Claude API, CLI)
 ```
 cd worker
 npx wrangler secret put ANTHROPIC_API_KEY   # Claude ključ (console.anthropic.com)
