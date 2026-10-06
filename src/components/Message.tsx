@@ -1,5 +1,6 @@
 import { useState } from 'preact/hooks';
 import { citedNumbers, renderMarkdown } from '../md';
+import { isConfigured } from '../settings';
 import { articleById, editLastQuestion, openSourceId, regenerate, toast } from '../store';
 import type { Article, Msg } from '../types';
 import { Icon } from './Icon';
@@ -79,11 +80,20 @@ export function AssistantMessage({ m, last, streamingText }: { m: Msg | null; la
         <div class={`md ${streamingText !== undefined ? 'caret' : ''}`} onClick={onClick} dangerouslySetInnerHTML={{ __html: renderMarkdown(text, ids.length) }} />
       )}
       {m && <SourceChips ids={ids} text={text} />}
+      {m && last && (m.kind === 'faq' || m.kind === 'search') && isConfigured() && (
+        <button class="btn sm ask-ai" onClick={() => void regenerate({ forceAi: true })}><Icon name="sparkle" size={14} /> Pitaj AI za detaljniji odgovor</button>
+      )}
       {m && (
         <div class="msg-actions">
           <button class="icon-btn sm" title="Kopiraj" onClick={() => void navigator.clipboard?.writeText(text).then(() => toast('Kopirano'))}><Icon name="copy" size={14} /></button>
-          {last && <button class="icon-btn sm" title="Generiši ponovo" onClick={() => void regenerate()}><Icon name="refresh" size={14} /></button>}
-          {m.model && <span class="muted xs">{m.model}{m.stopped ? ' · zaustavljeno' : ''}</span>}
+          {last && m.kind !== 'faq' && m.kind !== 'search' && <button class="icon-btn sm" title="Generiši ponovo" onClick={() => void regenerate()}><Icon name="refresh" size={14} /></button>}
+          {m.kind === 'faq' && (
+            <span class="pill ok" title={m.model?.includes('nacrt') ? 'Pripremljen odgovor još nije stručno pregledan – provjerite citirane članove' : 'Stručno pregledan odgovor'}>
+              {m.model ?? 'Pripremljen odgovor'}
+            </span>
+          )}
+          {m.kind === 'search' && <span class="pill" title="Izdvojeno iz propisa bez AI-ja">Bez AI</span>}
+          {m.kind !== 'faq' && m.kind !== 'search' && m.model && <span class="muted xs">{m.model}{m.stopped ? ' · zaustavljeno' : ''}</span>}
         </div>
       )}
     </div>

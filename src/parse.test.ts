@@ -52,3 +52,11 @@ describe('reflow', () => {
     expect(reflow('Unsko-\nsanskog kantona')).toBe('Unsko-sanskog kantona');
   });
 });
+
+import { amendedArticleNumbers } from './parse';
+describe('amendedArticleNumbers', () => {
+  it('prepoznaje "Član 50. mijenja se" i "U članu 65."', () => {
+    expect(amendedArticleNumbers('Član 50. mijenja se i glasi:')).toEqual(['50']);
+    expect(amendedArticleNumbers('(1) U članu 65. stav (1) riječi')).toEqual(['65']);
+  });
+});

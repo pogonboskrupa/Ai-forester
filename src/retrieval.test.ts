@@ -28,3 +28,35 @@ describe.skipIf(!existsSync(file))('sinonimi', () => {
     expect(top).toContain('usk-pravilnik-zigosanje-otpremni');
   });
 });
+
+import { buildFaqIndex, extractiveAnswer, matchFaq } from './answer';
+import type { FaqEntry } from './types';
+
+const faqFile = 'public/data/faq.json';
+describe.skipIf(!existsSync(faqFile))('provjereni odgovori', () => {
+  const faq = JSON.parse(readFileSync(faqFile, 'utf8')) as FaqEntry[];
+  const ms = buildFaqIndex(faq);
+  const m = (q: string) => matchFaq(ms, faq, q)?.id ?? null;
+
+  it('prepoznaje česta pitanja različito formulisana', () => {
+    expect(m('Kako dobiti dozvolu za sječu u privatnoj šumi?')).toBe('doznaka-privatna');
+    expect(m('Šta je otpremni iskaz?')).toBe('otpremni-iskaz-sta');
+    expect(m('koja je kazna za bespravnu sječu')).toBe('kazne-fizicka-lica');
+    expect(m('smijem li ložiti vatru blizu šume')).toBe('vatra-u-sumi');
+    expect(m('ko plaća naknadu za općekorisne funkcije')).toBe('naknada-opcekorisne');
+  });
+  it('ne vraća gotov odgovor za nepovezana pitanja', () => {
+    expect(m('Koliko košta lovačka karta za divlju svinju?')).toBeNull();
+    expect(m('Kako se registruje rasadnik sadnica?')).toBeNull();
+  });
+});
+
+describe.skipIf(!existsSync(file))('odgovor bez AI-ja', () => {
+  const arts = JSON.parse(readFileSync(file, 'utf8')) as Article[];
+  const idx = buildIndex(arts);
+  it('izdvaja rečenice s citatima', () => {
+    const ans = extractiveAnswer('rok važenja otpremnog iskaza', retrieve(idx, 'rok važenja otpremnog iskaza', 5));
+    expect(ans).toContain('[1]');
+    expect(ans).toMatch(/48 sati/);
+  });
+});

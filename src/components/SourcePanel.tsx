@@ -17,6 +17,20 @@ export function SourcePanel() {
         </div>
         <button class="icon-btn" aria-label="Zatvori" onClick={close}><Icon name="x" /></button>
       </header>
+      {a.amendedBy?.length ? (
+        <div class="amend-note">
+          <Icon name="alert" size={16} />
+          <div>
+            <strong>Ovaj član je izmijenjen.</strong>
+            {a.amendedBy.map((id) => {
+              const am = articleById(id);
+              return am ? (
+                <button key={id} class="link small" onClick={() => (openSourceId.value = id)}>{am.lawTitle} ({am.gazette}), član {am.number}</button>
+              ) : null;
+            })}
+          </div>
+        </div>
+      ) : null}
       <div class="source-body">{a.text}</div>
       <footer>
         <button class="btn sm" onClick={() => void navigator.clipboard?.writeText(`${a.lawTitle}, član ${a.number}\n\n${a.text}`).then(() => toast('Član kopiran'))}>

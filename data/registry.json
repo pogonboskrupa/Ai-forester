@@ -17,7 +17,8 @@
   "gazette": "Sl. glasnik USK 16/16",
   "inForce": true,
   "sourceUrl": "https://vladausk.ba/v4/preuzimanje/9",
-  "topic": "Šumarstvo"
+  "topic": "Šumarstvo",
+  "amends": "usk-zakon-o-sumama"
  },
  {
   "id": "usk-zakon-izmjena-2017",
@@ -27,7 +28,8 @@
   "gazette": "Sl. glasnik USK 12/17",
   "inForce": true,
   "sourceUrl": "https://vladausk.ba/v4/preuzimanje/9",
-  "topic": "Šumarstvo"
+  "topic": "Šumarstvo",
+  "amends": "usk-zakon-o-sumama"
  },
  {
   "id": "usk-pravilnik-doznaka",
@@ -117,7 +119,8 @@
   "gazette": "Sl. novine FBiH (izmjene)",
   "inForce": true,
   "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-zakoni/",
-  "topic": "Sjeme i rasadnici"
+  "topic": "Sjeme i rasadnici",
+  "amends": "fbih-zakon-o-sjemenu"
  },
  {
   "id": "bih-zakon-zdravlje-bilja",
@@ -157,7 +160,8 @@
   "gazette": "Sl. novine FBiH (Vlada FBiH)",
   "inForce": true,
   "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-odluke/",
-  "topic": "Šumarstvo"
+  "topic": "Šumarstvo",
+  "amends": "fbih-odluka-prodaja-sortimenata"
  },
  {
   "id": "fbih-pravilnik-registri-sjemena",
@@ -407,7 +411,8 @@
   "gazette": "Sl. novine FBiH 26/10",
   "inForce": true,
   "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-uredbe/",
-  "topic": "Šumarstvo"
+  "topic": "Šumarstvo",
+  "amends": "fbih-uredba-o-sumama"
  },
  {
   "id": "fbih-uredba-o-sumama-izmjene-6011",
@@ -417,7 +422,8 @@
   "gazette": "Sl. novine FBiH 60/11",
   "inForce": true,
   "sourceUrl": "https://fmpvs.gov.ba/sumarstvo-uredbe/",
-  "topic": "Šumarstvo"
+  "topic": "Šumarstvo",
+  "amends": "fbih-uredba-o-sumama"
  },
  {
   "id": "fbih-zakon-o-zastiti-okolisa",

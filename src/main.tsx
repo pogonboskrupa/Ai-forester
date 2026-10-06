@@ -42,7 +42,7 @@ function App() {
   if (!ready.value) return <div class="boot"><div class="spinner" /><p class="muted">Učitavam propise…</p></div>;
   const v = view.value;
   return (
-    <div class={`app ${openSourceId.value && v === 'chat' ? 'with-panel' : ''}`}>
+    <div class={`app ${openSourceId.value ? 'with-panel' : ''}`}>
       <Sidebar />
       {drawerOpen.value && <div class="scrim" onClick={() => (drawerOpen.value = false)} />}
       <main class="main">
@@ -51,8 +51,8 @@ function App() {
         {v === 'project' && <ProjectEditor />}
         {v === 'settings' && <Settings />}
       </main>
-      {v === 'chat' && openSourceId.value && <div class="panel-scrim" onClick={() => (openSourceId.value = null)} />}
-      {v === 'chat' && <SourcePanel />}
+      {openSourceId.value && <div class="panel-scrim" onClick={() => (openSourceId.value = null)} />}
+      <SourcePanel />
       <Toasts />
     </div>
   );

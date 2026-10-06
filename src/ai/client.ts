@@ -1,4 +1,4 @@
-import { settings, type Settings } from '../settings';
+import { configuredProviders, hasKey, modelOf, PROVIDER_NAMES, settings, type Provider, type Settings } from '../settings';
 import { readSse } from './sse';
 
 export interface Turn {
@@ -107,6 +107,46 @@ async function streamClaude(s: Settings, req: StreamRequest): Promise<void> {
   }
 }
 
+/** OpenAI Chat Completions uz streaming (direktno iz browsera, korisnikov ključ). */
+async function streamOpenAI(s: Settings, req: StreamRequest): Promise<void> {
+  for (let attempt = 0; ; attempt++) {
+    const res = await fetch('https://api.openai.com/v1/chat/completions', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${s.openaiKey}` },
+      body: JSON.stringify({
+        model: s.openaiModel,
+        stream: true,
+        messages: [{ role: 'system', content: req.system }, ...req.messages.map((m) => ({ role: m.role, content: m.text }))],
+      }),
+      signal: req.signal,
+    });
+    if (res.ok) {
+      let got = false;
+      for await (const data of readSse(res, req.signal)) {
+        if (data === '[DONE]') break;
+        const chunk = JSON.parse(data) as { choices?: { delta?: { content?: string; refusal?: string } }[] };
+        const delta = chunk.choices?.[0]?.delta;
+        const text = delta?.content ?? '';
+        if (text) {
+          got = true;
+          req.onText(text);
+        }
+        if (delta?.refusal) throw new AiError('Model je odbio odgovoriti na ovaj upit.');
+      }
+      if (!got) throw new AiError('Prazan odgovor modela.');
+      return;
+    }
+    const delay = RETRY_DELAYS[attempt];
+    if ((res.status === 429 || res.status >= 500) && delay !== undefined && attempt < 2) {
+      await sleep(delay, req.signal);
+      continue;
+    }
+    const detail = ((await res.json().catch(() => null)) as { error?: { message?: string } } | null)?.error?.message;
+    if (res.status === 401) throw new AiError('OpenAI API ključ nije ispravan.');
+    throw new AiError(`ChatGPT ${res.status}${detail ? `: ${detail}` : ''}`, res.status === 429 || res.status >= 500);
+  }
+}
+
 /** Proxy (Cloudflare Worker) ne streamuje: cijeli odgovor stiže odjednom. */
 async function streamProxy(s: Settings, req: StreamRequest): Promise<void> {
   const res = await fetch(s.proxyUrl, {
@@ -122,17 +162,34 @@ async function streamProxy(s: Settings, req: StreamRequest): Promise<void> {
   req.onText(data.text);
 }
 
-export function streamCompletion(req: StreamRequest, s: Settings = settings.value): Promise<void> {
-  if (s.provider === 'claude') {
-    if (!s.claudeKey) throw new AiError('Unesite Claude API ključ u Postavkama.');
-    return streamClaude(s, req);
-  }
-  if (s.provider === 'proxy') {
-    if (!s.proxyUrl) throw new AiError('Unesite adresu proxyja u Postavkama.');
-    return streamProxy(s, req);
-  }
-  if (!s.geminiKey) throw new AiError('Unesite Gemini API ključ u Postavkama.');
+function streamWith(p: Provider, s: Settings, req: StreamRequest): Promise<void> {
+  if (p === 'claude') return streamClaude(s, req);
+  if (p === 'openai') return streamOpenAI(s, req);
+  if (p === 'proxy') return streamProxy(s, req);
   return streamGemini(s, req);
+}
+
+/**
+ * Pokušava odabrani AI, a ako ne odgovori prije prvog teksta (kvota, preopterećenje, mreža)
+ * i uključen je fallback, prelazi na sljedeći s unesenim ključem. Vraća oznaku AI-ja koji je odgovorio.
+ */
+export async function streamCompletion(req: StreamRequest, s: Settings = settings.value): Promise<string> {
+  const others = configuredProviders(s).filter((p) => p !== s.provider);
+  const order = hasKey(s.provider, s) ? [s.provider, ...(s.fallback ? others : [])] : others.slice(0, s.fallback ? undefined : 1);
+  if (!order.length) throw new AiError('Nije povezan nijedan AI. Unesite API ključ u Postavkama ili uključite režim bez AI-ja.');
+
+  const failures: string[] = [];
+  for (const p of order) {
+    let started = false;
+    try {
+      await streamWith(p, s, { ...req, onText: (d) => { started = true; req.onText(d); } });
+      return `${PROVIDER_NAMES[p]} · ${modelOf(p, s)}`;
+    } catch (e) {
+      if (isAbort(e) || started) throw e;
+      failures.push(`${PROVIDER_NAMES[p]}: ${e instanceof Error ? e.message : 'greška'}`);
+    }
+  }
+  throw new AiError(failures.join('\n'));
 }
 
 export const isAbort = (e: unknown): boolean => e instanceof DOMException && e.name === 'AbortError' || (e as { name?: string })?.name === 'APIUserAbortError';

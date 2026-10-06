@@ -1,10 +1,11 @@
 import { batch, computed, effect, signal } from '@preact/signals';
 import type MiniSearch from 'minisearch';
-import type { Article, Conversation, LawInfo, Msg, Project } from './types';
+import type { Article, Conversation, FaqEntry, LawInfo, Msg, Project } from './types';
+import { buildFaqIndex, extractiveAnswer, matchFaq } from './answer';
 import { buildIndex, retrieve } from './search';
 import { isAbort, streamCompletion, type Turn } from './ai/client';
 import { buildPrompt, systemPrompt } from './ai/prompt';
-import { providerLabel } from './settings';
+import { isConfigured, settings } from './settings';
 import { loadConversations, loadProjects, saveConversations, saveProjects } from './storage';
 
 export type View = 'chat' | 'library' | 'project' | 'settings';
@@ -15,6 +16,7 @@ const HISTORY_TURNS = 8;
 
 export const articles = signal<Article[]>([]);
 export const laws = signal<LawInfo[]>([]);
+export const faq = signal<FaqEntry[]>([]);
 export const projects = signal<Project[]>([]);
 export const conversations = signal<Conversation[]>([]);
 export const activeConvId = signal<string | null>(null);
@@ -45,6 +47,7 @@ export function toast(text: string, kind: Toast['kind'] = 'ok'): void {
 }
 
 let index: MiniSearch<Article> | null = null;
+let faqIndex: MiniSearch<FaqEntry> | null = null;
 const byId = computed(() => new Map(articles.value.map((a) => [a.id, a])));
 export const articleById = (id: string) => byId.value.get(id);
 export const lawById = (id: string) => laws.value.find((l) => l.id === id);
@@ -56,20 +59,23 @@ export const searchArticles = (q: string, lawIds?: string[], k = 30): Article[] 
 
 export async function init(): Promise<void> {
   try {
-    const [a, l, p, c] = await Promise.all([
+    const [a, l, f, p, c] = await Promise.all([
       fetch('./data/articles.json').then((r) => r.json() as Promise<Article[]>),
       fetch('./data/laws.json').then((r) => r.json() as Promise<LawInfo[]>),
+      fetch('./data/faq.json').then((r) => (r.ok ? (r.json() as Promise<FaqEntry[]>) : [])),
       loadProjects(),
       loadConversations(),
     ]);
     batch(() => {
       articles.value = a;
       laws.value = l;
+      faq.value = f;
       projects.value = p;
       conversations.value = c;
       activeConvId.value = [...c].sort((x, y) => y.updatedAt - x.updatedAt)[0]?.id ?? null;
     });
     index = buildIndex(a);
+    faqIndex = buildFaqIndex(f);
     ready.value = true;
   } catch {
     loadError.value = 'Baza propisa nije učitana. Provjerite internet vezu i osvježite stranicu.';
@@ -145,40 +151,77 @@ const toTurns = (history: Msg[]): Turn[] =>
     .slice(-HISTORY_TURNS)
     .map((m) => ({ role: m.role, text: m.text }));
 
-async function generate(convId: string, question: string, history: Msg[]): Promise<void> {
+/** Uz pronađeni član dodaje i članove zakona o izmjenama koji ga mijenjaju (da odgovor ne bude zastario). */
+function withAmendments(ctx: Article[], limit: number): Article[] {
+  const out = [...ctx];
+  const seen = new Set(out.map((a) => a.id));
+  for (const a of ctx) {
+    for (const id of a.amendedBy ?? []) {
+      const am = articleById(id);
+      if (am && !seen.has(id) && out.length < limit) {
+        out.splice(out.indexOf(a) + 1, 0, am);
+        seen.add(id);
+      }
+    }
+  }
+  return out;
+}
+
+interface GenerateOptions { forceAi?: boolean }
+
+async function generate(convId: string, question: string, history: Msg[], opts: GenerateOptions = {}): Promise<void> {
   const conv = conversations.value.find((c) => c.id === convId);
   if (!conv || !index) return;
   const project = projectOf(conv.projectId);
-  const ctx = retrieve(index, retrievalQuery(question, history), CONTEXT_K, project?.lawIds);
+  const s = settings.value;
+  const useAi = opts.forceAi || (s.mode === 'ai' && isConfigured());
   const msgId = uid();
+  const finish = (reply: Msg) =>
+    batch(() => {
+      patchConv(convId, (c) => ({ ...c, messages: [...c.messages, reply], updatedAt: Date.now() }));
+      streaming.value = null;
+    });
+
+  // 1) Provjereni odgovor iz baze čestih pitanja: trenutan, besplatan, isti svaki put.
+  const hit = !opts.forceAi && faqIndex ? matchFaq(faqIndex, faq.value, question) : null;
+  if (hit) {
+    finish({ id: msgId, role: 'assistant', text: hit.answer, sourceIds: hit.sourceIds, kind: 'faq', model: hit.reviewed ? 'Provjeren odgovor' : 'Pripremljen odgovor · nacrt', ts: Date.now() });
+    return;
+  }
+
+  const ctx = withAmendments(retrieve(index, retrievalQuery(question, history), CONTEXT_K, project?.lawIds), CONTEXT_K + 3);
+  const base = { id: msgId, role: 'assistant' as const, sourceIds: ctx.map((a) => a.id), ts: Date.now() };
+
+  // 2) Bez AI-ja: izdvojene odredbe iz pretrage.
+  if (!useAi) {
+    finish({ ...base, text: extractiveAnswer(question, ctx), kind: 'search', model: 'Pretraga (bez AI)' });
+    return;
+  }
+
+  // 3) AI odgovor uz streaming.
   controller = new AbortController();
   streaming.value = { convId, msgId, text: '' };
-
-  const base = { id: msgId, role: 'assistant' as const, sourceIds: ctx.map((a) => a.id), model: providerLabel(), ts: Date.now() };
   let reply: Msg;
   try {
-    await streamCompletion({
+    const model = await streamCompletion({
       system: systemPrompt(project),
       messages: [...toTurns(history), { role: 'user', text: buildPrompt(question, ctx) }],
       signal: controller.signal,
       onText: (d) => {
-        const s = streaming.value;
-        if (s?.msgId === msgId) streaming.value = { ...s, text: s.text + d };
+        const cur = streaming.value;
+        if (cur?.msgId === msgId) streaming.value = { ...cur, text: cur.text + d };
       },
     });
-    reply = { ...base, text: streaming.value?.text ?? '' };
+    reply = { ...base, text: streaming.value?.text ?? '', kind: 'ai', model };
   } catch (e) {
     const partial = streaming.value?.text ?? '';
     reply = isAbort(e)
-      ? { ...base, text: partial || '_Zaustavljeno._', stopped: true }
-      : { ...base, text: e instanceof Error ? e.message : 'Nepoznata greška.', error: true };
+      ? { ...base, text: partial || '_Zaustavljeno._', stopped: true, kind: 'ai' }
+      : { ...base, text: e instanceof Error ? e.message : 'Nepoznata greška.', error: true, kind: 'ai' };
   } finally {
     controller = null;
   }
-  batch(() => {
-    patchConv(convId, (c) => ({ ...c, messages: [...c.messages, reply], updatedAt: Date.now() }));
-    streaming.value = null;
-  });
+  finish(reply);
 }
 
 export async function sendMessage(text: string): Promise<void> {
@@ -198,14 +241,14 @@ export async function sendMessage(text: string): Promise<void> {
 }
 
 /** Ponovo generiše zadnji odgovor (npr. nakon greške ili s drugim modelom). */
-export async function regenerate(): Promise<void> {
+export async function regenerate(opts: GenerateOptions = {}): Promise<void> {
   const conv = activeConv.value;
   if (!conv || busy.value) return;
   const lastUserIdx = conv.messages.map((m) => m.role).lastIndexOf('user');
   const question = conv.messages[lastUserIdx];
   if (!question) return;
   patchConv(conv.id, (c) => ({ ...c, messages: c.messages.slice(0, lastUserIdx + 1) }));
-  await generate(conv.id, question.text, conv.messages.slice(0, lastUserIdx));
+  await generate(conv.id, question.text, conv.messages.slice(0, lastUserIdx), opts);
 }
 
 /** Uređivanje zadnjeg pitanja: briše ga (i odgovor) i vraća tekst u polje za unos. */

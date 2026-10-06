@@ -8,7 +8,7 @@ Kako odgovaraš:
 - Svaku tvrdnju potkrijepi oznakom izvoda u uglastim zagradama, npr. [1] ili [2][4]. Ne navodi izvore drugačije i ne pravi listu izvora na kraju; aplikacija ih prikazuje.
 - Počni direktnim odgovorom u jednoj do dvije rečenice, zatim po potrebi razradi u kratkim pasusima ili listama (rokovi, nadležni organ, obaveze, kazne).
 - Kada se kantonalni i federalni propis razlikuju, navedi oba i napomeni da kantonalni propis uređuje pitanja u nadležnosti kantona.
-- Ako je izvod iz zakona o izmjenama, istakni da je odredba izmijenjena.`;
+- Izvodi iz zakona o izmjenama imaju prednost nad osnovnim tekstom člana koji mijenjaju; tada odgovori prema izmijenjenom tekstu i to naglasi.`;
 
 export function systemPrompt(project: Project | null): string {
   const extra = project?.instructions.trim();

@@ -1,19 +1,26 @@
 import { useEffect, useRef } from 'preact/hooks';
-import { isConfigured, providerLabel, settings } from '../settings';
+import { PROVIDER_NAMES, configuredProviders, isConfigured, modelOf, settings, updateSettings } from '../settings';
 import {
-  activeConv, busy, conversationToMarkdown, draft, drawerOpen, filterProjectId, laws, moveConversation, projectOf,
+  activeConv, busy, conversationToMarkdown, draft, drawerOpen, faq, filterProjectId, laws, moveConversation, projectOf,
   projects, renameConversation, sendMessage, stopGeneration, streaming, toast, view,
 } from '../store';
 import type { Conversation } from '../types';
 import { Icon } from './Icon';
 import { AssistantMessage, UserMessage } from './Message';
 
-const SUGGESTIONS = [
-  { t: 'Doznaka i sječa', q: 'Ko vrši doznaku stabala u privatnoj šumi i koji je postupak?' },
-  { t: 'Prijevoz drveta', q: 'Šta mora sadržavati otpremni iskaz za prijevoz drveta?' },
-  { t: 'Kazne', q: 'Koje su kazne za bespravnu sječu prema Zakonu o šumama USK?' },
-  { t: 'Naknade', q: 'Kako se obračunava naknada za zaštitu i unapređenje šuma?' },
+const FALLBACK_SUGGESTIONS = [
+  { t: 'Doznaka i sječa', q: 'Kako dobiti doznaku i dozvolu za sječu u privatnoj šumi?' },
+  { t: 'Promet drveta', q: 'Šta je otpremni iskaz i šta mora sadržavati?' },
+  { t: 'Kazne', q: 'Koje su kazne za bespravnu sječu i prevoz drveta bez otpremnice?' },
+  { t: 'Naknade', q: 'Ko plaća naknadu za općekorisne funkcije šuma i koliko?' },
 ];
+
+/** Po jedno pitanje iz različitih tema baze čestih pitanja. */
+function suggestions(): { t: string; q: string }[] {
+  const seen = new Set<string>();
+  const out = faq.value.filter((f) => !seen.has(f.topic) && seen.add(f.topic)).slice(0, 4).map((f) => ({ t: f.topic, q: f.q }));
+  return out.length >= 2 ? out : FALLBACK_SUGGESTIONS;
+}
 
 function download(c: Conversation): void {
   const url = URL.createObjectURL(new Blob([conversationToMarkdown(c)], { type: 'text/markdown' }));
@@ -38,20 +45,45 @@ function Welcome() {
         <div class="callout">
           <Icon name="key" />
           <div>
-            <strong>Povežite AI model</strong>
-            <p>Za odgovore je potreban API ključ (besplatni Gemini ili Claude). Ključ ostaje samo u ovom pregledniku.</p>
-            <button class="btn primary sm" onClick={() => (view.value = 'settings')}>Otvori postavke</button>
+            <strong>Radi i bez AI-ja</strong>
+            <p>Česta pitanja imaju pripremljene odgovore, a za ostala dobijate izdvojene odredbe iz propisa. Za objašnjenja vlastitim riječima povežite Gemini, ChatGPT ili Claude.</p>
+            <button class="btn sm" onClick={() => (view.value = 'settings')}>Poveži AI</button>
           </div>
         </div>
       )}
       <div class="suggestions">
-        {SUGGESTIONS.map((s) => (
-          <button key={s.q} class="suggestion" disabled={!configured} onClick={() => void sendMessage(s.q)}>
+        {suggestions().map((s) => (
+          <button key={s.q} class="suggestion" onClick={() => void sendMessage(s.q)}>
             <span class="s-title">{s.t}</span>
             <span class="s-q">{s.q}</span>
           </button>
         ))}
       </div>
+    </div>
+  );
+}
+
+/** Prekidač AI / Bez AI i izbor AI-ja (među povezanim) direktno ispod polja za pitanje. */
+function ModeBar() {
+  const s = settings.value;
+  const providers = configuredProviders(s);
+  const aiOn = s.mode === 'ai' && providers.length > 0;
+  return (
+    <div class="modebar">
+      <div class="segmented xs" role="radiogroup" aria-label="Način odgovaranja">
+        <button role="radio" aria-checked={aiOn} class={aiOn ? 'on' : ''} onClick={() => (providers.length ? updateSettings({ mode: 'ai' }) : (view.value = 'settings'))}>
+          <Icon name="sparkle" size={14} /> AI
+        </button>
+        <button role="radio" aria-checked={!aiOn} class={!aiOn ? 'on' : ''} onClick={() => updateSettings({ mode: 'search' })}>
+          <Icon name="search" size={14} /> Bez AI
+        </button>
+      </div>
+      {aiOn && (
+        <select class="select xs" aria-label="AI model" value={providers.includes(s.provider) ? s.provider : providers[0]} onChange={(e) => updateSettings({ provider: e.currentTarget.value as typeof s.provider })}>
+          {providers.map((p) => <option key={p} value={p}>{PROVIDER_NAMES[p]} · {modelOf(p, s)}</option>)}
+        </select>
+      )}
+      <span class="muted xs grow right">Informativno, nije pravni savjet.</span>
     </div>
   );
 }
@@ -105,10 +137,7 @@ function Composer() {
           <button class="send" aria-label="Pošalji" disabled={!draft.value.trim()}><Icon name="send" size={18} /></button>
         )}
       </div>
-      <p class="hint">
-        <button type="button" class="link" onClick={() => (view.value = 'settings')}>{isConfigured() ? providerLabel() : 'AI nije povezan'}</button>
-        <span> · Enter šalje, Shift+Enter novi red · Informativno, nije pravni savjet.</span>
-      </p>
+      <ModeBar />
     </form>
   );
 }
