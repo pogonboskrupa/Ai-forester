@@ -22,10 +22,14 @@ describe('tokenize', () => {
 
 import { renderMarkdown } from './md';
 describe('renderMarkdown', () => {
-  it('escapuje HTML i označava citate', () => {
-    const h = renderMarkdown('<script>x</script>\n- [Zakon o šumama, član 5]');
+  it('escapuje HTML i pretvara [n] u citat samo za postojeće izvore', () => {
+    const h = renderMarkdown('<script>x</script>\n- Tekst [1][2] i [9]', 2);
     expect(h).not.toContain('<script>');
-    expect(h).toContain('class="cite"');
+    expect(h.match(/class="cite"/g)?.length).toBe(2);
+    expect(h).toContain('[9]');
+  });
+  it('renderuje tabelu', () => {
+    expect(renderMarkdown('| A | B |\n|---|---|\n| 1 | 2 |')).toContain('<table>');
   });
 });
 
@@ -34,5 +38,25 @@ describe('parseArticles bez članova', () => {
     const a = parseArticles('NAPUTAK\n\n1.\n\nPrvi paragraf.\n\n2.\n\nDrugi.', law);
     expect(a.length).toBeGreaterThan(0);
     expect(a[0]?.number).toBe('dio 1');
+  });
+});
+
+import { reflow } from './parse';
+describe('reflow', () => {
+  it('spaja prelomljene redove, čuva stavove i tačke', () => {
+    expect(reflow('(1) Doznaka se vrši\nobilježavanjem stabala.\n(2) Drugi stav\na) prva tačka;\nb) druga')).toBe(
+      '(1) Doznaka se vrši obilježavanjem stabala.\n(2) Drugi stav\na) prva tačka;\nb) druga',
+    );
+  });
+  it('spaja red prelomljen na crtici i čuva složenicu', () => {
+    expect(reflow('Unsko-\nsanskog kantona')).toBe('Unsko-sanskog kantona');
+  });
+});
+
+import { amendedArticleNumbers } from './parse';
+describe('amendedArticleNumbers', () => {
+  it('prepoznaje "Član 50. mijenja se" i "U članu 65."', () => {
+    expect(amendedArticleNumbers('Član 50. mijenja se i glasi:')).toEqual(['50']);
+    expect(amendedArticleNumbers('(1) U članu 65. stav (1) riječi')).toEqual(['65']);
   });
 });
