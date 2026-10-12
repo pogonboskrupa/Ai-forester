@@ -72,11 +72,22 @@ export function extractiveAnswer(question: string, ctx: Article[], max = 5): str
     return 'Nisam pronašao odredbe koje odgovaraju pitanju. Pokušajte drugim riječima (npr. "doznaka", "otpremni iskaz", "kazna za sječu") ili pretražite Biblioteku.';
   }
   const tokens = contentTokens(question);
-  const blocks = ctx.slice(0, max).map((a, i) => {
-    const title = `**${a.lawTitle}, član ${a.number}${a.heading ? ` – ${a.heading}` : ''}** [${i + 1}]`;
-    const quotes = bestSentences(a.text, tokens, 2).map((s) => `> ${s}`).join('\n');
-    const amended = a.amendedBy?.length ? '\n_Ovaj član je izmijenjen kasnijim zakonom – otvorite izvor za detalje._' : '';
-    return `${title}\n${quotes}${amended}`;
+  const shown = ctx.slice(0, max);
+  const pos = new Map(ctx.map((a, i) => [a.id, i + 1]));
+  const amends = new Set(shown.flatMap((a) => a.amendedBy ?? []));
+  const blocks = shown.map((a, i) => {
+    const name = `${a.lawTitle}, član ${a.number}${a.heading ? ` – ${a.heading}` : ''}`;
+    const refs = (a.amendedBy ?? []).map((id) => pos.get(id)).filter((n): n is number => !!n);
+    if (refs.length) {
+      // Zastarjeli tekst: kratko, precrtano, uz upućivanje na važeću izmjenu.
+      const quote = bestSentences(a.text, tokens, 1).map((s) => `> ~~${s}~~`).join('\n');
+      return `~~${name}~~ [${i + 1}] – **zastarjeli tekst**, važi izmjena ${refs.map((n) => `[${n}]`).join('')}\n${quote}`;
+    }
+    const title = amends.has(a.id) ? `**Važeća izmjena – ${name}** [${i + 1}]` : `**${name}** [${i + 1}]`;
+    // Članovi zakona o izmjenama su kratki i smisleni samo cijeli.
+    const quotes = amends.has(a.id) ? `> ${a.text.length > 700 ? `${a.text.slice(0, 680)}…` : a.text}`.replace(/\n/g, '\n> ') : bestSentences(a.text, tokens, 2).map((s) => `> ${s}`).join('\n');
+    const outdatedNoRef = a.amendedBy?.length ? '\n_Član je izmijenjen kasnijim zakonom – otvorite izvor za važeći tekst._' : '';
+    return `${title}\n${quotes}${outdatedNoRef}`;
   });
   return `Najrelevantnije odredbe za vaše pitanje:\n\n${blocks.join('\n\n')}`;
 }

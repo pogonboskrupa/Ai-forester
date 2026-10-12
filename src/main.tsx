@@ -11,6 +11,7 @@ import { Settings } from './components/Settings';
 import { Sidebar } from './components/Sidebar';
 import { SourcePanel } from './components/SourcePanel';
 import { Toasts } from './components/Toasts';
+import { Tools } from './components/tools/Tools';
 import { UpdateBanner } from './components/Update';
 import { setupUpdateChecks } from './update';
 import { restorePrivate } from './private';
@@ -65,6 +66,7 @@ function App() {
         {v === 'project' && <ProjectEditor />}
         {v === 'settings' && <Settings />}
         {v === 'import' && <ImportPdf />}
+        {v === 'tools' && <Tools />}
       </main>
       {openSourceId.value && <div class="panel-scrim" onClick={() => (openSourceId.value = null)} />}
       <SourcePanel />

@@ -104,6 +104,7 @@ export function Sidebar() {
             <Icon name="download" size={16} /> Instaliraj aplikaciju
           </button>
         )}
+        <button class={`nav-item ${view.value === 'tools' ? 'on' : ''}`} onClick={() => go('tools')}><Icon name="tool" size={16} /> Alati</button>
         {privateUnlocked.value && (
           <button class={`nav-item ${view.value === 'library' && libraryTab.value === 'spd' ? 'on' : ''}`} onClick={() => { libraryTab.value = 'spd'; libraryFocus.value = null; go('library'); }}>
             <Icon name="folder" size={16} /> Pravilnici ŠPD

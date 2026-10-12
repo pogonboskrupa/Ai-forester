@@ -21,7 +21,7 @@ export function SourcePanel() {
         <div class="amend-note">
           <Icon name="alert" size={16} />
           <div>
-            <strong>Ovaj član je izmijenjen.</strong>
+            <strong>Zastarjeli tekst – član je izmijenjen.</strong>
             {a.amendedBy.map((id) => {
               const am = articleById(id);
               return am ? (
@@ -31,7 +31,12 @@ export function SourcePanel() {
           </div>
         </div>
       ) : null}
-      <div class="source-body">{a.text}</div>
+      {(a.amendedBy ?? []).map(articleById).map((m) => m && (
+        <div key={m.id} class="amend-current source-current">
+          <strong>Važeće – {m.lawTitle}, član {m.number}:</strong>{'\n'}{m.text}
+        </div>
+      ))}
+      <div class={`source-body ${a.amendedBy?.length ? 'outdated-text' : ''}`}>{a.amendedBy?.length ? <p class="muted xs">Izvorni (zastarjeli) tekst:</p> : null}{a.text}</div>
       <footer>
         <button class="btn sm" onClick={() => void navigator.clipboard?.writeText(`${a.lawTitle}, član ${a.number}\n\n${a.text}`).then(() => toast('Član kopiran'))}>
           <Icon name="copy" size={14} /> Kopiraj

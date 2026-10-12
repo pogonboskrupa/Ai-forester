@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'preact/hooks';
 import { renderMarkdown } from '../md';
-import { articles, askAboutArticle, deleteUserLaw, drawerOpen, faq, lawById, laws, libraryFocus, libraryTab, newConversation, openSourceId, searchArticles, sendMessage, toast, view } from '../store';
+import { articleById, articles, askAboutArticle, deleteUserLaw, drawerOpen, faq, lawById, laws, libraryFocus, libraryTab, newConversation, openSourceId, searchArticles, sendMessage, toast, view } from '../store';
 import { privateUnlocked } from '../private';
 import { fold } from '../text';
 import { OSTALO, SUBTOPICS, buildSubtopicIndex, faqInSubtopic, type SubtopicId } from '../subtopics';
@@ -179,17 +179,23 @@ function FaqList() {
 
 function ArticleItem({ a, open, showLaw }: { a: Article; open?: boolean; showLaw?: boolean }) {
   return (
-    <details class="article" open={open} id={`art-${a.id}`}>
+    <details class={`article ${a.amendedBy?.length ? 'outdated' : ''}`} open={open} id={`art-${a.id}`}>
       <summary>
         <span class="art-no">čl. {a.number}</span>
         <span class="grow">{a.heading || (showLaw ? '' : a.text.slice(0, 90) + '…')}{showLaw && <span class="muted small"> · {a.lawTitle}</span>}</span>
-        {a.amendedBy?.length ? <span class="pill warn" title="Član je izmijenjen kasnijim zakonom">izmijenjen</span> : null}
+        {a.amendedBy?.length ? <span class="pill warn" title="Član je izmijenjen kasnijim zakonom – važeći tekst je u izmjeni">zastarjelo</span> : null}
         <Icon name="chevron" size={14} class="chev" />
       </summary>
       <div class="article-body">
-        <p class="pre">{a.text}</p>
+        {(a.amendedBy ?? []).map(articleById).map((m) => m && (
+          <div key={m.id} class="amend-current">
+            <strong>Važeće – {m.lawTitle} ({m.gazette}), član {m.number}:</strong>{'\n'}{m.text}
+          </div>
+        ))}
+        {a.amendedBy?.length ? <p class="muted xs"><Icon name="alert" size={12} /> Izvorni (zastarjeli) tekst člana {a.number}:</p> : null}
+        <p class={`pre ${a.amendedBy?.length ? 'outdated-text' : ''}`}>{a.text}</p>
         <div class="row gap wrap">
-          {a.amendedBy?.length ? <button class="btn sm" onClick={() => (openSourceId.value = a.amendedBy![0]!)}><Icon name="alert" size={14} /> Pogledaj izmjenu</button> : null}
+          {a.amendedBy?.length ? <button class="btn sm" onClick={() => (openSourceId.value = a.amendedBy![0]!)}><Icon name="alert" size={14} /> Otvori izmjenu</button> : null}
           <button class="btn sm" onClick={() => askAboutArticle(a)}><Icon name="sparkle" size={14} /> Pitaj o ovom članu</button>
         </div>
       </div>

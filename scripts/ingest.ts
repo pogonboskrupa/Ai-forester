@@ -36,7 +36,12 @@ type RawFaq = Omit<FaqEntry, 'sourceIds'>;
 const rawFaq: RawFaq[] = existsSync('data/faq.json') ? JSON.parse(readFileSync('data/faq.json', 'utf8')) : [];
 const faq: FaqEntry[] = rawFaq.map((f) => {
   const sourceIds: string[] = [];
-  const answer = f.answer.replace(/\[@([^\]]+)\]/g, (_m, id: string) => {
+  // Citat izmijenjenog člana dobija ispred sebe citat važeće izmjene (ako ga odgovor već ne navodi).
+  const withCurrent = f.answer.replace(/\[@([^\]]+)\]/g, (m, id: string) => {
+    const add = (byId.get(id)?.amendedBy ?? []).filter((x) => !f.answer.includes(`[@${x}]`));
+    return `${add.map((x) => `[@${x}]`).join('')}${m}`;
+  });
+  const answer = withCurrent.replace(/\[@([^\]]+)\]/g, (_m, id: string) => {
     if (!byId.has(id)) throw new Error(`FAQ "${f.id}": nepostojeći član ${id}`);
     let i = sourceIds.indexOf(id);
     if (i === -1) i = sourceIds.push(id) - 1;
