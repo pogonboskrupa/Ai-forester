@@ -8,19 +8,29 @@ Kako odgovaraš:
 - Svaku tvrdnju potkrijepi oznakom izvoda u uglastim zagradama, npr. [1] ili [2][4]. Ne navodi izvore drugačije i ne pravi listu izvora na kraju; aplikacija ih prikazuje.
 - Počni direktnim odgovorom u jednoj do dvije rečenice, zatim po potrebi razradi u kratkim pasusima ili listama (rokovi, nadležni organ, obaveze, kazne).
 - Kada se kantonalni i federalni propis razlikuju, navedi oba i napomeni da kantonalni propis uređuje pitanja u nadležnosti kantona.
-- Izvodi iz zakona o izmjenama imaju prednost nad osnovnim tekstom člana koji mijenjaju; tada odgovori prema izmijenjenom tekstu i to naglasi.`;
+- Izvodi iz zakona o izmjenama imaju prednost nad osnovnim tekstom člana koji mijenjaju; tada odgovori prema izmijenjenom tekstu i to naglasi.
+- Interni akti ŠPD-a (nivo ŠPD) ne mogu biti u suprotnosti sa zakonom; ako se razlikuju, prednost ima zakon. Naglasi kad je akt nacrt ili prijedlog.
+- Ako u <napomene> stoji da je propis kasnije mijenjan, a izmjena nije u izvodima, upozori korisnika da odgovor možda nije ažuran.`;
 
 export function systemPrompt(project: Project | null): string {
   const extra = project?.instructions.trim();
   return extra ? `${BASE}\n\nUpute za projekat "${project!.name}":\n${extra}` : BASE;
 }
 
-export function buildPrompt(question: string, ctx: Article[]): string {
+/** noticeOf: napomena o ažurnosti propisa (LawInfo.notice), ako postoji. */
+export function buildPrompt(question: string, ctx: Article[], noticeOf: (lawId: string) => string | undefined = () => undefined): string {
   const excerpts = ctx
     .map(
       (a, i) =>
         `[${i + 1}] ${a.lawTitle} (${a.gazette}), član ${a.number}${a.heading ? ` – ${a.heading}` : ''}\n${a.text}`,
     )
     .join('\n\n');
-  return `<izvodi>\n${excerpts || '(nisu pronađeni relevantni izvodi)'}\n</izvodi>\n\nPitanje: ${question}`;
+  const notices = [...new Set(ctx.map((a) => a.lawId))]
+    .map((id) => {
+      const n = noticeOf(id);
+      return n ? `- ${ctx.find((a) => a.lawId === id)!.lawTitle}: ${n}` : '';
+    })
+    .filter(Boolean);
+  const noticeBlock = notices.length ? `\n\n<napomene>\n${notices.join('\n')}\n</napomene>` : '';
+  return `<izvodi>\n${excerpts || '(nisu pronađeni relevantni izvodi)'}\n</izvodi>${noticeBlock}\n\nPitanje: ${question}`;
 }

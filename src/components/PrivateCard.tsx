@@ -35,7 +35,7 @@ export function PrivateCard() {
         </>
       ) : (
         <form onSubmit={(e) => void unlock(e)}>
-          <p class="muted small">Sistematizacija i opisi poslova ŠPD-a „Unsko-sanske šume". U aplikaciji su šifrovani; otključavaju se internom šifrom.</p>
+          <p class="muted small">Pravilnici, statut, poslovnici i sistematizacija ŠPD-a „Unsko-sanske šume". U aplikaciji su šifrovani; otključavaju se internom šifrom.</p>
           <div class="row gap wrap">
             <input class="grow" type="password" autocomplete="off" placeholder="Interna šifra" value={pass} onInput={(e) => setPass(e.currentTarget.value)} />
             <button class="btn primary" type="submit" disabled={!pass.trim() || privateBusy.value}>{privateBusy.value ? 'Otključavam…' : 'Otključaj'}</button>

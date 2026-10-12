@@ -5,6 +5,8 @@ import {
 } from '../store';
 import type { Conversation } from '../types';
 import { canPrompt, installed, promptInstall } from '../install';
+import { privateUnlocked } from '../private';
+import { libraryFocus, libraryTab } from '../store';
 import { Icon } from './Icon';
 
 const q = signal('');
@@ -102,7 +104,12 @@ export function Sidebar() {
             <Icon name="download" size={16} /> Instaliraj aplikaciju
           </button>
         )}
-        <button class={`nav-item ${view.value === 'library' ? 'on' : ''}`} onClick={() => go('library')}><Icon name="book" size={16} /> Biblioteka propisa</button>
+        {privateUnlocked.value && (
+          <button class={`nav-item ${view.value === 'library' && libraryTab.value === 'spd' ? 'on' : ''}`} onClick={() => { libraryTab.value = 'spd'; libraryFocus.value = null; go('library'); }}>
+            <Icon name="folder" size={16} /> Pravilnici ŠPD
+          </button>
+        )}
+        <button class={`nav-item ${view.value === 'library' && libraryTab.value !== 'spd' ? 'on' : ''}`} onClick={() => { if (libraryTab.value === 'spd') libraryTab.value = 'laws'; go('library'); }}><Icon name="book" size={16} /> Biblioteka propisa</button>
         <button class={`nav-item ${view.value === 'settings' ? 'on' : ''}`} onClick={() => go('settings')}><Icon name="settings" size={16} /> Postavke</button>
       </div>
     </aside>

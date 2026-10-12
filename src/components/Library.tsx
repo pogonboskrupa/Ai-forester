@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'preact/hooks';
 import { renderMarkdown } from '../md';
-import { articles, askAboutArticle, deleteUserLaw, drawerOpen, faq, lawById, laws, libraryFocus, newConversation, openSourceId, searchArticles, sendMessage, toast, view } from '../store';
+import { articles, askAboutArticle, deleteUserLaw, drawerOpen, faq, lawById, laws, libraryFocus, libraryTab, newConversation, openSourceId, searchArticles, sendMessage, toast, view } from '../store';
+import { privateUnlocked } from '../private';
 import { fold } from '../text';
 import { OSTALO, SUBTOPICS, buildSubtopicIndex, faqInSubtopic, type SubtopicId } from '../subtopics';
 import type { Article, FaqEntry, Level } from '../types';
@@ -82,6 +83,56 @@ function RolePositions({ roleId }: { roleId: string }) {
         ))
       )}
     </section>
+  );
+}
+
+const SPD_GROUPS = [
+  'Organizacija i upravljanje',
+  'Rad, sistematizacija i plaće',
+  'Disciplinska i materijalna odgovornost',
+  'Šumarstvo, zaštita na radu i požari',
+  'Finansije i računovodstvo',
+  'Kontrola i revizija',
+  'Arhiva',
+];
+
+/** Interni akti ŠPD-a (otključani šifrom), po grupama, s pretragom samo kroz njih. */
+function SpdView() {
+  const [term, setTerm] = useState('');
+  const acts = laws.value.filter((l) => l.level === 'ŠPD');
+  const ids = acts.map((l) => l.id);
+  const hits = term.trim().length > 2 ? searchArticles(term, ids, 40) : [];
+  const groups = [...SPD_GROUPS, ...new Set(acts.map((l) => l.group ?? 'Ostalo').filter((g) => !SPD_GROUPS.includes(g)))];
+  return (
+    <div class="spd">
+      <p class="muted small">Interni akti ŠPD „Unsko-sanske šume". Nacrti i prijedlozi su označeni u naslovu; provjerite koja verzija je usvojena.</p>
+      <div class="searchbox big"><Icon name="search" size={18} /><input placeholder="Pretraži pravilnike ŠPD (npr. godišnji odmor, naknada štete, lugar)…" value={term} onInput={(e) => setTerm(e.currentTarget.value)} /></div>
+      {hits.length > 0 ? (
+        <div class="articles">
+          <p class="muted small">{hits.length} najrelevantnijih članova</p>
+          {hits.map((a) => <ArticleItem key={a.id} a={a} showLaw />)}
+        </div>
+      ) : (
+        groups.map((g) => {
+          const inGroup = acts.filter((l) => (l.group ?? 'Ostalo') === g);
+          if (!inGroup.length) return null;
+          return (
+            <section key={g} class="spd-group">
+              <h3>{g}</h3>
+              <div class="law-grid">
+                {inGroup.map((l) => (
+                  <button key={l.id} class="law-card" onClick={() => (libraryFocus.value = { lawId: l.id })}>
+                    <div class="row gap"><span class="badge lvl-ŠPD">ŠPD</span></div>
+                    <strong>{l.title}</strong>
+                    <span class="muted xs">{l.gazette} · {l.articleCount} čl.</span>
+                  </button>
+                ))}
+              </div>
+            </section>
+          );
+        })
+      )}
+    </div>
   );
 }
 
@@ -191,7 +242,8 @@ export function Library() {
   const [term, setTerm] = useState('');
   const [level, setLevel] = useState<Level | null>(null);
   const [topic, setTopic] = useState<string | null>('Šumarstvo');
-  const [tab, setTab] = useState<'laws' | 'duties' | 'faq'>('laws');
+  const tab = libraryTab.value;
+  const setTab = (t: typeof tab) => (libraryTab.value = t);
   const [sub, setSub] = useState<Sub>('generalno');
   const subIndex = useMemo(() => buildSubtopicIndex(articles.value, laws.value), [articles.value, laws.value]);
   const forestry = topic === 'Šumarstvo';
@@ -238,6 +290,7 @@ export function Library() {
                   }}><Icon name="trash" size={14} /> Obriši propis</button>
                 )}
               </div>
+              {law.notice && <p class="notice"><Icon name="alert" size={14} /> {law.notice}</p>}
               {law.custom && <p class="muted xs">Dodano iz PDF-a ({law.file}) u ovom pregledniku. Provjerite tekst prema službenom glasniku.</p>}
             </div>
             <div class="searchbox"><Icon name="search" size={16} /><input placeholder="Traži unutar propisa…" value={term} onInput={(e) => setTerm(e.currentTarget.value)} /></div>
@@ -254,8 +307,9 @@ export function Library() {
               <button role="tab" aria-selected={tab === 'laws'} class={tab === 'laws' ? 'on' : ''} onClick={() => setTab('laws')}><Icon name="book" size={16} /> Propisi</button>
               <button role="tab" aria-selected={tab === 'faq'} class={tab === 'faq' ? 'on' : ''} onClick={() => setTab('faq')}><Icon name="check" size={16} /> Pitanja</button>
               <button role="tab" aria-selected={tab === 'duties'} class={tab === 'duties' ? 'on' : ''} onClick={() => setTab('duties')}><Icon name="scale" size={16} /> Dužnosti</button>
+              {privateUnlocked.value && <button role="tab" aria-selected={tab === 'spd'} class={tab === 'spd' ? 'on' : ''} onClick={() => setTab('spd')}><Icon name="folder" size={16} /> Pravilnici ŠPD</button>}
             </div>
-            {tab === 'faq' ? <FaqList /> : tab === 'duties' ? <DutiesView /> : <>
+            {tab === 'faq' ? <FaqList /> : tab === 'duties' ? <DutiesView /> : tab === 'spd' && privateUnlocked.value ? <SpdView /> : <>
             <div class="searchbox big"><Icon name="search" size={18} /><input placeholder="Pretraži sve članove (npr. doznaka, otpremni iskaz, kazna)…" value={term} onInput={(e) => setTerm(e.currentTarget.value)} /></div>
             <div class="filters">
               <button class={`chip ${!level ? 'on' : ''}`} onClick={() => setLevel(null)}>Svi nivoi</button>
