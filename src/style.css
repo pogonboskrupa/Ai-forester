@@ -542,3 +542,12 @@ input[type='checkbox'] { accent-color: var(--accent); width: 16px; height: 16px;
 .subtopic.on .count { background: var(--accent); color: var(--accent-fg); }
 .law-group-title { display: flex; align-items: center; gap: 8px; text-transform: none !important; letter-spacing: 0 !important; font-size: 0.95rem !important; color: var(--text) !important; }
 .law-group-title .link { text-align: left; font-weight: 600; }
+
+.update-banner {
+  display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+  padding: 8px 12px; margin: 8px 12px 0; border-radius: 10px;
+  background: color-mix(in srgb, var(--accent) 12%, var(--surface)); border: 1px solid color-mix(in srgb, var(--accent) 35%, var(--border));
+  font-size: 0.88rem;
+}
+.update-banner span { flex: 1 1 200px; }
+.row-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
