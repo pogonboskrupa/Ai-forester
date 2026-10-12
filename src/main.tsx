@@ -1,4 +1,5 @@
 import './style.css';
+import { setupPwa } from './pwa';
 import { render } from 'preact';
 import { useEffect } from 'preact/hooks';
 import { Chat } from './components/Chat';
@@ -69,3 +70,4 @@ function App() {
 }
 
 render(<App />, document.getElementById('app')!);
+setupPwa();

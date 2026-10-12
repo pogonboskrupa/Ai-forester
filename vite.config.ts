@@ -12,6 +12,7 @@ export default defineConfig({
   plugins: [
     VitePWA({
       registerType: 'autoUpdate',
+      injectRegister: false, // registracija u src/pwa.ts (provjera nove verzije pri povratku u aplikaciju)
       includeAssets: ['icons/apple-touch-icon.png', 'icons/favicon-48.png'],
       manifest: {
         id: 'ai-sumar',
@@ -45,6 +46,9 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,svg,png,json}'],
         globIgnores: ['**/pdf-*.js', '**/pdf.worker*'],
         maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
+        cleanupOutdatedCaches: true,
+        clientsClaim: true,
+        skipWaiting: true,
       },
     }),
   ],
