@@ -14,6 +14,9 @@ export interface LawMeta {
 
 export interface LawInfo extends LawMeta {
   articleCount: number;
+  /** Dodano iz PDF-a u ovom pregledniku (nije dio ugrađene baze). */
+  custom?: boolean;
+  addedAt?: number;
 }
 
 export interface Article {
@@ -69,4 +72,10 @@ export interface FaqEntry {
   answer: string; // markdown s [n] citatima
   sourceIds: string[];
   reviewed: boolean;
+}
+
+/** Propis koji je korisnik dodao iz PDF-a; čuva se samo u njegovom pregledniku. */
+export interface UserLaw {
+  law: LawInfo;
+  articles: Article[];
 }

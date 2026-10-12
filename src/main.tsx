@@ -3,6 +3,7 @@ import { render } from 'preact';
 import { useEffect } from 'preact/hooks';
 import { Chat } from './components/Chat';
 import { Icon } from './components/Icon';
+import { ImportPdf } from './components/ImportPdf';
 import { Library } from './components/Library';
 import { ProjectEditor } from './components/ProjectEditor';
 import { Settings } from './components/Settings';
@@ -50,6 +51,7 @@ function App() {
         {v === 'library' && <Library />}
         {v === 'project' && <ProjectEditor />}
         {v === 'settings' && <Settings />}
+        {v === 'import' && <ImportPdf />}
       </main>
       {openSourceId.value && <div class="panel-scrim" onClick={() => (openSourceId.value = null)} />}
       <SourcePanel />

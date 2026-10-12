@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'preact/hooks';
 import { renderMarkdown } from '../md';
-import { articles, askAboutArticle, drawerOpen, faq, lawById, laws, libraryFocus, openSourceId, searchArticles, sendMessage, newConversation } from '../store';
+import { articles, askAboutArticle, deleteUserLaw, drawerOpen, faq, lawById, laws, libraryFocus, newConversation, openSourceId, searchArticles, sendMessage, toast, view } from '../store';
 import { fold } from '../text';
 import type { Article, FaqEntry, Level } from '../types';
 import { Icon } from './Icon';
@@ -88,6 +88,7 @@ export function Library() {
         ) : (
           <span class="topbar-title">Biblioteka propisa</span>
         )}
+        <button class="btn primary sm push-right" onClick={() => (view.value = 'import')}><Icon name="upload" size={14} /> Dodaj PDF</button>
       </header>
       <div class="page-inner">
         {law ? (
@@ -96,7 +97,16 @@ export function Library() {
               <span class={`badge lvl-${law.level}`}>{law.level}</span>
               <h1>{law.title}</h1>
               <p class="muted">{law.gazette} · {law.articleCount} članova</p>
-              {law.sourceUrl && <a class="btn sm" href={law.sourceUrl} target="_blank" rel="noreferrer noopener"><Icon name="external" size={14} /> Službeni izvor</a>}
+              <div class="row gap wrap">
+                {law.sourceUrl && <a class="btn sm" href={law.sourceUrl} target="_blank" rel="noreferrer noopener"><Icon name="external" size={14} /> Službeni izvor</a>}
+                {law.custom && (
+                  <button class="btn danger sm" onClick={() => {
+                    if (!confirm(`Obrisati "${law.title}" iz baze? Razgovori ostaju.`)) return;
+                    void deleteUserLaw(law.id).then(() => { libraryFocus.value = null; toast('Propis obrisan'); });
+                  }}><Icon name="trash" size={14} /> Obriši propis</button>
+                )}
+              </div>
+              {law.custom && <p class="muted xs">Dodano iz PDF-a ({law.file}) u ovom pregledniku. Provjerite tekst prema službenom glasniku.</p>}
             </div>
             <div class="searchbox"><Icon name="search" size={16} /><input placeholder="Traži unutar propisa…" value={term} onInput={(e) => setTerm(e.currentTarget.value)} /></div>
             <div class="articles">
@@ -130,7 +140,7 @@ export function Library() {
               <div class="law-grid">
                 {shown.map((l) => (
                   <button key={l.id} class="law-card" onClick={() => libraryFocus.value = { lawId: l.id }}>
-                    <div class="row gap"><span class={`badge lvl-${l.level}`}>{l.level}</span><span class="muted xs">{l.topic ?? 'Šumarstvo'}</span></div>
+                    <div class="row gap"><span class={`badge lvl-${l.level}`}>{l.level}</span><span class="muted xs">{l.topic ?? 'Šumarstvo'}</span>{l.custom && <span class="pill accent">dodano</span>}</div>
                     <strong>{l.title}</strong>
                     <span class="muted xs">{l.gazette} · {l.articleCount} čl.</span>
                   </button>
