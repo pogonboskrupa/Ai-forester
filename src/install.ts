@@ -39,4 +39,6 @@ export async function promptInstall(): Promise<boolean> {
   return outcome === 'accepted';
 }
 
-export const APK_URL = 'https://github.com/pogonboskrupa/Ai-forester/releases/latest/download/ai-sumar.apk';
+// Isti domen kao aplikacija: link na github.com bi na telefonu s instaliranom GitHub aplikacijom otišao u nju
+// ("could not open app" / beskonačno preuzimanje). Fajl stavlja workflow android.yml u dist/.
+export const APK_URL = './ai-sumar.apk';

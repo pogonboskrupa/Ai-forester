@@ -41,9 +41,9 @@ export function InstallCard() {
         <div class="apk-box">
           <div>
             <strong>Android APK</strong>
-            <p class="muted xs">Alternativa za telefone bez Chromea ili za dijeljenje s kolegama. Pri instalaciji dozvolite "instaliranje iz nepoznatih izvora".</p>
+            <p class="muted xs">Alternativa za telefone bez Chromea ili za dijeljenje s kolegama. Kad se preuzme, otvorite ga iz <strong>Datoteke → Preuzimanja</strong> i dozvolite "instaliranje iz nepoznatih izvora". Na Samsungu prvo isključite <strong>Auto Blocker</strong> (Postavke → Sigurnost).</p>
           </div>
-          <a class="btn sm" href={APK_URL}><Icon name="download" size={14} /> Preuzmi APK</a>
+          <a class="btn sm" href={APK_URL} download="ai-sumar.apk"><Icon name="download" size={14} /> Preuzmi APK</a>
         </div>
       )}
       {!isAndroid && !isIos && <p class="muted xs">Na računaru: u Chromeu/Edgeu ikona za instalaciju je i na desnom kraju adresne trake.</p>}
