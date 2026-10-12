@@ -58,6 +58,14 @@ describe.skipIf(!existsSync(faqFile))('provjereni odgovori', () => {
     expect(m('ko izdaje biljni pasoš')).toBe('bilje-pasos');
     expect(m('fitosanitarni certifikat za izvoz drveta')).toBe('bilje-fitosanitarni-certifikat');
   });
+  it('prepoznaje pitanja o dužnostima po ulogama', () => {
+    expect(m('Koje su dužnosti lugara?')).toBe('duznosti-lugar');
+    expect(m('dužnosti čuvara šuma')).toBe('duznosti-lugar');
+    expect(m('šta radi šumarija')).toBe('duznosti-sumarija');
+    expect(m('dužnosti upravnika šumarije')).toBe('duznosti-upravnik-sumarije');
+    expect(m('obaveze kantonalne uprave za šumarstvo')).toBe('duznosti-kantonalna-uprava');
+    expect(m('obaveze vlasnika privatne šume')).toBe('duznosti-privatni-vlasnik');
+  });
   it('ne vraća gotov odgovor za nepovezana pitanja', () => {
     expect(m('Koliko košta lovačka karta za divlju svinju?')).toBeNull();
     expect(m('Kako se registruje rasadnik sadnica?')).toBeNull();

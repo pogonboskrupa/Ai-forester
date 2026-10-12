@@ -551,3 +551,7 @@ input[type='checkbox'] { accent-color: var(--accent); width: 16px; height: 16px;
 }
 .update-banner span { flex: 1 1 200px; }
 .row-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
+
+.duties { display: flex; flex-direction: column; gap: 12px; margin-top: 12px; }
+.duty-card h2 { margin-top: 0; }
+.duty-card .md ul { padding-left: 1.2em; }

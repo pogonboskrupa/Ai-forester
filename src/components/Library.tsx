@@ -8,26 +8,70 @@ import { Icon } from './Icon';
 
 const LEVELS: Level[] = ['USK', 'FBiH', 'BiH'];
 
-function FaqItem({ f }: { f: FaqEntry }) {
+/** Odgovor s klikabilnim citatima [n] koji otvaraju član u bočnom panelu. */
+function FaqAnswer({ f }: { f: FaqEntry }) {
   const onClick = (e: MouseEvent) => {
     const cite = (e.target as HTMLElement).closest<HTMLElement>('[data-cite]');
     const id = cite ? f.sourceIds[Number(cite.dataset.cite) - 1] : undefined;
     if (id) openSourceId.value = id;
   };
   return (
+    <>
+      <div class="md" onClick={onClick} dangerouslySetInnerHTML={{ __html: renderMarkdown(f.answer, f.sourceIds.length) }} />
+      {!f.reviewed && <p class="muted xs">Nacrt odgovora – čeka stručnu provjeru. Uvijek provjerite citirane članove.</p>}
+    </>
+  );
+}
+
+function FaqItem({ f }: { f: FaqEntry }) {
+  return (
     <details class="article">
       <summary><span class="grow">{f.q}</span><Icon name="chevron" size={14} class="chev" /></summary>
       <div class="article-body">
-        <div class="md" onClick={onClick} dangerouslySetInnerHTML={{ __html: renderMarkdown(f.answer, f.sourceIds.length) }} />
-        {!f.reviewed && <p class="muted xs">Nacrt odgovora – čeka stručnu provjeru. Uvijek provjerite citirane članove.</p>}
+        <FaqAnswer f={f} />
         <button class="btn sm" onClick={() => { newConversation(null); void sendMessage(f.q); }}><Icon name="plus" size={14} /> Otvori kao razgovor</button>
       </div>
     </details>
   );
 }
 
+const DUTIES_TOPIC = 'Dužnosti';
+const ROLE_LABELS: Record<string, string> = {
+  'duznosti-lugar': 'Lugar (čuvar šuma)',
+  'duznosti-kantonalna-uprava': 'Kantonalna uprava',
+  'duznosti-sumarija': 'Šumarija',
+  'duznosti-upravnik-sumarije': 'Upravnik šumarije',
+  'duznosti-privatni-vlasnik': 'Privatni vlasnik',
+};
+
+/** Dužnosti po ulogama: pregled sastavljen iz propisa, s citatima. */
+function DutiesView() {
+  const roles = faq.value.filter((f) => f.topic === DUTIES_TOPIC);
+  const [roleId, setRoleId] = useState(roles[0]?.id);
+  const role = roles.find((r) => r.id === roleId) ?? roles[0];
+  if (!role) return <p class="muted">Nema pripremljenih pregleda dužnosti.</p>;
+  return (
+    <div class="duties">
+      <div class="subtopics" role="tablist" aria-label="Uloge">
+        {roles.map((r) => (
+          <button key={r.id} role="tab" aria-selected={r.id === role.id} class={`subtopic ${r.id === role.id ? 'on' : ''}`} onClick={() => setRoleId(r.id)}>
+            <span>{ROLE_LABELS[r.id] ?? r.q}</span>
+          </button>
+        ))}
+      </div>
+      <article class="card duty-card">
+        <h2>{role.q}</h2>
+        <FaqAnswer f={role} />
+        <div class="row gap wrap">
+          <button class="btn sm" onClick={() => { newConversation(null); void sendMessage(role.q); }}><Icon name="plus" size={14} /> Otvori kao razgovor</button>
+        </div>
+      </article>
+    </div>
+  );
+}
+
 function FaqList() {
-  const topics = [...new Set(faq.value.map((f) => f.topic))];
+  const topics = [...new Set(faq.value.map((f) => f.topic))].filter((t) => t !== DUTIES_TOPIC);
   return (
     <div class="articles">
       {topics.map((t) => (
@@ -105,7 +149,7 @@ export function Library() {
   const [term, setTerm] = useState('');
   const [level, setLevel] = useState<Level | null>(null);
   const [topic, setTopic] = useState<string | null>('Šumarstvo');
-  const [tab, setTab] = useState<'laws' | 'faq'>('laws');
+  const [tab, setTab] = useState<'laws' | 'duties' | 'faq'>('laws');
   const [sub, setSub] = useState<Sub>('generalno');
   const subIndex = useMemo(() => buildSubtopicIndex(articles.value, laws.value), [articles.value, laws.value]);
   const forestry = topic === 'Šumarstvo';
@@ -166,9 +210,10 @@ export function Library() {
             <p class="muted">{laws.value.length} propisa · {articles.value.length} članova · {faq.value.length} pripremljenih odgovora. Radi i bez interneta.</p>
             <div class="segmented" role="tablist">
               <button role="tab" aria-selected={tab === 'laws'} class={tab === 'laws' ? 'on' : ''} onClick={() => setTab('laws')}><Icon name="book" size={16} /> Propisi</button>
-              <button role="tab" aria-selected={tab === 'faq'} class={tab === 'faq' ? 'on' : ''} onClick={() => setTab('faq')}><Icon name="check" size={16} /> Česta pitanja</button>
+              <button role="tab" aria-selected={tab === 'faq'} class={tab === 'faq' ? 'on' : ''} onClick={() => setTab('faq')}><Icon name="check" size={16} /> Pitanja</button>
+              <button role="tab" aria-selected={tab === 'duties'} class={tab === 'duties' ? 'on' : ''} onClick={() => setTab('duties')}><Icon name="scale" size={16} /> Dužnosti</button>
             </div>
-            {tab === 'faq' ? <FaqList /> : <>
+            {tab === 'faq' ? <FaqList /> : tab === 'duties' ? <DutiesView /> : <>
             <div class="searchbox big"><Icon name="search" size={18} /><input placeholder="Pretraži sve članove (npr. doznaka, otpremni iskaz, kazna)…" value={term} onInput={(e) => setTerm(e.currentTarget.value)} /></div>
             <div class="filters">
               <button class={`chip ${!level ? 'on' : ''}`} onClick={() => setLevel(null)}>Svi nivoi</button>
