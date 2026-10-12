@@ -1,5 +1,6 @@
 import { useRef, useState } from 'preact/hooks';
 import { AiError, streamCompletion } from '../ai/client';
+import { listGeminiModels, listOpenAIModels, pickBestGemini, pickBestOpenAI } from '../ai/models';
 import {
   CLAUDE_MODELS, GEMINI_MODELS, OPENAI_MODELS, PROVIDER_NAMES, configuredProviders, hasKey, settings, updateSettings,
   type Provider, type Settings as S, type Theme,
@@ -18,9 +19,9 @@ interface ProviderDef {
 }
 
 const PROVIDERS: ProviderDef[] = [
-  { id: 'gemini', hint: 'Besplatni nivo uz dnevna ograničenja.', keyField: 'geminiKey', modelField: 'geminiModel', models: GEMINI_MODELS, placeholder: 'AIza…', url: 'https://aistudio.google.com/apikey' },
+  { id: 'gemini', hint: 'Besplatni nivo uz dnevna ograničenja. Ako model prestane raditi, aplikacija sama prelazi na dostupni.', keyField: 'geminiKey', modelField: 'geminiModel', models: GEMINI_MODELS, placeholder: 'AIza…', url: 'https://aistudio.google.com/apikey' },
   { id: 'openai', hint: 'ChatGPT modeli, plaća se po upotrebi.', keyField: 'openaiKey', modelField: 'openaiModel', models: OPENAI_MODELS, placeholder: 'sk-…', url: 'https://platform.openai.com/api-keys' },
-  { id: 'claude', hint: 'Najprecizniji u citiranju, plaća se po upotrebi.', keyField: 'claudeKey', modelField: 'claudeModel', models: CLAUDE_MODELS, placeholder: 'sk-ant-…', url: 'https://console.anthropic.com/settings/keys' },
+  { id: 'claude', hint: 'Plaća se po upotrebi. claude-haiku-4-5 je najjeftiniji; sonnet i opus su precizniji, ali skuplji.', keyField: 'claudeKey', modelField: 'claudeModel', models: CLAUDE_MODELS, placeholder: 'sk-ant-…', url: 'https://console.anthropic.com/settings/keys' },
 ];
 
 const THEMES: { id: Theme; label: string; icon: IconName }[] = [
@@ -65,7 +66,32 @@ function ProviderCard({ def }: { def: ProviderDef }) {
   const s = settings.value;
   const [status, setStatus] = useState<Status>(null);
   const [testing, setTesting] = useState(false);
+  const [live, setLive] = useState<string[] | null>(null);
+  const [loading, setLoading] = useState(false);
   const connected = hasKey(def.id, s);
+  const canList = def.id === 'gemini' || def.id === 'openai';
+
+  const loadModels = async () => {
+    setLoading(true);
+    setStatus(null);
+    try {
+      const list = def.id === 'gemini' ? await listGeminiModels(s.geminiKey) : await listOpenAIModels(s.openaiKey);
+      setLive(list);
+      const current = s[def.modelField!];
+      // Ako trenutni model nije među dostupnima, odmah postavi najbolji dostupni.
+      if (!list.includes(current)) {
+        const best = def.id === 'gemini' ? pickBestGemini(list) : pickBestOpenAI(list);
+        if (best) updateSettings({ [def.modelField!]: best } as Partial<S>);
+        setStatus({ ok: true, text: `${list.length} modela dostupno; postavljen ${best ?? '—'}` });
+      } else {
+        setStatus({ ok: true, text: `${list.length} modela dostupno` });
+      }
+    } catch (e) {
+      setStatus({ ok: false, text: e instanceof Error ? e.message : 'Greška' });
+    } finally {
+      setLoading(false);
+    }
+  };
   const primary = s.provider === def.id;
   return (
     <div class={`provider-card ${primary ? 'primary' : ''}`}>
@@ -84,11 +110,22 @@ function ProviderCard({ def }: { def: ProviderDef }) {
       {def.modelField && (
         <div class="row gap">
           <input class="grow" list={`models-${def.id}`} value={s[def.modelField]} aria-label="Model" onInput={(e) => updateSettings({ [def.modelField!]: e.currentTarget.value.trim() } as Partial<S>)} />
-          <datalist id={`models-${def.id}`}>{def.models?.map((m) => <option key={m} value={m} />)}</datalist>
+          <datalist id={`models-${def.id}`}>{(live ?? def.models ?? []).map((m) => <option key={m} value={m} />)}</datalist>
+          {canList && (
+            <button class="btn sm" disabled={!connected || loading} title="Učitaj modele dostupne za ovaj ključ" onClick={() => void loadModels()}>
+              {loading ? 'Učitavam…' : 'Učitaj modele'}
+            </button>
+          )}
           <button class="btn sm" disabled={!connected || testing} onClick={async () => { setTesting(true); setStatus(await testProvider(def.id)); setTesting(false); }}>
             {testing ? 'Provjeravam…' : 'Testiraj'}
           </button>
         </div>
+      )}
+      {live && live.length > 0 && (
+        <select class="select sm" aria-label="Dostupni modeli" value={live.includes(s[def.modelField!]) ? s[def.modelField!] : ''} onChange={(e) => updateSettings({ [def.modelField!]: e.currentTarget.value } as Partial<S>)}>
+          <option value="" disabled>Izaberi model…</option>
+          {live.map((m) => <option key={m} value={m}>{m}</option>)}
+        </select>
       )}
       {status && <span class={`status ${status.ok ? 'ok' : 'err'}`}><Icon name={status.ok ? 'check' : 'alert'} size={14} /> {status.text}</span>}
     </div>

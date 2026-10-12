@@ -1,4 +1,5 @@
-import { configuredProviders, hasKey, modelOf, PROVIDER_NAMES, settings, type Provider, type Settings } from '../settings';
+import { configuredProviders, hasKey, modelOf, PROVIDER_NAMES, settings, updateSettings, type Provider, type Settings } from '../settings';
+import { isModelGone, listGeminiModels, listOpenAIModels, pickBestGemini, pickBestOpenAI, suggestedModel } from './models';
 import { readSse } from './sse';
 
 export interface Turn {
@@ -32,7 +33,26 @@ const sleep = (ms: number, signal: AbortSignal) =>
   });
 
 /** Gemini direktno iz browsera, uz streaming. Preopterećenje (503/429) je obično prolazno. */
+/** Ugašen ili nepostojeći model: uzmi Googleov prijedlog ili najbolji dostupni, zapamti ga i pokušaj ponovo. */
+class ModelGoneError extends AiError {
+  constructor(message: string, readonly status: number) {
+    super(message);
+  }
+}
+
 async function streamGemini(s: Settings, req: StreamRequest): Promise<void> {
+  try {
+    await streamGeminiOnce(s, req);
+  } catch (e) {
+    if (!(e instanceof ModelGoneError)) throw e;
+    const replacement = suggestedModel(e.message) ?? pickBestGemini(await listGeminiModels(s.geminiKey, req.signal));
+    if (!replacement || replacement === s.geminiModel) throw new AiError(`${e.message} U Postavkama kliknite "Učitaj modele" i izaberite drugi.`);
+    if (s.geminiKey === settings.value.geminiKey) updateSettings({ geminiModel: replacement });
+    await streamGeminiOnce({ ...s, geminiModel: replacement }, req);
+  }
+}
+
+async function streamGeminiOnce(s: Settings, req: StreamRequest): Promise<void> {
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(s.geminiModel)}:streamGenerateContent?alt=sse`;
   const body = JSON.stringify({
     systemInstruction: { parts: [{ text: req.system }] },
@@ -69,13 +89,14 @@ async function streamGemini(s: Settings, req: StreamRequest): Promise<void> {
       await sleep(delay, req.signal);
       continue;
     }
-    const detail = ((await res.json().catch(() => null)) as { error?: { message?: string } } | null)?.error?.message;
-    throw new AiError(
-      `Gemini ${res.status}${detail ? `: ${detail}` : ''}`,
-      RETRY_STATUS.has(res.status),
-    );
+    const detail = ((await res.json().catch(() => null)) as { error?: { message?: string } } | null)?.error?.message ?? '';
+    const msg = `Gemini ${res.status}${detail ? `: ${detail}` : ''}`;
+    if (isModelGone(res.status, detail)) throw new ModelGoneError(msg, res.status);
+    throw new AiError(msg, RETRY_STATUS.has(res.status));
   }
 }
+
+const supportsDefaultFallback = (model: string) => /^claude-(opus-5|sonnet-5-5|fable-5)/.test(model);
 
 /** Claude preko službenog SDK-a; učitava se tek kad je odabran (manji početni bundle). */
 async function streamClaude(s: Settings, req: StreamRequest): Promise<void> {
@@ -90,8 +111,8 @@ async function streamClaude(s: Settings, req: StreamRequest): Promise<void> {
         system: req.system,
         messages: req.messages.map((m) => ({ role: m.role, content: m.text })),
         // Ako sigurnosni klasifikator odbije upit, API ga sam ponovi na preporučenom modelu.
-        betas: ['server-side-fallback-2026-07-01'],
-        fallbacks: 'default',
+        // Samo za modele koji to podržavaju; Haiku 4.5 ga ne dobija.
+        ...(supportsDefaultFallback(s.claudeModel) ? { betas: ['server-side-fallback-2026-07-01'], fallbacks: 'default' as const } : {}),
       },
       { signal: req.signal },
     );
@@ -109,6 +130,18 @@ async function streamClaude(s: Settings, req: StreamRequest): Promise<void> {
 
 /** OpenAI Chat Completions uz streaming (direktno iz browsera, korisnikov ključ). */
 async function streamOpenAI(s: Settings, req: StreamRequest): Promise<void> {
+  try {
+    await streamOpenAIOnce(s, req);
+  } catch (e) {
+    if (!(e instanceof ModelGoneError)) throw e;
+    const replacement = pickBestOpenAI(await listOpenAIModels(s.openaiKey, req.signal));
+    if (!replacement || replacement === s.openaiModel) throw new AiError(`${e.message} U Postavkama kliknite "Učitaj modele" i izaberite drugi.`);
+    if (s.openaiKey === settings.value.openaiKey) updateSettings({ openaiModel: replacement });
+    await streamOpenAIOnce({ ...s, openaiModel: replacement }, req);
+  }
+}
+
+async function streamOpenAIOnce(s: Settings, req: StreamRequest): Promise<void> {
   for (let attempt = 0; ; attempt++) {
     const res = await fetch('https://api.openai.com/v1/chat/completions', {
       method: 'POST',
@@ -141,8 +174,9 @@ async function streamOpenAI(s: Settings, req: StreamRequest): Promise<void> {
       await sleep(delay, req.signal);
       continue;
     }
-    const detail = ((await res.json().catch(() => null)) as { error?: { message?: string } } | null)?.error?.message;
+    const detail = ((await res.json().catch(() => null)) as { error?: { message?: string } } | null)?.error?.message ?? '';
     if (res.status === 401) throw new AiError('OpenAI API ključ nije ispravan.');
+    if (isModelGone(res.status, detail)) throw new ModelGoneError(`ChatGPT ${res.status}: ${detail}`, res.status);
     throw new AiError(`ChatGPT ${res.status}${detail ? `: ${detail}` : ''}`, res.status === 429 || res.status >= 500);
   }
 }
