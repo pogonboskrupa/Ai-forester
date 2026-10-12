@@ -40,7 +40,8 @@ export function parseArticles(raw: string, law: LawMeta): Article[] {
 
   const flush = () => {
     if (!cur) return;
-    const text = reflow(cur.body.join('\n'));
+    // Prilog/obrazac iza završnog člana (PDF forma) nije dio teksta člana.
+    const text = reflow(cur.body.join('\n')).replace(/\n(?:PRILOG\b|Broj:\s*_{3,}|Prednja strana)[\s\S]*$/, '').trim();
     // Ponovljen broj člana (artefakt PDF-a, npr. kraj člana na sljedećoj stranici) spaja se s prvim.
     const dup = out.find((a) => a.number === cur!.number);
     if (dup) dup.text = `${dup.text}\n${text}`.trim();

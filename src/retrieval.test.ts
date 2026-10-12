@@ -45,6 +45,19 @@ describe.skipIf(!existsSync(faqFile))('provjereni odgovori', () => {
     expect(m('smijem li ložiti vatru blizu šume')).toBe('vatra-u-sumi');
     expect(m('ko plaća naknadu za općekorisne funkcije')).toBe('naknada-opcekorisne');
   });
+  it('prepoznaje nove teme (čekići, požar, Uprava, krš, čuvari, zdravlje bilja)', () => {
+    expect(m('Šta mora sadržavati registar šumskih čekića?')).toBe('registar-sumskih-cekica');
+    expect(m('izgubljen šumski čekić šta raditi')).toBe('registar-sumskih-cekica');
+    expect(m('područja velike opasnosti od požara')).toBe('pozar-klasifikacija');
+    expect(m('ko izrađuje plan zaštite šuma od požara')).toBe('pozar-planovi');
+    expect(m('koje poslove obavlja uprava za šumarstvo')).toBe('poslovi-uprave');
+    expect(m('rok za dostavu katastra šuma')).toBe('katastar-suma');
+    expect(m('šume na kršu sufinansiranje')).toBe('krs-rezim');
+    expect(m('šta sadrži elaborat za šumsko privredno područje')).toBe('elaborat-spp');
+    expect(m('kako čuvar šuma pravi zapisnik o protivpravnoj radnji')).toBe('cuvar-zapisnik');
+    expect(m('ko izdaje biljni pasoš')).toBe('bilje-pasos');
+    expect(m('fitosanitarni certifikat za izvoz drveta')).toBe('bilje-fitosanitarni-certifikat');
+  });
   it('ne vraća gotov odgovor za nepovezana pitanja', () => {
     expect(m('Koliko košta lovačka karta za divlju svinju?')).toBeNull();
     expect(m('Kako se registruje rasadnik sadnica?')).toBeNull();
