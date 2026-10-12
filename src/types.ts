@@ -9,6 +9,7 @@ export interface LawMeta {
   inForce: boolean;
   sourceUrl: string;
   topic?: string;
+  amends?: string; // id osnovnog akta koji ovaj akt mijenja
 }
 
 export interface LawInfo extends LawMeta {
@@ -24,6 +25,7 @@ export interface Article {
   number: string;
   heading: string;
   text: string;
+  amendedBy?: string[]; // id-jevi članova iz zakona o izmjenama koji mijenjaju ovaj član
 }
 
 /** Projekt = tema s vlastitim skupom izvora (zakona) i uputama za AI. */
@@ -40,8 +42,12 @@ export interface Msg {
   id: string;
   role: 'user' | 'assistant';
   text: string;
-  sourceIds: string[];
+  sourceIds: string[]; // redoslijed = brojevi citata [1], [2]...
   error?: boolean;
+  stopped?: boolean;
+  model?: string;
+  /** faq = provjereni odgovor iz baze, search = odgovor iz pretrage bez AI-ja */
+  kind?: 'ai' | 'faq' | 'search';
   ts: number;
 }
 
@@ -51,4 +57,16 @@ export interface Conversation {
   title: string;
   messages: Msg[];
   updatedAt: number;
+  pinned?: boolean;
+}
+
+/** Provjereni odgovor iz baze čestih pitanja (bez AI-ja). */
+export interface FaqEntry {
+  id: string;
+  topic: string;
+  q: string;
+  alt: string[];
+  answer: string; // markdown s [n] citatima
+  sourceIds: string[];
+  reviewed: boolean;
 }

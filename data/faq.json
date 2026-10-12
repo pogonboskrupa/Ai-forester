@@ -1,0 +1,146 @@
+[
+  {
+    "id": "doznaka-privatna",
+    "topic": "Doznaka i sječa",
+    "q": "Kako dobiti doznaku i dozvolu za sječu u privatnoj šumi?",
+    "alt": ["sječa u privatnoj šumi", "dozvola za sječu", "rješenje za sječu privatna šuma", "šta treba za sječu u svojoj šumi"],
+    "answer": "Sječa u privatnoj šumi moguća je tek nakon **rješenja Uprave za šumarstvo** i izvršene **doznake** stabala [@usk-zakon-o-sumama#14][@usk-zakon-o-sumama#15].\n\n**Dokumenti koje vlasnik podnosi** [@usk-zakon-o-sumama#14]:\n- zemljišnoknjižni izvadak (gdje nema zemljišnih knjiga: uvjerenje suda i izvadak iz posjedovnog lista),\n- kopija katastarskog plana,\n- saglasnost svih suvlasnika/suposjednika ovjerena kod notara,\n- izjave vlasnika/posjednika susjednih parcela.\n\n**Ko vrši doznaku:** diplomirani inženjer/master šumarstva sa stručnim ispitom kojeg rješenjem odredi Uprava za šumarstvo ili pravno lice za stručne poslove u privatnim šumama; za sanitarnu sječu i izdanačke šume i bačelor ili šumarski tehničar s 5 godina iskustva [@usk-zakon-o-sumama#14].\n\nStručne poslove (doznaka, žigosanje, otpremni iskaz…) vlasnik ugovorom prenosi uz naknadu od najviše 10 % cijene drveta na panju [@usk-zakon-izmjene-dopune-2016#6].\n\nNa rješenje se može uložiti **žalba Ministarstvu u roku od 15 dana** [@usk-zakon-o-sumama#14].",
+    "reviewed": false
+  },
+  {
+    "id": "doznaka-ko-drzavne",
+    "topic": "Doznaka i sječa",
+    "q": "Ko smije vršiti doznaku stabala u državnim šumama?",
+    "alt": ["ko vrši doznaku", "doznaka državne šume", "doznačivač uslovi"],
+    "answer": "U državnim šumama doznaku vrši **diplomirani inženjer šumarstva / master šumarstva sa položenim stručnim ispitom** kojeg odredi korisnik šuma [@usk-zakon-o-sumama#14].\n\nIzuzetno, za **sanitarnu sječu** i u **izdanačkim šumama** doznaku može vršiti bačelor šumarstva ili šumarski tehničar s najmanje **pet godina** radnog iskustva u struci [@usk-zakon-o-sumama#14].\n\nDoznaka se ne smije vršiti gdje imovinsko-pravni odnosi nisu riješeni i granice nisu vidno obilježene [@usk-zakon-o-sumama#14][@usk-pravilnik-doznaka#2].",
+    "reviewed": false
+  },
+  {
+    "id": "doznaka-postupak",
+    "topic": "Doznaka i sječa",
+    "q": "Kako se tehnički vrši doznaka stabala?",
+    "alt": ["postupak doznake", "obilježavanje stabala za sječu", "doznačna knjiga", "boja doznake"],
+    "answer": "Doznaka stabala obuhvata [@usk-pravilnik-doznaka#5]:\n1. obilježavanje zatesom na žilištu (s donje strane) i na prsnoj visini (s gornje strane),\n2. obrojčavanje stabla na žilištu,\n3. premjerbu prsnog prečnika, određivanje klase i upis u **doznačnu knjigu**,\n4. otisak doznačnog čekića na oba zatesa uz boju različitu od boje premjerbe.\n\n**Boja doznake mijenja se početkom svake kalendarske godine**, a jedna knjiga doznake vodi se za samo jedan odjel (osim sanitarnih užitaka) [@usk-pravilnik-doznaka#5].\n\nSječa bez prethodne doznake, rješenja i projekta za izvođenje nije dopuštena [@usk-pravilnik-doznaka#4].",
+    "reviewed": false
+  },
+  {
+    "id": "visina-panja",
+    "topic": "Doznaka i sječa",
+    "q": "Kolika smije biti visina panja nakon sječe?",
+    "alt": ["visina panja", "panj visina sječa"],
+    "answer": "Visina panja može biti **najviše 1/3 prečnika panja**, mjereno s gornje strane (na strmom terenu s gornje strane panja-terena) [@usk-pravilnik-doznaka#9][@usk-pravilnik-sumski-red#7].\n\nDijelovi stabala od kojih se ne mogu izraditi sortimenti prerezuju se na više dijelova i osiguravaju od pomjeranja; kod četinara i brijesta obavezno se skida kora [@usk-pravilnik-sumski-red#7].",
+    "reviewed": false
+  },
+  {
+    "id": "otpremni-iskaz-sta",
+    "topic": "Promet drveta",
+    "q": "Šta je otpremni iskaz i šta mora sadržavati?",
+    "alt": ["otpremnica za drvo", "otpremni iskaz sadržaj", "prijevoz drveta dokument", "papiri za prevoz drva"],
+    "answer": "Otpremni iskaz je **jedini valjani dokument** kojim se dokazuje porijeklo, vlasništvo, kupac, mjesto utovara i istovara, način i vrijeme prijevoza i vrsta drvnih proizvoda u prometu [@usk-pravilnik-zigosanje-otpremni#10].\n\n- Izdaje se za **jedno prijevozno sredstvo** i samo za drvo koje je doznačeno, primljeno, obrojčeno i žigosano [@usk-pravilnik-zigosanje-otpremni#13].\n- Važi prema udaljenosti i uslovima prijevoza, ali **najduže 48 sati**; produženje ovjerava izdavalac [@usk-pravilnik-zigosanje-otpremni#14].\n- Drvo se ne smije pomjerati od panja prije žigosanja, obrojčavanja, premjeravanja i evidentiranja, niti stavljati u promet bez otpremnog iskaza [@usk-zakon-o-sumama#26].\n\nZa bespravno posječeno drvo žigosano oznakom **ŠK** otpremni iskaz se ne izdaje [@usk-pravilnik-zigosanje-otpremni#13].",
+    "reviewed": false
+  },
+  {
+    "id": "otpremni-iskaz-ko",
+    "topic": "Promet drveta",
+    "q": "Ko izdaje otpremni iskaz za drvo iz državne, a ko iz privatne šume?",
+    "alt": ["ko izdaje otpremnicu", "otpremni iskaz privatna šuma", "otpremni iskaz državna šuma"],
+    "answer": "- **Državne šume:** otpremni iskaz izdaje samo **šumskoprivredno društvo** (korisnik šuma) [@usk-pravilnik-zigosanje-otpremni#12][@usk-zakon-o-sumama#26].\n- **Privatne šume i drvo izvan šume** (međe, poljoprivredno zemljište): **kantonalno ministarstvo / Uprava za šumarstvo**, odnosno pravno lice kojem su preneseni stručni poslovi [@usk-pravilnik-zigosanje-otpremni#12][@usk-zakon-o-sumama#26][@usk-zakon-izmjene-dopune-2016#6].\n\nPri prodaji pravnom licu iskaz se izdaje na osnovu ugovora ili dispozicije, a u maloprodaji na osnovu uplatnice koja važi **30 dana** (jednom se može produžiti) [@usk-pravilnik-zigosanje-otpremni#12].",
+    "reviewed": false
+  },
+  {
+    "id": "boja-cekica-privatne",
+    "topic": "Promet drveta",
+    "q": "Koja boja se koristi pri žigosanju drveta iz privatne šume?",
+    "alt": ["plava boja zelena boja čekić", "žigosanje privatna šuma", "šumski čekić boja"],
+    "answer": "Za privatne šume koristi se isti šumski čekić za doznaku, prijem panjeva i otpremu [@usk-pravilnik-zigosanje-otpremni#4]:\n- **plava boja** – drvo za **vlastite potrebe**,\n- **zelena boja** – drvo za **dalju prodaju**.\n\nČuvari šuma kod bespravne sječe koriste poseban čekić s kvadratnim pečatom i oznakom **ŠK** (šumski kvar) [@usk-pravilnik-zigosanje-otpremni#5].",
+    "reviewed": false
+  },
+  {
+    "id": "cetinari-kora",
+    "topic": "Promet drveta",
+    "q": "Smije li se drvo četinara prevoziti s korom ljeti?",
+    "alt": ["četinari s korom", "kora četinara promet", "brijest kora"],
+    "answer": "U periodu vegetacije, **od 1. aprila do 1. novembra**, drvo četinara i brijesta **ne smije se s korom stavljati u promet niti skladištiti** [@usk-zakon-o-sumama#26].\n\nIzuzetak: ako od sječe do otpreme prođe manje od ciklusa razvoja insekta, a **najduže 21 dan** [@usk-zakon-o-sumama#26].",
+    "reviewed": false
+  },
+  {
+    "id": "kazne-fizicka-lica",
+    "topic": "Kazne",
+    "q": "Koje su kazne za bespravnu sječu i prevoz drveta bez otpremnice?",
+    "alt": ["kazna za bespravnu sječu", "kazna fizičko lice šuma", "prekršaj sječa bez doznake", "kazna prevoz drva bez papira"],
+    "answer": "Fizičko lice kaznit će se novčanom kaznom od **200 do 1.500 KM**, između ostalog ako [@usk-zakon-o-sumama#81]:\n- siječe bez rješenja i doznake,\n- otprema iz šume ili stavlja u promet drvo bez žigosanja i otpremnog iskaza,\n- siječe na uzurpiranoj državnoj šumi,\n- loži vatru suprotno zakonu ili odlaže smeće u šumi.\n\nUz kaznu se izriče i **zaštitna mjera oduzimanja drveta i sredstava** kojima je radnja izvršena; drvo mogu privremeno oduzeti čuvari šuma, policija i šumarski inspektori [@usk-zakon-o-sumama#26].\n\nZa pravna lica i korisnika šuma kazne su veće (npr. 6.000–8.000 KM za određene prekršaje) [@usk-zakon-o-sumama#79].",
+    "reviewed": false
+  },
+  {
+    "id": "posumljavanje-rok",
+    "topic": "Uzgoj i zaštita",
+    "q": "U kojem roku se mora pošumiti sječina ili paljevina?",
+    "alt": ["rok za pošumljavanje", "pošumljavanje nakon požara", "obnova sječine"],
+    "answer": "Površine nastale čistom sječom i paljike moraju se pošumiti **u roku od dvije godine** nakon sječe ili požara, prirodnom obnovom ili sadnjom [@usk-zakon-o-sumama#21].\n\nAko se prirodna obnova ne očekuje u tom roku, sadi se ili sije drveće primjereno staništu, i to **samo materijalom potvrđenog porijekla** [@usk-zakon-o-sumama#21]. Površine za pošumljavanje obilježavaju se na terenu i ucrtavaju na kartu [@usk-zakon-o-sumama#21].\n\nNeizvršeno pošumljavanje je prekršaj [@usk-zakon-o-sumama#81][@usk-zakon-o-sumama#80].",
+    "reviewed": false
+  },
+  {
+    "id": "vatra-u-sumi",
+    "topic": "Uzgoj i zaštita",
+    "q": "Smije li se ložiti vatra u šumi ili blizu šume?",
+    "alt": ["paljenje vatre šuma", "loženje vatre 150 m", "zaštita od požara šuma"],
+    "answer": "U šumi, na šumskom zemljištu i **do 150 m od šume** loženje otvorene vatre **nije dozvoljeno** [@usk-zakon-o-sumama#33].\n\n- Loženje dalje od 150 m mora se prijaviti civilnoj zaštiti (kantonalnoj ili općinskoj) [@usk-zakon-o-sumama#33].\n- Vatra se u šumi smije ložiti samo na mjestima koja odredi i obilježi Uprava za šumarstvo [@usk-zakon-o-sumama#33].\n- Objekti s otvorenim plamenom ne smiju se graditi bliže od **300 m** od granice šume [@usk-zakon-o-sumama#33].\n\nU šumi i do 100 m od ruba šume zabranjeno je i paljenje smeća, piljevine i pilanskog otpada [@usk-pravilnik-sumski-red#2].",
+    "reviewed": false
+  },
+  {
+    "id": "pasa-u-sumi",
+    "topic": "Uzgoj i zaštita",
+    "q": "Da li je dozvoljena ispaša stoke u šumi?",
+    "alt": ["pašarenje", "paša stoke šuma", "žirenje", "odobrenje za pašu"],
+    "answer": "Pašarenje (paša, žirenje, brst, kresanje grana i lisnika) u šumi u pravilu **nije dozvoljeno** [@usk-zakon-o-sumama#35].\n\nIzuzetno ga korisnik šuma ili vlasnik privatne šume može dozvoliti uz naknadu, **samo na površinama određenim šumskoprivrednom osnovom** i uz nadzor čuvara stoke [@usk-zakon-o-sumama#35].\n\n- Zahtjev se podnosi šumskoprivrednom društvu, a uz odobrenje se plaća cijena koju ono određuje [@usk-pravilnik-pasa-sekundarni#7][@usk-pravilnik-pasa-sekundarni#10].\n- Zabranjeno je u visokim šumama s prirodnom obnovom i u mladim kulturama visine do 2 m [@usk-pravilnik-pasa-sekundarni#3].",
+    "reviewed": false
+  },
+  {
+    "id": "pristup-sumi",
+    "topic": "Korištenje šume",
+    "q": "Šta je zabranjeno posjetiocima šume bez odobrenja?",
+    "alt": ["kretanje kroz šumu", "sakupljanje gljiva količina", "kampovanje u šumi", "šator u šumi"],
+    "answer": "Svi se mogu kretati šumom radi rekreacije, na vlastitu odgovornost [@usk-zakon-o-sumama#42]. **Bez odobrenja** korisnika ili vlasnika šume zabranjeno je [@usk-zakon-o-sumama#42]:\n- postavljati šator ili logor,\n- smještati pčelinjake,\n- sakupljati nedrvne šumske proizvode **preko 1 kg**,\n- ulaziti u označena i zatvorena područja i ceste, područja gdje se vrši sječa, obnova, rasadnike i lovnu infrastrukturu.\n\nKretanje motornim vozilima dozvoljeno je samo u propisane svrhe (gospodarenje, nadzor, spašavanje, pristup vlastitom zemljištu, lokalno stanovništvo) [@usk-zakon-o-sumama#41].",
+    "reviewed": false
+  },
+  {
+    "id": "krcenje-sume",
+    "topic": "Zemljište i gradnja",
+    "q": "Kako dobiti dozvolu za krčenje šume ili promjenu namjene zemljišta?",
+    "alt": ["krčenje šume dozvola", "promjena namjene šumskog zemljišta", "gradnja u šumi"],
+    "answer": "Krčenje je u pravilu **zabranjeno**; dozvoljava se samo za objekte predviđene važećim planom prostornog uređenja [@usk-zakon-o-sumama#59].\n\n**Zahtjev se podnosi Ministarstvu** i sadrži: izvadak iz plana prostornog uređenja, zemljišnoknjižni izvadak i kopiju katastarskog plana, koncesijski ugovor (ako postoji), okolišnu saglasnost, saglasnost organa za zaštitu naslijeđa i vodni akt [@usk-zakon-o-sumama#59].\n\n- Prije radova plaća se **naknada** (troškovi podizanja nove šume + tržišna vrijednost drveta), koju procjenjuje komisija [@usk-zakon-o-sumama#59].\n- Dozvola važi **dvije godine**; ako se zemljište ne privede namjeni, mora se pošumiti [@usk-zakon-o-sumama#59].\n- Protiv rješenja nema žalbe, ali se može pokrenuti upravni spor [@usk-zakon-o-sumama#59].",
+    "reviewed": false
+  },
+  {
+    "id": "zakup-zemljista",
+    "topic": "Zemljište i gradnja",
+    "q": "Može li se državno šumsko zemljište uzeti u zakup?",
+    "alt": ["zakup šumskog zemljišta", "najam šumskog zemljišta", "GSM stanica šumsko zemljište"],
+    "answer": "Zakup šuma i šumskog zemljišta je u pravilu **zabranjen** [@usk-zakon-o-sumama#61]. Izuzetno, Ministarstvo može dati zemljište u zakup za [@usk-odluka-zakup-sumskog-zemljista#2]:\n- privremene objekte predviđene ugovorom o koncesiji,\n- GSM bazne stanice,\n- višegodišnje nasade (ako se ne narušavaju funkcije šume),\n- uzgoj divljači.\n\nZakup se daje putem **javnog poziva**; kriterij je visina zakupnine, potrebna je bankovna garancija i mišljenje Kantonalnog pravobranilaštva [@usk-odluka-zakup-sumskog-zemljista#4]. Podzakup nije dozvoljen [@usk-zakon-o-sumama#61].",
+    "reviewed": false
+  },
+  {
+    "id": "cuvanje-sume-steta",
+    "topic": "Čuvanje šuma",
+    "q": "Ko je odgovoran za čuvanje šume i štetu od bespravne sječe?",
+    "alt": ["čuvar šuma ovlaštenja", "šteta od bespravne sječe", "čuvarska služba"],
+    "answer": "Prema izmjenama iz 2016. godine, **čuvanje državnih šuma dužan je osigurati korisnik šuma** (šumskoprivredno društvo), kroz organizovanu čuvarsku službu [@usk-zakon-izmjene-dopune-2016#8][@usk-zakon-o-sumama#65].\n\n- Korisnik šuma **nadoknađuje štetu od nezakonite sječe** na području koje mu je dato na gospodarenje, bez obzira na počinioca; rješenje donosi šumarski inspektor po odštetnom cjenovniku [@usk-zakon-izmjene-dopune-2016#8].\n- **Privatne šume čuvaju njihovi vlasnici**, osim ako te poslove ugovorom prenesu na drugo pravno lice [@usk-zakon-izmjene-dopune-2016#6].\n\nČuvari šuma su ovlaštene službene osobe: mogu zaustaviti vozila, pregledati dokumentaciju za drvo i legitimisati lica [@usk-zakon-o-sumama#65].",
+    "reviewed": false
+  },
+  {
+    "id": "naknada-opcekorisne",
+    "topic": "Naknade",
+    "q": "Ko plaća naknadu za općekorisne funkcije šuma i koliko?",
+    "alt": ["općekorisne funkcije šuma naknada", "0,07 posto naknada", "naknada pravna lica šume"],
+    "answer": "Naknadu plaćaju **sva pravna lica** registrovana na području Kantona (i dijelovi pravnih lica sa sjedištem izvan Kantona) u visini **0,07 % ukupnog prihoda** ostvarenog na području Kantona [@usk-zakon-o-sumama#68].\n\n- Izuzeti su korisnici državnih šuma, javne institucije, humanitarne organizacije, udruženja i fondacije koje ne posluju radi dobiti [@usk-zakon-o-sumama#68].\n- Obaveza zastarijeva za **5 godina**; kontrolu vrši Porezna uprava [@usk-zakon-o-sumama#68].",
+    "reviewed": false
+  },
+  {
+    "id": "naknada-koristenje-drzavnih",
+    "topic": "Naknade",
+    "q": "Kolika je naknada za korištenje državnih šuma?",
+    "alt": ["naknada 9 posto", "naknada korisnik šuma prihod"],
+    "answer": "Naknada za korištenje državnih šuma iznosi **9 % od prihoda** utvrđenog na osnovu ostvarene godišnje sječe (po cijeni drveta na panju iz cjenovnika) i prihoda od prodaje nedrvnih šumskih proizvoda [@usk-zakon-o-sumama#53].\n\nKontrolu obračuna i uplate vrše šumarska inspekcija i Porezna uprava [@usk-zakon-o-sumama#53].",
+    "reviewed": false
+  }
+]
