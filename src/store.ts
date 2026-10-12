@@ -42,6 +42,8 @@ let controller: AbortController | null = null;
 export const openSourceId = signal<string | null>(null);
 /** Biblioteka: koji propis/član otvoriti. */
 export const libraryFocus = signal<{ lawId: string; articleId?: string } | null>(null);
+export type LibraryTab = 'laws' | 'duties' | 'faq' | 'spd';
+export const libraryTab = signal<LibraryTab>('laws');
 
 export interface Toast { id: string; text: string; kind: 'ok' | 'err' }
 export const toasts = signal<Toast[]>([]);
@@ -251,7 +253,7 @@ async function generate(convId: string, question: string, history: Msg[], opts: 
   try {
     const model = await streamCompletion({
       system: systemPrompt(project),
-      messages: [...toTurns(history), { role: 'user', text: buildPrompt(question, ctx) }],
+      messages: [...toTurns(history), { role: 'user', text: buildPrompt(question, ctx, (id) => lawById(id)?.notice) }],
       signal: controller.signal,
       onText: (d) => {
         const cur = streaming.value;

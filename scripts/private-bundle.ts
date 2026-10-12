@@ -25,6 +25,8 @@ interface ManifestItem {
   title: string;
   gazette: string;
   topic?: string;
+  group?: string;
+  notice?: string;
   kind: 'articles' | 'positions';
   file: string;
 }
@@ -74,7 +76,7 @@ async function add(manifestPath: string, pass: string): Promise<void> {
   const items = JSON.parse(readFileSync(manifestPath, 'utf8')) as ManifestItem[];
   const bundle = await load(pass);
   for (const it of items) {
-    const meta: LawMeta = { id: it.id, file: '', title: it.title, level: 'ŠPD', gazette: it.gazette, inForce: true, sourceUrl: '', topic: it.topic ?? 'Interni akti ŠPD' };
+    const meta: LawMeta = { id: it.id, file: '', title: it.title, level: 'ŠPD', gazette: it.gazette, inForce: true, sourceUrl: '', topic: it.topic ?? 'Interni akti ŠPD', ...(it.group ? { group: it.group } : {}), ...(it.notice ? { notice: it.notice } : {}) };
     const raw = readFileSync(resolve(base, it.file), 'utf8');
     const arts = it.kind === 'positions' ? positionsToArticles(JSON.parse(raw) as Position[], meta) : parseArticles(raw, meta);
     if (!arts.length) throw new Error(`${it.id}: nije pronađen nijedan član`);

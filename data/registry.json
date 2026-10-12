@@ -7,7 +7,8 @@
   "gazette": "Sl. glasnik USK 22/12 (izmjene: 16/16, 12/17)",
   "inForce": true,
   "sourceUrl": "https://vladausk.ba/v4/preuzimanje/9",
-  "topic": "Šumarstvo"
+  "topic": "Šumarstvo",
+  "notice": "Zakon je kasnije mijenjan još dva puta: 2023. (Zakon o izmjenama i dopunama Zakona o šumama, Sl. glasnik USK 23/23) i 2026. (izmjene usvojene u Skupštini USK u martu 2026: čuvari šuma – lugari, njihove ovlasti i kontrola prevoza drveta). Tekstovi tih izmjena još nisu u aplikaciji – dodajte ih preko „Dodaj PDF\" kad ih nabavite."
  },
  {
   "id": "usk-zakon-izmjene-dopune-2016",
@@ -49,7 +50,8 @@
   "gazette": "Sl. glasnik USK 26/12",
   "inForce": true,
   "sourceUrl": "https://vladausk.ba/v4/preuzimanje/9",
-  "topic": "Šumarstvo"
+  "topic": "Šumarstvo",
+  "notice": "Pravilnik je izmijenjen i dopunjen 2025. (Sl. glasnik USK 13/25). Tekst te izmjene još nije u aplikaciji."
  },
  {
   "id": "usk-pravilnik-pasa-sekundarni",
@@ -99,7 +101,8 @@
   "gazette": "Sl. novine FBiH 4/06, 8/10, 81/14",
   "inForce": true,
   "sourceUrl": "https://fmpvs.gov.ba/lovstvo-zakoni/",
-  "topic": "Lovstvo"
+  "topic": "Lovstvo",
+  "notice": "USK je 2025. donio Pravilnik o uvjetima, kriterijima, načinu vrednovanja ponuda i postupku dodjele u zakup sportskoprivrednih lovišta (Sl. glasnik USK 10/25), koji nije u aplikaciji."
  },
  {
   "id": "fbih-zakon-o-sjemenu",

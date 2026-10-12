@@ -11,6 +11,8 @@ export interface LawMeta {
   sourceUrl: string;
   topic?: string;
   amends?: string; // id osnovnog akta koji ovaj akt mijenja
+  group?: string; // grupa u sekciji "Pravilnici ŠPD" (interni akti)
+  notice?: string; // upozorenje o ažurnosti (npr. kasnije izmjene koje nisu u bazi)
 }
 
 export interface LawInfo extends LawMeta {
