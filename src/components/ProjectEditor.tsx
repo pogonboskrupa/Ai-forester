@@ -3,7 +3,7 @@ import { deleteProject, drawerOpen, editingProjectId, laws, newConversation, pro
 import type { Level } from '../types';
 import { Icon } from './Icon';
 
-const LEVEL_ORDER: Record<Level, number> = { USK: 0, FBiH: 1, BiH: 2 };
+const LEVEL_ORDER: Record<Level, number> = { USK: 0, FBiH: 1, BiH: 2, ŠPD: 3 };
 
 export function ProjectEditor() {
   const id = editingProjectId.value;

@@ -93,16 +93,26 @@ export async function init(): Promise<void> {
   effect(() => void saveConversations(conversations.value));
 }
 
-/** Ugrađena baza + korisnikovi propisi, s povezanim izmjenama, i ponovo izgrađen indeks pretrage. */
+// Otključani interni akti ŠPD-a (src/private.ts); samo u memoriji, nikad u IndexedDB.
+let privateLawList: LawInfo[] = [];
+let privateArticles: Article[] = [];
+
+export function setPrivateCorpus(l: LawInfo[], a: Article[]): void {
+  privateLawList = l;
+  privateArticles = a;
+  if (ready.value) rebuildCorpus();
+}
+
+/** Ugrađena baza + interni akti + korisnikovi propisi, s povezanim izmjenama, i ponovo izgrađen indeks pretrage. */
 function rebuildCorpus(): void {
   const custom = userLaws.value;
-  const customArticles = custom.flatMap((u) => u.articles);
+  const customArticles = [...custom.flatMap((u) => u.articles), ...privateArticles];
   const all = custom.some((u) => u.law.amends)
     ? linkAmendments([...builtinArticles, ...customArticles], custom.map((u) => u.law))
     : [...builtinArticles, ...customArticles];
   batch(() => {
     articles.value = all;
-    laws.value = [...builtinLaws, ...custom.map((u) => u.law)];
+    laws.value = [...builtinLaws, ...privateLawList, ...custom.map((u) => u.law)];
   });
   index = buildIndex(all);
 }

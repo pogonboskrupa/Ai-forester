@@ -10,6 +10,13 @@ export default defineConfig({
   esbuild: { jsx: 'automatic', jsxImportSource: 'preact' },
   base: './',
   plugins: [
+    // version.json: aplikacija (posebno APK) ga čita da sazna ima li novija verzija.
+    {
+      name: 'version-json',
+      generateBundle() {
+        this.emitFile({ type: 'asset', fileName: 'version.json', source: JSON.stringify({ version }) });
+      },
+    },
     VitePWA({
       registerType: 'autoUpdate',
       injectRegister: false, // registracija u src/pwa.ts (provjera nove verzije pri povratku u aplikaciju)
@@ -44,7 +51,7 @@ export default defineConfig({
       // pdf.js (uvoz PDF-a) se ne kešira unaprijed: koristi se rijetko, a velik je.
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,json}'],
-        globIgnores: ['**/pdf-*.js', '**/pdf.worker*'],
+        globIgnores: ['**/pdf-*.js', '**/pdf.worker*', 'version.json'], // version.json uvijek s mreže
         maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
         navigateFallbackDenylist: [/\.apk$/], // APK mora ići na mrežu, ne na keširani index.html
         cleanupOutdatedCaches: true,

@@ -1,5 +1,7 @@
 import { registerSW } from 'virtual:pwa-register';
 
+let registration: ServiceWorkerRegistration | undefined;
+
 /**
  * Service worker s automatskim ažuriranjem: telefon ne smije ostati na staroj verziji iz keša.
  * Nova verzija se traži pri pokretanju, pri povratku u aplikaciju i svakih 30 minuta,
@@ -10,15 +12,18 @@ export function setupPwa(): void {
   if ('Capacitor' in window || !('serviceWorker' in navigator)) return;
   registerSW({
     immediate: true,
-    onRegisteredSW(_url, registration) {
-      if (!registration) return;
-      const check = () => {
-        if (navigator.onLine) void registration.update().catch(() => undefined);
-      };
-      setInterval(check, 30 * 60 * 1000);
+    onRegisteredSW(_url, reg) {
+      registration = reg;
+      if (!reg) return;
+      setInterval(() => void checkServiceWorker(), 30 * 60 * 1000);
       document.addEventListener('visibilitychange', () => {
-        if (document.visibilityState === 'visible') check();
+        if (document.visibilityState === 'visible') void checkServiceWorker();
       });
     },
   });
+}
+
+/** Traži novi service worker; kad se instalira, autoUpdate sam osvježi stranicu. */
+export async function checkServiceWorker(): Promise<void> {
+  if (registration && navigator.onLine) await registration.update().catch(() => undefined);
 }

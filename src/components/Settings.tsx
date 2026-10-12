@@ -8,6 +8,8 @@ import {
 import { conversations, drawerOpen, exportAll, importAll, toast } from '../store';
 import { Icon, type IconName } from './Icon';
 import { InstallCard } from './InstallCard';
+import { UpdateCard } from './Update';
+import { PrivateCard } from './PrivateCard';
 
 interface ProviderDef {
   id: Provider;
@@ -163,6 +165,8 @@ export function Settings() {
       </header>
       <div class="page-inner narrow">
         <InstallCard />
+        <UpdateCard />
+        <PrivateCard />
         <section class="card">
           <h2>Način odgovaranja</h2>
           <div class="segmented" role="radiogroup">

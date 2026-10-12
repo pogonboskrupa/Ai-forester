@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
+import { copyFileSync, readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
 import { amendedArticleNumbers, parseArticles } from '../src/parse';
 import type { Article, FaqEntry, LawInfo, LawMeta } from '../src/types';
 
@@ -49,4 +49,6 @@ mkdirSync('public/data', { recursive: true });
 writeFileSync('public/data/articles.json', JSON.stringify(articles));
 writeFileSync('public/data/laws.json', JSON.stringify(laws));
 writeFileSync('public/data/faq.json', JSON.stringify(faq));
+// Interni akti ŠPD-a idu u aplikaciju samo šifrovani (vidi scripts/private-bundle.ts).
+if (existsSync('data/private/spd.enc.json')) copyFileSync('data/private/spd.enc.json', 'public/data/spd.enc.json');
 console.log(`Ukupno: ${laws.length} propisa, ${articles.length} članova, ${links} veza izmjena, ${faq.length} provjerenih odgovora`);

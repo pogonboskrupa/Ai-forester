@@ -11,6 +11,9 @@ import { Settings } from './components/Settings';
 import { Sidebar } from './components/Sidebar';
 import { SourcePanel } from './components/SourcePanel';
 import { Toasts } from './components/Toasts';
+import { UpdateBanner } from './components/Update';
+import { setupUpdateChecks } from './update';
+import { restorePrivate } from './private';
 import {
   busy, drawerOpen, filterProjectId, init, loadError, newConversation, openSourceId, ready, stopGeneration, view,
 } from './store';
@@ -42,7 +45,7 @@ function handleLaunchAction(): void {
 }
 
 function App() {
-  useEffect(() => void init().then(handleLaunchAction), []);
+  useEffect(() => void init().then(() => { handleLaunchAction(); setupUpdateChecks(); void restorePrivate(); }), []);
   useShortcuts();
   if (loadError.value) {
     return (
@@ -56,6 +59,7 @@ function App() {
       <Sidebar />
       {drawerOpen.value && <div class="scrim" onClick={() => (drawerOpen.value = false)} />}
       <main class="main">
+        <UpdateBanner />
         {v === 'chat' && <Chat />}
         {v === 'library' && <Library />}
         {v === 'project' && <ProjectEditor />}

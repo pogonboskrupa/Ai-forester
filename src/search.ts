@@ -3,7 +3,8 @@ import type { Article } from './types';
 import { fold, tokenize } from './text';
 
 // Specifičniji nivo ima prednost kod sukoba normi: USK > FBiH > BiH.
-const LEVEL_BOOST = { USK: 1.3, FBiH: 1.1, BiH: 1 } as const;
+// Interni akti ŠPD: blago iznad BiH, ispod zakona kantona (zakon je iznad internog akta).
+const LEVEL_BOOST = { USK: 1.3, FBiH: 1.1, ŠPD: 1.05, BiH: 1 } as const;
 
 // Narodni izrazi koji se ne poklapaju s terminologijom propisa (npr. "prijevoz" -> "otpremni iskaz").
 const SYNONYMS: Record<string, string> = {
