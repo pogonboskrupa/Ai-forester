@@ -567,3 +567,52 @@ input[type='checkbox'] { accent-color: var(--accent); width: 16px; height: 16px;
 .notice { display: flex; gap: 8px; align-items: flex-start; padding: 8px 10px; border-radius: 8px; font-size: 0.86rem; background: color-mix(in srgb, var(--warn, #b7791f) 12%, var(--surface)); border: 1px solid color-mix(in srgb, var(--warn, #b7791f) 35%, var(--border)); }
 .notice svg { flex-shrink: 0; margin-top: 2px; }
 @media (max-width: 480px) { .segmented button { padding: 0 10px; gap: 4px; } }
+.cite { display: inline-flex; flex-wrap: wrap; gap: 4px 6px; align-items: center; font-size: 0.8rem; }
+.cite-link { color: var(--accent); text-decoration: none; border-bottom: 1px dotted currentColor; }
+.cite-link.outdated { color: var(--muted); text-decoration: line-through; border-bottom: 0; }
+.pill.xs { font-size: 0.68rem; padding: 0 6px; }
+
+/* Alati */
+.tool { display: flex; flex-direction: column; gap: 12px; }
+.tool h3 { margin: 6px 0 0; font-size: 0.95rem; }
+.tools-tabs { margin-bottom: 12px; }
+.tool-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; }
+.tool-grid .field.wide { grid-column: 1 / -1; }
+.field.narrow { max-width: 200px; }
+.check-row { display: flex; gap: 8px; align-items: center; font-size: 0.88rem; }
+.calc-rows { display: flex; flex-direction: column; gap: 6px; }
+.calc-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(54px, 1fr)) 28px; gap: 6px; align-items: center; }
+.calc-row.head { font-size: 0.75rem; color: var(--muted); }
+.calc-row input { min-width: 0; padding: 6px 8px; }
+.calc-row output { font-variant-numeric: tabular-nums; text-align: right; font-size: 0.9rem; }
+.calc-total { display: flex; justify-content: space-between; align-items: baseline; padding: 10px 12px; border-radius: 10px; background: var(--accent-soft); }
+.calc-total strong { font-size: 1.35rem; font-variant-numeric: tabular-nums; }
+.offences { display: flex; flex-direction: column; gap: 8px; }
+.offence { border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px; display: flex; flex-direction: column; gap: 6px; }
+.offence p { margin: 0; font-size: 0.9rem; }
+.offence-amount { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline; }
+.offence-amount strong { color: var(--danger); }
+.deadlines { display: flex; flex-direction: column; gap: 6px; }
+.deadline { display: grid; grid-template-columns: 110px 1fr; gap: 10px; padding: 8px 10px; border-radius: 10px; border: 1px solid var(--border); }
+.deadline p { margin: 0 0 2px; font-size: 0.9rem; }
+.deadline-date { display: flex; flex-direction: column; }
+.deadline.soon { border-color: var(--danger); }
+.deadline.active { border-color: var(--accent); background: var(--accent-soft); }
+.checklist { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
+.checklist li { display: flex; flex-direction: column; gap: 4px; padding: 8px 10px; border-radius: 10px; border: 1px solid var(--border); }
+.checklist li label { display: flex; gap: 10px; align-items: flex-start; font-size: 0.9rem; }
+.checklist li label input { margin-top: 3px; }
+.checklist li.done span { color: var(--muted); text-decoration: line-through; }
+.progress { height: 6px; border-radius: 999px; background: var(--surface-2); overflow: hidden; }
+.progress span { display: block; height: 100%; background: var(--accent); transition: width .2s; }
+.saved-list h3, .reg-table { margin-top: 4px; }
+.saved-item, .reg-row { display: flex; gap: 10px; align-items: center; padding: 6px 0; border-bottom: 1px solid var(--border); font-size: 0.88rem; }
+.reg-row > *:nth-child(2) { flex: 1; }
+.saved-item .link { flex: 1; text-align: left; }
+.source-chip.outdated .ellipsis, .source-chip.outdated .art { text-decoration: line-through; opacity: .7; }
+.source-chip.current { border-color: var(--accent); }
+.amend-current { margin-top: 8px; padding: 8px 10px; border-left: 3px solid var(--accent); background: var(--accent-soft); border-radius: 6px; white-space: pre-wrap; font-size: 0.9rem; }
+.article.outdated > summary .grow { text-decoration: line-through; text-decoration-color: color-mix(in srgb, var(--muted) 60%, transparent); }
+.source-current { margin: 0 16px 8px; }
+.outdated-text { opacity: .75; }
+.md del { opacity: .7; }

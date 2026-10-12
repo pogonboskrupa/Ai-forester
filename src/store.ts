@@ -9,7 +9,7 @@ import { isConfigured, settings } from './settings';
 import { loadConversations, loadProjects, loadUserLaws, saveConversations, saveProjects, saveUserLaws } from './storage';
 import { linkAmendments } from './pdf/import';
 
-export type View = 'chat' | 'library' | 'project' | 'settings' | 'import';
+export type View = 'chat' | 'library' | 'project' | 'settings' | 'import' | 'tools';
 
 const uid = () => crypto.randomUUID();
 const CONTEXT_K = 8;
@@ -199,15 +199,24 @@ const toTurns = (history: Msg[]): Turn[] =>
     .slice(-HISTORY_TURNS)
     .map((m) => ({ role: m.role, text: m.text }));
 
-/** Uz pronađeni član dodaje i članove zakona o izmjenama koji ga mijenjaju (da odgovor ne bude zastario). */
+/**
+ * Uz pronađeni član dodaje članove zakona o izmjenama koji ga mijenjaju i stavlja ih ISPRED njega,
+ * da se citira važeći tekst, a izvorni (zastarjeli) bude samo kontekst.
+ */
 function withAmendments(ctx: Article[], limit: number): Article[] {
   const out = [...ctx];
   const seen = new Set(out.map((a) => a.id));
   for (const a of ctx) {
     for (const id of a.amendedBy ?? []) {
       const am = articleById(id);
-      if (am && !seen.has(id) && out.length < limit) {
-        out.splice(out.indexOf(a) + 1, 0, am);
+      if (!am) continue;
+      if (seen.has(id)) {
+        // izmjena je već pronađena, ali iza starog člana: pomjeri je ispred
+        const ai = out.indexOf(a);
+        const mi = out.findIndex((x) => x.id === id);
+        if (mi > ai) out.splice(ai, 0, ...out.splice(mi, 1));
+      } else if (out.length < limit) {
+        out.splice(out.indexOf(a), 0, am);
         seen.add(id);
       }
     }

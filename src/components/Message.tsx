@@ -1,17 +1,32 @@
 import { useState } from 'preact/hooks';
 import { citedNumbers, renderMarkdown } from '../md';
 import { isConfigured } from '../settings';
-import { articleById, editLastQuestion, openSourceId, regenerate, toast } from '../store';
+import { articleById, editLastQuestion, lawById, openSourceId, regenerate, toast } from '../store';
 import type { Article, Msg } from '../types';
 import { Icon } from './Icon';
 
-function Chip({ a, n }: { a: Article; n: number }) {
+function Chip({ a, n, present }: { a: Article; n: number; present: Set<string> }) {
+  // Izmijenjen član: prikazuje se precrtan, a uz njega važeća izmjena koju treba citirati.
+  const amenders = (a.amendedBy ?? []).map(articleById).filter((x): x is Article => !!x);
+  const extra = amenders.filter((m) => !present.has(m.id)); // izmjena koja već ima svoj čip se ne ponavlja
+  const notice = lawById(a.lawId)?.notice; // propis ima kasnije izmjene kojih nema u bazi
   return (
-    <button class={`source-chip ${openSourceId.value === a.id ? 'on' : ''}`} onClick={() => (openSourceId.value = a.id)} title={a.lawTitle}>
-      <span class="n">{n}</span>
-      <span class="ellipsis">{a.lawTitle.replace(/\s*\((USK|FBiH|BiH)\)$/, '')}</span>
-      <span class="art">čl. {a.number}</span>
-    </button>
+    <>
+      <button class={`source-chip ${openSourceId.value === a.id ? 'on' : ''} ${amenders.length ? 'outdated' : ''}`} onClick={() => (openSourceId.value = a.id)} title={amenders.length ? `${a.lawTitle} – zastarjeli tekst, član je izmijenjen` : a.lawTitle}>
+        <span class="n">{n}</span>
+        <span class="ellipsis">{a.lawTitle.replace(/\s*\((USK|FBiH|BiH)\)$/, '')}</span>
+        <span class="art">čl. {a.number}</span>
+        {amenders.length > 0 && <span class="pill warn xs">zastarjelo</span>}
+        {!amenders.length && notice && <span class="pill xs" title={notice}>provjeri izmjene</span>}
+      </button>
+      {extra.map((m) => (
+        <button key={m.id} class={`source-chip current ${openSourceId.value === m.id ? 'on' : ''}`} onClick={() => (openSourceId.value = m.id)} title={`${m.lawTitle} (${m.gazette}) – važeći tekst`}>
+          <span class="n">↳</span>
+          <span class="ellipsis">važeće: {m.lawTitle.replace(/^Zakon o izmjen\w* (i dopun\w* )?/i, 'izmjene ')}</span>
+          <span class="art">čl. {m.number}</span>
+        </button>
+      ))}
+    </>
   );
 }
 
@@ -23,10 +38,11 @@ function SourceChips({ ids, text }: { ids: string[]; text: string }) {
   const cited = citedNumbers(text);
   const main = src.filter((x) => cited.has(x.n));
   const rest = src.filter((x) => !cited.has(x.n));
+  const present = new Set(src.map((x) => x.a.id));
   return (
     <div class="sources">
-      {main.map((x) => <Chip key={x.a.id} {...x} />)}
-      {showAll && rest.map((x) => <Chip key={x.a.id} {...x} />)}
+      {main.map((x) => <Chip key={x.a.id} {...x} present={present} />)}
+      {showAll && rest.map((x) => <Chip key={x.a.id} {...x} present={present} />)}
       {rest.length > 0 && (
         <button class="source-more" onClick={() => setShowAll(!showAll)}>
           {showAll ? 'Sakrij' : main.length ? `+${rest.length} pretraženih` : `Pretraženi izvori (${rest.length})`}

@@ -8,7 +8,7 @@ Kako odgovaraš:
 - Svaku tvrdnju potkrijepi oznakom izvoda u uglastim zagradama, npr. [1] ili [2][4]. Ne navodi izvore drugačije i ne pravi listu izvora na kraju; aplikacija ih prikazuje.
 - Počni direktnim odgovorom u jednoj do dvije rečenice, zatim po potrebi razradi u kratkim pasusima ili listama (rokovi, nadležni organ, obaveze, kazne).
 - Kada se kantonalni i federalni propis razlikuju, navedi oba i napomeni da kantonalni propis uređuje pitanja u nadležnosti kantona.
-- Izvodi iz zakona o izmjenama imaju prednost nad osnovnim tekstom člana koji mijenjaju; tada odgovori prema izmijenjenom tekstu i to naglasi.
+- Izvodi iz zakona o izmjenama imaju prednost nad osnovnim tekstom člana koji mijenjaju; tada odgovori prema izmijenjenom tekstu i to naglasi.\n- Izvod označen kao ZASTARJELI TEKST ne citiraj kao važeći: citiraj izvod s VAŽEĆOM IZMJENOM, a stari član spomeni samo ako je potrebno (npr. \"član 65. u izmijenjenom obliku [3]\").
 - Interni akti ŠPD-a (nivo ŠPD) ne mogu biti u suprotnosti sa zakonom; ako se razlikuju, prednost ima zakon. Naglasi kad je akt nacrt ili prijedlog.
 - Ako u <napomene> stoji da je propis kasnije mijenjan, a izmjena nije u izvodima, upozori korisnika da odgovor možda nije ažuran.`;
 
@@ -19,11 +19,21 @@ export function systemPrompt(project: Project | null): string {
 
 /** noticeOf: napomena o ažurnosti propisa (LawInfo.notice), ako postoji. */
 export function buildPrompt(question: string, ctx: Article[], noticeOf: (lawId: string) => string | undefined = () => undefined): string {
+  const pos = new Map(ctx.map((a, i) => [a.id, i + 1]));
+  const amendedBy = new Map<string, number>();
+  for (const a of ctx) for (const id of a.amendedBy ?? []) if (pos.has(id)) amendedBy.set(id, pos.get(a.id)!);
   const excerpts = ctx
-    .map(
-      (a, i) =>
-        `[${i + 1}] ${a.lawTitle} (${a.gazette}), član ${a.number}${a.heading ? ` – ${a.heading}` : ''}\n${a.text}`,
-    )
+    .map((a, i) => {
+      const refs = (a.amendedBy ?? []).map((id) => pos.get(id)).filter((n): n is number => !!n);
+      const tag = refs.length
+        ? ` [ZASTARJELI TEKST – izmijenjen izvodom ${refs.map((n) => `[${n}]`).join('')}; ne citiraj ga kao važeći]`
+        : amendedBy.has(a.id)
+          ? ` [VAŽEĆA IZMJENA člana iz izvoda [${amendedBy.get(a.id)}]]`
+          : a.amendedBy?.length
+            ? ' [član je kasnije izmijenjen; izmjena nije u izvodima]'
+            : '';
+      return `[${i + 1}] ${a.lawTitle} (${a.gazette}), član ${a.number}${a.heading ? ` – ${a.heading}` : ''}${tag}\n${a.text}`;
+    })
     .join('\n\n');
   const notices = [...new Set(ctx.map((a) => a.lawId))]
     .map((id) => {

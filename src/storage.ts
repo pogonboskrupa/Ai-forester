@@ -2,7 +2,7 @@ import { get, set } from 'idb-keyval';
 import type { Conversation, Project, UserLaw } from './types';
 
 // IndexedDB; ako nije dostupan (privatni mod), podaci žive samo u memoriji sesije.
-async function load<T>(key: string): Promise<T[]> {
+export async function load<T>(key: string): Promise<T[]> {
   try {
     return (await get<T[]>(key)) ?? [];
   } catch {
@@ -10,7 +10,7 @@ async function load<T>(key: string): Promise<T[]> {
   }
 }
 
-async function save<T>(key: string, value: T[]): Promise<void> {
+export async function save<T>(key: string, value: T[]): Promise<void> {
   try {
     await set(key, value);
   } catch {

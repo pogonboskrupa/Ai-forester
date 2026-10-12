@@ -14,6 +14,7 @@ const inline = (s: string, maxCite: number) =>
   cites(
     esc(s)
       .replace(/`([^`]+)`/g, '<code>$1</code>')
+      .replace(/~~(.+?)~~/g, '<del>$1</del>')
       .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
       .replace(/(?<![*\w])\*(?!\s)(.+?)\*(?!\w)/g, '<em>$1</em>')
       .replace(/(?<!\w)_(?!\s)(.+?)_(?!\w)/g, '<em>$1</em>'),
