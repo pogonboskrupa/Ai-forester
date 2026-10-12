@@ -20,7 +20,8 @@ export default defineConfig({
           { src: 'icons/icon.svg', sizes: 'any', type: 'image/svg+xml', purpose: 'any maskable' },
         ],
       },
-      workbox: { globPatterns: ['**/*.{js,css,html,svg,json}'] },
+      // pdf.js (uvoz PDF-a) se ne kešira unaprijed: koristi se rijetko, a velik je.
+      workbox: { globPatterns: ['**/*.{js,css,html,svg,json}'], globIgnores: ['**/pdf-*.js', '**/pdf.worker*'] },
     }),
   ],
 });

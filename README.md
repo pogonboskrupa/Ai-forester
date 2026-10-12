@@ -22,6 +22,9 @@ npm run dev
 npm test
 ```
 
+## Dodavanje propisa iz PDF-a (u aplikaciji)
+Biblioteka → **Dodaj PDF**. PDF se obrađuje u pregledniku (pdf.js, `src/pdf/`): prepoznaju se dvije kolone glasnika i stari YU fontovi, broj glasnika s više akata dijeli se na akte, a svaki odabrani akt dijeli se na članove. Dodani propisi čuvaju se u IndexedDB tog preglednika (ulaze u backup), odmah su u pretrazi, odgovorima, projektima i biblioteci, a zakoni o izmjenama se povezuju s osnovnim propisom. Skenirani PDF-ovi bez teksta nisu podržani.
+
 ## Česta pitanja (pripremljeni odgovori)
 `data/faq.json`: pitanje, varijante, odgovor u Markdownu s referencama `[@lawId#broj]` (npr. `[@usk-zakon-o-sumama#14]`). `npm run ingest` provjerava da svaki citirani član postoji. Kad stručnjak pregleda odgovor, postavi `"reviewed": true`.
 

@@ -1,5 +1,5 @@
 import { get, set } from 'idb-keyval';
-import type { Conversation, Project } from './types';
+import type { Conversation, Project, UserLaw } from './types';
 
 // IndexedDB; ako nije dostupan (privatni mod), podaci žive samo u memoriji sesije.
 async function load<T>(key: string): Promise<T[]> {
@@ -22,3 +22,5 @@ export const loadProjects = () => load<Project>('projects');
 export const saveProjects = (v: Project[]) => save('projects', v);
 export const loadConversations = () => load<Conversation>('conversations');
 export const saveConversations = (v: Conversation[]) => save('conversations', v);
+export const loadUserLaws = () => load<UserLaw>('userLaws');
+export const saveUserLaws = (v: UserLaw[]) => save('userLaws', v);

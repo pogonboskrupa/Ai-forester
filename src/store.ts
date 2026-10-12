@@ -1,14 +1,15 @@
 import { batch, computed, effect, signal } from '@preact/signals';
 import type MiniSearch from 'minisearch';
-import type { Article, Conversation, FaqEntry, LawInfo, Msg, Project } from './types';
+import type { Article, Conversation, FaqEntry, LawInfo, Msg, Project, UserLaw } from './types';
 import { buildFaqIndex, extractiveAnswer, matchFaq } from './answer';
 import { buildIndex, retrieve } from './search';
 import { isAbort, streamCompletion, type Turn } from './ai/client';
 import { buildPrompt, systemPrompt } from './ai/prompt';
 import { isConfigured, settings } from './settings';
-import { loadConversations, loadProjects, saveConversations, saveProjects } from './storage';
+import { loadConversations, loadProjects, loadUserLaws, saveConversations, saveProjects, saveUserLaws } from './storage';
+import { linkAmendments } from './pdf/import';
 
-export type View = 'chat' | 'library' | 'project' | 'settings';
+export type View = 'chat' | 'library' | 'project' | 'settings' | 'import';
 
 const uid = () => crypto.randomUUID();
 const CONTEXT_K = 8;
@@ -17,6 +18,10 @@ const HISTORY_TURNS = 8;
 export const articles = signal<Article[]>([]);
 export const laws = signal<LawInfo[]>([]);
 export const faq = signal<FaqEntry[]>([]);
+/** Propisi koje je korisnik dodao iz PDF-a (IndexedDB, samo ovaj preglednik). */
+export const userLaws = signal<UserLaw[]>([]);
+let builtinArticles: Article[] = [];
+let builtinLaws: LawInfo[] = [];
 export const projects = signal<Project[]>([]);
 export const conversations = signal<Conversation[]>([]);
 export const activeConvId = signal<string | null>(null);
@@ -59,22 +64,24 @@ export const searchArticles = (q: string, lawIds?: string[], k = 30): Article[] 
 
 export async function init(): Promise<void> {
   try {
-    const [a, l, f, p, c] = await Promise.all([
+    const [a, l, f, p, c, u] = await Promise.all([
       fetch('./data/articles.json').then((r) => r.json() as Promise<Article[]>),
       fetch('./data/laws.json').then((r) => r.json() as Promise<LawInfo[]>),
       fetch('./data/faq.json').then((r) => (r.ok ? (r.json() as Promise<FaqEntry[]>) : [])),
       loadProjects(),
       loadConversations(),
+      loadUserLaws(),
     ]);
+    builtinArticles = a;
+    builtinLaws = l;
     batch(() => {
-      articles.value = a;
-      laws.value = l;
+      userLaws.value = u;
       faq.value = f;
       projects.value = p;
       conversations.value = c;
       activeConvId.value = [...c].sort((x, y) => y.updatedAt - x.updatedAt)[0]?.id ?? null;
     });
-    index = buildIndex(a);
+    rebuildCorpus();
     faqIndex = buildFaqIndex(f);
     ready.value = true;
   } catch {
@@ -84,6 +91,35 @@ export async function init(): Promise<void> {
   // Historija se mijenja samo na diskretne događaje (tekst koji stiže je u `streaming`), pa se upisuje odmah.
   effect(() => void saveProjects(projects.value));
   effect(() => void saveConversations(conversations.value));
+}
+
+/** Ugrađena baza + korisnikovi propisi, s povezanim izmjenama, i ponovo izgrađen indeks pretrage. */
+function rebuildCorpus(): void {
+  const custom = userLaws.value;
+  const customArticles = custom.flatMap((u) => u.articles);
+  const all = custom.some((u) => u.law.amends)
+    ? linkAmendments([...builtinArticles, ...customArticles], custom.map((u) => u.law))
+    : [...builtinArticles, ...customArticles];
+  batch(() => {
+    articles.value = all;
+    laws.value = [...builtinLaws, ...custom.map((u) => u.law)];
+  });
+  index = buildIndex(all);
+}
+
+export async function addUserLaws(items: UserLaw[]): Promise<void> {
+  userLaws.value = [...userLaws.value, ...items];
+  rebuildCorpus();
+  await saveUserLaws(userLaws.value);
+}
+
+export async function deleteUserLaw(lawId: string): Promise<void> {
+  userLaws.value = userLaws.value.filter((u) => u.law.id !== lawId);
+  // Projekti koji su ga koristili kao izvor više ga ne navode.
+  projects.value = projects.value.map((p) => (p.lawIds.includes(lawId) ? { ...p, lawIds: p.lawIds.filter((x) => x !== lawId) } : p));
+  if (openSourceId.value?.startsWith(`${lawId}#`)) openSourceId.value = null;
+  rebuildCorpus();
+  await saveUserLaws(userLaws.value);
 }
 
 export function newConversation(projectId: string | null = null): string {
@@ -290,11 +326,11 @@ export function conversationToMarkdown(c: Conversation): string {
 }
 
 export function exportAll(): string {
-  return JSON.stringify({ version: 1, projects: projects.value, conversations: conversations.value }, null, 2);
+  return JSON.stringify({ version: 2, projects: projects.value, conversations: conversations.value, userLaws: userLaws.value }, null, 2);
 }
 
 export function importAll(json: string): number {
-  const data = JSON.parse(json) as { projects?: Project[]; conversations?: Conversation[] };
+  const data = JSON.parse(json) as { projects?: Project[]; conversations?: Conversation[]; userLaws?: UserLaw[] };
   if (!Array.isArray(data.conversations)) throw new Error('Neispravan fajl.');
   const known = new Set(conversations.value.map((c) => c.id));
   const knownP = new Set(projects.value.map((p) => p.id));
@@ -303,5 +339,8 @@ export function importAll(json: string): number {
     projects.value = [...projects.value, ...(data.projects ?? []).filter((p) => !knownP.has(p.id))];
     conversations.value = [...newConvs, ...conversations.value];
   });
+  const knownL = new Set(userLaws.value.map((u) => u.law.id));
+  const newLaws = (data.userLaws ?? []).filter((u) => !knownL.has(u.law.id));
+  if (newLaws.length) void addUserLaws(newLaws);
   return newConvs.length;
 }
