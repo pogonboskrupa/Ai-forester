@@ -4,6 +4,7 @@ import {
   newConversation, openConversation, projects, togglePin, view,
 } from '../store';
 import type { Conversation } from '../types';
+import { canPrompt, installed, promptInstall } from '../install';
 import { Icon } from './Icon';
 
 const q = signal('');
@@ -46,7 +47,7 @@ export function Sidebar() {
   return (
     <aside class={`side ${drawerOpen.value ? 'open' : ''}`} aria-label="Navigacija">
       <div class="side-head">
-        <div class="brand"><span class="brand-mark"><Icon name="tree" size={16} /></span> AI Šumar</div>
+        <div class="brand"><span class="brand-mark"><Icon name="tree" size={16} /></span> AI Šumar <span class="version">v{__APP_VERSION__}</span></div>
         <button class="icon-btn only-mobile" aria-label="Zatvori meni" onClick={() => (drawerOpen.value = false)}><Icon name="x" /></button>
       </div>
 
@@ -96,6 +97,11 @@ export function Sidebar() {
       </nav>
 
       <div class="side-foot">
+        {!installed.value && (
+          <button class="nav-item install-nav" onClick={() => (canPrompt.value ? void promptInstall() : go('settings'))}>
+            <Icon name="download" size={16} /> Instaliraj aplikaciju
+          </button>
+        )}
         <button class={`nav-item ${view.value === 'library' ? 'on' : ''}`} onClick={() => go('library')}><Icon name="book" size={16} /> Biblioteka propisa</button>
         <button class={`nav-item ${view.value === 'settings' ? 'on' : ''}`} onClick={() => go('settings')}><Icon name="settings" size={16} /> Postavke</button>
       </div>

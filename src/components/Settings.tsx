@@ -7,6 +7,7 @@ import {
 } from '../settings';
 import { conversations, drawerOpen, exportAll, importAll, toast } from '../store';
 import { Icon, type IconName } from './Icon';
+import { InstallCard } from './InstallCard';
 
 interface ProviderDef {
   id: Provider;
@@ -161,6 +162,7 @@ export function Settings() {
         <span class="topbar-title">Postavke</span>
       </header>
       <div class="page-inner narrow">
+        <InstallCard />
         <section class="card">
           <h2>Način odgovaranja</h2>
           <div class="segmented" role="radiogroup">
@@ -220,6 +222,8 @@ export function Settings() {
             <dt><kbd>Esc</kbd></dt><dd>Zaustavi odgovor / zatvori panel</dd>
           </dl>
         </section>
+
+        <p class="muted xs center-text">AI Šumar · verzija {__APP_VERSION__}</p>
       </div>
     </section>
   );

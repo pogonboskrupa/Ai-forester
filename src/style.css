@@ -517,3 +517,15 @@ input[type='checkbox'] { accent-color: var(--accent); width: 16px; height: 16px;
   .grid-3 { grid-template-columns: minmax(0, 1fr); }
   .act-form { padding-left: 0; }
 }
+
+/* ---------- Instalacija / mobilna aplikacija ---------- */
+.install-card { border-color: color-mix(in srgb, var(--accent) 40%, var(--border)); }
+.apk-box { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 12px 14px; border-radius: var(--radius-sm); background: var(--surface-2); }
+.apk-box p { margin: 2px 0 0; }
+.install-nav { color: var(--accent); font-weight: 550; }
+/* Sigurne zone (notch, gesture bar) kad radi kao instalirana aplikacija */
+.topbar { padding-top: env(safe-area-inset-top); height: calc(56px + env(safe-area-inset-top)); }
+.composer { padding-bottom: calc(14px + env(safe-area-inset-bottom)); }
+.side { padding-top: calc(14px + env(safe-area-inset-top)); padding-bottom: calc(14px + env(safe-area-inset-bottom)); }
+.brand .version { font-size: 0.7rem; font-weight: 500; color: var(--muted); }
+.center-text { text-align: center; }

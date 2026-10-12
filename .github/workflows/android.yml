@@ -1,0 +1,84 @@
+name: Android APK
+
+# Gradi Android aplikaciju (Capacitor) iz istog web builda.
+# Na main: objavljuje izdanje vX.Y.Z s fajlom ai-sumar.apk (link "latest" u aplikaciji).
+# Na pull requestu: samo provjera da se APK može izgraditi (fajl je u Artifacts).
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: android-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - uses: actions/setup-java@v4
+        with: { distribution: temurin, java-version: 21 }
+
+      - run: npm ci
+      - name: Web build
+        run: npm run build
+        env:
+          VITE_PROXY_URL: ${{ vars.VITE_PROXY_URL }}
+
+      - name: Verzija
+        id: ver
+        run: |
+          echo "name=$(node scripts/version.mjs)" >> "$GITHUB_OUTPUT"
+          echo "code=$(node scripts/version.mjs code)" >> "$GITHUB_OUTPUT"
+
+      - name: Android projekat (generiše se, nije u repozitoriju)
+        run: |
+          npx cap add android
+          npx --yes @capacitor/assets@3.0.5 generate --android --assetPath resources \
+            --iconBackgroundColor '#2d6a43' --iconBackgroundColorDark '#2d6a43' \
+            --splashBackgroundColor '#f6f5f1' --splashBackgroundColorDark '#0e1310'
+          npx cap sync android
+          sed -i -E "s/versionCode [0-9]+/versionCode ${{ steps.ver.outputs.code }}/; s/versionName \"[^\"]+\"/versionName \"${{ steps.ver.outputs.name }}\"/" android/app/build.gradle
+          grep -E "versionCode|versionName|applicationId" android/app/build.gradle
+
+      - name: Gradle build (release, nepotpisan)
+        working-directory: android
+        run: ./gradlew --no-daemon assembleRelease
+
+      - name: Potpisivanje
+        env:
+          # Ako postoje secrets ANDROID_KEYSTORE_BASE64/ANDROID_KEYSTORE_PASSWORD, koriste se oni.
+          KS_B64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+          KS_PASS: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+        run: |
+          if [ -n "$KS_B64" ]; then echo "$KS_B64" | base64 -d > release.jks; PASS="$KS_PASS"; else cp android-signing/ai-sumar.jks release.jks; PASS="aisumar-apk"; fi
+          BT="$ANDROID_HOME/build-tools/$(ls "$ANDROID_HOME/build-tools" | sort -V | tail -1)"
+          IN=$(ls android/app/build/outputs/apk/release/*.apk | head -1)
+          "$BT/zipalign" -f -p 4 "$IN" aligned.apk
+          "$BT/apksigner" sign --ks release.jks --ks-pass "pass:$PASS" --ks-key-alias aisumar --key-pass "pass:$PASS" --out ai-sumar.apk aligned.apk
+          "$BT/apksigner" verify --print-certs ai-sumar.apk | head -3
+          ls -la ai-sumar.apk
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ai-sumar-${{ steps.ver.outputs.name }}-apk
+          path: ai-sumar.apk
+
+      - name: Objavi izdanje
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ steps.ver.outputs.name }}
+          name: AI Šumar ${{ steps.ver.outputs.name }}
+          make_latest: true
+          files: ai-sumar.apk
+          body: |
+            Android aplikacija AI Šumar, verzija ${{ steps.ver.outputs.name }}.
+            Instalacija: preuzmite ai-sumar.apk na telefonu i otvorite ga (dozvolite instalaciju iz nepoznatih izvora).

@@ -32,8 +32,16 @@ function useShortcuts() {
   }, []);
 }
 
+/** Prečice s ikone aplikacije (manifest "shortcuts"): ?akcija=novi | biblioteka */
+function handleLaunchAction(): void {
+  const action = new URLSearchParams(location.search).get('akcija');
+  if (action === 'novi') newConversation(null);
+  if (action === 'biblioteka') view.value = 'library';
+  if (action) history.replaceState(null, '', location.pathname);
+}
+
 function App() {
-  useEffect(() => void init(), []);
+  useEffect(() => void init().then(handleLaunchAction), []);
   useShortcuts();
   if (loadError.value) {
     return (
