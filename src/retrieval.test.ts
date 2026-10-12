@@ -60,3 +60,16 @@ describe.skipIf(!existsSync(file))('odgovor bez AI-ja', () => {
     expect(ans).toMatch(/48 sati/);
   });
 });
+
+import { isModelGone, pickBestGemini, pickBestOpenAI, suggestedModel } from './ai/models';
+describe('izbor modela', () => {
+  it('čita Googleov prijedlog iz greške', () => {
+    expect(suggestedModel('This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features')).toBe('gemini-3.5-flash-lite');
+    expect(isModelGone(404, '')).toBe(true);
+    expect(isModelGone(429, 'quota exceeded')).toBe(false);
+  });
+  it('bira najnoviji stabilni flash/mini model', () => {
+    expect(pickBestGemini(['gemini-2.5-flash', 'gemini-3.5-flash-lite', 'gemini-3.5-flash', 'gemini-3.5-pro', 'gemini-4.0-flash-preview'])).toBe('gemini-3.5-flash');
+    expect(pickBestOpenAI(['gpt-4.1-mini', 'gpt-5', 'gpt-5-mini', 'gpt-5-nano'])).toBe('gpt-5-mini');
+  });
+});

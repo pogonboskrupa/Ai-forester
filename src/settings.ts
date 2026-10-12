@@ -20,7 +20,8 @@ export interface Settings {
   mode: Mode;
 }
 
-export const GEMINI_MODELS = ['gemini-2.5-flash', 'gemini-2.5-pro', 'gemini-2.5-flash-lite'] as const;
+// Prijedlozi; stvarni spisak za ključ se učitava u Postavkama, a ugašen model se automatski zamjenjuje.
+export const GEMINI_MODELS = ['gemini-3.5-flash', 'gemini-3.5-flash-lite', 'gemini-3.5-pro'] as const;
 export const OPENAI_MODELS = ['gpt-5-mini', 'gpt-5', 'gpt-4.1-mini'] as const;
 export const CLAUDE_MODELS = ['claude-opus-5-5', 'claude-sonnet-5-5', 'claude-haiku-4-5'] as const;
 
