@@ -1,7 +1,8 @@
-name: Android APK
+name: Android APK + Pages
 
-# Gradi Android aplikaciju (Capacitor) iz istog web builda.
-# Na main: objavljuje izdanje vX.Y.Z s fajlom ai-sumar.apk (link "latest" u aplikaciji).
+# Gradi web app i Android aplikaciju (Capacitor) iz istog builda.
+# Na main: APK ide u dist/ai-sumar.apk i objavljuje se na GitHub Pages zajedno s aplikacijom
+# (preuzimanje s istog domena), te kao izdanje vX.Y.Z na GitHubu.
 # Na pull requestu: samo provjera da se APK može izgraditi (fajl je u Artifacts).
 on:
   push:
@@ -11,6 +12,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: android-${{ github.ref }}
@@ -82,3 +85,20 @@ jobs:
           body: |
             Android aplikacija AI Šumar, verzija ${{ steps.ver.outputs.name }}.
             Instalacija: preuzmite ai-sumar.apk na telefonu i otvorite ga (dozvolite instalaciju iz nepoznatih izvora).
+
+      - name: APK u web build
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        run: cp ai-sumar.apk dist/ai-sumar.apk
+
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        with: { path: dist }
+
+  deploy:
+    needs: apk
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment: { name: github-pages, url: "${{ steps.d.outputs.page_url }}" }
+    steps:
+      - id: d
+        uses: actions/deploy-pages@v4

@@ -46,6 +46,7 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,svg,png,json}'],
         globIgnores: ['**/pdf-*.js', '**/pdf.worker*'],
         maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
+        navigateFallbackDenylist: [/\.apk$/], // APK mora ići na mrežu, ne na keširani index.html
         cleanupOutdatedCaches: true,
         clientsClaim: true,
         skipWaiting: true,
