@@ -23,7 +23,8 @@ export interface Settings {
 // Prijedlozi; stvarni spisak za ključ se učitava u Postavkama, a ugašen model se automatski zamjenjuje.
 export const GEMINI_MODELS = ['gemini-3.5-flash', 'gemini-3.5-flash-lite', 'gemini-3.5-pro'] as const;
 export const OPENAI_MODELS = ['gpt-5-mini', 'gpt-5', 'gpt-4.1-mini'] as const;
-export const CLAUDE_MODELS = ['claude-opus-5-5', 'claude-sonnet-5-5', 'claude-haiku-4-5'] as const;
+// Haiku 4.5 je najjeftiniji ($1/$5 po milion tokena); Sonnet 5.5 ($2/$10) i Opus 5.5 ($4/$20) su precizniji.
+export const CLAUDE_MODELS = ['claude-haiku-4-5', 'claude-sonnet-5-5', 'claude-opus-5-5'] as const;
 
 const STORE_KEY = 'ai-sumar-settings';
 
@@ -56,7 +57,10 @@ function migrateLegacy(): Partial<Settings> {
 function load(): Settings {
   try {
     const raw = localStorage.getItem(STORE_KEY);
-    return { ...DEFAULTS, ...(raw ? (JSON.parse(raw) as Partial<Settings>) : migrateLegacy()) };
+    const loaded: Settings = { ...DEFAULTS, ...(raw ? (JSON.parse(raw) as Partial<Settings>) : migrateLegacy()) };
+    // Raniji zadani Claude model (Opus) zamijenjen je najjeftinijim, dok korisnik nije unio ključ.
+    if (!loaded.claudeKey && loaded.claudeModel === 'claude-opus-5-5') loaded.claudeModel = DEFAULTS.claudeModel;
+    return loaded;
   } catch {
     return DEFAULTS;
   }

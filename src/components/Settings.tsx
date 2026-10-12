@@ -21,7 +21,7 @@ interface ProviderDef {
 const PROVIDERS: ProviderDef[] = [
   { id: 'gemini', hint: 'Besplatni nivo uz dnevna ograničenja. Ako model prestane raditi, aplikacija sama prelazi na dostupni.', keyField: 'geminiKey', modelField: 'geminiModel', models: GEMINI_MODELS, placeholder: 'AIza…', url: 'https://aistudio.google.com/apikey' },
   { id: 'openai', hint: 'ChatGPT modeli, plaća se po upotrebi.', keyField: 'openaiKey', modelField: 'openaiModel', models: OPENAI_MODELS, placeholder: 'sk-…', url: 'https://platform.openai.com/api-keys' },
-  { id: 'claude', hint: 'Najprecizniji u citiranju, plaća se po upotrebi.', keyField: 'claudeKey', modelField: 'claudeModel', models: CLAUDE_MODELS, placeholder: 'sk-ant-…', url: 'https://console.anthropic.com/settings/keys' },
+  { id: 'claude', hint: 'Plaća se po upotrebi. claude-haiku-4-5 je najjeftiniji; sonnet i opus su precizniji, ali skuplji.', keyField: 'claudeKey', modelField: 'claudeModel', models: CLAUDE_MODELS, placeholder: 'sk-ant-…', url: 'https://console.anthropic.com/settings/keys' },
 ];
 
 const THEMES: { id: Theme; label: string; icon: IconName }[] = [

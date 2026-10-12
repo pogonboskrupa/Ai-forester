@@ -96,6 +96,8 @@ async function streamGeminiOnce(s: Settings, req: StreamRequest): Promise<void> 
   }
 }
 
+const supportsDefaultFallback = (model: string) => /^claude-(opus-5|sonnet-5-5|fable-5)/.test(model);
+
 /** Claude preko službenog SDK-a; učitava se tek kad je odabran (manji početni bundle). */
 async function streamClaude(s: Settings, req: StreamRequest): Promise<void> {
   const { default: Anthropic } = await import('@anthropic-ai/sdk');
@@ -109,8 +111,8 @@ async function streamClaude(s: Settings, req: StreamRequest): Promise<void> {
         system: req.system,
         messages: req.messages.map((m) => ({ role: m.role, content: m.text })),
         // Ako sigurnosni klasifikator odbije upit, API ga sam ponovi na preporučenom modelu.
-        betas: ['server-side-fallback-2026-07-01'],
-        fallbacks: 'default',
+        // Samo za modele koji to podržavaju; Haiku 4.5 ga ne dobija.
+        ...(supportsDefaultFallback(s.claudeModel) ? { betas: ['server-side-fallback-2026-07-01'], fallbacks: 'default' as const } : {}),
       },
       { signal: req.signal },
     );
