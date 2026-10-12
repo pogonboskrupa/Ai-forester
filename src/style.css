@@ -376,7 +376,7 @@ input[type='checkbox'] { accent-color: var(--accent); width: 16px; height: 16px;
 .searchbox .icon { position: absolute; left: 12px; color: var(--muted); }
 .searchbox input { padding-left: 38px; }
 .searchbox.big input { height: 48px; font-size: 1rem; border-radius: var(--radius); box-shadow: var(--shadow-sm); }
-.filters { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.filters { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; flex-shrink: 0; }
 .filters .sep { width: 1px; height: 20px; background: var(--border-strong); margin: 0 4px; }
 .law-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 10px; }
 .law-card {
@@ -529,3 +529,16 @@ input[type='checkbox'] { accent-color: var(--accent); width: 16px; height: 16px;
 .side { padding-top: calc(14px + env(safe-area-inset-top)); padding-bottom: calc(14px + env(safe-area-inset-bottom)); }
 .brand .version { font-size: 0.7rem; font-weight: 500; color: var(--muted); }
 .center-text { text-align: center; }
+
+/* ---------- Podkategorije šumarstva ---------- */
+.subtopics { display: flex; flex-shrink: 0; gap: 8px; overflow-x: auto; padding: 2px 2px 6px; scrollbar-width: thin; }
+.subtopic {
+  display: inline-flex; align-items: center; gap: 8px; flex: none; height: 38px; padding: 0 14px;
+  border: 1px solid var(--border-strong); border-radius: 10px; background: var(--surface); font-size: 0.88rem; font-weight: 500;
+}
+.subtopic:hover { border-color: var(--accent); }
+.subtopic.on { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+.subtopic .count { min-width: 22px; height: 20px; padding: 0 6px; border-radius: 999px; background: var(--surface-2); color: var(--muted); font-size: 0.72rem; display: inline-grid; place-items: center; }
+.subtopic.on .count { background: var(--accent); color: var(--accent-fg); }
+.law-group-title { display: flex; align-items: center; gap: 8px; text-transform: none !important; letter-spacing: 0 !important; font-size: 0.95rem !important; color: var(--text) !important; }
+.law-group-title .link { text-align: left; font-weight: 600; }
