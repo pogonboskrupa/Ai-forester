@@ -1,4 +1,5 @@
-export type Level = 'BiH' | 'FBiH' | 'USK';
+/** ŠPD = interni akti šumskoprivrednog društva (šifrovani paket, src/private.ts). */
+export type Level = 'BiH' | 'FBiH' | 'USK' | 'ŠPD';
 
 export interface LawMeta {
   id: string;

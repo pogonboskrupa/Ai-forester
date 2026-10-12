@@ -44,6 +44,47 @@ const ROLE_LABELS: Record<string, string> = {
   'duznosti-privatni-vlasnik': 'Privatni vlasnik',
 };
 
+// Uloga -> radna mjesta iz sistematizacije ŠPD-a (vidljivo samo kad su interni akti otključani).
+const ROLE_POSITIONS: Record<string, RegExp> = {
+  'duznosti-lugar': /^čuvar šuma/i,
+  'duznosti-upravnik-sumarije': /^(?:upravnik|pomoćnik upravnika) – .*šumarij/i,
+  'duznosti-sumarija': /– .*šumarij/i,
+};
+const POSITIONS_LAW = 'spd-opis-poslova-2026';
+
+/** Radna mjesta iz otključane sistematizacije; ista mjesta u više šumarija prikazuju se jednom. */
+function RolePositions({ roleId }: { roleId: string }) {
+  const re = ROLE_POSITIONS[roleId];
+  if (!re) return null;
+  const seen = new Set<string>();
+  const items = articles.value.filter((a) => {
+    if (a.lawId !== POSITIONS_LAW || !re.test(a.heading)) return false;
+    const title = a.heading.split(' – ')[0] ?? a.heading;
+    if (seen.has(title)) return false;
+    seen.add(title);
+    return true;
+  });
+  if (!items.length) return null;
+  const many = items.length > 3;
+  return (
+    <section class="role-positions">
+      <h3><span class="badge lvl-ŠPD">ŠPD</span> Iz sistematizacije ŠPD-a (nacrt 2026)</h3>
+      {many ? (
+        <div class="row gap wrap">
+          {items.map((a) => <button key={a.id} class="chip" onClick={() => (openSourceId.value = a.id)}>{a.heading.split(' – ')[0]}</button>)}
+        </div>
+      ) : (
+        items.map((a) => (
+          <div key={a.id} class="role-position">
+            <strong>{a.heading.split(' – ')[0]}</strong>
+            <p class="pre small">{a.text}</p>
+          </div>
+        ))
+      )}
+    </section>
+  );
+}
+
 /** Dužnosti po ulogama: pregled sastavljen iz propisa, s citatima. */
 function DutiesView() {
   const roles = faq.value.filter((f) => f.topic === DUTIES_TOPIC);
@@ -62,6 +103,7 @@ function DutiesView() {
       <article class="card duty-card">
         <h2>{role.q}</h2>
         <FaqAnswer f={role} />
+        <RolePositions roleId={role.id} />
         <div class="row gap wrap">
           <button class="btn sm" onClick={() => { newConversation(null); void sendMessage(role.q); }}><Icon name="plus" size={14} /> Otvori kao razgovor</button>
         </div>
@@ -217,7 +259,7 @@ export function Library() {
             <div class="searchbox big"><Icon name="search" size={18} /><input placeholder="Pretraži sve članove (npr. doznaka, otpremni iskaz, kazna)…" value={term} onInput={(e) => setTerm(e.currentTarget.value)} /></div>
             <div class="filters">
               <button class={`chip ${!level ? 'on' : ''}`} onClick={() => setLevel(null)}>Svi nivoi</button>
-              {LEVELS.map((l) => <button key={l} class={`chip ${level === l ? 'on' : ''}`} onClick={() => setLevel(level === l ? null : l)}>{l}</button>)}
+              {(laws.value.some((x) => x.level === 'ŠPD') ? [...LEVELS, 'ŠPD' as const] : LEVELS).map((l) => <button key={l} class={`chip ${level === l ? 'on' : ''}`} onClick={() => setLevel(level === l ? null : l)}>{l}</button>)}
               <span class="sep" />
               <button class={`chip ${!topic ? 'on' : ''}`} onClick={() => setTopic(null)}>Sve teme</button>
               {topics.map((tp) => <button key={tp} class={`chip ${topic === tp ? 'on' : ''}`} onClick={() => { setTopic(topic === tp ? null : tp); setSub('generalno'); }}>{tp}</button>)}
