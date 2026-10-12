@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'preact/hooks';
 import { renderMarkdown } from '../md';
 import { articles, askAboutArticle, deleteUserLaw, drawerOpen, faq, lawById, laws, libraryFocus, newConversation, openSourceId, searchArticles, sendMessage, toast, view } from '../store';
 import { fold } from '../text';
+import { OSTALO, SUBTOPICS, buildSubtopicIndex, faqInSubtopic, type SubtopicId } from '../subtopics';
 import type { Article, FaqEntry, Level } from '../types';
 import { Icon } from './Icon';
 
@@ -59,11 +60,56 @@ function ArticleItem({ a, open, showLaw }: { a: Article; open?: boolean; showLaw
   );
 }
 
+type Sub = SubtopicId | 'generalno';
+const SUB_TABS: { id: Sub; label: string; hint: string }[] = [
+  { id: 'generalno', label: 'Generalno šumarstvo', hint: 'Svi propisi iz oblasti šumarstva' },
+  ...SUBTOPICS.map((r) => ({ id: r.id, label: r.label, hint: r.hint })),
+  { id: OSTALO.id, label: OSTALO.label, hint: OSTALO.hint },
+];
+
+/** Članovi jedne podkategorije, grupisani po propisu, uz pripremljene odgovore iz te oblasti. */
+function SubtopicView({ items, term }: { items: Article[]; term: string }) {
+  const t = fold(term);
+  const filtered = t ? items.filter((a) => fold(`${a.heading} ${a.text} ${a.number}`).includes(t)) : items;
+  const ids = new Set(items.map((a) => a.id));
+  const related = faq.value.filter((f) => faqInSubtopic(f, ids));
+  const groups = new Map<string, Article[]>();
+  for (const a of filtered) groups.set(a.lawId, [...(groups.get(a.lawId) ?? []), a]);
+  return (
+    <div class="articles">
+      {related.length > 0 && !t && (
+        <section class="faq-group">
+          <h3>Česta pitanja</h3>
+          {related.map((f) => <FaqItem key={f.id} f={f} />)}
+        </section>
+      )}
+      {[...groups].map(([lawId, arts]) => {
+        const l = lawById(lawId);
+        return (
+          <section key={lawId} class="faq-group">
+            <h3 class="law-group-title">
+              <span class={`badge lvl-${l?.level ?? 'USK'}`}>{l?.level}</span>
+              <button class="link" onClick={() => (libraryFocus.value = { lawId })}>{l?.title ?? lawId}</button>
+              <span class="muted xs">{arts.length} čl.</span>
+            </h3>
+            {arts.map((a) => <ArticleItem key={a.id} a={a} />)}
+          </section>
+        );
+      })}
+      {filtered.length === 0 && <p class="muted">Nema članova za ovaj upit.</p>}
+    </div>
+  );
+}
+
 export function Library() {
   const [term, setTerm] = useState('');
   const [level, setLevel] = useState<Level | null>(null);
-  const [topic, setTopic] = useState<string | null>(null);
+  const [topic, setTopic] = useState<string | null>('Šumarstvo');
   const [tab, setTab] = useState<'laws' | 'faq'>('laws');
+  const [sub, setSub] = useState<Sub>('generalno');
+  const subIndex = useMemo(() => buildSubtopicIndex(articles.value, laws.value), [articles.value, laws.value]);
+  const forestry = topic === 'Šumarstvo';
+  const subItems = forestry && sub !== 'generalno' ? (subIndex.get(sub) ?? []).filter((a) => !level || a.level === level) : null;
   const focus = libraryFocus.value;
   const law = focus ? lawById(focus.lawId) : undefined;
 
@@ -129,9 +175,22 @@ export function Library() {
               {LEVELS.map((l) => <button key={l} class={`chip ${level === l ? 'on' : ''}`} onClick={() => setLevel(level === l ? null : l)}>{l}</button>)}
               <span class="sep" />
               <button class={`chip ${!topic ? 'on' : ''}`} onClick={() => setTopic(null)}>Sve teme</button>
-              {topics.map((tp) => <button key={tp} class={`chip ${topic === tp ? 'on' : ''}`} onClick={() => setTopic(topic === tp ? null : tp)}>{tp}</button>)}
+              {topics.map((tp) => <button key={tp} class={`chip ${topic === tp ? 'on' : ''}`} onClick={() => { setTopic(topic === tp ? null : tp); setSub('generalno'); }}>{tp}</button>)}
             </div>
-            {hits.length > 0 ? (
+            {forestry && (
+              <div class="subtopics" role="tablist" aria-label="Podkategorije šumarstva">
+                {SUB_TABS.map((st) => (
+                  <button key={st.id} role="tab" aria-selected={sub === st.id} class={`subtopic ${sub === st.id ? 'on' : ''}`} onClick={() => setSub(st.id)} title={st.hint}>
+                    <span>{st.label}</span>
+                    <span class="count">{st.id === 'generalno' ? shown.length : (subIndex.get(st.id)?.length ?? 0)}</span>
+                  </button>
+                ))}
+              </div>
+            )}
+            {forestry && sub !== 'generalno' && <p class="muted small">{SUB_TABS.find((x) => x.id === sub)?.hint}. Članovi su razvrstani po sadržaju; jedan član može biti u više podkategorija.</p>}
+            {subItems ? (
+              <SubtopicView items={subItems} term={term} />
+            ) : hits.length > 0 ? (
               <div class="articles">
                 <p class="muted small">{hits.length} najrelevantnijih članova</p>
                 {hits.map((a) => <ArticleItem key={a.id} a={a} showLaw />)}

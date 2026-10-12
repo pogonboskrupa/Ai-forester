@@ -1,27 +1,51 @@
+import { readFileSync } from 'node:fs';
 import { defineConfig } from 'vite';
 import { VitePWA } from 'vite-plugin-pwa';
 
-// base './' jer GitHub Pages servira app iz podputanje (/Ai-forester/)
+// base './' jer GitHub Pages servira app iz podputanje (/Ai-forester/), a Android (Capacitor) iz korijena.
+const { version } = JSON.parse(readFileSync(new URL('./package.json', import.meta.url), 'utf8')) as { version: string };
+
 export default defineConfig({
+  define: { __APP_VERSION__: JSON.stringify(version) },
   esbuild: { jsx: 'automatic', jsxImportSource: 'preact' },
   base: './',
   plugins: [
     VitePWA({
       registerType: 'autoUpdate',
+      includeAssets: ['icons/apple-touch-icon.png', 'icons/favicon-48.png'],
       manifest: {
-        name: 'Šumarski AI asistent BiH / USK',
+        id: 'ai-sumar',
+        name: 'AI Šumar – šumarski propisi BiH / USK',
         short_name: 'AI Šumar',
+        description: 'Zakoni i pravilnici o šumarstvu BiH, FBiH i Unsko-sanskog kantona, s odgovorima i citatima članova.',
         lang: 'bs',
-        start_url: '.',
+        dir: 'ltr',
+        start_url: './',
+        scope: './',
         display: 'standalone',
+        display_override: ['standalone', 'minimal-ui'],
+        orientation: 'any',
         background_color: '#f6f5f1',
         theme_color: '#2d6a43',
+        categories: ['productivity', 'reference', 'education'],
+        // Android traži PNG 192 i 512; "maskable" popunjava oblik ikone na početnom ekranu.
         icons: [
-          { src: 'icons/icon.svg', sizes: 'any', type: 'image/svg+xml', purpose: 'any maskable' },
+          { src: 'icons/icon-192.png', sizes: '192x192', type: 'image/png', purpose: 'any' },
+          { src: 'icons/icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'any' },
+          { src: 'icons/maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+          { src: 'icons/icon.svg', sizes: 'any', type: 'image/svg+xml', purpose: 'any' },
+        ],
+        shortcuts: [
+          { name: 'Novi razgovor', short_name: 'Novo pitanje', url: './?akcija=novi', icons: [{ src: 'icons/icon-192.png', sizes: '192x192' }] },
+          { name: 'Biblioteka propisa', short_name: 'Biblioteka', url: './?akcija=biblioteka', icons: [{ src: 'icons/icon-192.png', sizes: '192x192' }] },
         ],
       },
       // pdf.js (uvoz PDF-a) se ne kešira unaprijed: koristi se rijetko, a velik je.
-      workbox: { globPatterns: ['**/*.{js,css,html,svg,json}'], globIgnores: ['**/pdf-*.js', '**/pdf.worker*'] },
+      workbox: {
+        globPatterns: ['**/*.{js,css,html,svg,png,json}'],
+        globIgnores: ['**/pdf-*.js', '**/pdf.worker*'],
+        maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
+      },
     }),
   ],
 });

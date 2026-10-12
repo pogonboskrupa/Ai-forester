@@ -3,3 +3,6 @@ dist
 public/data/
 .dev.vars
 __pycache__/
+android/
+ios/
+*.apk
