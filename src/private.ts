@@ -1,6 +1,7 @@
 import { signal } from '@preact/signals';
 import { WrongPassError, decryptJson, type EncryptedBundle } from './crypto';
 import { setPrivateCorpus } from './store';
+import { procedure, type Procedure } from './procedure';
 import type { Article, LawInfo } from './types';
 
 /**
@@ -13,6 +14,7 @@ export interface PrivateBundle {
   updatedAt: number;
   laws: LawInfo[];
   articles: Article[];
+  procedure?: Procedure; // strukturirani pregled šumarske procedure
 }
 
 const PASS_KEY = 'ai-sumar-spd-pass';
@@ -54,6 +56,7 @@ export async function unlockPrivate(pass: string): Promise<number> {
     const data = await decryptJson<PrivateBundle>(enc, pass.trim());
     setPrivateCorpus(data.laws, data.articles);
     privateLaws.value = data.laws;
+    procedure.value = data.procedure ?? null;
     privateUnlocked.value = true;
     writePass(pass.trim());
     return data.laws.length;
@@ -66,6 +69,7 @@ export function lockPrivate(): void {
   writePass(null);
   setPrivateCorpus([], []);
   privateLaws.value = [];
+  procedure.value = null;
   privateUnlocked.value = false;
 }
 

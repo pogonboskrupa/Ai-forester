@@ -7,7 +7,9 @@
  *   SPD_PASS=… npx tsx scripts/private-bundle.ts remove <lawId>
  *   SPD_PASS=… SPD_NEW_PASS=… npx tsx scripts/private-bundle.ts rekey  mijenja šifru
  *
- * Manifest: [{ id, title, gazette, topic?, kind: "articles", file } | { …, kind: "positions", file }]
+ * Manifest: [{ id, title, gazette, topic?, kind: "articles" | "positions" | "sections" | "procedure", file }]
+ *  - "sections": JSON [{ title, duties: [tekst] }] – odjeljak dokumenta bez članova postaje jedan "član"
+ *  - "procedure": JSON strukturiranog pregleda (src/procedure.ts) – čuva se u bundle.procedure
  *  - "articles": tekst s "Član N." (parsira se kao zakon)
  *  - "positions": JSON [{ section, title, duties[] }] – svako radno mjesto postaje jedan "član"
  */
@@ -17,6 +19,7 @@ import { decryptJson, encryptJson, type EncryptedBundle } from '../src/crypto';
 import { parseArticles } from '../src/parse';
 import type { Article, LawInfo, LawMeta } from '../src/types';
 import type { PrivateBundle } from '../src/private';
+import type { Procedure } from '../src/procedure';
 
 const OUT = 'data/private/spd.enc.json';
 
@@ -27,7 +30,7 @@ interface ManifestItem {
   topic?: string;
   group?: string;
   notice?: string;
-  kind: 'articles' | 'positions';
+  kind: 'articles' | 'positions' | 'sections' | 'procedure';
   file: string;
 }
 interface Position {
@@ -56,6 +59,19 @@ async function save(bundle: PrivateBundle, pass: string): Promise<void> {
 const tidy = (s: string) => s.replace(/\s+/g, ' ').replace(/^[-–•]\s*/, '').trim();
 const titleCase = (s: string) => s.charAt(0) + s.slice(1).toLowerCase();
 
+function sectionsToArticles(rows: Position[], law: LawMeta): Article[] {
+  return rows.map((r, i) => ({
+    id: `${law.id}#${i + 1}`,
+    lawId: law.id,
+    lawTitle: law.title,
+    level: law.level,
+    gazette: law.gazette,
+    number: String(i + 1),
+    heading: r.title.trim(),
+    text: r.duties.join('\n').trim(),
+  }));
+}
+
 function positionsToArticles(rows: Position[], law: LawMeta): Article[] {
   return rows
     .filter((r) => tidy(r.title) && r.duties.length)
@@ -78,7 +94,15 @@ async function add(manifestPath: string, pass: string): Promise<void> {
   for (const it of items) {
     const meta: LawMeta = { id: it.id, file: '', title: it.title, level: 'ŠPD', gazette: it.gazette, inForce: true, sourceUrl: '', topic: it.topic ?? 'Interni akti ŠPD', ...(it.group ? { group: it.group } : {}), ...(it.notice ? { notice: it.notice } : {}) };
     const raw = readFileSync(resolve(base, it.file), 'utf8');
-    const arts = it.kind === 'positions' ? positionsToArticles(JSON.parse(raw) as Position[], meta) : parseArticles(raw, meta);
+    if (it.kind === 'procedure') {
+      bundle.procedure = JSON.parse(raw) as Procedure;
+      console.log(`${it.id}: strukturirani pregled procedure`);
+      continue;
+    }
+    const arts =
+      it.kind === 'positions' ? positionsToArticles(JSON.parse(raw) as Position[], meta)
+      : it.kind === 'sections' ? sectionsToArticles(JSON.parse(raw) as Position[], meta)
+      : parseArticles(raw, meta);
     if (!arts.length) throw new Error(`${it.id}: nije pronađen nijedan član`);
     bundle.laws = [...bundle.laws.filter((l) => l.id !== it.id), { ...meta, articleCount: arts.length } satisfies LawInfo];
     bundle.articles = [...bundle.articles.filter((a) => a.lawId !== it.id), ...arts];

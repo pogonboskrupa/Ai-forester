@@ -9,7 +9,7 @@ import { isConfigured, settings } from './settings';
 import { loadConversations, loadProjects, loadUserLaws, saveConversations, saveProjects, saveUserLaws } from './storage';
 import { linkAmendments } from './pdf/import';
 
-export type View = 'chat' | 'library' | 'project' | 'settings' | 'import' | 'tools';
+export type View = 'chat' | 'library' | 'project' | 'settings' | 'import' | 'tools' | 'procedure';
 
 const uid = () => crypto.randomUUID();
 const CONTEXT_K = 8;
