@@ -2,8 +2,9 @@
 
 /** 1234.5 → "1.234,50" (tačka za hiljade, zarez za decimale). */
 export function num(x: number, digits = 0): string {
-  const neg = x < 0;
-  const [int, dec] = Math.abs(x).toFixed(digits).split('.');
+  const abs = Math.abs(x).toFixed(digits);
+  const neg = x < 0 && Number(abs) !== 0; // bez "-0,000"
+  const [int, dec] = abs.split('.');
   const grouped = int!.replace(/\B(?=(\d{3})+(?!\d))/g, '.');
   return `${neg ? '-' : ''}${grouped}${dec ? `,${dec}` : ''}`;
 }

@@ -226,6 +226,12 @@ function withAmendments(ctx: Article[], limit: number): Article[] {
 
 interface GenerateOptions { forceAi?: boolean }
 
+// Automatsko otključavanje internih akata pri pokretanju (PBKDF2 traje); pitanje ga sačeka.
+let privatePending: Promise<void> = Promise.resolve();
+export const setPrivatePending = (p: Promise<void>): void => {
+  privatePending = p;
+};
+
 async function generate(convId: string, question: string, history: Msg[], opts: GenerateOptions = {}): Promise<void> {
   const conv = conversations.value.find((c) => c.id === convId);
   if (!conv || !index) return;
@@ -246,7 +252,13 @@ async function generate(convId: string, question: string, history: Msg[], opts: 
     return;
   }
 
-  const ctx = withAmendments(retrieve(index, retrievalQuery(question, history), CONTEXT_K, project?.lawIds), CONTEXT_K + 3);
+  // Propisi projekta koji trenutno nisu dostupni (zaključani interni akti) ne smiju isprazniti kontekst bez objašnjenja.
+  const scope = project?.lawIds.length ? project.lawIds.filter((id) => lawById(id)) : undefined;
+  if (scope && !scope.length) {
+    finish({ id: msgId, role: 'assistant', text: 'Propisi ovog projekta trenutno nisu dostupni (interni akti ŠPD-a su zaključani). Otključajte ih u **Postavkama** ili dodajte javne propise projektu.', sourceIds: [], kind: 'search', model: 'Pretraga (bez AI)', ts: Date.now() });
+    return;
+  }
+  const ctx = withAmendments(retrieve(index, retrievalQuery(question, history), CONTEXT_K, scope), CONTEXT_K + 3);
   const base = { id: msgId, role: 'assistant' as const, sourceIds: ctx.map((a) => a.id), ts: Date.now() };
 
   // 2) Bez AI-ja: izdvojene odredbe iz pretrage.
@@ -294,6 +306,7 @@ export async function sendMessage(text: string): Promise<void> {
     messages: [...c.messages, userMsg],
     updatedAt: Date.now(),
   }));
+  await privatePending;
   await generate(convId, q, history);
 }
 

@@ -17,9 +17,10 @@ import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, resolve } from 'node:path';
 import { decryptJson, encryptJson, type EncryptedBundle } from '../src/crypto';
 import { parseArticles } from '../src/parse';
+import { reflow } from '../src/text';
 import type { Article, LawInfo, LawMeta } from '../src/types';
 import type { PrivateBundle } from '../src/private';
-import type { Procedure } from '../src/procedure';
+import { PROCEDURE_LAW_ID, type Procedure } from '../src/procedure';
 
 const OUT = 'data/private/spd.enc.json';
 
@@ -68,7 +69,7 @@ function sectionsToArticles(rows: Position[], law: LawMeta): Article[] {
     gazette: law.gazette,
     number: String(i + 1),
     heading: r.title.trim(),
-    text: r.duties.join('\n').trim(),
+    text: reflow(r.duties.join('\n')).trim(),
   }));
 }
 
@@ -122,7 +123,8 @@ async function main(): Promise<void> {
   }
   if (cmd === 'remove' && arg) {
     const b = await load(pass);
-    return save({ ...b, laws: b.laws.filter((l) => l.id !== arg), articles: b.articles.filter((a) => a.lawId !== arg) }, pass);
+    const procedure = arg === PROCEDURE_LAW_ID ? undefined : b.procedure;
+    return save({ ...b, laws: b.laws.filter((l) => l.id !== arg), articles: b.articles.filter((a) => a.lawId !== arg), procedure }, pass);
   }
   if (cmd === 'rekey') return save(await load(pass), env('SPD_NEW_PASS'));
   console.error('Upotreba: add <manifest.json> | list | remove <lawId> | rekey');

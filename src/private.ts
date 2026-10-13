@@ -1,7 +1,7 @@
-import { signal } from '@preact/signals';
+import { batch, signal } from '@preact/signals';
 import { WrongPassError, decryptJson, type EncryptedBundle } from './crypto';
-import { setPrivateCorpus } from './store';
-import { procedure, type Procedure } from './procedure';
+import { libraryFocus, libraryTab, openSourceId, setPrivateCorpus, setPrivatePending, view } from './store';
+import { normalizeProcedure, procedure, type Procedure } from './procedure';
 import type { Article, LawInfo } from './types';
 
 /**
@@ -23,6 +23,10 @@ const URL = './data/spd.enc.json';
 export const privateUnlocked = signal(false);
 export const privateLaws = signal<LawInfo[]>([]);
 export const privateBusy = signal(false);
+
+// Generacija: lock (ili novi unlock) poništava rezultat unlocka koji je još u toku.
+let gen = 0;
+let restoring: Promise<void> | null = null;
 
 function readPass(): string | null {
   try {
@@ -49,37 +53,54 @@ async function fetchBundle(): Promise<EncryptedBundle | null> {
 
 /** Baca grešku s porukom za korisnika (pogrešna šifra, nema paketa, mreža). */
 export async function unlockPrivate(pass: string): Promise<number> {
+  const my = ++gen;
   privateBusy.value = true;
   try {
     const enc = await fetchBundle();
     if (!enc) throw new Error('U ovoj verziji aplikacije nema internih akata.');
     const data = await decryptJson<PrivateBundle>(enc, pass.trim());
-    setPrivateCorpus(data.laws, data.articles);
-    privateLaws.value = data.laws;
-    procedure.value = data.procedure ?? null;
-    privateUnlocked.value = true;
+    if (my !== gen) return 0;
+    batch(() => {
+      setPrivateCorpus(data.laws ?? [], data.articles ?? []);
+      privateLaws.value = data.laws ?? [];
+      procedure.value = normalizeProcedure(data.procedure);
+      privateUnlocked.value = true;
+    });
     writePass(pass.trim());
-    return data.laws.length;
+    return privateLaws.value.length;
   } finally {
-    privateBusy.value = false;
+    if (my === gen) privateBusy.value = false;
   }
 }
 
 export function lockPrivate(): void {
+  gen++;
   writePass(null);
-  setPrivateCorpus([], []);
-  privateLaws.value = [];
-  procedure.value = null;
-  privateUnlocked.value = false;
+  const ids = new Set(privateLaws.value.map((l) => l.id));
+  const isPrivate = (articleOrLawId: string) => ids.has(articleOrLawId.split('#')[0] ?? '');
+  batch(() => {
+    setPrivateCorpus([], []);
+    privateLaws.value = [];
+    procedure.value = null;
+    privateUnlocked.value = false;
+    privateBusy.value = false;
+    if (openSourceId.value && isPrivate(openSourceId.value)) openSourceId.value = null;
+    if (libraryFocus.value && ids.has(libraryFocus.value.lawId)) libraryFocus.value = null;
+    if (libraryTab.value === 'spd') libraryTab.value = 'laws';
+    if (view.value === 'procedure') view.value = 'settings';
+  });
 }
 
 /** Pri pokretanju: ako je šifra sačuvana, akti se otključavaju sami. Pogrešna (promijenjena) šifra se briše. */
-export async function restorePrivate(): Promise<void> {
+export function restorePrivate(): Promise<void> {
   const pass = readPass();
-  if (!pass) return;
-  try {
-    await unlockPrivate(pass);
-  } catch (e) {
-    if (e instanceof WrongPassError) writePass(null);
-  }
+  if (!pass) return Promise.resolve();
+  restoring ??= unlockPrivate(pass)
+    .then(() => undefined)
+    .catch((e: unknown) => {
+      if (e instanceof WrongPassError) writePass(null);
+    })
+    .finally(() => (restoring = null));
+  setPrivatePending(restoring);
+  return restoring;
 }

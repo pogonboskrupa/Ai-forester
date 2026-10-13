@@ -1,5 +1,5 @@
 import { computed, signal } from '@preact/signals';
-import { checkServiceWorker } from './pwa';
+import { activateLatest, checkServiceWorker } from './pwa';
 import { isNewer } from './version';
 
 /**
@@ -57,7 +57,7 @@ export async function checkForUpdate(): Promise<boolean> {
 /** Web: učitava novu verziju; APK: otvara preuzimanje novog APK-a u Chromeu. */
 export function applyUpdate(): void {
   if (isNative) location.href = APK_DOWNLOAD_URL;
-  else location.reload();
+  else void activateLatest();
 }
 
 /** Automatska provjera pri pokretanju i povratku u aplikaciju (najviše jednom na sat). */

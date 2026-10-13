@@ -37,8 +37,9 @@ export const round3 = (x: number): number => Math.round(x * 1000) / 1000;
 /** Broj u bosanskom formatu (zarez kao decimalni separator). */
 export const fmt = (x: number, digits = 3): string => num(x, digits);
 
-/** Unos s tastature telefona: prihvata i "12,5" i "12.5". */
+/** Unos s tastature telefona: prihvata "12,5", "12.5" i "1.234,5" (tačka za hiljade uz decimalni zarez). */
 export const parseNum = (s: string): number => {
-  const n = Number(s.replace(',', '.').trim());
+  const t = s.trim().replace(/\s/g, '');
+  const n = Number(t.includes(',') ? t.replace(/\./g, '').replace(',', '.') : t);
   return Number.isFinite(n) ? n : 0;
 };

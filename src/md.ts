@@ -14,10 +14,11 @@ const inline = (s: string, maxCite: number) =>
   cites(
     esc(s)
       .replace(/`([^`]+)`/g, '<code>$1</code>')
-      .replace(/~~(.+?)~~/g, '<del>$1</del>')
-      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-      .replace(/(?<![*\w])\*(?!\s)(.+?)\*(?!\w)/g, '<em>$1</em>')
-      .replace(/(?<!\w)_(?!\s)(.+?)_(?!\w)/g, '<em>$1</em>'),
+      // Ograničen raspon (.{1,400}?) sprječava kvadratno vrijeme na dugim redovima s nezatvorenim oznakama.
+      .replace(/~~(.{1,400}?)~~/g, '<del>$1</del>')
+      .replace(/\*\*(.{1,400}?)\*\*/g, '<strong>$1</strong>')
+      .replace(/(?<![*\w])\*(?!\s)(.{1,400}?)\*(?!\w)/g, '<em>$1</em>')
+      .replace(/(?<!\w)_(?!\s)(.{1,400}?)_(?!\w)/g, '<em>$1</em>'),
     maxCite,
   );
 

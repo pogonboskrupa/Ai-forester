@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'preact/hooks';
 import { renderMarkdown } from '../md';
-import { PROCEDURE_LAW_ID, procedure, type Procedure, type ProcedureDoc } from '../procedure';
+import { PROCEDURE_LAW_ID, nextDated, procedure, type Procedure, type ProcedureDoc } from '../procedure';
 import { articles, drawerOpen, openSourceId } from '../store';
 import { fold } from '../text';
 import { Icon, type IconName } from './Icon';
@@ -18,27 +18,16 @@ const TABS: { id: Tab; label: string; icon: IconName }[] = [
 ];
 
 const sectionArticles = () => articles.value.filter((a) => a.lawId === PROCEDURE_LAW_ID);
+const findSection = (title?: string) => {
+  if (!title) return undefined;
+  const t = fold(title.trim());
+  const all = sectionArticles();
+  return all.find((x) => fold(x.heading?.trim() ?? '') === t) ?? all.find((x) => fold(x.heading ?? '').startsWith(t));
+};
 const openSection = (title?: string) => {
-  const a = title ? sectionArticles().find((x) => x.heading === title) : undefined;
+  const a = findSection(title);
   if (a) openSourceId.value = a.id;
 };
-
-/** Sljedeći godišnji rok oblika "dd.mm." od danas. */
-function nextDated(p: Procedure): { date: Date; what: string; who: string } | null {
-  const today = new Date();
-  const t0 = new Date(today.getFullYear(), today.getMonth(), today.getDate());
-  const dated = p.deadlines
-    .map((d) => {
-      const m = /^(\d{1,2})\.(\d{1,2})\.$/.exec(d.when.trim());
-      if (!m) return null;
-      let date = new Date(t0.getFullYear(), Number(m[2]) - 1, Number(m[1]));
-      if (date < t0) date = new Date(t0.getFullYear() + 1, Number(m[2]) - 1, Number(m[1]));
-      return { date, what: d.what, who: d.who };
-    })
-    .filter((x): x is { date: Date; what: string; who: string } => !!x)
-    .sort((a, b) => a.date.getTime() - b.date.getTime());
-  return dated[0] ?? null;
-}
 
 function Overview({ p, go }: { p: Procedure; go: (t: Tab) => void }) {
   const next = nextDated(p);
@@ -82,7 +71,7 @@ function DocCard({ d }: { d: ProcedureDoc }) {
       {open && (
         <div class="proc-doc-body">
           <ul class="proc-list">{d.rules.map((r, i) => <li key={i}>{r}</li>)}</ul>
-          {d.section && <button class="btn sm" onClick={() => openSection(d.section)}><Icon name="book" size={14} /> Tekst procedure</button>}
+          {findSection(d.section) && <button class="btn sm" onClick={() => openSection(d.section)}><Icon name="book" size={14} /> Tekst procedure</button>}
         </div>
       )}
     </article>
@@ -94,7 +83,7 @@ function Documents({ p }: { p: Procedure }) {
   const [group, setGroup] = useState<string | null>(null);
   const groups = [...new Set(p.documents.map((d) => d.group))];
   const t = fold(term);
-  const shown = p.documents.filter((d) => (!group || d.group === group) && (!t || fold(`${d.code} ${d.name} ${d.keeper} ${d.users} ${d.rules.join(' ')}`).includes(t)));
+  const shown = p.documents.filter((d) => (!group || d.group === group) && (!t || fold(`${d.code} ${d.name} ${d.group} ${d.keeper} ${d.users} ${d.deadline ?? ''} ${d.rules.join(' ')}`).includes(t)));
   return (
     <div class="proc-stack">
       <div class="searchbox"><Icon name="search" size={16} /><input placeholder="Traži dokument, šifru ili pravilo (npr. RSZT, primka, 31.12.)" value={term} onInput={(e) => setTerm(e.currentTarget.value)} /></div>
@@ -102,7 +91,7 @@ function Documents({ p }: { p: Procedure }) {
         <button class={`chip ${!group ? 'on' : ''}`} onClick={() => setGroup(null)}>Sve ({p.documents.length})</button>
         {groups.map((g) => <button key={g} class={`chip ${group === g ? 'on' : ''}`} onClick={() => setGroup(group === g ? null : g)}>{g}</button>)}
       </div>
-      <div class="proc-grid">{shown.map((d) => <DocCard key={d.code} d={d} />)}</div>
+      <div class="proc-grid">{shown.map((d) => <DocCard key={`${d.group}|${d.code}|${d.name}`} d={d} />)}</div>
       {!shown.length && <p class="muted">Nema dokumenata za ovaj upit.</p>}
     </div>
   );
@@ -167,7 +156,7 @@ function Forms({ p }: { p: Procedure }) {
   return (
     <div class="proc-forms">
       {p.forms.map((f) => (
-        <div key={f.code} class="proc-form">
+        <div key={`${f.code}|${f.name}`} class="proc-form">
           <span class="proc-form-code">{f.code}</span>
           <div class="proc-form-main">
             <strong>{f.name}</strong>
@@ -189,7 +178,7 @@ function Codes({ p }: { p: Procedure }) {
           <table class="proc-table">
             <tbody>
               {t.rows.map((r) => (
-                <tr key={r.code} class={r.code.length > 8 ? 'long' : undefined}>
+                <tr key={`${r.code}|${r.label}`} class={r.code.length > 8 ? 'long' : undefined}>
                   <td>{r.color ? <span class="proc-swatch" style={{ background: r.color }} /> : null}<strong>{r.code}</strong></td>
                   <td>{r.label}</td>
                 </tr>

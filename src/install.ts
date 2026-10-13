@@ -32,11 +32,16 @@ window.addEventListener('appinstalled', () => {
 /** Vraća true ako je korisnik prihvatio instalaciju. */
 export async function promptInstall(): Promise<boolean> {
   if (!deferred) return false;
-  await deferred.prompt();
-  const { outcome } = await deferred.userChoice;
-  deferred = null;
-  canPrompt.value = false;
-  return outcome === 'accepted';
+  try {
+    await deferred.prompt();
+    const { outcome } = await deferred.userChoice;
+    return outcome === 'accepted';
+  } catch {
+    return false; // prompt se može iskoristiti samo jednom (InvalidStateError)
+  } finally {
+    deferred = null;
+    canPrompt.value = false;
+  }
 }
 
 // Isti domen kao aplikacija: link na github.com bi na telefonu s instaliranom GitHub aplikacijom otišao u nju
