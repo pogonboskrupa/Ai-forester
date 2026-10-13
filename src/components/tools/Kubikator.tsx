@@ -35,9 +35,9 @@ function Logs() {
     }
   }, [rows]);
   const vol = (r: LogRow) =>
-    (smal ? smalian(parseNum(r.d), parseNum(r.d2), parseNum(r.l)) : huber(parseNum(r.d), parseNum(r.l))) * Math.max(1, Math.round(parseNum(r.n)));
+    (smal ? smalian(parseNum(r.d), parseNum(r.d2), parseNum(r.l)) : huber(parseNum(r.d), parseNum(r.l))) * Math.max(0, Math.round(parseNum(r.n)));
   const total = rows.reduce((s, r) => s + vol(r), 0);
-  const pieces = rows.reduce((s, r) => s + (vol(r) > 0 ? Math.max(1, Math.round(parseNum(r.n))) : 0), 0);
+  const pieces = rows.reduce((s, r) => s + (vol(r) > 0 ? Math.max(0, Math.round(parseNum(r.n))) : 0), 0);
   const set = (i: number, k: keyof LogRow, v: string) => setRows(rows.map((r, j) => (j === i ? { ...r, [k]: v } : r)));
   return (
     <>
@@ -98,7 +98,7 @@ function Tree() {
   const [h, setH] = useState('');
   const [f, setF] = useState('0.5');
   const [n, setN] = useState('1');
-  const v = standingTree(parseNum(d), parseNum(h), parseNum(f)) * Math.max(1, Math.round(parseNum(n)));
+  const v = standingTree(parseNum(d), parseNum(h), parseNum(f)) * Math.max(0, Math.round(parseNum(n)));
   return (
     <>
       <div class="tool-grid">

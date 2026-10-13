@@ -9,6 +9,7 @@ import { privateUnlocked } from '../private';
 import { procedure } from '../procedure';
 import { libraryFocus, libraryTab } from '../store';
 import { Icon } from './Icon';
+import { fold } from '../text';
 
 const q = signal('');
 
@@ -41,10 +42,10 @@ const go = (v: typeof view.value) => {
 
 export function Sidebar() {
   const f = filterProjectId.value;
-  const term = q.value.trim().toLowerCase();
+  const term = fold(q.value.trim());
   const list = conversations.value
     .filter((c) => f === 'all' || c.projectId === f)
-    .filter((c) => !term || c.title.toLowerCase().includes(term) || c.messages.some((m) => m.text.toLowerCase().includes(term)))
+    .filter((c) => !term || fold(c.title).includes(term) || c.messages.some((m) => fold(m.text).includes(term)))
     .sort((a, b) => b.updatedAt - a.updatedAt);
 
   return (

@@ -12,12 +12,12 @@ async function share(r: Report) {
   const text = reportText(r);
   try {
     if (navigator.share) await navigator.share({ title: 'Zapisnik o protivpravnoj radnji', text });
-    else {
+    else if (navigator.clipboard?.writeText) {
       await navigator.clipboard.writeText(text);
       toast('Zapisnik kopiran');
-    }
-  } catch {
-    /* korisnik je odustao */
+    } else toast('Dijeljenje i kopiranje nisu podržani na ovom uređaju', 'err');
+  } catch (e) {
+    if (!(e instanceof DOMException && e.name === 'AbortError')) toast('Dijeljenje nije uspjelo', 'err');
   }
 }
 

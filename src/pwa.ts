@@ -1,4 +1,5 @@
 import { registerSW } from 'virtual:pwa-register';
+import { busy } from './store';
 
 let registration: ServiceWorkerRegistration | undefined;
 
@@ -23,7 +24,22 @@ export function setupPwa(): void {
   });
 }
 
-/** Traži novi service worker; kad se instalira, autoUpdate sam osvježi stranicu. */
-export async function checkServiceWorker(): Promise<void> {
-  if (registration && navigator.onLine) await registration.update().catch(() => undefined);
+/**
+ * Traži novi service worker; kad se instalira, autoUpdate sam osvježi stranicu.
+ * Dok AI piše odgovor ne traži se ažuriranje, jer bi automatski reload prekinuo odgovor.
+ */
+export async function checkServiceWorker(force = false): Promise<void> {
+  if (!registration || !navigator.onLine || (busy.value && !force)) return;
+  await registration.update().catch(() => undefined);
+}
+
+/** Za dugme "Učitaj novu verziju": sačeka da novi service worker preuzme stranicu (max 20 s), pa osvježi. */
+export async function activateLatest(): Promise<void> {
+  const sw = navigator.serviceWorker;
+  if (registration && sw) {
+    const switched = new Promise<void>((resolve) => sw.addEventListener('controllerchange', () => resolve(), { once: true }));
+    await checkServiceWorker(true);
+    if (registration.installing || registration.waiting) await Promise.race([switched, new Promise((r) => setTimeout(r, 20_000))]);
+  }
+  location.reload();
 }

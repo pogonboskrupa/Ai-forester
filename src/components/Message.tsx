@@ -5,10 +5,11 @@ import { articleById, editLastQuestion, lawById, openSourceId, regenerate, toast
 import type { Article, Msg } from '../types';
 import { Icon } from './Icon';
 
-function Chip({ a, n, present }: { a: Article; n: number; present: Set<string> }) {
+const amendersOf = (a: Article) => (a.amendedBy ?? []).map(articleById).filter((x): x is Article => !!x);
+
+function Chip({ a, n, extra }: { a: Article; n: number; extra: Article[] }) {
   // Izmijenjen član: prikazuje se precrtan, a uz njega važeća izmjena koju treba citirati.
-  const amenders = (a.amendedBy ?? []).map(articleById).filter((x): x is Article => !!x);
-  const extra = amenders.filter((m) => !present.has(m.id)); // izmjena koja već ima svoj čip se ne ponavlja
+  const amenders = amendersOf(a);
   const notice = lawById(a.lawId)?.notice; // propis ima kasnije izmjene kojih nema u bazi
   return (
     <>
@@ -38,11 +39,17 @@ function SourceChips({ ids, text }: { ids: string[]; text: string }) {
   const cited = citedNumbers(text);
   const main = src.filter((x) => cited.has(x.n));
   const rest = src.filter((x) => !cited.has(x.n));
-  const present = new Set(src.map((x) => x.a.id));
+  const visible = showAll ? [...main, ...rest] : main;
+  // Važeća izmjena dobija "↳" čip samo ako nije već vidljiva kao svoj čip, i samo jednom.
+  const shown = new Set(visible.map((x) => x.a.id));
+  const chips = visible.map((x) => {
+    const extra = amendersOf(x.a).filter((m) => !shown.has(m.id));
+    extra.forEach((m) => shown.add(m.id));
+    return { ...x, extra };
+  });
   return (
     <div class="sources">
-      {main.map((x) => <Chip key={x.a.id} {...x} present={present} />)}
-      {showAll && rest.map((x) => <Chip key={x.a.id} {...x} present={present} />)}
+      {chips.map((x) => <Chip key={x.a.id} {...x} />)}
       {rest.length > 0 && (
         <button class="source-more" onClick={() => setShowAll(!showAll)}>
           {showAll ? 'Sakrij' : main.length ? `+${rest.length} pretraženih` : `Pretraženi izvori (${rest.length})`}

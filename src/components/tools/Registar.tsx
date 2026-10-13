@@ -9,7 +9,8 @@ interface Block { id: string; no: string; year: string; holder: string; issued: 
 
 const HAMMER_KINDS = ['Doznaka (šesterokut)', 'Prijem kod panja / kontrola (krug)', 'Otprema', 'Šumokvar – ŠK (kvadrat)', 'Privatne šume (elipsa)', 'Pohranjen – van upotrebe'];
 const BLOCK_STATUS = ['zadužen', 'iskorišten – vraćen', 'djelimično iskorišten – vraćen', 'neiskorišten – vraćen'];
-const today = () => new Date().toISOString().slice(0, 10);
+// Lokalni datum (toISOString je UTC – između 00 i 02 h dao bi jučerašnji datum).
+const today = () => { const d = new Date(); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`; };
 const uid = () => crypto.randomUUID();
 
 const csvCell = (v: string) => `"${v.replace(/"/g, '""')}"`;

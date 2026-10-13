@@ -59,6 +59,7 @@ export const addDays = (d: Date, n: number): Date => {
 export const addYears = (d: Date, n: number): Date => {
   const r = new Date(d);
   r.setFullYear(r.getFullYear() + n);
+  if (r.getMonth() !== d.getMonth()) r.setDate(0); // 29.02. → 28.02. u neprestupnoj godini
   return r;
 };
 

@@ -65,3 +65,18 @@ describe('format', () => {
     expect(date(new Date(2026, 11, 1, 14, 5), true)).toBe('1. 12. 2026. u 14:05');
   });
 });
+
+describe('ispravke rubnih slučajeva', () => {
+  it('addYears s 29.02. pada na 28.02.', () => {
+    expect(addYears(new Date(2028, 1, 29), 2)).toEqual(new Date(2030, 1, 28));
+  });
+  it('parseNum prihvata tačku za hiljade', () => {
+    expect(parseNum('1.234,5')).toBe(1234.5);
+    expect(parseNum('12.5')).toBe(12.5);
+    expect(parseNum(' 7 ')).toBe(7);
+  });
+  it('num ne ispisuje -0', () => {
+    expect(num(-0.0004, 3)).toBe('0,000');
+    expect(num(-1.5, 1)).toBe('-1,5');
+  });
+});
