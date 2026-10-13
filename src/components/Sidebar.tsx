@@ -6,6 +6,7 @@ import {
 import type { Conversation } from '../types';
 import { canPrompt, installed, promptInstall } from '../install';
 import { privateUnlocked } from '../private';
+import { procedure } from '../procedure';
 import { libraryFocus, libraryTab } from '../store';
 import { Icon } from './Icon';
 
@@ -105,6 +106,7 @@ export function Sidebar() {
           </button>
         )}
         <button class={`nav-item ${view.value === 'tools' ? 'on' : ''}`} onClick={() => go('tools')}><Icon name="tool" size={16} /> Alati</button>
+        {procedure.value && <button class={`nav-item ${view.value === 'procedure' ? 'on' : ''}`} onClick={() => go('procedure')}><Icon name="tree" size={16} /> Šumarska procedura</button>}
         {privateUnlocked.value && (
           <button class={`nav-item ${view.value === 'library' && libraryTab.value === 'spd' ? 'on' : ''}`} onClick={() => { libraryTab.value = 'spd'; libraryFocus.value = null; go('library'); }}>
             <Icon name="folder" size={16} /> Pravilnici ŠPD
