@@ -849,3 +849,5 @@ button.office-item { text-align: left; width: 100%; }
   .kr-nav { position: static; max-height: none; flex-direction: row; overflow-x: auto; margin-inline: -16px; padding: 0 16px 6px; scrollbar-width: none; }
   .kr-nav button { flex: none; min-width: 150px; }
 }
+.kr-req { flex-direction: column; align-items: stretch; }
+.kr-req .pill { white-space: normal; text-align: left; line-height: 1.4; padding: 5px 10px; border-radius: 10px; }
