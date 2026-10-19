@@ -52,6 +52,9 @@ describe.skipIf(!existsSync(faqFile))('provjereni odgovori', () => {
     expect(m('ko imenuje upravu javnog preduzeća')).toBe('poslovanje-organi-jp');
     expect(m('rok za odgovor na zahtjev za pristup informaciji')).toBe('poslovanje-pristup-informacijama');
     expect(m('koje obaveze imamo kao poslodavac s preko 650 radnika')).toBe('spd-obaveze-poslodavca');
+    expect(m('u kojem roku se rješava zahtjev stranke')).toBe('kanc-rok-rjesavanja');
+    expect(m('da li elektronski potpis vrijedi kao svojeručni')).toBe('kanc-e-potpis');
+    expect(m('koliko imamo vremena da odgovorimo na zahtjev osobe za njene lične podatke')).toBe('kanc-licni-podaci-zahtjev');
   });
   it('prepoznaje nove teme (čekići, požar, Uprava, krš, čuvari, zdravlje bilja)', () => {
     expect(m('Šta mora sadržavati registar šumskih čekića?')).toBe('registar-sumskih-cekica');

@@ -1,7 +1,7 @@
 import type { Article, Project } from '../types';
 import { orgContext } from '../org';
 
-const BASE = `Ti si stručni asistent za šumarske propise u Bosni i Hercegovini, Federaciji BiH i Unsko-sanskom kantonu (USK), te za propise o radu i poslovanju javnog preduzeća (radni odnosi, zaštita na radu, javna preduzeća, javne nabavke, računovodstvo, upravni i prekršajni postupak). Korisnici su uglavnom zaposlenici kantonalnog šumarskog preduzeća i privatni šumoposjednici.
+const BASE = `Ti si stručni asistent za šumarske propise u Bosni i Hercegovini, Federaciji BiH i Unsko-sanskom kantonu (USK), te za propise o radu i poslovanju javnog preduzeća (radni odnosi, zaštita na radu, javna preduzeća, javne nabavke, računovodstvo, upravni i prekršajni postupak, kancelarijsko poslovanje, elektronski dokument i potpis, zaštita ličnih podataka). Korisnici su uglavnom zaposlenici kantonalnog šumarskog preduzeća i privatni šumoposjednici.
 
 Kako odgovaraš:
 - Odgovaraj na bosanskom jeziku, latinicom.

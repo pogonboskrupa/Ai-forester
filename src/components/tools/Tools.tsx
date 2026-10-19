@@ -1,6 +1,7 @@
 import { signal } from '@preact/signals';
 import { drawerOpen } from '../../store';
 import { Icon, type IconName } from '../Icon';
+import { Kancelarija } from './Kancelarija';
 import { Kazne } from './Kazne';
 import { Kubikator } from './Kubikator';
 import { Liste } from './Liste';
@@ -8,7 +9,7 @@ import { Registar } from './Registar';
 import { Rokovi } from './Rokovi';
 import { Zapisnik } from './Zapisnik';
 
-type ToolId = 'kubikator' | 'kazne' | 'zapisnik' | 'rokovi' | 'registar' | 'liste';
+type ToolId = 'kubikator' | 'kazne' | 'zapisnik' | 'rokovi' | 'registar' | 'liste' | 'kancelarija';
 const TABS: { id: ToolId; label: string; icon: IconName }[] = [
   { id: 'kubikator', label: 'Kubikator', icon: 'tool' },
   { id: 'kazne', label: 'Kazne', icon: 'scale' },
@@ -16,6 +17,7 @@ const TABS: { id: ToolId; label: string; icon: IconName }[] = [
   { id: 'rokovi', label: 'Rokovi', icon: 'calendar' },
   { id: 'registar', label: 'Registar', icon: 'folder' },
   { id: 'liste', label: 'Kontrolne liste', icon: 'check' },
+  { id: 'kancelarija', label: 'Kancelarija', icon: 'folder' },
 ];
 
 export const toolTab = signal<ToolId>('kubikator');
@@ -43,6 +45,7 @@ export function Tools() {
         {t === 'rokovi' && <Rokovi />}
         {t === 'registar' && <Registar />}
         {t === 'liste' && <Liste />}
+        {t === 'kancelarija' && <Kancelarija />}
       </div>
     </section>
   );

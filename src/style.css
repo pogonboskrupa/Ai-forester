@@ -776,3 +776,28 @@ input[type='checkbox'] { accent-color: var(--accent); width: 16px; height: 16px;
 }
 .welcome-mark { display: grid; margin: 0 auto 12px; }
 .welcome-org { display: table; margin: 0 auto 10px; }
+
+/* ---------- Kancelarijsko poslovanje ---------- */
+.office-stats { display: flex; flex-wrap: wrap; gap: 8px 18px; font-size: 0.84rem; color: var(--muted); }
+.office-stats b { color: var(--text); font-size: 1rem; font-variant-numeric: tabular-nums; }
+.office-stats .bad, .office-stats .bad b { color: var(--danger); }
+.office-filter { display: flex; flex-direction: column; gap: 8px; margin-top: 4px; }
+.office-list { display: flex; flex-direction: column; gap: 8px; margin-top: 4px; }
+.office-item { display: flex; align-items: center; gap: 8px; padding: 8px 10px 8px 4px; border: 1px solid var(--border); border-left: 3px solid var(--accent); border-radius: 12px; background: var(--surface); }
+.office-item.done { opacity: 0.7; border-left-color: var(--border-strong); }
+.office-item.late { border-left-color: var(--danger); background: color-mix(in srgb, var(--danger-soft) 55%, var(--surface)); }
+.office-main { display: flex; align-items: center; gap: 10px; flex: 1; min-width: 0; text-align: left; padding: 2px 6px; }
+.office-no { flex: none; min-width: 64px; font-weight: 700; font-variant-numeric: tabular-nums; color: var(--accent); font-size: 0.88rem; }
+.office-body { display: flex; flex-direction: column; min-width: 0; }
+.office-body strong { font-size: 0.92rem; overflow-wrap: anywhere; }
+.office-side { display: flex; align-items: center; gap: 6px; flex: none; }
+.tpl-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 8px; }
+.tpl { display: flex; flex-direction: column; gap: 3px; text-align: left; padding: 10px 12px; border: 1px solid var(--border); border-radius: 12px; background: var(--surface); transition: border-color .15s, background .15s; }
+.tpl small { font-size: 0.78rem; line-height: 1.35; }
+.tpl:hover { border-color: var(--accent); }
+.tpl.on { border-color: var(--accent); background: var(--accent-soft); }
+@media (max-width: 820px) {
+  .office-item { flex-wrap: wrap; }
+  .office-side { width: 100%; justify-content: flex-end; padding-left: 74px; }
+}
+.office-form { display: flex; flex-direction: column; gap: 12px; padding: 14px; border: 1px dashed var(--border-strong); border-radius: 14px; background: var(--surface-2); }

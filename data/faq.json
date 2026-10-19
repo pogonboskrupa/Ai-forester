@@ -591,5 +591,87 @@
     ],
     "answer": "Za poslodavca s **više od 30 radnika** (ŠPD ima preko 650 uposlenih) vrijedi:\n\n- **Pravilnik o radu je obavezan**; uređuje plaće, organizaciju rada, sistematizaciju radnih mjesta i uvjete za zasnivanje radnog odnosa [@fbih-zakon-o-radu#118].\n- Radnici imaju pravo formirati **vijeće zaposlenika**; ako ga nema, ovlaštenja ima sindikat [@fbih-zakon-o-radu#119].\n- Ako u naredna tri mjeseca namjeravate otkazati ugovor o radu **najmanje petorici radnika** zbog ekonomskih, tehničkih ili organizacijskih razloga, obavezno je **konsultovanje s vijećem zaposlenika i sindikatom** [@fbih-zakon-o-radu#109].\n- **Zaštitu na radu** organizujete prema broju radnika i broju odvojenih radnih jedinica (šumarija); bez stručnog osoblja angažuje se ovlaštena organizacija. Izuzetak da poslodavac poslove zaštite obavlja sam vrijedi samo za navedene djelatnosti (šumarstvo nije među njima) i do 30 radnika [@fbih-zakon-o-zastiti-na-radu#33].\n- Kao **javno preduzeće** imate organe: skupštinu, nadzorni odbor, upravu i odbor za reviziju [@fbih-zakon-o-javnim-preduzecima#5]; uprava se bira javnim konkursom [@fbih-zakon-o-javnim-preduzecima#12].\n- Nabavke provodite po Zakonu o javnim nabavkama BiH [@fbih-zakon-o-javnim-preduzecima#34].\n- Finansijski izvještaji **velikih i srednjih** pravnih lica podliježu **obaveznoj reviziji** [@fbih-zakon-o-racunovodstvu-i-reviziji#57]. Razvrstavanje zavisi od najmanje dva od tri kriterija (imovina, prihod, broj zaposlenih) [@fbih-zakon-o-racunovodstvu-i-reviziji#5], pa ga provjerite prema vašim podacima.",
     "reviewed": false
+  },
+  {
+    "id": "kanc-rok-rjesavanja",
+    "topic": "Kancelarijsko poslovanje",
+    "q": "U kojem roku se mora riješiti zahtjev stranke i koliki je rok za žalbu?",
+    "alt": [
+      "rok za rješavanje zahtjeva",
+      "upravni postupak rok",
+      "rok za žalbu",
+      "rok za donošenje rješenja",
+      "šutnja uprave"
+    ],
+    "answer": "Kad nije potreban poseban ispitni postupak, rješenje se donosi i dostavlja stranci **najkasnije u roku od 30 dana** od predaje urednog zahtjeva (ili od pokretanja postupka po službenoj dužnosti); u ostalim slučajevima **najkasnije u roku od 60 dana**, osim ako poseban propis ne određuje kraći rok [@fbih-zakon-o-upravnom-postupku#216].\n\n- Ako organ ne donese rješenje u tom roku, stranka može izjaviti žalbu kao da je zahtjev odbijen [@fbih-zakon-o-upravnom-postupku#216].\n- **Žalba protiv rješenja** podnosi se u roku od **15 dana** od dana dostavljanja rješenja, ako zakonom nije drugačije određeno [@fbih-zakon-o-upravnom-postupku#227].",
+    "reviewed": false
+  },
+  {
+    "id": "kanc-dostava",
+    "topic": "Kancelarijsko poslovanje",
+    "q": "Kako se vrši dostavljanje pismena i kada se smatra uručenim?",
+    "alt": [
+      "dostava pismena",
+      "dostavljanje rješenja",
+      "dostava elektronskim putem",
+      "dostava radnim danom"
+    ],
+    "answer": "Pismeno (poziv, rješenje, zaključak…) se po pravilu **predaje osobi kojoj je namijenjeno**; dostavlja se **preko pošte, elektronskim putem** ili preko službene osobe organa [@fbih-zakon-o-upravnom-postupku#80].\n\n- Elektronska dostava se smatra izvršenom kad pošiljalac primi potvrdu o prijemu [@fbih-zakon-o-upravnom-postupku#80].\n- Dostavljanje se vrši **samo radnim danom i to danju**; iz osobito važnih razloga organ može odrediti dostavu i u nedjelju ili na neradni dan [@fbih-zakon-o-upravnom-postupku#81].",
+    "reviewed": false
+  },
+  {
+    "id": "kanc-e-dokument",
+    "topic": "Kancelarijsko poslovanje",
+    "q": "Ima li elektronski dokument istu pravnu snagu kao papirni i može li privredno društvo koristiti elektronske dokumente?",
+    "alt": [
+      "elektronski dokument",
+      "pravna snaga elektronskog dokumenta",
+      "elektronsko arhiviranje",
+      "papirni ili elektronski"
+    ],
+    "answer": "**Da.** Elektronski dokument ima pravnu valjanost kao dokument na papiru ako je izrađen, poslan, primljen, čuvan i arhiviran primjenom raspoložive informacione tehnologije i ispunjava uvjete iz čl. 4–6 zakona [@fbih-zakon-o-elektronskom-dokumentu#7].\n\n- Zakon se odnosi i na **privredna društva**, ustanove i druga pravna lica [@fbih-zakon-o-elektronskom-dokumentu#1]; upotrebu elektronskog dokumenta prihvataju svojom slobodno izraženom voljom [@fbih-zakon-o-elektronskom-dokumentu#2].\n- Svaki primjerak elektronskog dokumenta **potpisan elektronskim potpisom smatra se izvornikom**; elektronski dokument ne može imati kopiju u elektronskom obliku [@fbih-zakon-o-elektronskom-dokumentu#8].",
+    "reviewed": false
+  },
+  {
+    "id": "kanc-e-potpis",
+    "topic": "Kancelarijsko poslovanje",
+    "q": "Zamjenjuje li elektronski potpis svojeručni potpis?",
+    "alt": [
+      "elektronski potpis",
+      "siguran elektronski potpis",
+      "kvalifikovani potpis",
+      "digitalni potpis",
+      "e-potpis"
+    ],
+    "answer": "**Siguran elektronski potpis** zadovoljava pravne zahtjeve za svojeručni potpis i pisanu formu, ako posebnim zakonom ili sporazumom strana nije drugačije određeno [@bih-zakon-o-elektronskom-potpisu#5].\n\n- Ne važi kao pisana forma kod pravnih poslova iz porodičnog i nasljednog prava te kod izjava za koje se traži službena ovjera, sudska ili notarska provjera autentičnosti ili notarska isprava [@bih-zakon-o-elektronskom-potpisu#5].\n- Elektronski potpis se ne može odbaciti kao dokazno sredstvo samo zato što je u elektronskoj formi ili nije zasnovan na kvalificiranoj potvrdi [@bih-zakon-o-elektronskom-potpisu#4].",
+    "reviewed": false
+  },
+  {
+    "id": "kanc-licni-podaci-obrada",
+    "topic": "Kancelarijsko poslovanje",
+    "q": "Kada je obrada ličnih podataka (zaposlenih, kupaca, vlasnika šuma) zakonita?",
+    "alt": [
+      "zaštita ličnih podataka",
+      "obrada ličnih podataka",
+      "saglasnost za obradu podataka",
+      "GDPR",
+      "lični podaci zaposlenih"
+    ],
+    "answer": "Obrada ličnog podatka je zakonita samo ako je ispunjen **najmanje jedan uslov** [@bih-zakon-o-zastiti-licnih-podataka#8]:\n- saglasnost nosioca podataka za jednu ili više posebnih svrha,\n- obrada je neophodna radi izvršenja ugovora ili radnji na zahtjev nosioca prije zaključenja ugovora,\n- obrada je neophodna radi poštovanja pravnih obaveza kontrolora (npr. evidencije zaposlenih),\n- zaštita ključnih interesa nosioca ili drugog lica,\n- zadatak u javnom interesu ili službena ovlaštenja,\n- legitimni interesi kontrolora ili treće strane (osim kad pretežu prava nosioca).\n\nPravni osnov za obradu iz zakonskih obaveza i javnog interesa utvrđuju zakoni [@bih-zakon-o-zastiti-licnih-podataka#8]. Zakon je iz 2025. i ima prijelazne rokove za usklađivanje obrada, pa provjerite njegov rezime u biblioteci.",
+    "reviewed": false
+  },
+  {
+    "id": "kanc-licni-podaci-zahtjev",
+    "topic": "Kancelarijsko poslovanje",
+    "q": "Koliko imamo vremena da odgovorimo na zahtjev osobe za njene lične podatke?",
+    "alt": [
+      "pristup ličnim podacima",
+      "zahtjev nosioca podataka",
+      "rok 30 dana lični podaci",
+      "brisanje ličnih podataka",
+      "pravo na ispravku"
+    ],
+    "answer": "Kontrolor podataka je dužan nosiocu podataka pružiti informacije o preduzetim radnjama **bez nepotrebnog odgađanja, a najkasnije u roku od 30 dana** od zaprimanja zahtjeva [@bih-zakon-o-zastiti-licnih-podataka#14].\n\n- Rok se može **produžiti za 60 dana** zbog složenosti i broja zahtjeva; o produženju se nosilac obavještava u roku od 30 dana, uz razloge [@bih-zakon-o-zastiti-licnih-podataka#14].\n- Ako se po zahtjevu ne postupi, nosilac se obavještava u roku od 30 dana o razlozima i o pravu na prigovor Agenciji ili tužbu sudu [@bih-zakon-o-zastiti-licnih-podataka#14].\n- Informacije i radnje se pružaju bez naknade, osim kad su zahtjevi očito neosnovani ili pretjerani [@bih-zakon-o-zastiti-licnih-podataka#14].",
+    "reviewed": false
   }
 ]

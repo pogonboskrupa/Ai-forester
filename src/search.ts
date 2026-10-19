@@ -28,9 +28,9 @@ const SYNONYMS: Record<string, string> = {
 
 // Propisi o radu i poslovanju preduzeća (opći, ne šumarski) ne smiju potiskivati šumarske propise
 // u upitima koji nisu o tim temama; za upite o radu/poslovanju rangiraju se normalno.
-export const BUSINESS_TOPICS: ReadonlySet<string> = new Set(['Radni odnosi', 'Poslovanje preduzeća', 'Opći propisi']);
+export const BUSINESS_TOPICS: ReadonlySet<string> = new Set(['Radni odnosi', 'Poslovanje preduzeća', 'Opći propisi', 'Kancelarijsko poslovanje']);
 const BUSINESS_QUERY =
-  /(radn|zaposl|ugovor o radu|otkaz|odmor|plat[aeiu]\b|place\b|sindikat|kolektiv|prekovrem|disciplin|mobing|nadzorn|uprav\w* odbor|direktor|skupstin|drustv|racunovod|revizij|nabavk|tender|pristup\w* informac|upravn\w* postup|zalb|prekrsajn\w* (postup|nalog)|zastarjel|poslovn|javn\w* preduze|doprinos|zastit\w* na radu|povred\w* na radu)/;
+  /(radn|zaposl|ugovor o radu|otkaz|odmor|plat[aeiu]\b|place\b|sindikat|kolektiv|prekovrem|disciplin|mobing|nadzorn|uprav\w* odbor|direktor|skupstin|drustv|racunovod|revizij|nabavk|tender|pristup\w* informac|upravn\w* postup|zalb|prekrsajn\w* (postup|nalog)|zastarjel|poslovn|javn\w* preduze|doprinos|zastit\w* na radu|povred\w* na radu|elektronsk|potpis|arhiv|dokument|licn\w* podat|kancelarij|urudzb|djelovodnik|dopis|pisarnic|protokol)/;
 const DEMOTE = 0.55;
 let businessLaws: ReadonlySet<string> = new Set();
 export const setBusinessLaws = (ids: Iterable<string>): void => {
