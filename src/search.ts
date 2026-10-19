@@ -26,6 +26,17 @@ const SYNONYMS: Record<string, string> = {
   zakup: 'zakup šumskog zemljišta',
 };
 
+// Propisi o radu i poslovanju preduzeća (opći, ne šumarski) ne smiju potiskivati šumarske propise
+// u upitima koji nisu o tim temama; za upite o radu/poslovanju rangiraju se normalno.
+export const BUSINESS_TOPICS: ReadonlySet<string> = new Set(['Radni odnosi', 'Poslovanje preduzeća', 'Opći propisi']);
+const BUSINESS_QUERY =
+  /(radn|zaposl|ugovor o radu|otkaz|odmor|plat[aeiu]\b|place\b|sindikat|kolektiv|prekovrem|disciplin|mobing|nadzorn|uprav\w* odbor|direktor|skupstin|drustv|racunovod|revizij|nabavk|tender|pristup\w* informac|upravn\w* postup|zalb|prekrsajn\w* (postup|nalog)|zastarjel|poslovn|javn\w* preduze|doprinos|zastit\w* na radu|povred\w* na radu)/;
+const DEMOTE = 0.55;
+let businessLaws: ReadonlySet<string> = new Set();
+export const setBusinessLaws = (ids: Iterable<string>): void => {
+  businessLaws = new Set(ids);
+};
+
 export function expandQuery(query: string): string {
   // prefiks, jer padeži mijenjaju kraj riječi ("prijevozu", "sječu")
   const keys = Object.keys(SYNONYMS);
@@ -58,10 +69,12 @@ export function retrieve(
   allowedLawIds?: readonly string[],
 ): Article[] {
   const allowed = allowedLawIds?.length ? new Set(allowedLawIds) : null;
+  const demote = !allowed && businessLaws.size > 0 && !BUSINESS_QUERY.test(fold(query));
   return ms
     .search(expandQuery(query), {
       filter: allowed ? (r) => allowed.has(r['lawId'] as string) : undefined,
-      boostDocument: (_id, _t, doc) => LEVEL_BOOST[(doc?.['level'] as Article['level']) ?? 'BiH'],
+      boostDocument: (_id, _t, doc) =>
+        LEVEL_BOOST[(doc?.['level'] as Article['level']) ?? 'BiH'] * (demote && businessLaws.has(doc?.['lawId'] as string) ? DEMOTE : 1),
     })
     .slice(0, k)
     .map((r) => r as unknown as Article);

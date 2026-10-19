@@ -457,5 +457,128 @@
   "inForce": true,
   "sourceUrl": "https://kucz.ks.gov.ba/sites/kucz.ks.gov.ba/files/2025-03/zakon_o_zastiti_od_pozara_i_vatrogastvu_unsko-sanskog_kantona.pdf",
   "topic": "Požari"
+ },
+ {
+  "id": "fbih-zakon-o-radu",
+  "file": "fbih-zakon-o-radu.txt",
+  "title": "Zakon o radu FBiH",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 26/16, 89/18, 23/20, 49/21, 103/21, 44/22, 39/24 (neslužbeni prečišćeni tekst)",
+  "inForce": true,
+  "sourceUrl": "https://advokat-prnjavorac.com/Zakon-o-radu-FBiH-preciscen-tekst-2018.html",
+  "topic": "Radni odnosi",
+  "notice": "Odredbe o reprezentativnosti sindikata (čl. 122–136) i mirenju (čl. 150–155) prestale su važiti jer su ih zamijenili posebni zakoni (103/21 i 49/21). Za čl. 163–165 također piše da su prestali važiti. U pripremi je novi Zakon o radu (prednacrt iz septembra 2025) – provjerite status prije primjene."
+ },
+ {
+  "id": "fbih-zakon-o-zastiti-na-radu",
+  "file": "fbih-zakon-o-zastiti-na-radu.txt",
+  "title": "Zakon o zaštiti na radu FBiH",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 79/20 (neslužbeni prečišćeni tekst)",
+  "inForce": true,
+  "sourceUrl": "https://advokat-prnjavorac.com/Zakon-o-zastiti-na-radu-Federacije-BiH.html",
+  "topic": "Radni odnosi"
+ },
+ {
+  "id": "fbih-opci-kolektivni-ugovor",
+  "file": "fbih-opci-kolektivni-ugovor.txt",
+  "title": "Opći kolektivni ugovor za teritoriju FBiH",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 48/16, 62/16 (neslužbeni prečišćeni tekst)",
+  "inForce": true,
+  "sourceUrl": "https://advokat-prnjavorac.com/Opci-kolektivni-ugovor-za-teritoriju-Federacije-BiH.html",
+  "topic": "Radni odnosi",
+  "notice": "Ovo je kolektivni ugovor, a ne zakon. Provjerite da li je još na snazi i postoji li granski ili pojedinačni kolektivni ugovor (npr. kod ŠPD-a) koji uređuje ista pitanja."
+ },
+ {
+  "id": "fbih-zakon-o-doprinosima",
+  "file": "fbih-zakon-o-doprinosima.txt",
+  "title": "Zakon o doprinosima FBiH",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 35/98 … 6/23, 28/23 (odl. US), 33/25 (neslužbeni prečišćeni tekst)",
+  "inForce": true,
+  "sourceUrl": "https://advokat-prnjavorac.com/Zakon-o-doprinosima-Federacije-BiH.html",
+  "topic": "Radni odnosi"
+ },
+ {
+  "id": "fbih-zakon-o-javnim-preduzecima",
+  "file": "fbih-zakon-o-javnim-preduzecima.txt",
+  "title": "Zakon o javnim preduzećima u FBiH",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 8/05, 81/08, 22/09, 109/12 (neslužbeni prečišćeni tekst)",
+  "inForce": true,
+  "sourceUrl": "https://advokat-prnjavorac.com/Zakon-o-javnim-preduzecima-u-Federaciji-BiH.html",
+  "topic": "Poslovanje preduzeća"
+ },
+ {
+  "id": "fbih-zakon-o-privrednim-drustvima",
+  "file": "fbih-zakon-o-privrednim-drustvima.txt",
+  "title": "Zakon o privrednim društvima FBiH",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 81/15, 75/21 (neslužbeni prečišćeni tekst)",
+  "inForce": true,
+  "sourceUrl": "https://advokat-prnjavorac.com/Zakon-o-privrednim-drustvima-Federacije-BiH.html",
+  "topic": "Poslovanje preduzeća"
+ },
+ {
+  "id": "fbih-zakon-o-racunovodstvu-i-reviziji",
+  "file": "fbih-zakon-o-racunovodstvu-i-reviziji.txt",
+  "title": "Zakon o računovodstvu i reviziji u FBiH",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 15/21 (neslužbeni prečišćeni tekst)",
+  "inForce": true,
+  "sourceUrl": "https://advokat-prnjavorac.com/Zakon-o-racunovodstvu-i-reviziji-u-Federaciji-Bosne-i-Hercegovine.html",
+  "topic": "Poslovanje preduzeća"
+ },
+ {
+  "id": "bih-zakon-o-javnim-nabavkama",
+  "file": "bih-zakon-o-javnim-nabavkama.txt",
+  "title": "Zakon o javnim nabavkama BiH",
+  "level": "BiH",
+  "gazette": "Sl. glasnik BiH 39/14, 59/22, 50/24 (neslužbeni prečišćeni tekst)",
+  "inForce": true,
+  "sourceUrl": "https://advokat-prnjavorac.com/Zakon-o-javnim-nabavkama-Bosne-i-Hercegovine.html",
+  "topic": "Poslovanje preduzeća",
+  "notice": "Pragovi, postupci i rokovi se mijenjaju podzakonskim aktima i uputstvima Agencije za javne nabavke – za konkretnu nabavku provjerite važeće vrijednosne razrede."
+ },
+ {
+  "id": "fbih-zakon-o-slobodi-pristupa-informacijama",
+  "file": "fbih-zakon-o-slobodi-pristupa-informacijama.txt",
+  "title": "Zakon o slobodi pristupa informacijama u FBiH",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 32/01, 48/11 (neslužbeni prečišćeni tekst)",
+  "inForce": true,
+  "sourceUrl": "https://advokat-prnjavorac.com/Zakon-o-slobodi-pristupa-informacijama-u-Federaciji-BiH.html",
+  "topic": "Poslovanje preduzeća"
+ },
+ {
+  "id": "fbih-zakon-o-prekrsajima",
+  "file": "fbih-zakon-o-prekrsajima.txt",
+  "title": "Zakon o prekršajima FBiH",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 63/14, 19/25; Sl. glasnik BiH 41/22, 68/22 (odl. US BiH) (neslužbeni prečišćeni tekst)",
+  "inForce": true,
+  "sourceUrl": "https://advokat-prnjavorac.com/Zakon-o-prekrsajima-Federacije-BiH.html",
+  "topic": "Opći propisi"
+ },
+ {
+  "id": "fbih-zakon-o-upravnom-postupku",
+  "file": "fbih-zakon-o-upravnom-postupku.txt",
+  "title": "Zakon o upravnom postupku FBiH",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 2/98, 48/99, 61/22 (neslužbeni prečišćeni tekst)",
+  "inForce": true,
+  "sourceUrl": "https://advokat-prnjavorac.com/Zakon-o-upravnom-postupku-Federacije-BiH.html",
+  "topic": "Opći propisi"
+ },
+ {
+  "id": "fbih-zakon-o-zastiti-prirode",
+  "file": "fbih-zakon-o-zastiti-prirode.txt",
+  "title": "Zakon o zaštiti prirode FBiH",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 66/13, 10/25 (neslužbeni prečišćeni tekst)",
+  "inForce": true,
+  "sourceUrl": "https://advokat-prnjavorac.com/Zakon-o-zastiti-prirode-Federacije-BiH.html",
+  "topic": "Okoliš"
  }
 ]

@@ -1,6 +1,6 @@
 import { readFileSync, existsSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
-import { buildIndex, retrieve } from './search';
+import { BUSINESS_TOPICS, buildIndex, retrieve, setBusinessLaws } from './search';
 import type { Article } from './types';
 
 const file = 'public/data/articles.json';
@@ -44,6 +44,13 @@ describe.skipIf(!existsSync(faqFile))('provjereni odgovori', () => {
     expect(m('koja je kazna za bespravnu sječu')).toBe('kazne-fizicka-lica');
     expect(m('smijem li ložiti vatru blizu šume')).toBe('vatra-u-sumi');
     expect(m('ko plaća naknadu za općekorisne funkcije')).toBe('naknada-opcekorisne');
+  });
+  it('prepoznaje pitanja o radnim odnosima i poslovanju', () => {
+    expect(m('koliko traje probni rad')).toBe('radni-probni-rad');
+    expect(m('koliko dana godišnjeg odmora ima radnik')).toBe('radni-godisnji-odmor');
+    expect(m('koliki je otkazni rok')).toBe('radni-otkaz');
+    expect(m('ko imenuje upravu javnog preduzeća')).toBe('poslovanje-organi-jp');
+    expect(m('rok za odgovor na zahtjev za pristup informaciji')).toBe('poslovanje-pristup-informacijama');
   });
   it('prepoznaje nove teme (čekići, požar, Uprava, krš, čuvari, zdravlje bilja)', () => {
     expect(m('Šta mora sadržavati registar šumskih čekića?')).toBe('registar-sumskih-cekica');
@@ -92,5 +99,32 @@ describe('izbor modela', () => {
   it('bira najnoviji stabilni flash/mini model', () => {
     expect(pickBestGemini(['gemini-2.5-flash', 'gemini-3.5-flash-lite', 'gemini-3.5-flash', 'gemini-3.5-pro', 'gemini-4.0-flash-preview'])).toBe('gemini-3.5-flash');
     expect(pickBestOpenAI(['gpt-4.1-mini', 'gpt-5', 'gpt-5-mini', 'gpt-5-nano'])).toBe('gpt-5-mini');
+  });
+});
+
+describe.skipIf(!existsSync(file))('opći propisi (rad, poslovanje) i šumarski upiti', () => {
+  const arts = JSON.parse(readFileSync(file, 'utf8')) as Article[];
+  const idx = buildIndex(arts);
+  const lawsFile = 'public/data/laws.json';
+  const business = new Set(
+    (JSON.parse(readFileSync(lawsFile, 'utf8')) as { id: string; topic?: string }[]).filter((l) => l.topic && BUSINESS_TOPICS.has(l.topic)).map((l) => l.id),
+  );
+  const ids = (q: string, k = 6) => retrieve(idx, q, k).map((a) => a.lawId);
+
+  it('upiti o radu nalaze Zakon o radu', () => {
+    setBusinessLaws(business);
+    expect(ids('otkazni rok ugovor o radu')).toContain('fbih-zakon-o-radu');
+    expect(ids('minimalno trajanje godišnjeg odmora')).toContain('fbih-zakon-o-radu');
+    expect(ids('ko imenuje direktora javnog preduzeća')).toContain('fbih-zakon-o-javnim-preduzecima');
+  });
+  it('upit o zaštićenim područjima nalazi Zakon o zaštiti prirode', () => {
+    setBusinessLaws(business);
+    expect(ids('proglašenje nacionalnog parka zaštićeno područje')).toContain('fbih-zakon-o-zastiti-prirode');
+  });
+  it('šumarski upiti ne vraćaju opće propise', () => {
+    setBusinessLaws(business);
+    for (const q of ['Ko vrši doznaku stabala za sječu?', 'koja je kazna za bespravnu sječu', 'otpremni iskaz za drvo', 'obaveze lugara čuvara šuma']) {
+      expect(ids(q, 3).filter((id) => business.has(id)), q).toEqual([]);
+    }
   });
 });
