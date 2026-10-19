@@ -5,6 +5,7 @@ import { useEffect } from 'preact/hooks';
 import { Chat } from './components/Chat';
 import { Icon } from './components/Icon';
 import { ImportPdf } from './components/ImportPdf';
+import { BottomNav } from './components/BottomNav';
 import { Library } from './components/Library';
 import { ProjectEditor } from './components/ProjectEditor';
 import { Settings } from './components/Settings';
@@ -71,6 +72,7 @@ function App() {
         {v === 'procedure' && <ProcedureView />}
       </main>
       {openSourceId.value && <div class="panel-scrim" onClick={() => (openSourceId.value = null)} />}
+      <BottomNav />
       <SourcePanel />
       <Toasts />
     </div>

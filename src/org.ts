@@ -6,6 +6,7 @@ import { fold } from './text';
  */
 export const ORG = {
   name: 'ŠPD „Unsko-sanske šume“ d.o.o. Bosanska Krupa',
+  short: 'ŠPD „Unsko-sanske šume“',
   kind: 'kantonalno javno šumarsko preduzeće (šumsko-privredno društvo, društvo s ograničenom odgovornošću u vlasništvu Unsko-sanskog kantona)',
   employees: 650, // "preko 650 uposlenih"
 } as const;

@@ -1,11 +1,13 @@
-import { useEffect, useRef } from 'preact/hooks';
+import { useEffect, useRef, useState } from 'preact/hooks';
+import { ORG } from '../org';
+import { procedure } from '../procedure';
 import { PROVIDER_NAMES, configuredProviders, isConfigured, modelOf, settings, updateSettings } from '../settings';
 import {
-  activeConv, busy, conversationToMarkdown, draft, drawerOpen, faq, filterProjectId, laws, moveConversation, projectOf,
+  activeConv, articles, busy, conversationToMarkdown, draft, drawerOpen, faq, filterProjectId, laws, moveConversation, projectOf,
   projects, renameConversation, sendMessage, stopGeneration, streaming, toast, view,
 } from '../store';
 import type { Conversation } from '../types';
-import { Icon } from './Icon';
+import { Icon, type IconName } from './Icon';
 import { AssistantMessage, UserMessage } from './Message';
 
 const FALLBACK_SUGGESTIONS = [
@@ -30,34 +32,86 @@ function download(c: Conversation): void {
   toast('Razgovor izvezen');
 }
 
+const STARTERS: { id: string; icon: IconName; t: string }[] = [
+  { id: 'doznaka-privatna', icon: 'tree', t: 'Doznaka i sječa' },
+  { id: 'otpremni-iskaz-sta', icon: 'send', t: 'Promet drveta' },
+  { id: 'kazne-fizicka-lica', icon: 'scale', t: 'Kazne' },
+  { id: 'radni-otkaz', icon: 'check', t: 'Radni odnosi' },
+  { id: 'poslovanje-organi-jp', icon: 'book', t: 'Javno preduzeće' },
+  { id: 'rad-zastita-obaveze-poslodavca', icon: 'alert', t: 'Zaštita na radu' },
+];
+
+/** Pripremljena pitanja iz različitih oblasti (šumarstvo, rad, poslovanje); ako ih nema, po jedno iz svake teme. */
+function starters(): { t: string; q: string; icon: IconName }[] {
+  const byId = new Map(faq.value.map((f) => [f.id, f]));
+  const picked = STARTERS.flatMap((s) => {
+    const f = byId.get(s.id);
+    return f ? [{ t: s.t, q: f.q, icon: s.icon }] : [];
+  });
+  return picked.length >= 4 ? picked : suggestions().map((x) => ({ ...x, icon: 'sparkle' as IconName }));
+}
+
+const CALLOUT_KEY = 'ai-sumar-callout-off';
+const readOff = (): boolean => {
+  try {
+    return localStorage.getItem(CALLOUT_KEY) === '1';
+  } catch {
+    return false;
+  }
+};
+
 function Welcome() {
   const configured = isConfigured();
+  const [hideCallout, setHideCallout] = useState(readOff);
   const pid = filterProjectId.value;
   const project = pid && pid !== 'all' ? projectOf(pid) : null;
+  const dismiss = () => {
+    setHideCallout(true);
+    try {
+      localStorage.setItem(CALLOUT_KEY, '1');
+    } catch {
+      /* privatni prozor */
+    }
+  };
   return (
     <div class="welcome">
       <div class="welcome-mark"><Icon name="tree" size={28} /></div>
+      <span class="welcome-org">{ORG.short}</span>
       <h1>{project ? project.name : 'Kako mogu pomoći?'}</h1>
-      <p class="muted">
-        Odgovori iz {laws.value.length} propisa BiH, FBiH i Unsko-sanskog kantona, sa citiranim članovima.
-      </p>
-      {!configured && (
+      <p class="muted">Odgovori iz propisa BiH, FBiH i Unsko-sanskog kantona, sa citiranim članovima.</p>
+      <div class="welcome-stats" aria-label="Sadržaj baze">
+        <span><b>{laws.value.length}</b> propisa</span>
+        <span><b>{articles.value.length.toLocaleString('de-DE')}</b> članova</span>
+        <span><b>{faq.value.length}</b> gotovih odgovora</span>
+      </div>
+      {!configured && !hideCallout && (
         <div class="callout">
           <Icon name="key" />
           <div>
             <strong>Radi i bez AI-ja</strong>
-            <p>Česta pitanja imaju pripremljene odgovore, a za ostala dobijate izdvojene odredbe iz propisa. Za objašnjenja vlastitim riječima povežite Gemini, ChatGPT ili Claude.</p>
-            <button class="btn sm" onClick={() => (view.value = 'settings')}>Poveži AI</button>
+            <p>Česta pitanja imaju gotove odgovore, a za ostala dobijate izdvojene odredbe. Za objašnjenja vlastitim riječima povežite AI.</p>
+            <div class="row gap">
+              <button class="btn sm" onClick={() => (view.value = 'settings')}>Poveži AI</button>
+              <button class="btn ghost sm" onClick={dismiss}>Sakrij</button>
+            </div>
           </div>
         </div>
       )}
       <div class="suggestions">
-        {suggestions().map((s) => (
+        {starters().map((s) => (
           <button key={s.q} class="suggestion" onClick={() => void sendMessage(s.q)}>
-            <span class="s-title">{s.t}</span>
-            <span class="s-q">{s.q}</span>
+            <span class="s-ico"><Icon name={s.icon} size={16} /></span>
+            <span class="s-body">
+              <span class="s-title">{s.t}</span>
+              <span class="s-q">{s.q}</span>
+            </span>
           </button>
         ))}
+      </div>
+      <div class="quick">
+        <button onClick={() => (view.value = 'tools')}><Icon name="tool" size={16} /> Kubikator, kazne, zapisnik</button>
+        <button onClick={() => (view.value = 'library')}><Icon name="book" size={16} /> Biblioteka i rezimei</button>
+        {procedure.value && <button onClick={() => (view.value = 'procedure')}><Icon name="tree" size={16} /> Šumarska procedura</button>}
       </div>
     </div>
   );
@@ -155,7 +209,7 @@ export function Chat() {
     if (!el) return;
     if (el.scrollHeight - el.scrollTop - el.clientHeight < 160) end.current?.scrollIntoView({ block: 'end' });
   }, [c?.messages.length, live?.text]);
-  useEffect(() => end.current?.scrollIntoView({ block: 'end' }), [c?.id]);
+  useEffect(() => { if (c?.messages.length) end.current?.scrollIntoView({ block: 'end' }); }, [c?.id]);
 
   const project = projectOf(c?.projectId ?? null);
   const empty = !c || c.messages.length === 0;
