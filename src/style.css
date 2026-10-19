@@ -801,3 +801,9 @@ input[type='checkbox'] { accent-color: var(--accent); width: 16px; height: 16px;
   .office-side { width: 100%; justify-content: flex-end; padding-left: 74px; }
 }
 .office-form { display: flex; flex-direction: column; gap: 12px; padding: 14px; border: 1px dashed var(--border-strong); border-radius: 14px; background: var(--surface-2); }
+
+/* Kancelarijsko poslovanje kao cjelina */
+.proc-stats button.warn { background: rgba(255, 120, 100, .28); }
+.office-subtabs { align-self: flex-start; margin: 4px 0 12px; flex-shrink: 0; }
+.office-tile { cursor: pointer; }
+button.office-item { text-align: left; width: 100%; }
