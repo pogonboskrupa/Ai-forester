@@ -1,0 +1,130 @@
+Član 1.
+Ovim zakonom uređuje se pravo federalnih i kantonalnih organa uprave i federalnih i kantonalnih upravnih organizacija (u daljnjem tekstu: organi uprave), organa lokalne samouprave, privrednih društava, ustanova i drugih pravnih i fizičkih lica na upotrebu elektronskog dokumenta u poslovnim radnjama i djelatnostima, te u postupcima koji se vode pred nadležnim organima u upravnom postupku u kojima se elektronska oprema i programi mogu primjenjivati u izradi, prijenosu, prijemu i čuvanju informacija u elektronskom obliku, pravna valjanost elektronskog dokumenta, te upotreba i promet elektronskog dokumenta.
+Odredbe ovog zakona ne primjenjuju se u onim slučajevima gdje se drugim zakonima propisuje upotreba dokumenta na papiru.
+Član 2.
+Organi uprave, organi lokalne samouprave, privredna društva, ustanove i druga pravna i fizička lica svojom slobodno izraženom voljom prihvataju upotrebu i promet elektronskog dokumenta za svoje potrebe, kao i za potrebe poslovnih odnosa i drugih odnosa sa drugima.
+Organi uprave i druga pravna i fizička lica iz stava 1. ovog člana koja su prihvatila upotrebu i promet elektronskog dokumenta ne mogu odbiti elektronski dokument samo zbog toga što je sačinjen, korišten i stavljen u promet u elektronskom obliku.
+Član 3.
+Pojedini izrazi koji se koriste u ovom zakonu imaju sljedeća značenja:
+1) elektronski dokument - jednoobrazno povezan cjelovit skup podataka koji su elektronski oblikovani (izrađeni pomoću računara i drugih elektronskih uređaja), poslani, primljeni ili sačuvani na elektronskom, magnetnom, optičkom ili drugom mediju i koji sadrže osobine kojima se utvrđuje autor, vjerodostojnost sadržaja, te dokazuje vrijeme kada je dokument sačinjen. Sadržaj elektronskog dokumenta uključuje sve oblike pisanog teksta, podatke, slike, crteže, karte, ton, muziku i govor;
+2) dokumentaciona osobina - obavezan skup podataka, poput elektronskog potpisa, vremena izrade, naziva autora i drugih koji se ugrađuju u elektronski dokument radi zadržavanja vjerodostojnosti, cjelovitosti i perioda valjanosti utvrđen zakonom i drugim propisima;
+3) elektronski potpis - skup podataka u elektronskom obliku koji su pridruženi ili logički povezani sa drugim podacima u elektronskom obliku i služe za identifikaciju potpisnika i autentičnost potpisanog elektronskog dokumenta;
+4) autor - organi uprave, organi lokalne samouprave, privredna društva, ustanove i druga pravna i fizička lica koja primjenom elektronskih sredstava (uređaji i programi) izrađuju, oblikuju i potpisuju elektronski dokument kvalifikovanim elektronskim potpisom;
+5) pošiljalac - organi uprave, organi lokalne samouprave, privredna društva, ustanove i druga pravna i fizička lica koja šalju ili u ime kojih se primaocu šalje elektronski dokument, ne uključujući informativnog posrednika;
+6) primalac - organi uprave, organi lokalne samouprave, privredna društva, ustanove i druga pravna i fizička lica kojima je upućen elektronski dokument, ne uključujući informacionog posrednika;
+7) dokumentacioni ciklus - promet elektronskog dokumenta od izrade do arhiviranja, uključujući radnje izrade, slanja, primanja i čuvanja sa postupcima unošenja i ovjere podataka kojima se potvrđuje autor, pošiljalac, primalac, vrijeme slanja i vrijeme prijema, vjerodostojnost i cjelovitost elektronskog dokumenta;
+8) informativni sistem - informativno-komunikacioni sistem kao skup programa, informatičkih i telekomunikacionih uređaja, metoda i postupaka primijenjenih u postupcima izrade, slanja, primanja, provjere i čuvanja elektronskih dokumenata;
+9) radnik (korisnik) informativnog sistema - fizičko lice koje direktno radi u informativnom sistemu postupcima rukovanja elektronskim dokumentom;
+10) informativni posrednik - pravno ili fizičko lice koje u ime drugih vrši slanje, prijem, prijenos i čuvanje elektronskog dokumenta;
+11) elektronska arhiva - skup elektronskih dokumenata uređenih u dokumentacione cjeline u skladu sa zakonom i drugim propisima kojima se posebno uređuje ova oblast;
+12) nadležni organi u upravnom postupku - organi uprave, organi jedinica lokalne samouprave, pravna i fizička lica sa javnim ovlašćenjima na koja su prenesena javna ovlašćenja.
+Član 4.
+Elektronski dokument mora u svim radnjama uključenim u dokumentacioni ciklus osigurati jednoobrazno obilježje kojim se nedvosmisleno utvrđuje pojedinačni elektronski dokument i autor elektronskog dokumenta, informaciona cjelovitost i nepovredivost elektronskog dokumenta, pristup sadržaju elektronskog dokumenta cijelo vrijeme dokumentacionog ciklusa i oblik zapisa koji omogućava čitanje sadržaja.
+Član 5.
+Građa elektronskog dokumenta sastoji se obavezno od:
+1) općeg dijela koji čini sadržaj - informacije u elektronskom obliku dokumenta, uključujući i naslov primaoca ako je elektronski dokument namijenjen slanju imenovanom primaocu i
+2) posebnog dijela koji čine jedan ili više ugrađenih elektronskih potpisa i podaci o vremenu nastajanja i završetka izrade elektronskog dokumenta, kao i druge dokumentacione osobine nastale u toku njegove izrade.
+Član 6.
+Elektronski dokument u procesima prikazivanja sadržaja, kao i u toku rukovanja sadržajima ugrađenim u elektronski dokument sadrži obavezno unutrašnji i vanjski obrazac prikaza.
+Unutrašnji obrazac (podaci) prikaza sastoji se od tehničko-programskog obrasca zapisivanja sadržaja u elektronskom obliku na medij koji zadržava ili prosljeđuje elektronski dokument.
+Vanjski obrazac (izvodi) sastoji se od vizuelnog i razumljivog prikaza sadržaja elektronskog dokumenta na uređaju za vizuelni prikaz računarskih ili drugih elektronskih uređaja, na papiru ili drugom materijalnom predmetu proizvedenog iz zapisa u elektronskom obliku na mediju iz stava 2. ovog člana.
+Član 7.
+Elektronski dokument ima pravnu valjanost kao i dokument na papiru ako je izrađen, poslan, primljen, čuvan i arhiviran primjenom raspoložive informacione tehnologije i ispunjava uvjete iz čl. 4., 5. i 6. ovog zakona.
+Član 8.
+Svaki pojedinačni primjerak elektronskog dokumenta potpisan elektronskim potpisom smatra se, u smislu ovog zakona, izvornikom.
+Elektronski dokument ne može imati kopiju u elektronskom obliku.
+Ako ista osoba izradi dva ili više dokumenta sa istim sadržajem od kojih je jedan primjerak izrađen u elektronskom obliku a drugi izrađen na papiru, ti se dokumenti smatraju nezavisnim i u tim slučajevima dokument izrađen na papiru ne smatra se kopijom elektronskog dokumenta.
+Član 9.
+Kopija elektronskog dokumenta na papiru izrađuje se ovjerom ispisa vanjskog obrasca prikaza elektronskog dokumenta na papiru uz primjenu postupaka predviđenih zakonom i drugim propisima.
+Ovjeru ispisa vanjskog obrasca prikaza elektronskog dokumenta na papiru u postupcima koje vode nadležni organi u upravnom postupku u okviru svoje nadležnosti obavljaju ovlaštene osobe u tim organima, a u svim ostalim slučajevima ovjeru ispisa elektronskog dokumenta na papiru obavlja notar.
+Ispis vanjskog obrasca prikaza elektronskog dokumenta na papiru koji se ovjerava kao kopija elektronskog dokumenta mora obavezno sadržavati oznaku da je riječ o kopiji odgovarajućeg elektronskog dokumenta.
+Član 10.
+Izvorni elektronski dokument kao i njegova kopija na papiru izrađeni su u skladu sa članom 9. ovog zakona, imaju istu pravnu snagu i mogu se ravnopravno koristiti u svim radnjama za koje se traži upotreba dokumenta u izvornom obliku ili u obliku ovjerene kopije.
+Za sve radnje u kojima se zakonom ili drugim propisima izričito traži notarska ovjera dokumenta na papiru ne može se dostavljati elektronski dokument ili njegova kopija na papiru.
+Kada se u knjigovodstvenim poslovima primjenjuje elektronski dokument u skladu sa odredbama ovog zakona, poslovi knjigovodstva i revizije mogu se u potpunosti bazirati na upotrebi elektronskog dokumenta ako posebnim propisima nije drugačije određeno.
+Član 11.
+U postupcima koji se vode pred nadležnim organima u upravnom postupku i arbitražama kao dokaz mogu se koristiti i elektronski dokumenti.
+Prilikom ocjene ispravnosti elektronskog dokumenta moraju se uzeti u obzir pojedinosti o njegovoj izradi, prijenosu, čuvanju, vjerodostojnosti i nepromjenljivosti.
+Član 12.
+Upotreba elektronskog dokumenta obavlja se u skladu sa odredbama ovog zakona.
+Upotreba elektronskog dokumenta ne može nijednoj strani uključenoj u poslove razmjene elektronskog dokumenta ograničavati poslovanje ili je dovoditi u neravnopravan položaj.
+U radnjama pri upotrebi i prometu elektronskog dokumenta može se koristiti bilo koja dostupna i upotrebljiva informaciono-komunikaciona tehnologija, ako zakonom ili drugim propisima nije izričito određeno koja se tehnologija mora primjenjivati.
+Informacioni sistem koji se primjenjuje u radnjama sa elektronskim dokumentom mora imati odgovarajuću zaštitu osobnih podataka u skladu sa odredbama zakona i drugih propisa koji uređuju zaštitu osobnih podataka.
+Za svaki elektronski dokument u svim radnjama sa elektronskim dokumentom obavezno treba postojati mogućnost provjere njegove vjerodostojnosti, izvornosti i nepromjenljivosti.
+Član 13.
+Svaka radnja sa elektronskim dokumentom unutar dokumentacionog ciklusa mora se označiti jedinstvenom oznakom i osobinama koje se moraju ugraditi u elektronski dokument.
+Radnja iz stava 1. ovog člana mora osigurati direktnu povezanost prethodne i sljedeće radnje sa elektronskim dokumentom.
+Član 14.
+Elektronski dokument izrađuje se elektronskim mehanizmom pripreme, oblikovanja i čuvanja informacionih sadržaja u elektronski zapis.
+Elektronski dokumenti u radnjama njihove izrade koje čine osnov za radnje koje su u vezi sa njihovim slanjem i čuvanjem potpisuju se elektronskim potpisom autora elektronskog dokumenta ili osobe koju je autor za to ovlastio.
+Član 15.
+Elektronski dokument smatra se poslanim kada je osobno poslan od pošiljaoca ili osobe koju je pošiljalac ovlastio za radnje slanja, ili otpremljen od informativnog sistema pošiljaoca, odnosno informativnog sistema osobe koju je pošiljalac ovlastio za te poslove.
+Član 16.
+Elektronski dokument smatra se primljenim kada je osobno primljen od primaoca ili osobe koju je primalac ovlastio za radnje prijema, ili primljen od informativnog sistema primaoca, odnosno informativnog sistema osobe koju je primalac ovlastio za te poslove.
+U slučajevima kada se traži potvrda prijema elektronskog dokumenta, primalac mora potvrditi prijem u roku utvrđenim prethodnim zahtjevom pošiljaoca o obavijesti prijema.
+Potvrdu prijema primalac mora izvršiti propisanom radnjom kojom u materijalnom obliku potvrđuje prijem elektronskog dokumenta, uključujući i automatizovane mehanizme potvrđivanja prijema.
+Ako u vremenu određenom od pošiljaoca nije primljena potvrda prijema poslanog elektronskog dokumenta, pošiljalac je dužan obavijestiti primaoca da nije primio potvrdu prijema poslanog elektronskog dokumenta.
+Ako ni po isteku vremena utvrđenog u stavu 4. ovog člana pošiljalac ne primi od primaoca potvrdu o prijemu poslanog elektronskog dokumenta iz stava 2. ovog člana, smatra se da takav elektronski dokument nije poslan.
+Nakon što pošiljalac od primaoca poslanog elektronskog dokumenta iz stava 2. ovoga člana primi potvrdu o prijemu, takav se elektronski dokument smatra primljen od primaoca.
+Primalac u sadržaj potvrde o prijemu elektronskog dokumenta unosi i obavijesti o usklađenosti primljenog elektronskog dokumenta sa tehničkim zahtjevima koje su pošiljalac i primalac sporazumno prihvatili.
+Odredbe sadržane u st. od 1. do 7. ovog člana odnose se isključivo na radnje slanja i prijema elektronskog dokumenta i ne uređuju sadržaj i druge okolnosti nastale slanjem i prijemom elektronskog dokumenta.
+Član 17.
+Vrijeme otpreme elektronskog dokumenta je vrijeme kada je elektronski dokument izašao iz informacionog sistema pošiljaoca te ušao u informacioni sistem koji nije pod kontrolom pošiljaoca, ili osobe koja radi po ovlašćenju pošiljaoca.
+Vrijeme prijema elektronskog dokumenta je vrijeme kada je elektronski dokument ušao u informativni sistem primaoca, ili informativni sistem osobe koja radi po ovlašćenju primaoca.
+U slučajevima kada se traži potvrda prijema elektronskog dokumenta vrijeme prijema je vrijeme kada je primalac poslao potvrdu prijema elektronskog dokumenta.
+Vrijeme prijema i otpreme upisuje se u posebni dio građe elektronskog dokumenta i nije dopušteno mijenjanje stvarnog vremena prijema i otpreme elektronskog dokumenta.
+Član 18.
+Upotreba elektronskog dokumenta smatra se valjanom ako su ispunjeni uvjeti da elektronski dokument sadrži podatke o autoru, pošiljaocu i primaocu, podatke o vremenu slanja i prijema; da elektronski dokument kroz cijeli dokumentacioni ciklus sadrži isti unutrašnji i vanjski obrazac oblikovan pri njegovoj izradi i koji mora ostati nepromijenjen kroz bilo koje radnje u postupcima njegovog slanja i upotrebe; da je u bilo kojem trenutku dostupan i čitljiv ovlašćenim fizičkim i pravnim licima.
+Posebnosti upotrebe elektronskog dokumenta u odnosu na opis građe, odnosno obrasca prikaza uređuju se zakonima i drugim propisima kojima se uređuje poslovna dokumentacija unutar pojedinačnih djelatnosti.
+Član 19.
+Elektronski dokument čuva se izvorno u informativnom sistemu ili na medijima koji omogućavaju trajnost elektronskog dokumenta za utvrđeno vrijeme čuvanja i čine elektronsku arhivu.
+Elektronska arhiva mora osigurati:
+1) da se elektronski dokument čuva u obliku u kojem je izrađen, poslan, primljen i pohranjen i koji materijalno ne mijenja informaciju, odnosno sadržaj isprava,
+2) da je elektronski dokument u čitljivom obliku za cijelo vrijeme čuvanja dostupan osobama koje imaju pravo pristupa tim dokumentima,
+3) da se čuvaju podaci o elektronskim potpisima kojima su elektronski dokumenti potpisani, kao i podaci za ovjeru tih elektronskih potpisa,
+4) da je elektronski dokument arhiviran u takvom obliku i pomoću takve tehnologije i postupaka koji uz ugrađene elektronske potpise pružaju razumnu garanciju za njihovu vjerodostojnost i cjelovitost za cijelo vrijeme čuvanja,
+5) da je za svaki elektronski dokument moguće vjerodostojno utvrditi porijeklo, autora, vrijeme, način i oblik u kojem je primljen u arhivu na čuvanje,
+6) da je elektronski dokument arhiviran u takvom obliku i pomoću takve tehnologije i postupaka koji pružaju razumnu garanciju da ne može biti mijenjan i da se ne može neovlašteno brisati,
+7) da postupci održavanja i zamjene medija za arhiviranje elektronskog dokumenta ne narušavaju cjelovitost i nepovredivost elektronskog dokumenta i
+8) da se elektronski dokument može sigurno, pouzdano i vjerodostojno čuvati u rokovima utvrđenim zakonom ili drugim propisima kojima se uređuju obaveze čuvanja odgovarajućih dokumenata na papiru.
+Pravna i fizička osoba kojoj je zakonom ili drugim propisima utvrđena obaveza čuvanja dokumenta u izvornom obliku dužna je čuvati elektronski dokument u skladu sa odredbama st. 1. i 2. ovog člana.
+Član 20.
+Fizičke i pravne osobe čuvanje elektronskog dokumenta u izvornom obliku mogu povjeriti informativnom posredniku.
+Informativni posrednik povjerene poslove provodi u skladu sa ovim zakonom i drugim zakonima i propisima kojima se uređuju postupci čuvanja dokumenata, kao i u skladu sa postupcima dogovorenim sa fizičkom ili pravnom osobom za koju obavlja poslove arhiviranja elektronskog dokumenta.
+Pravila, uvjeti i specifičnosti arhiviranja elektronskog dokumenta uređuju se zakonima i drugim propisima kojima je regulirano čuvanje pojedinačnih dokumenata.
+Član 21.
+Informativni posrednik, u smislu ovog zakona, ovlašten je po zahtjevu fizičkih i pravnih osoba koje učestvuju u upotrebi i prometu elektronskog dokumenta provoditi bilo koju radnju u dokumentacionom ciklusu.
+Informativni posrednik ne odgovara za materijalni sadržaj elektronskog dokumenta za koje po ovlaštenju fizičke ili pravne osobe koja učestvuje u upotrebi i prometu elektronskog dokumenta provodi radnje u vezi sa prometom, prijemom i čuvanjem elektronskog dokumenta.
+Član 22.
+Za sve radnje sa elektronskim dokumentom moraju se primjenjivati odgovarajući tehnološki postupci i oprema koja omogućava zaštitu postupaka i elektronskog dokumenta.
+U postupcima u kojima se koristi informaciona oprema i komunikacioni sistem informativnih posrednika, zaštitu postupaka i elektronskog dokumenta dužan je osigurati informativni posrednik.
+Član 23.
+Elektronski dokument u čijem se sastavu nalaze podaci koji se smatraju tajnom, predmet su posebnog postupanja u skladu sa zakonima i drugim propisima kojima se uređuje postupanje sa tajnim podacima.
+Organi uprave, organi lokalne samouprave, privredna društva, ustanove i druge pravne i fizičke osobe dužne su pri upotrebi i prometu elektronskog dokumenta iz stava 1. ovog člana postupati na način koji osigurava fizičko-tehničku zaštitu takvih isprava.
+Organi uprave i pravne i fizičke osobe iz stava 2. ovog člana koja direktno razmjenjuju elektronski dokument sa ograničenom upotrebom sadržaja, te informativni posrednici kada provode radnje sa takvim dokumentima, dužni su osigurati organizacione postupke i tehničku opremu kojima se štiti pristup sadržajima tih dokumenata kao i njihova fizička zaštita.
+Član 24.
+Nadzor nad primjenom ovog zakona vrši Federalno ministarstvo pravde.
+Član 25.
+Novčanom kaznom u iznosu od 1.000,00 KM do 15.000,00 KM bit će kažnjena za prekršaj pravna osoba koja suprotno odredbama ovog zakona:
+1) onemogući ili spriječi provjeru vjerodostojnosti, izvornosti i nepromjenljivosti elektronskog dokumenta (član 12. stav 5.),
+2) mijenja stvarno vrijeme slanja elektronskog dokumenta (član 17. stav 4.) i
+3) mijenja stvarno vrijeme prijema elektronskog dokumenta (član 17. stav 4.).
+Za prekršaj iz stava 1. ovog člana bit će kažnjena i odgovorna osoba u pravnoj osobi, organu uprave i organu lokalne samouprave novčanom kaznom u iznosu od 1.000,00 KM do 3.000,00 KM.
+Za prekršaj iz stava 1. ovog člana bit će kažnjena fizička osoba novčanom kaznom u iznosu od 500,00 KM do 1.500,00 KM.
+Član 26.
+Novčanom kaznom u iznosu od 1.000,00 KM do 10.000,00 KM bit će kažnjena za prekršaj pravna osoba koja:
+1) odbije upotrebu ili promet elektronskog dokumenta i ako je prethodno svojom voljom prihvatila upotrebu i promet elektronskog dokumenta (član 2. stav 2.),
+2) upotrebom elektronskog dokumenta dovede drugu fizičku i pravnu osobu u neravnopravan položaj u poslovima razmjene elektronskog dokumenta (član 12. stav 2.) i
+3) u poslovanju sa elektronskim dokumentom ne primjenjuje informacioni sistem sa odgovarajućom zaštitom osobnih podataka u skladu sa odredbama zakona koji uređuje zaštitu osobnih podataka (član 12. stav 4.).
+Za prekršaj iz stava 1. ovog člana bit će kažnjena i odgovorna osoba u pravnoj osobi, organu uprave i organu lokalne samouprave novčanom kaznom u iznosu od 1.000,00 KM do 2.000,00 KM.
+Za prekršaj iz stava 1. ovog člana bit će kažnjena fizička osoba novčanom kaznom u iznosu od 500,00 KM do 1.000,00 KM.
+Član 27.
+Novčanom kaznom u iznosu od 1.000,00 KM do 8.000,00 KM bit će kažnjena za prekršaj pravna osoba koja:
+1) ne potvrdi prijem elektronskog dokumenta u skladu sa prethodnim zahtjevom pošiljaoca o obavijesti prijema (član 16. stav 2.),
+2) pri upotrebi elektronskog dokumenta ne ispunjava osnovne uvjete valjane upotrebe elektronskog dokumenta (član 18. stav 1.),
+3) pri čuvanju elektronskog dokumenta ne postupa u skladu sa članom 19. ovog zakona i
+4) pri upotrebi i prometu elektronskog dokumenta u čijem se sadržaju nalaze podaci koji se smatraju tajnom ne primjenjuju postupke i tehničku opremu kojima se štiti pristup sadržajima tih isprava kao i njihova fizička zaštita (član 23.).
+Za prekršaj iz stava 1. ovog člana bit će kažnjena i odgovorna osoba u pravnoj osobi, organu uprave i organu lokalne samouprave novčanom kaznom u iznosu od 1.000,00 KM do 1.500,00 KM.
+Za prekršaj iz stava 1. ovog člana bit će kažnjena fizička osoba novčanom kaznom u iznosu od 500,00 KM do 800,00 KM.
+Član 28.
+Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u "Službenim novinama Federacije BiH".

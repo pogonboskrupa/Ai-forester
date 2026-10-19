@@ -36,7 +36,7 @@ export function parseArticles(raw: string, law: LawMeta): Article[] {
   const out: Article[] = [];
   let cur: { number: string; heading: string; body: string[] } | null = null;
   let prevLine = '';
-  const PAREN_RE = /^\([^()]{2,80}\)$/;
+  const PAREN_RE = /^\([^()]{2,160}\)$/;
 
   const flush = () => {
     if (!cur) return;

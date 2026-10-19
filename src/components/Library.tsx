@@ -25,7 +25,7 @@ function FaqAnswer({ f }: { f: FaqEntry }) {
   );
 }
 
-function FaqItem({ f }: { f: FaqEntry }) {
+export function FaqItem({ f }: { f: FaqEntry }) {
   return (
     <details class="article">
       <summary><span class="grow">{f.q}</span><Icon name="chevron" size={14} class="chev" /></summary>

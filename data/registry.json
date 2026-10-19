@@ -580,5 +580,35 @@
   "inForce": true,
   "sourceUrl": "https://advokat-prnjavorac.com/Zakon-o-zastiti-prirode-Federacije-BiH.html",
   "topic": "Okoliš"
+ },
+ {
+  "id": "fbih-zakon-o-elektronskom-dokumentu",
+  "file": "fbih-zakon-o-elektronskom-dokumentu.txt",
+  "title": "Zakon o elektronskom dokumentu FBiH",
+  "level": "FBiH",
+  "gazette": "Sl. novine FBiH 55/13 (neslužbeni prečišćeni tekst)",
+  "inForce": true,
+  "sourceUrl": "https://advokat-prnjavorac.com/Zakon-o-elektronskom-dokumentu-Federacije-BiH.html",
+  "topic": "Kancelarijsko poslovanje"
+ },
+ {
+  "id": "bih-zakon-o-elektronskom-potpisu",
+  "file": "bih-zakon-o-elektronskom-potpisu.txt",
+  "title": "Zakon o elektronskom potpisu BiH",
+  "level": "BiH",
+  "gazette": "Sl. glasnik BiH 91/06 (neslužbeni prečišćeni tekst)",
+  "inForce": true,
+  "sourceUrl": "https://advokat-prnjavorac.com/Zakon-o-elektronskom-potpisu-BiH.html",
+  "topic": "Kancelarijsko poslovanje"
+ },
+ {
+  "id": "bih-zakon-o-zastiti-licnih-podataka",
+  "file": "bih-zakon-o-zastiti-licnih-podataka.txt",
+  "title": "Zakon o zaštiti ličnih podataka BiH",
+  "level": "BiH",
+  "gazette": "Sl. glasnik BiH 12/25 (neslužbeni prečišćeni tekst)",
+  "inForce": true,
+  "sourceUrl": "https://advokat-prnjavorac.com/Zakon-o-zastiti-licnih-podataka-BiH.html",
+  "topic": "Kancelarijsko poslovanje"
  }
 ]

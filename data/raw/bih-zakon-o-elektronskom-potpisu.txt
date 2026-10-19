@@ -1,0 +1,259 @@
+Član 1.
+(Predmet Zakona)
+Ovim Zakonom uređuju se osnove formiranja i upotrebe elektronskog potpisa i pružanja usluga u vezi s elektronskim potpisom i ovjeravanjem.
+Član 2.
+(Primjena pojedinih odredbi)
+(1) Odredbe ovog Zakona primjenjuju se u zatvorenim sistemima, koji su u potpunosti uređeni ugovorima između poznatog broja ugovornih strana, ako je njihova primjena ugovorena.
+(2) Odredbe ovog Zakona primjenjuju se u otvorenoj elektronskoj komunikaciji sa sudom i drugim institucijama, ako posebnim zakonom nije drugačije određeno.
+Član 3.
+(Definicije)
+Pojedini izrazi upotrijebljeni u ovom Zakonu znače:
+a) elektronski potpis su podaci u elektronskom obliku koji prate druge podatke u elektronskom obliku ili su s njima logički povezani i omogućavaju utvrđivanje identiteta potpisnika;
+b) potpisnik je fizičko lice kojem su dodijeljeni podaci za formiranje potpisa i odgovarajući podaci za provjeru potpisa i kojem je, u njegovo ili u ime trećeg lica, formiran elektronski potpis, ili ovjerilac koji koristi potvrdu za pružanje usluga u vezi s elektronskim potpisom ili ovjeravanjem;
+c) siguran elektronski potpis je elektronski potpis koji je:
+1) dodijeljen isključivo potpisniku,
+2) omogućava identificiranje potpisnika,
+3) formiran upotrebom sredstava koja su u potpunosti pod kontrolom potpisnika,
+4) povezan s podacima na koje se odnosi tako da se može utvrditi svaka naknadna promjena tih podataka,
+5) zasnovan na kvalificiranoj potvrdi i formiran upotrebom tehničkih sredstava i postupaka koji su u skladu sa sigurnosnim zahtjevima ovog Zakona i na osnovu njega donesenih podzakonskih propisa;
+d) podaci za formiranje potpisa su jedinstveni podaci kao što su šifre ili posebni šifrirani ključevi koje potpisnik koristi za formiranje elektronskog potpisa;
+e) sredstva za formiranje potpisa su software ili hardware koji se koristi za obradu podataka za formiranje potpisa;
+f) podaci za provjeru potpisa su jedinstveni podaci kao što su šifre ili posebni šifrirani ključevi koji se koriste za provjeru elektronskog potpisa;
+g) sredstva za provjeru potpisa su software ili hardware koji se koristi za provjeru elektronskog potpisa;
+h) potvrda je elektronska potvrda, s podacima za provjeru potpisa koji su dodijeljeni određenom licu čiji je identitet utvrđen;
+i) kvalificirana potvrda je potvrda koja sadrži podatke iz člana 6. ovog Zakona i koju je izdao ovjerilac koji zadovoljava odredbe člana 8. ovog Zakona;
+j) ovjerilac je fizičko ili pravno lice koje izdaje potvrde ili vremenski pečat ili obavlja druge usluge u vezi s elektronskim potpisom i ovjeravanjem;
+k) usluge u vezi s elektronskim potpisom i ovjeravanjem su stavljanje na raspolaganje proizvoda i postupaka povezanih s elektronskim potpisom, izdavanje, obnavljanje i upravljanje potvrdama, registar potvrda, pružanje usluga opoziva, vremenskog pečata, kao i računarske i savjetodavne usluge u vezi s elektronskim potpisom;
+l) vremenski pečat je elektronski potpisana potvrda ovjerioca koja potvrđuje da su određeni podaci bili prisutni u elektronskom dokumentu, u određenom momentu;
+m) proizvod je software ili hardware čije se specifične komponente koriste za formiranje ili provjeru elektronskog potpisa ili koje ovjerilac koristi za pružanje usluga u vezi s elektronskim potpisom i potvrdama;
+n) kompromitiranje je narušavanje sigurnosnih mjera ili sigurnosne tehnike, pri kojem ovjerilac ne može zadržati osnovni zahtijevani nivo sigurnosti.
+Član 4.
+(Opće pravno djelovanje elektronskog potpisa)
+(1) U pravnom i poslovnom prometu mogu se koristiti elektronski potpisi formirani postupcima različitih nivoa sigurnosti i zasnovani na potvrdama različitih klasa.
+(2) Pravno djelovanje elektronskog potpisa i njegova upotreba kao dokaznog sredstva ne može se isključiti zbog činjenice da je elektronski potpis dostupan jedino u elektronskoj formi ili zbog toga što nije zasnovan na kvalificiranoj potvrdi, ili kvalificiranoj potvrdi akreditiranog ovjerioca, ili zbog toga što nije formiran upotrebom tehničkih sredstava i postupaka iz člana 14. ovog Zakona.
+Član 5.
+(Posebno pravno djelovanje elektronskog potpisa)
+(1) Siguran elektronski potpis zadovoljava pravne zahtjeve za svojeručni potpis i naročito pisanu formu, ako posebnim zakonom ili sporazumom ugovornih strana nije drugačije određeno.
+(2) Siguran elektronski potpis nema pravno djelovanje pisane forme kod:
+a) pravnih poslova iz oblasti porodičnog i nasljednog prava koji zahtijevaju pisanu formu ili ispunjavanje strožijih zahtjeva forme,
+b) drugih izjava volje ili pravnih poslova za čije se važenje zahtijeva službena ovjera, sudska ili notarska provjera autentičnosti ili notarska isprava,
+c) izjava volje, pravnih poslova ili podnesaka koji zahtijevaju službenu ovjeru, sudsku ili notarsku provjeru autentičnosti ili notarsku ispravu, radi unosa u zemljišne knjige, ili drugi službeni registar,
+d) izjava garancija koje su izdala lica iz oblasti svog zanatskog, poslovnog ili stručnog svojstva.
+(3) Pretpostavka autentičnosti sadržaja potpisane privatne isprave, u smislu odredbi pozitivnih propisa kojima se uređuje, primjenjuje se i na elektronski dokument na kojem je ostvaren siguran elektronski potpis.
+(4) Smatra se da pravno djelovanje sigurnog elektronskog potpisa iz st. (1) i (3) ovog člana nije nastalo ako se dokaže da nisu bili zadovoljeni sigurnosni zahtjevi iz ovog Zakona i na osnovu njega donesenih podzakonskih propisa, ili da su mjere, preduzete s ciljem da se zadovolje, bile kompromitirane.
+Član 6.
+(Kvalificirana potvrda)
+(1) Kvalificirana potvrda mora sadržavati najmanje sljedeće podatke:
+a) oznaku da se radi o kvalificiranoj potvrdi,
+b) ime ili firmu, i naziv države prebivališta ili sjedišta ovjerioca,
+c) ime, odnosno pseudonim potpisnika, uz obavezno naznačavanje da se radi o pseudonimu,
+d) dodatne podatke o potpisniku, koji su propisani za namjenu za koju se potvrda upotrebljava, a koji ne smiju biti u suprotnosti s namjenom upotrebe pseudonima,
+e) podatke za provjeru potpisa koji odgovaraju podacima za formiranje potpisa koji su pod kontrolom potpisnika,
+f) podatke o početku i prestanku važenja potvrde,
+g) jedinstvenu oznaku potvrde,
+h) ograničenja u vezi s upotrebom potvrde, ako ih ima,
+i) ograničenja u pogledu vrijednosti transakcija za koje se potvrda može upotrijebiti, ako ih ima.
+(2) Na zahtjev lica koje traži potvrdu, u kvalificiranoj potvrdi mogu se navesti druge važne pravne informacije.
+(3) Kvalificirana potvrda mora biti potpisana elektronskim potpisom ovjerioca koji je u skladu s odredbama člana 3. tačka c) alineja 1) do 4) ovog Zakona.
+Član 7.
+(Obavljanje djelatnosti)
+(1) Za početak rada i pružanje usluga u vezi s elektronskim potpisom i ovjeravanjem ovjeriocu nije potrebna posebna dozvola.
+(2) Ovjerilac je dužan, bez odlaganja, obavijestiti nadzorni organ o početku rada. Ovjerilac je dužan dostaviti interna pravila o pružanju usluga i sigurnosni koncept za svaku uslugu u vezi s elektronskim potpisom i ovjeravanjem koju pruža, prilikom početka rada, kao i prilikom bilo koje promjene u vezi s pružanjem usluga.
+(3) Ovjerilac koji koristi postupke za siguran elektronski potpis dužan je u sigurnosnom konceptu utvrditi na koji će način zadovoljiti sigurnosne zahtjeve propisane ovim zakonom i na osnovu ovog Zakona donesenim podzakonskim propisima.
+(4) Ovjerilac je dužan ispunjavati zahtjeve iz svojih internih pravila o pružanju usluga i sigurnosnog koncepta, prilikom početka, kao i sve vrijeme obavljanja djelatnosti.
+(5) Ovjerilac je dužan, bez odlaganja, obavijestiti nadzorni organ o svim okolnostima koje ga sprečavaju ili mu onemogućavaju obavljanje djelatnosti u skladu s internim pravilima o pružanju usluga i sigurnosnim konceptom.
+(6) Ovjerilac koji izdaje potvrde dužan je u sigurnosnom konceptu opisati u kojoj formi se vodi registar potvrda.
+(7) Ovjerilac može koristiti potvrde koje je sam izdao samo ako je to neophodno za pružanje usluga u vezi s elektronskim potpisom i ovjeravanjem.
+Član 8.
+(Ovjerioci koji izdaju kvalificirane potvrde)
+(1) Ovjerilac koji izdaje kvalificirane potvrde dužan je:
+a) demonstrirati pouzdanost koja se zahtijeva za pružanje usluga u vezi s elektronskim potpisom i ovjeravanjem,
+b) voditi brz i siguran registar potvrda i osigurati pružanje neodgodive i sigurne usluge opoziva,
+c) za kvalificirane potvrde, kao i za registar potvrda i pružanje usluga opoziva, koristiti podatak o vremenu koji je nesumnjivo kvalitetan (npr. siguran vremenski pečat) i osigurati za sve slučajeve da se datum i vrijeme izdavanja ili opoziva potvrde mogu tačno utvrditi,
+d) pouzdano provjeriti identitet i, gdje je to primjenjivo, bilo koja druga značajna pravna obilježja lica koje traži potvrdu,
+e) zapošljavati pouzdana lica, koja za pružanje usluga imaju potrebna specijalistička znanja, iskustvo i stručne kvalifikacije i naročito upravljačke sposobnosti i poznavanje tehnologije elektronskog potpisa i odgovarajućih sigurnosnih postupaka, i primjenjuju administrativne i upravljačke postupke i propise, u skladu s važećim pravilima struke,
+f) imati finansijsku sposobnost za obavljanje djelatnosti u skladu s ovim zakonom i na osnovu njega donesenim podzakonskim propisima, i za pokriće eventualnih zahtjeva za naknadu štete,
+g) evidentirati sve okolnosti i činjenice značajne za kvalificirane potvrde, tokom vremena njihove primjene, tako da se ovjeravanje može dokazati, naročito u sudskom postupku, te čuvati ove podatke trajno i u elektronskom obliku,
+h) preduzeti odgovarajuće mjere, tako da ovjerilac ili treća lica ne mogu čuvati ili kopirati podatke za formiranje potpisa.
+(2) Ovjerilac koji izdaje kvalificirane potvrde je, za pružanje usluga u vezi s elektronskim potpisom i ovjeravanjem, kao i za formiranje i čuvanje potvrda, dužan koristiti pouzdane sisteme, proizvode i postupke koji su tehnički zaštićeni od izmjena i koji pružaju tehničku i kriptografsku sigurnost. Dužan je, također, preduzeti odgovarajuće mjere kojima se osigurava tajnost podataka za formiranje potpisa, da se podaci za kvalificirane potvrde ne mogu neopaženo iskonstruirati ili falsificirati, i da su ove potvrde, samo uz pristanak potpisnika, dostupne javnosti. Za generiranje i čuvanje podataka za formiranje potpisa i za formiranje i čuvanje kvalificiranih potvrda ovjerilac je dužan koristiti tehnička sredstva i postupke koji zadovoljavaju odredbe člana 14. ovog Zakona.
+(3) Podaci za formiranje potpisa ovjerioca moraju biti osigurani od neovlaštenog pristupa.
+(4) Ako ovjerilac koristi postupke za siguran elektronski potpis, u potvrdi, kao i u elektronskom registru potvrda, koji je generalno stalno dostupan upotrebom sredstava informacionih i komunikacionih tehnologija, mora se navesti da se radi o sigurnom elektronskom potpisu.
+(5) Na zahtjev suda ili druge institucije, ovjerilac je dužan provjeriti siguran elektronski potpis zasnovan na kvalificiranoj potvrdi.
+Član 9.
+(Izdavanje kvalificiranih potvrda)
+(1) Ovjerilac je dužan, pomoću zvaničnog identifikacionog dokumenta s fotografijom za fizička lica, ili uredno ovjerenim dokumentima za pravno lice, pouzdano utvrditi identitet i druge potrebne podatke lica koje traži kvalificiranu potvrdu.
+(2) Zahtjev za kvalificiranu potvrdu može biti podnesen pravnom licu koje ovlasti ovjerilac. Ovo pravno lice dužno je provjeriti identitet lica koje traži kvalificiranu potvrdu.
+(3) Ovjerilac je dužan, u skladu s internim pravilima o pružanju usluga, navesti u kvalificiranoj potvrdi podatke o ovlaštenju za zastupanje ili druge važne pravne informacije, ako se to zahtijeva, i ako lice koje traži kvalificiranu potvrdu dokaže te podatke ovjeriocu ili pravnom licu iz stava (2) ovog člana.
+(4) Na zahtjev lica koje traži potvrdu, ovjerilac može u potvrdi, u skladu s internim pravilima o pružanju usluga, navesti pseudonim umjesto imena potpisnika. Pseudonim ne smije biti uvredljiv ili očigledno zbunjujući u vezi s imenom ili potpisom.
+Član 10.
+(Opoziv potvrde)
+(1) Ovjerilac je dužan, bez odlaganja, opozvati potvrdu ako:
+a) opoziv potvrde zahtijeva potpisnik ili u potvrdi imenovani ovlaštenik,
+b) sazna da je potpisnik izgubio poslovnu sposobnost, umro, ili je prestao postojati ili da su se promijenile činjenice potvrđene u potvrdi,
+c) je potvrda izdata na osnovu netačnih podataka,
+d) prestane obavljati djelatnost, a registar potvrda i pružanje usluga opoziva nije preuzeo drugi ovjerilac,
+e) opoziv naredi nadzorni organ,
+f) postoji opasnost od zloupotrebe potvrde.
+(2) Ako se činjenice na koje se odnosi stav (1) ovog člana ne mogu odmah nesumnjivo utvrditi, ovjerilac je dužan, bez odlaganja, suspendirati potvrdu.
+(3) Suspenzija i opoziv moraju sadržavati datum i vrijeme od kada proizvode djelovanje. Ako je postupak opoziva ili suspenzije proveden, djelovanje proizvode od momenta kad se unesu u registar potvrda. Opoziv i suspenzija s povratnim djelovanjem nisu dozvoljeni. Ovjerilac je dužan, bez odlaganja, obavijestiti potpisnika o suspenziji ili opozivu.
+(4) Nadzorni organ dužan je, bez odlaganja, opozvati potvrde ako:
+a) ovjerilac prestane obavljati djelatnost, a njegov registar potvrda i pružanje usluga opoziva nije preuzeo drugi ovjerilac ili
+b) je ovjeriocu zabranjeno obavljanje djelatnosti, a njegov registar potvrda i pružanje usluga opoziva nije preuzeo drugi ovjerilac.
+Član 11.
+(Vremenski pečat)
+(1) Ako ovjerilac pruža usluge vremenskog pečata, dužan je u svojim internim pravilima o pružanju usluga i sigurnosnom konceptu utvrditi na koji način će zadovoljiti zahtjeve za pružanje usluge utvrđene ovim zakonom i na osnovu njega donesenim podzakonskim propisima.
+(2) Za pružanje usluga sigurnog vremenskog pečata, ovjerilac mora koristiti tehnička sredstva i postupke koji osiguravaju da je navedeno vrijeme tačno i autentično, i koji su u skladu s odredbama člana 14. ovog Zakona.
+Član 12.
+(Dokumentacija)
+(1) Ovjerilac je dužan dokumentirati sigurnosne mjere koje je preduzeo u skladu s odredbama ovog Zakona i na osnovu njega donesenih podzakonskih propisa, kao i izdavanje, suspenziju i opoziv potvrda. Podaci i njihova vjerodostojnost te trenutak njihovog upisivanja u sistem protokola moraju biti uvijek dostupni provjeri.
+(2) Ovjerilac je dužan dostaviti dokumentaciju iz stava (1) ovog člana na zahtjev suda ili drugog organa vlasti.
+Član 13.
+(Prestanak obavljanja djelatnosti)
+(1) Ovjerilac je dužan, bez odlaganja, obavijestiti nadzorni organ o prestanku obavljanja djelatnosti. Ovjerilac je također dužan, u trenutku prestanka obavljanja djelatnosti, opozvati važeće potvrde, ili osigurati da najmanje registar potvrda, i pružanje usluga opoziva, preuzme drugi ovjerilac.
+(2) Ovjerilac je dužan, bez odlaganja, obavijestiti potpisnike o prestanku obavljanja djelatnosti i opozivu, ili preuzimanju.
+(3) Ovjerilac je dužan osigurati da se usluga opoziva pruža i ako su potvrde opozvane. Ako ovjerilac ne osigura pružanje usluge opoziva, pružanje usluge opoziva, na teret ovjerioca, osigurat će nadzorni organ.
+Član 14.
+(Tehnička sredstva i postupci za siguran elektronski potpis)
+(1) Za generiranje i čuvanje podataka za formiranje potpisa te za formiranje sigurnog elektronskog potpisa moraju se koristiti tehnička sredstva koja omogućavaju pouzdano otkrivanje falsificiranja potpisanih podataka i pouzdano sprečavaju neovlašteno korišćenje postupaka formiranja podataka za elektronski potpis.
+(2) Tehnička sredstva i postupci koji se koriste za formiranje sigurnog elektronskog potpisa moraju osigurati da podaci koji se potpisuju nisu promijenjeni i da podaci koji se potpisuju budu prikazani potpisniku prije potpisivanja; podaci za formiranje potpisa moraju biti osigurani, tako da se ne mogu izvesti, vjerovatnoća da će se pojaviti samo jednom mora biti blizu sigurnosti, a njihova pouzdanost mora biti zagarantirana.
+(3) Za formiranje i čuvanje kvalificiranih potvrda moraju se koristiti tehnička sredstva i postupci koji sprečavaju konstruiranje i falsificiranje potvrda.
+(4) Tehnička sredstva i postupci koji se koriste za provjeru sigurno potpisanih podataka moraju osigurati da:
+a) potpisani podaci nisu promijenjeni,
+b) elektronski potpis mora biti pouzdano provjeren i rezultati provjere korektno prikazani licu koje radi provjeru,
+c) lice koje radi provjeru može utvrditi podatke na koje se elektronski potpis odnosi,
+d) lice koje radi provjeru može pouzdano utvrditi potpisnika čiji je elektronski potpis ostvaren, i da u slučaju upotrebe pseudonima, njegova upotreba uvijek bude naznačena,
+e) svaka promjena, koja, na bilo koji način, utiče na sigurnost potpisanih podataka bude vidljiva.
+(5) Tehnička sredstva i postupci za formiranje sigurnog elektronskog potpisa moraju se, zavisno od stanja tehnike, sveobuhvatno i redovno provjeravati. Njihovo zadovoljavanje sigurnosnih zahtjeva ovog Zakona i na osnovu njega donesenih podzakonskih propisa mora potvrditi posebno tijelo (član 15.). Potvrde o zadovoljavanju sigurnosnih zahtjeva, koje su izdala tijela država članica Evropske unije ili članica Evropskog ekonomskog prostora iz člana 3. stav 4. Direktive 1999/93 EZ Evropskog parlamenta i Vijeća od 13. decembra 1999. o okviru Zajednice za elektronski potpis (Sl. list Evropskih zajednica, br. L 13 od 19. januara 2000., str. 12), prihvataju se kao i potvrde tijela iz člana 15. ovog Zakona.
+(6) Tehnička sredstva i postupci koje, na osnovu člana 3. stav 5. Direktive 1999/93 EZ Evropskog parlamenta i Vijeća od 13. decembra 1999. o okviru Zajednice za elektronski potpis, utvrdi Evropska komisija zadovoljavaju sigurnosne zahtjeve ovog Zakona i na osnovu njega donesenih podzakonskih propisa.
+Član 15.
+(Izdavanje potvrda o ispunjavanju sigurnosnih zahtjeva)
+(1) Potvrde iz člana 14. stav (5) ovog Zakona može izdavati javno ili privatno tijelo koje je za tu svrhu akreditirano kod Instituta za akreditiranje Bosne i Hercegovine.
+(2) Institut za akreditiranje Bosne i Hercegovine akreditirat će javno ili privatno tijelo za izdavanje potvrda iz člana 14. stav (5) ovog Zakona, na njegov zahtjev, ako:
+a) demonstrira pouzdanost potrebnu za obavljanje svojih aktivnosti,
+b) zapošljava pouzdana lica, koja za obavljanje aktivnosti imaju specijalistička znanja, iskustvo i stručne kvalifikacije, naročito poznavanje elektronskog potpisa i odgovarajućih sigurnosnih postupaka, kriptografije, komunikacionih i "smart-card" tehnologija i tehničke evaluacije ovih sredstava,
+c) ima zadovoljavajuća tehnička sredstva i uređaje, i finansijsku i ekonomsku sposobnost za obavljanje aktivnosti,
+d) garantira potrebnu nezavisnost i nepristrasnost.
+(3) Podnosilac zahtjeva za akreditaciju mora ispunjavati i kriterije koje utvrdi Evropska komisija, na osnovu člana 3. stav 4. Direktive 1999/93 EZ Evropskog parlamenta i Vijeća od 13. decembra 1999. o okviru Zajednice za elektronski potpis. Vijeće ministara Bosne i Hercegovine, na prijedlog ministra nadležnog za informaciono društvo, će podzakonskim propisom objaviti ove kriterije.
+(4) Javno ili privatno tijelo akreditirano za izdavanje potvrda iz člana 14. stav (5) ovog Zakona može, za potrebe obavljanja svojih aktivnosti, koristiti izvještaje o ispitivanju drugih akreditiranih tijela.
+Član 16.
+(Opće obaveze ovjerioca)
+(1) Ovjerilac je dužan upoznati lice koje traži potvrdu jasno i sveobuhvatno s internim pravilima o pružanju usluga i sigurnosnim konceptom, u pisanoj formi ili upotrebom trajnog nosača podataka, prije zaključivanja ugovora. Prilikom izdavanja kvalificirane potvrde ovjerilac je također dužan upoznati imaoca potvrde s uvjetima upotrebe, kao što su ograničenja u vezi s upotrebom ili ograničenja u pogledu vrijednosti transakcija za koje se potvrda može upotrijebiti, i napomenuti dobrovoljnu akreditaciju, i bilo koje posebne postupke za rješavanje sporova.
+(2) Informacije na koje se odnosi stav (1) ovog člana mogu se, na njihov zahtjev, dostaviti trećim licima koja dokažu pravni interes za njih.
+(3) Ovjerilac je dužan upoznati lice koje traži potvrdu o tome koja su tehnička sredstva i postupci podesni za potpisivanje, i gdje je to primjenjivo, koja tehnička sredstva i postupci i drugi uređaji zadovoljavaju odredbe ovog Zakona o formiranju i provjeri sigurnog elektronskog potpisa. Nadalje, ovjerilac je dužan upoznati lice koje traži potvrdu s mogućim pravnim djelovanjem postupka za elektronski potpis koji je upotrijebljen, obavezama potpisnika i specifičnoj odgovornosti ovjerioca. Imalac potvrde, prije nego što sigurnosna vrijednost trenutnog elektronskog potpisa bude narušena tokom vremena, treba biti obaviješten o tome (gdje je to primjenjivo i na koji način) da treba biti primijenjen novi elektronski potpis.
+Član 17.
+(Obaveze potpisnika)
+(1) Potpisnik je dužan čuvati podatke za formiranje elektronskog potpisa, suzdržati se od njihovog prosljeđivanja i spriječiti neovlašten pristup tim podacima u mjeri u kojoj je to moguće očekivati.
+(2) Potpisnik je dužan, bez odlaganja, ovjeriocu dostaviti sve potrebne podatke i informacije o promjenama koje utiču ili mogu uticati na tačnost utvrđivanja potpisnika.
+(3) Potpisnik je dužan, bez odlaganja, zatražiti opoziv potvrde ako su podaci za formiranje elektronskog potpisa netačni ili ako postoji osnovana sumnja da su kopirani ili da su neovlaštena lica došla u posjed ovih podataka, ili ako su se činjenice potvrđene u potvrdi promijenile.
+Član 18.
+(Zaštita ličnih podataka)
+(1) Ovjerilac može koristiti samo one lične podatke koji su potrebni da bi se usluga pružila. Ovi podaci mogu se pribaviti samo neposredno od lica o kojem se radi ili uz njegovu saglasnost, od treće strane.
+(2) Ako je korišten pseudonim, ovjerilac će dostaviti podatke o potpisnikovom identitetu ako za utvrđivanje identiteta postoji preovlađujući pravni interes u smislu odredbi propisa kojima se uređuje zaštita podataka. Ovjerilac je dužan dokumentirati dostavljanje.
+Član 19.
+(Odgovornost ovjerilaca za štetu)
+(1) Ovjerilac koji izdaje potvrde kao kvalificirane ili garantira za takve potvrde u skladu s odredbama člana 24. stav (2) tačka b) ovog Zakona, odgovoran je za štetu svakom licu koje se pouzda u potvrdu, za sljedeće:
+a) tačnost podataka u kvalificiranoj potvrdi u trenutku njenog izdavanja, i da potvrda sadrži sve podatke propisane za kvalificiranu potvrdu,
+b) da je potpisnik, naveden u kvalificiranoj potvrdi, u trenutku izdavanja potvrde bio u posjedu svih podataka za formiranje potpisa, koji odgovaraju podacima za provjeru potpisa sadržanim u potvrdi,
+c) da su podaci za formiranje potpisa i s njima usaglašeni podaci za provjeru potpisa zajedno, prilikom primjene proizvoda i postupaka koje mu je ovjerilac stavio na raspolaganje ili, ekvivalentnih koje sam koristi, odgovarajući u komplementarnom smislu,
+d) opoziv potvrde bez odlaganja, po ulaganju odgovarajućeg zahtjeva, i da je postupak opoziva raspoloživ,
+e) da su zadovoljene odredbe člana 8. ovog Zakona, i da su za generiranje i čuvanje podataka za formiranje potpisa i formiranje i čuvanje kvalificiranih potvrda korištena tehnička sredstva i postupci koji zadovoljavaju odredbe člana 14. ovog Zakona.
+(2) Ovjerilac koji koristi postupke za siguran elektronski potpis također je odgovoran da proizvodi, postupci i drugi uređaji, koje koristi ili preporučuje kao odgovarajuće za formiranje elektronskog potpisa i prikaz podataka koji se potpisuju, zadovoljavaju odredbe člana 14. ovog Zakona.
+(3) Ovjerilac je odgovoran, ako ne dokaže da je šteta nastala bez njegove krivice.
+(4) Ako je upotreba kvalificirane potvrde ograničena, ovjerilac se neće smatrati odgovornim za štetu koja je nastala u vezi s upotrebom potvrde izvan ograničenja. Ako kvalificirana potvrda sadrži ograničenja u pogledu vrijednosti transakcija za koje se može upotrijebiti, ovjerilac se neće smatrati odgovornim za štetu nastalu u vezi s upotrebom potvrde za transakcije čija je vrijednost izvan ovih ograničenja.
+Član 20.
+(Nadzorni organ)
+(1) Nadzorni organ je Ured za nadzor i akreditaciju ovjerilaca pri ministarstvu nadležnom za informaciono društvo.
+(2) U okviru inspekcijskog nadzora, nadzorni organ:
+a) provjerava da li su interna pravila o pružanju usluga i sigurnosni koncept ovjerilaca u skladu s odredbama ovog Zakona i na osnovu njega donesenih podzakonskih propisa;
+b) provjerava da li ovjerilac, sve vrijeme obavljanja djelatnosti, zadovoljava odredbe ovog Zakona i na osnovu njega donesenih podzakonskih propisa i svojih internih pravila o pružanju usluga i sigurnosnog koncepta;
+c) ako ovjerilac pruža usluge u vezi sa sigurnim elektronskim potpisom, nadzire upotrebu tehničkih sredstava i postupaka iz člana 14. ovog Zakona;
+d) provjerava da li tijelo akreditirano za izdavanje potvrda o ispunjavanju sigurnosnih zahtjeva ovog Zakona i na osnovu njega donesenih podzakonskih propisa ispunjava organizacione kriterije iz člana 15. ovog Zakona;
+e) registrira ovjerioce koji podnesu obavještenje o početku rada i akreditira ovjerioce u skladu s odredbama člana 23. ovog Zakona;
+f) utvrđuje ekvivalentnost izvještaja o provjeri iz trećih država (član 24. stav (3));
+g) pruža uslugu opoziva, ako je ovjerilac prestao pružati usluge u vezi s elektronskim potpisom i ovjeravanjem ili mu je pružanje usluga zabranjeno, a pružanje usluge opoziva nije preuzeo drugi ovjerilac u smislu člana 13. stav (3) i člana 21. stav (5) ovog Zakona.
+(3) Ovjerioci su obavezni nadoknaditi troškove aktivnosti nadzornog organa u skladu s propisima donesenim na osnovu ovog Zakona.
+(4) Nadzorni organ vodi elektronski registar ovjerilaca sa sjedištem u Bosni i Hercegovini, akreditiranih ovjerilaca i ovjerilaca sa sjedištem u trećim državama za čije potvrde garantira ovjerilac sa sjedištem u Bosni i Hercegovini u skladu s odredbama člana 24. stav (2) tačka b) ovog Zakona. Također, nadzorni organ vodi registar potvrda ovjerilaca koji sadrži kvalificirane potvrde ovjerilaca za pružanje usluga u vezi s elektronskim potpisom i ovjeravanjem. Ovakve potvrde može izdavati i nadzorni organ. Ovi registri moraju biti, generalno, stalno dostupni upotrebom sredstava informacionih i komunikacionih tehnologija. Nadzorni organ stavlja svoj sigurni elektronski potpis na registre koje vodi. Potvrda nadzornog organa objavljuje se u "Službenom glasniku BiH".
+Član 21.
+(Mjere nadzora)
+(1) Prilikom obavljanja inspekcijskog nadzora, nadzorni organ ovlašten je preduzeti mjere kojima se osigurava da su obaveze određene ovim zakonom i na osnovu njega donesenim podzakonskim propisima ispunjene. Nadzorni organ može zabraniti upotrebu neodgovarajućih tehničkih sredstava i postupaka ili pružanje svih ili pojedinih usluga u vezi s elektronskim potpisom i ovjeravanjem. Nadzorni organ može opozvati potvrde ovjerioca ili potpisnika, ili narediti ovjeriocu opoziv potvrda.
+(2) Nadzorni organ će ovjeriocu zabraniti pružanje svih ili pojedinih usluga u vezi s elektronskim potpisom i ovjeravanjem ako:
+a) ovjerilac ili njegova zaposlena lica ne demonstriraju pouzdanost koja se zahtijeva za usluge u vezi s elektronskim potpisom i ovjeravanjem koje pružaju;
+b) ovjerilac ili njegova zaposlena lica nemaju potrebna specijalistička znanja, iskustvo i stručne kvalifikacije;
+c) nema na raspolaganju potrebna finansijska sredstva;
+d) ne pruža usluge u vezi s elektronskim potpisom i ovjeravanjem u skladu s internim pravilima o pružanju usluga i sigurnosnim konceptom;
+e) ne vodi registar potvrda u skladu s odredbama ovog Zakona i na osnovu njega donesenih podzakonskih propisa;
+f) ne ispunjava obaveze u vezi s opozivom i suspenzijom, u skladu s odredbama ovog Zakona i na osnovu njega donesenih podzakonskih propisa;
+g) ne ispuni obaveze iz člana 7. stav (2) ovog Zakona.
+(3) Ako nije odredio blaže mjere iz stava (6) ovog člana, nadzorni organ će ovjeriocu koji izdaje kvalificirane potvrde zabraniti pružanje svih ili pojedinih usluga u vezi s elektronskim potpisom i ovjeravanjem, ako nisu zadovoljene druge odredbe ovog Zakona i na osnovu njega donesenih podzakonskih propisa kojima se uređuje pružanje usluga.
+(4) Ako nije odredio blaže mjere iz stava (6) ovog člana, nadzorni organ će ovjeriocu koji koristi postupke za siguran elektronski potpis zabraniti pružanje svih ili pojedinih usluga u vezi s elektronskim potpisom i ovjeravanjem, ako tehnička sredstva i postupci ne zadovoljavaju odredbe člana 14. ovog Zakona.
+(5) Ako nadzorni organ zabrani ovjeriocu pružanje usluga u vezi s elektronskim potpisom i ovjeravanjem, mora osigurati da se potvrde ovjerioca i potpisnika opozovu ili da drugi ovjerilac, u mjeri u kojoj pristane, preuzme obavljanje djelatnosti ovjerioca kojem je zabranjen rad, a najmanje registar potvrda i pružanje usluga opoziva. Potpisnici će biti obaviješteni o zabrani i opozivu ili preuzimanju, bez odlaganja. Ovjerilac je dužan osigurati da se usluga opoziva pruža i ako su potvrde opozvane. Ako ovjerilac ne osigura pružanje usluge opoziva, pružanje usluge na teret ovjerioca osigurat će nadzorni organ.
+(6) Nadzorni organ neće zabraniti pružanje usluga u vezi s elektronskim potpisom i ovjeravanjem, ako se blažim mjerama može postići usklađivanje s odredbama ovog Zakona i na osnovu njega donesenih podzakonskih propisa. Nadzorni organ može odrediti rokove i uvjete za otklanjanje nedostataka i izdati upozorenje o zabrani u slučaju da nedostaci koje utvrdi ne budu otklonjeni u razumnom roku koji odredi.
+Član 22.
+(Provođenje nadzora)
+(1) Ovjerilac je dužan odrediti lice koje će, na zahtjev nadzornog organa, omogućiti pristup u poslovne prostorije u toku radnog vremena. Ovjerilac je dužan dostaviti ili pripremiti za inspekciju relevantne poslovne knjige, dokumentaciju iz člana 12. ovog Zakona i drugu dokumentaciju, i osigurati potrebne informacije i bilo koju drugu potrebnu pomoć.
+(2) Inspektor je ovlašten izuzeti dokumentaciju ako je to potrebno za osiguravanje dokaza ili za detaljno utvrđivanje nepravilnosti, na period od najviše 15 dana, o čemu izdaje potvrdu.
+(3) Podatke o potvrdama koji su lične prirode i podatke koji su zaštićeni po posebnom zakonu, s kojima se upozna prilikom nadzora, inspektor je dužan čuvati kao tajnu.
+(4) Protiv odluke nadzornog organa dozvoljena je žalba Žalbenom vijeću pri Vijeću ministara Bosne i Hercegovine. Žalba ne zadržava izvršenje.
+(5) Zabrana ne utiče na važenje prethodno izdatih potvrda.
+Član 23.
+(Akreditiranje ovjerilaca)
+(1) Ovjerioce koji koriste postupke za siguran elektronski potpis i koji dokažu da zadovoljavaju odredbe ovog Zakona i na osnovu njega donesenih podzakonskih propisa nadzorni organ akreditirat će na zahtjev. Nadzorni organ može, pod istim uvjetima, akreditirati i ovjerioce sa sjedištem izvan Bosne i Hercegovine, ako su ispunjeni uvjeti za priznavanje njihovih potvrda u Bosni i Hercegovini. Akreditirani ovjerilac može samo uz saglasnost nadzornog organa naznačavati svoju akreditiranost u pravnom prometu. Ova oznaka može se koristiti za usluge u vezi s elektronskim potpisom i ovjeravanjem, i proizvode, samo ako su zadovoljeni sigurnosni zahtjevi odredbi člana 14. ovog Zakona.
+(2) Dobrovoljna akreditacija ovjerioca treba da bude naznačena u kvalificiranoj potvrdi ili da bude dostupna na drugi odgovarajući način.
+Član 24.
+(Priznavanje potvrda koje su izdali strani ovjerioci)
+(1) Potvrde koje su izdali ovjerioci sa sjedištem u državi članici Evropske unije ili državi koja je članica Evropskog ekonomskog prostora i čiju validnost Bosna i Hercegovina može provjeriti tretiraju se isto kao i domaće potvrde. Kvalificirane potvrde ovih ovjerilaca imaju isto pravno djelovanje kao domaće kvalificirane potvrde.
+(2) Potvrde koje su izdali ovjerioci sa sjedištem u trećim državama i čiju validnost Bosna i Hercegovina može provjeriti bit će priznate u Bosni i Hercegovini. Kvalificirane potvrde ovih ovjerilaca pravno će se tretirati kao i domaće kvalificirane potvrde ako:
+a) ovjerilac zadovoljava odredbe člana 8. ovog Zakona, i ako je akreditiran u skladu sa sistemom dobrovoljne akreditacije, u Bosni i Hercegovini, ili u državi članici Evropske unije ili državi koja je članica Evropskog ekonomskog prostora,
+b) domaći ovjerilac ili ovjerilac sa sjedištem u državi članici Evropske unije ili državi koja je članica Evropskog ekonomskog prostora, i koji zadovoljava odredbe člana 8. ovog Zakona, garantira za njegove potvrde u skladu s propisima o odgovornosti,
+c) se potvrda priznaje kao kvalificirana, ili se ovjerilac smatra ovjeriocem koji izdaje kvalificirane potvrde, na osnovu dvostranog ili višestranog međunarodnog ugovora između Bosne i Hercegovine i drugih država ili međunarodnih organizacija,
+d) se potvrda priznaje kao kvalificirana, ili se ovjerilac smatra ovjeriocem koji izdaje kvalificirane potvrde, na osnovu dvostranog ili višestranog međunarodnog ugovora između Evropske unije i trećih država ili međunarodnih organizacija.
+(3) Potvrde o zadovoljavanju sigurnosnih zahtjeva iz člana 14. stav (5) ovog Zakona, koje je izdalo tijelo sa sjedištem u trećoj državi, i koje je od te države priznato kao tijelo koje izdaje takve potvrde, bit će važeće kao i potvrde tijela iz člana 15. ovog Zakona, pod uvjetom da nadzorni organ utvrdi da su tehnički zahtjevi, ispitivanja i postupci provjere tog tijela ekvivalentni onima koje koriste tijela iz člana 15. ovog Zakona.
+Član 25.
+(Kaznene odredbe)
+(1) Svako lice koje upotrijebi podatke za formiranje potpisa drugog lica, bez znanja potpisnika i njegovog pristanka, kaznit će se za prekršaj novčanom kaznom u iznosu do 8000 KM.
+(2) Novčanom kaznom u iznosu do 16000 KM kaznit će se za prekršaj ovjerilac ako:
+a) ne opozove potvrdu u skladu s odredbama člana 10. stav (1) ovog Zakona;
+b) ne dokumentira sigurnosne mjere koje je preduzeo u skladu s odredbama ovog Zakona i na osnovu njega donesenih podzakonskih propisa za izdavanje, suspenziju i opoziv potvrda (član 12.);
+c) ne omogući pristup u poslovne prostorije, ili ne stavi na uvid relevantne poslovne knjige ili drugu dokumentaciju, uključujući i dokumentaciju iz člana 12. ovog Zakona, ili ne osigura informacije ili bilo koju drugu potrebnu pomoć (član 22.);
+d) ne obavijesti imaoca potvrde ili lice koje traži potvrdu u skladu s odredbama člana 16. ovog Zakona.
+(3) Novčanom kaznom u iznosu do 32000 KM kaznit će se za prekršaj ovjerilac ako:
+a) ne obavijesti nadzorni organ ili ne dostavi interna pravila o pružanju usluga i sigurnosni koncept (član 7. stav (2));
+b) ne obavijesti nadzorni organ o okolnostima koje ga sprečavaju ili mu onemogućavaju obavljanje djelatnosti u skladu s internim pravilima o pružanju usluga i sigurnosnim konceptom (član 7. stav (5));
+c) ne vodi registar potvrda ili ne osigura sigurno i neodgodivo pružanje usluge opoziva (član 8. stav (1) tačka b));
+d) ne preduzme odgovarajuće mjere kojima se osigurava da podatke za formiranje potpisa ne mogu čuvati ili kopirati ni ovjerioci ni treća lica (član 8. stav (1) tačka h));
+e) ne koristi, ne provodi ili ne preporuči odgovarajuća tehnička sredstva i postupke koji zadovoljavaju odredbe člana 14. ovog Zakona;
+f) nastavi obavljati djelatnost protivno zabrani nadzornog organa (član 21. stav (2) do (4));
+g) ne utvrdi pouzdano identitet ili druge potrebne podatke lica koje traži kvalificiranu potvrdu (član 9.);
+h) koristi oznaku akreditiranog ovjerioca protivno odredbama člana 23. stav (1) ovog Zakona.
+(4) Novčanom kaznom u iznosu od 2 000 KM kaznit će se za prekršaj i odgovorno lice pravnog lica, koje učini prekršaj iz st. (2) i (3) ovog člana.
+(5) Ako je ovjerilac fizičko lice, za prekršaj iz st. (2) i (3) ovog člana, kaznit će se novčanom kaznom u iznosu do 10 000 KM.
+(6) Novčanom kaznom u iznosu do 10 000 KM kaznit će se za prekršaj potpisnik, ako:
+a) ne čuva podatke za formiranje elektronskog potpisa ili ne spriječi neovlašten pristup tim podacima (član 17. stav (1));
+b) ne dostavi sve potrebne podatke i informacije o promjenama koje utiču ili mogu uticati na tačnost utvrđivanja potpisnika (član 17. stav (2));
+c) ne zatraži opoziv potvrde u skladu s članom 17. stav (3) ovog Zakona.
+Član 26.
+(Podzakonski propisi za provođenje Zakona)
+(1) Vijeće ministara Bosne i Hercegovine će, na prijedlog ministra nadležnog za informaciono društvo, u skladu s aktuelnim stanjem nauke i tehnike, donijeti podzakonske propise koji su potrebni za provođenje ovog Zakona. Ovim propisima bit će obuhvaćeni:
+a) iznos naknade za rad nadzornog organa,
+b) finansijska sposobnost ovjerioca i minimalan iznos osiguranja za odgovornost od štete,
+c) tehnički sigurnosni zahtjevi za siguran elektronski potpis,
+d) prikazivanje podataka koji se potpisuju elektronskim potpisom,
+e) elektronski potpis za kvalificirane potvrde,
+f) elektronski potpis nadzornog organa,
+g) sistemi nadzornog organa,
+h) zaštita tehničkih sredstava za siguran elektronski potpis ovjerioca,
+i) ispitivanje tehničkih sredstava i postupaka,
+j) pružanje usluga u vezi s elektronskim potpisom i ovjeravanjem koje se odnose na kvalificirane potvrde i siguran elektronski potpis,
+k) zahtjev za izdavanje kvalificirane potvrde,
+l) kvalificirana potvrda,
+m) registar potvrda i pružanje usluga opoziva za kvalificirane potvrde,
+n) siguran vremenski pečat,
+o) sigurnosni koncept i interna pravila o pružanju usluga za kvalificirane potvrde,
+p) dokumentacija iz člana 12. ovog Zakona,
+r) obnova elektronskog potpisa,
+s) nadzor i akreditacija.
+(2) Vijeće ministara Bosne i Hercegovine donijet će propise iz stava (1) ovog člana najkasnije u roku od šest mjeseci od dana objavljivanja ovog Zakona.
+(3) Ministar nadležan za informaciono društvo će u redovnoj proceduri u roku od dva mjeseca uskladiti unutrašnju organizaciju ministarstva s članom 20. stav (1) ovog Zakona.
+Član 27.
+(Stupanje na snagu)
+Ovaj Zakon stupa na snagu u roku šest mjeseci od dana objavljivanja u "Službenom glasniku BiH".

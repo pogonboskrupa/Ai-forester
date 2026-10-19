@@ -1171,5 +1171,92 @@
    "Korisnik državnih šuma ima pravo posjeći i iskoristiti drvnu masu sa zemljišta koje se daje u zakup ili opterećuje služnošću (čl. 8 st. 5)."
   ],
   "caution": "Donesena na osnovu čl. 61 st. 6 zakona iz 2012, a zakon je kasnije mijenjan. Naknade se uplaćuju po Uputstvu (Sl. glasnik USK 32/12), koje nije u bazi."
+ },
+ "fbih-zakon-o-elektronskom-dokumentu": {
+  "overview": "Zakon uređuje upotrebu, pravnu valjanost i promet elektronskog dokumenta u poslovanju privrednih društava, organa i drugih pravnih i fizičkih lica (čl. 1). Elektronski dokument ima istu pravnu valjanost kao papirni ako su ispunjeni uvjeti zakona (čl. 7).",
+  "points": [
+   "Zakon se ne primjenjuje kada drugi zakoni propisuju dokument na papiru (čl. 1). Upotrebu elektronskog dokumenta lice prihvata slobodnom voljom, ali ko je prihvatio ne smije ga odbiti samo zato što je u elektronskom obliku (čl. 2).",
+   "Elektronski dokument je cjelovit skup elektronski oblikovanih podataka s osobinama kojima se utvrđuju autor, vjerodostojnost sadržaja i vrijeme nastanka; obuhvata tekst, slike, crteže, karte, ton i govor (čl. 3).",
+   "Dokument mora kroz cijeli dokumentacioni ciklus imati jednoobrazno obilježje (identifikacija dokumenta i autora), cjelovitost, pristup sadržaju i čitljiv oblik zapisa (čl. 4). Sastoji se od općeg dijela (sadržaj, naslov primaoca) i posebnog dijela (ugrađeni potpisi, vrijeme nastanka i dokumentacione osobine) (čl. 5).",
+   "Pravna valjanost: elektronski dokument vrijedi kao papirni ako je izrađen, poslan, primljen, čuvan i arhiviran uz uvjete iz čl. 4, 5 i 6 (čl. 7). Svaki pojedinačni potpisani primjerak je izvornik i nema elektronsku kopiju (čl. 8).",
+   "Papirna kopija se pravi ovjerom ispisa: u upravnom postupku ovjeravaju ovlaštene osobe organa, u ostalim slučajevima notar; ispis mora nositi oznaku da je kopija (čl. 9). Tako ovjerena kopija ima istu snagu kao izvornik, a gdje se izričito traži notarska ovjera papirnog dokumenta ne može se dostavljati elektronski (čl. 10).",
+   "Knjigovodstvo i revizija mogu se u potpunosti bazirati na elektronskom dokumentu, ako posebnim propisima nije drugačije određeno (čl. 10). Elektronski dokument može se koristiti kao dokaz u upravnom postupku i arbitražama (čl. 11).",
+   "Svaka radnja u dokumentacionom ciklusu označava se jedinstvenom oznakom (čl. 13). Dokument potpisuje autor ili osoba koju je ovlastio (čl. 14). Vrijeme otpreme i prijema upisuje se u posebni dio dokumenta i ne smije se mijenjati (čl. 17).",
+   "Ako pošiljalac traži potvrdu prijema, primalac je mora dati u zadanom roku; bez potvrde u roku smatra se da dokument nije poslan (čl. 16).",
+   "Čuvanje: elektronska arhiva mora osigurati čitljivost, očuvanje potpisa i podataka za njihovu provjeru, zaštitu od izmjene i neovlaštenog brisanja i čuvanje u rokovima koji vrijede za papirne dokumente (čl. 19). Čuvanje se može povjeriti informativnom posredniku, koji odgovara za zaštitu postupaka, ali ne za sadržaj (čl. 20, 21, 22).",
+   "Nadzor vrši Federalno ministarstvo pravde (čl. 24). Prekršajne kazne za pravnu osobu: 1.000-15.000 KM (čl. 25), 1.000-10.000 KM (čl. 26), 1.000-8.000 KM (čl. 27); odgovorna osoba 1.000-3.000, 1.000-2.000 odnosno 1.000-1.500 KM."
+  ],
+  "forestry": [
+   "Informacioni sistem za rad s elektronskim dokumentima mora imati odgovarajuću zaštitu osobnih podataka prema propisima o zaštiti osobnih podataka (čl. 12); izostanak te zaštite je prekršaj (čl. 26). Ovo se odnosi i na evidencije zaposlenih ako se vode elektronski.",
+   "Elektronska arhiva mora čuvati dokumente u rokovima propisanim za papirne (čl. 19). Pisarnica i arhiva koje prelaze na elektronski oblik moraju osigurati čitljivost, očuvanje potpisa i zaštitu od izmjene (čl. 19).",
+   "Ako se interna ili vanjska dokumentacija šalje elektronski (npr. između uprave i šumarija), uvjet valjanosti je da dokument sadrži podatke o autoru, pošiljaocu, primaocu i vremenu slanja i prijema (čl. 18).",
+   "Dokumenti koji sadrže tajne podatke zahtijevaju posebne organizacione i tehničke mjere zaštite (čl. 23)."
+  ],
+  "wood": [
+   "Preduslov za elektronske ugovore i dokumente s kupcima je slobodno prihvatanje elektronskog poslovanja (čl. 2); ko je prihvatio, ne smije odbiti dokument samo zato što je elektronski, a odbijanje je prekršaj (čl. 26).",
+   "Elektronski dokument ne smije dovesti drugu stranu u neravnopravan položaj u razmjeni dokumenata (čl. 12; prekršaj po čl. 26).",
+   "Knjigovodstvo i revizija mogu se u cijelosti temeljiti na elektronskim dokumentima ako posebni propisi ne određuju drugačije (čl. 10), što je moguće bitno za elektronske račune i otpremnu dokumentaciju; ovo zaključujemo iz teksta, a zakon račune ne spominje izričito.",
+   "Za radnje gdje zakon izričito traži notarsku ovjeru papirnog dokumenta elektronski dokument se ne može dostavljati (čl. 10)."
+  ],
+  "caution": "Zakon ne definira rokove čuvanja; upućuje na druge propise za pojedine vrste dokumenata (čl. 18, 19, 20). Zakon se poziva na kvalifikovani elektronski potpis (čl. 3), ali ga ne uređuje; za potpis vidjeti Zakon o elektronskom potpisu BiH. Svi dokumenti čiji oblik zakon propisuje na papiru ostaju izvan zakona (čl. 1)."
+ },
+ "bih-zakon-o-elektronskom-potpisu": {
+  "overview": "Zakon uređuje osnove formiranja i upotrebe elektronskog potpisa i usluge ovjerilaca (čl. 1). Siguran elektronski potpis ima pravnu snagu svojeručnog potpisa uz zakonom navedene izuzetke (čl. 5).",
+  "points": [
+   "Zakon se primjenjuje u zatvorenim sistemima uređenim ugovorom, ako je primjena ugovorena, te u otvorenoj elektronskoj komunikaciji sa sudom i drugim institucijama, ako posebnim zakonom nije drugačije određeno (čl. 2).",
+   "Siguran elektronski potpis mora biti dodijeljen isključivo potpisniku, omogućavati identifikaciju, biti formiran sredstvima pod potpunom kontrolom potpisnika, povezan s podacima tako da se vidi svaka promjena i zasnovan na kvalificiranoj potvrdi (čl. 3).",
+   "Pravno djelovanje i dokazna snaga elektronskog potpisa ne mogu se isključiti samo zato što je u elektronskoj formi ili nije zasnovan na kvalificiranoj potvrdi (čl. 4).",
+   "Siguran elektronski potpis zadovoljava zahtjeve za svojeručni potpis i pisanu formu, ako posebnim zakonom ili sporazumom stranaka nije drugačije određeno (čl. 5). Nema djelovanje pisane forme kod porodičnog i nasljednog prava, poslova koji zahtijevaju službenu ovjeru ili notarsku ispravu, upisa u zemljišne knjige ili drugi službeni registar i izjava garancija (čl. 5).",
+   "Za potpisani elektronski dokument sa sigurnim potpisom vrijedi pretpostavka autentičnosti kao za potpisanu privatnu ispravu (čl. 5). Djelovanje se smatra neostvarenim ako se dokaže da sigurnosni zahtjevi nisu bili zadovoljeni ili da su mjere bile kompromitirane (čl. 5).",
+   "Kvalificirana potvrda mora sadržavati, između ostalog, oznaku kvalificirane potvrde, podatke o ovjeriocu i potpisniku (ime ili označeni pseudonim), podatke za provjeru potpisa, početak i prestanak važenja, jedinstvenu oznaku te eventualna ograničenja upotrebe i vrijednosti transakcija (čl. 6).",
+   "Ovjerilac ne treba posebnu dozvolu, ali mora bez odlaganja obavijestiti nadzorni organ o početku rada i dostaviti interna pravila i sigurnosni koncept (čl. 7). Identitet podnosioca zahtjeva za kvalificiranu potvrdu provjerava se zvaničnim dokumentom s fotografijom, odnosno ovjerenim dokumentima za pravno lice (čl. 9).",
+   "Potvrda se opoziva bez odlaganja, između ostalog na zahtjev potpisnika, uz suspenziju ako se činjenice ne mogu odmah utvrditi; opoziv nema povratno djelovanje (čl. 10).",
+   "Obaveze potpisnika: čuvati podatke za formiranje potpisa i ne prosljeđivati ih, bez odlaganja javiti promjene ovjeriocu i zatražiti opoziv potvrde ako sumnja da su podaci kopirani ili otkriveni (čl. 17).",
+   "Nadzorni organ je Ured za nadzor i akreditaciju ovjerilaca pri ministarstvu nadležnom za informaciono društvo (čl. 20). Kazne: upotreba tuđih podataka za potpis do 8000 KM (čl. 25 st. 1); potpisnik koji ne čuva podatke ili ne zatraži opoziv do 10 000 KM (čl. 25 st. 6); ovjerioci do 16000 KM odnosno do 32000 KM (čl. 25)."
+  ],
+  "forestry": [
+   "Zaposlenik kojem je dodijeljen potpis mora čuvati podatke za formiranje potpisa, ne prosljeđivati ih i odmah tražiti opoziv potvrde pri sumnji na zloupotrebu (čl. 17); povreda je prekršaj do 10 000 KM (čl. 25). Ako preduzeće izdaje potpise uposlenicima, to treba urediti internim pravilima; zakon sam to ne propisuje.",
+   "Upotreba tuđeg potpisa bez znanja i pristanka potpisnika je prekršaj do 8000 KM (čl. 25).",
+   "Potvrdu može ograničiti vrijednost transakcija i namjenu upotrebe (čl. 6), što je bitno pri određivanju ko u preduzeću može potpisivati koje akte; izvedeno iz teksta, zakon ne govori o preduzećima.",
+   "Ugovori i drugi akti za koje se traži notarska ovjera ili upis u zemljišne knjige ne mogu se zamijeniti elektronskim potpisom (čl. 5), što može biti bitno za nekretnine i pravne poslove sa šumskim zemljištem; zaključak je naš."
+  ],
+  "wood": [
+   "Ugovori s kupcima mogu se potpisivati sigurnim elektronskim potpisom, koji zamjenjuje svojeručni potpis i pisanu formu, osim ako posebnim zakonom ili sporazumom stranaka nije drugačije određeno (čl. 5). Strane mogu elektronski potpis ugovoriti i u zatvorenom sistemu (čl. 2).",
+   "Potpis koji nije siguran ne može se odbaciti kao dokaz samo zato što je elektronski (čl. 4).",
+   "Ograničenje vrijednosti transakcija u kvalificiranoj potvrdi (čl. 6) znači da se potvrda ne smije koristiti za veće ugovore od upisanog iznosa; ovjerilac ne odgovara za štetu nastalu izvan ograničenja (čl. 19).",
+   "Izjave garancija izdate u okviru poslovnog svojstva nemaju pisanu formu elektronskim potpisom (čl. 5), što treba imati u vidu pri bankovnim i drugim garancijama u prodaji drveta; zaključak je naš."
+  ],
+  "caution": "Zakon još upućuje na Direktivu 1999/93 EZ (čl. 14, 15, 24) i na podzakonske propise Vijeća ministara BiH (čl. 26) kojih nema u bazi; tehnički zahtjevi, naknade i osiguranje ovjerilaca zavise od njih. Stupa na snagu šest mjeseci od objavljivanja (čl. 27)."
+ },
+ "bih-zakon-o-zastiti-licnih-podataka": {
+  "overview": "Novi zakon (2025) usklađen s Općom uredbom EU o zaštiti podataka štiti fizička lica u vezi s obradom ličnih podataka i uređuje Agenciju za zaštitu ličnih podataka u BiH (čl. 1, 2). Primjenjuje se na kontrolore i obrađivače sa sjedištem u BiH, što uključuje i privredna društva (čl. 6).",
+  "points": [
+   "Lični podatak je svaki podatak o fizičkom licu čiji je identitet utvrđen ili se može utvrditi; obrada obuhvata prikupljanje, evidentiranje, čuvanje, uvid, otkrivanje i brisanje, automatizirano ili ne (čl. 4). Zakon se ne primjenjuje na obradu u lične ili kućne svrhe (čl. 5).",
+   "Principi: zakonitost, pravičnost i transparentnost, ograničenje svrhe, smanjenje obima podataka, tačnost, ograničenje čuvanja te cjelovitost i povjerljivost; kontrolor mora moći dokazati usklađenost (čl. 7).",
+   "Obrada je zakonita samo ako postoji bar jedan osnov: saglasnost, izvršenje ugovora, pravna obaveza, ključni interesi, javni interes ili legitimni interes kontrolora (čl. 8). Kontrolor mora dokazati saglasnost, koja se može povući u svakom trenutku jednako lako kao što je data (čl. 9).",
+   "Posebne kategorije podataka (zdravlje, sindikalna pripadnost, biometrijski podaci za identifikaciju i dr.) obrađuju se samo uz izuzetke iz čl. 11, npr. izričita saglasnost ili obaveze iz radnog prava i socijalnog osiguranja i medicina rada (čl. 11).",
+   "Rok za odgovor na zahtjev nosioca podataka je 30 dana, uz moguće produženje za 60 dana uz obavještenje u roku od 30 dana; informacije se pružaju bez naknade (čl. 14). Prava: informisanje (čl. 15, 16), pristup (čl. 17), ispravka (čl. 18), brisanje (čl. 19), ograničenje obrade (čl. 20), prenosivost (čl. 22), prigovor (čl. 23).",
+   "Kontrolor primjenjuje tehničke i organizacione mjere (čl. 26) i integriranu zaštitu podataka (čl. 27). Obrađivač radi na osnovu pisanog ugovora s propisanim sadržajem (čl. 30). Obaveza evidencije obrade ne važi za subjekte s manje od 250 lica, osim uz visok rizik, nepovremenu obradu ili posebne kategorije (čl. 32).",
+   "Sigurnost obrade: pseudonimizacija, enkripcija, povjerljivost, mogućnost ponovne uspostave i redovno testiranje mjera (čl. 34). Povredu podataka kontrolor prijavljuje Agenciji bez odgađanja, ako je moguće u roku od 72 sata, a nosioca podataka pisanim putem obavještava kad je vjerovatan visok rizik (čl. 35, 36).",
+   "Procjena uticaja je obavezna pri visokom riziku, naročito kod obimne obrade posebnih kategorija i sistemskog praćenja javno dostupnog područja u velikoj mjeri (čl. 37). Službenik za zaštitu podataka obavezan je za javne organe i kad osnovna djelatnost zahtijeva redovno i sistemsko praćenje u velikom broju ili opsežnu obradu posebnih kategorija (čl. 39).",
+   "Novčane kazne: 10.000-20.000.000 KM za povrede među ostalim čl. 27-41 (čl. 113 st. 4) i 20.000-40.000.000 KM za povrede čl. 7, 8, 9, 11 i prava iz čl. 14-24 (čl. 113 st. 5); za preduzetnika do 2% odnosno 4% ukupnog godišnjeg prometa na svjetskom nivou, što je više. Odgovorno lice 5.000-70.000 KM, zaposleno lice 500-5.000 KM (čl. 113 st. 7). Pravo na naknadu štete u sudskom postupku (čl. 112)."
+  ],
+  "forestry": [
+   "Evidencije zaposlenih: pravila obrade u kontekstu zaposlenja precizira se posebnim zakonom ili kolektivnim ugovorom (čl. 55); podaci o zdravlju i sindikalnoj pripadnosti spadaju u posebne kategorije (čl. 11), a medicina rada je navedena kao osnov (čl. 11).",
+   "Jedinstveni matični broj obrađuje se uz posebne uvjete i odgovarajuće zaštitne mjere (čl. 54).",
+   "Videonadzor je dopušten samo ako je nužan za zaštitu lica i imovine i ako ne prevladaju interesi nosioca podataka; obuhvata samo nužne prostore, uz odluku s pravilima obrade i vidljivu oznaku s podacima o kontroloru i kontaktom (čl. 57). To se može odnositi na skladišta, stovarišta i objekte; šume i teren zakon izričito ne spominje.",
+   "Biometrijska evidencija radnog vremena i ulaska u službene prostorije dopuštena je ako je propisana zakonom ili kao alternativa drugom rješenju, uz izričitu saglasnost zaposlenika (čl. 57b; čl. 57a).",
+   "Sa 650+ uposlenih preduzeće ne spada u izuzetak od vođenja evidencije obrade za subjekte s manje od 250 lica (čl. 32); izvedeno iz navedenog broja uposlenih. Službenika za zaštitu podataka mora imenovati ako su ispunjeni uvjeti iz čl. 39, npr. sistemsko praćenje u velikom broju; da li to važi, procjenjuje se uslovno.",
+   "Evidencije o vlasnicima šuma i drugim fizičkim licima su lični podaci i podliježu načelima ograničenja svrhe i čuvanja (čl. 7); kontrolor mora imati jedan od pravnih osnova iz čl. 8. Posebni zakon određuje rokove čuvanja za obradu iz čl. 8 st. 1 tač. c i e (čl. 8).",
+   "Elektronsko slanje dokumenata s ličnim podacima: kontrolor primjenjuje enkripciju i druge mjere sigurnosti (čl. 34), a povreda se prijavljuje u 72 sata (čl. 35).",
+   "Ako lične podatke obrađuje vanjska firma (npr. IT usluge, računovodstvo), potreban je pisani ugovor o obradi (čl. 30)."
+  ],
+  "wood": [
+   "Podaci o kupcima koji su fizička lica su lični podaci; obrada radi izvršenja ugovora je zakonit osnov (čl. 8). Za podatke pravnih lica zakon se primjenjuje samo ako se odnose na fizičko lice; izvedeno iz definicije (čl. 4).",
+   "Princip smanjenja obima podataka: prikupljati samo ono što je neophodno za ugovor i otpremu (čl. 7), i čuvati ne duže nego što je potrebno (čl. 7).",
+   "Pri slanju ugovora, računa i otpremnica elektronski, primjenjuju se mjere sigurnosti iz čl. 34, a kupca treba informisati o obradi (čl. 15, 16).",
+   "Kupac ima pravo pristupa, ispravke i brisanja podataka, uz rok od 30 dana (čl. 14, 17, 18, 19)."
+  ],
+  "caution": "Zakon se primjenjuje nakon isteka 210 dana od stupanja na snagu (čl. 120); obrade se usklađuju u roku od dvije godine od stupanja na snagu (čl. 116 st. 2), podzakonski akti trebaju biti doneseni u roku od 210 dana (čl. 117), a do tada nisu u bazi. Pravila o zaposlenju (čl. 55) i JMB (čl. 54) upućuju na posebne zakone, kojih u bazi nema. Datum u fajlu je 30. januar 2025."
  }
 }

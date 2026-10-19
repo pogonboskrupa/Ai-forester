@@ -1,38 +1,14 @@
-import { useEffect, useState } from 'preact/hooks';
-import { load, save } from '../../storage';
+import { useState } from 'preact/hooks';
 import { toast } from '../../store';
 import { Cite } from '../Cite';
 import { Icon } from '../Icon';
+import { exportCsv, today, uid, useList } from './shared';
 
 interface Hammer { id: string; kind: string; no: string; inventory: string; holder: string; issued: string; returned: string; note: string }
 interface Block { id: string; no: string; year: string; holder: string; issued: string; returned: string; status: string; note: string }
 
 const HAMMER_KINDS = ['Doznaka (šesterokut)', 'Prijem kod panja / kontrola (krug)', 'Otprema', 'Šumokvar – ŠK (kvadrat)', 'Privatne šume (elipsa)', 'Pohranjen – van upotrebe'];
 const BLOCK_STATUS = ['zadužen', 'iskorišten – vraćen', 'djelimično iskorišten – vraćen', 'neiskorišten – vraćen'];
-// Lokalni datum (toISOString je UTC – između 00 i 02 h dao bi jučerašnji datum).
-const today = () => { const d = new Date(); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`; };
-const uid = () => crypto.randomUUID();
-
-const csvCell = (v: string) => `"${v.replace(/"/g, '""')}"`;
-function exportCsv(name: string, header: string[], rows: string[][]) {
-  // BOM da Excel prepozna UTF-8 (š, č, ć, ž, đ)
-  const csv = `﻿${[header, ...rows].map((r) => r.map(csvCell).join(';')).join('\r\n')}`;
-  const url = URL.createObjectURL(new Blob([csv], { type: 'text/csv;charset=utf-8' }));
-  const a = Object.assign(document.createElement('a'), { href: url, download: name });
-  a.click();
-  setTimeout(() => URL.revokeObjectURL(url), 1000);
-}
-
-function useList<T extends { id: string }>(key: string) {
-  const [list, setList] = useState<T[]>([]);
-  useEffect(() => void load<T>(key).then(setList), [key]);
-  const persist = (next: T[]) => {
-    setList(next);
-    void save(key, next);
-  };
-  return [list, persist] as const;
-}
-
 function Hammers() {
   const [list, persist] = useList<Hammer>('reg-cekici');
   const blank = (): Hammer => ({ id: uid(), kind: HAMMER_KINDS[0]!, no: '', inventory: '', holder: '', issued: today(), returned: '', note: '' });
