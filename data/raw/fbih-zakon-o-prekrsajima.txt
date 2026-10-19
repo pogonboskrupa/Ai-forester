@@ -1,0 +1,656 @@
+Član 1.
+(Predmet Zakona)
+Ovim zakonom definira se: prekršaj, prekršajne sankcije, postupak prema maloljetnicima, zastara, prekršajni postupak, prekršajni nalog, zahtjev za pokretanje prekršajnog postupka, usmeni pretres, rješenje o prekršaju, žalba, povrat u pređašnje stanje, ponavljanje postupka, evidencija i brisanje sankcija, izvršenje kazni, kao i druga pitanja od značaja za prekršaje na području Federacije Bosne i Hercegovine (u daljnjem tekstu: Federacija).
+Član 2.
+(Definicija prekršaja)
+(1) Prekršaj predstavlja kršenje propisa, javnog poretka ili drugih društvenih vrijednosti koje nisu zaštićene krivičnim zakonima i drugim zakonima u kojima su propisana krivična djela, kao i kršenje drugih propisa kojima su određena obilježja prekršaja i za koje su propisane sankcije.
+(2) Odgovornost za prekršaj pretpostavlja izvršenu ili propuštenu protivpravnu skrivljenu radnju koja je propisom nadležnog organa određena kao prekršaj.
+(3) Nema prekršaja ukoliko je isključena protivpravnost ili krivica iako postoje sva bitna obilježja prekršaja.
+(4) Prekršaj može biti počinjen činjenjem ili nečinjenjem.
+(5) Nehat od izvršioca je dovoljan da se izvršilac smatra odgovornim za prekršaj, osim ako je odredbama o prekršajima propisano da će izvršitelj biti kažnjen za djelo počinjeno isključivo sa umišljajem.
+(6) Prekršaj mogu počiniti fizička i pravna lica.
+(7) Pokušaj izvršenja prekršaja nije kažnjiv.
+Član 3.
+(Značenje izraza)
+(1) Posebni izrazi u smislu ovog zakona imaju sljedeća značenja:
+1) ovlašteni organ je bilo koji od sljedećih:
+a) nadležni policijski organ Bosne i Hercegovine, Federacije ili kantona,
+b) nadležni inspekcijski organi ili
+c) ministarstvo, preduzeće ili drugo pravno lice koje ima javna ovlaštenja i u čiju nadležnost spada direktno ili indirektno provođenje bilo kojeg zakona ili propisa koji propisuju prekršaje;
+2) Registar novčanih kazni i prekršajne evidencije je elektronska baza podataka o izrečenim novčanim kaznama za prekršaje, drugim prekršajnim sankcijama i troškovima postupka kao što je propisano u Zakonu o Agenciji za identifikacione dokumente, evidenciju i razmjenu podataka Bosne i Hercegovine ("Službeni glasnik BiH", broj 56/08);
+3) okrivljeni je pravno ili fizičko lice protiv kojeg je pokrenut prekršajni postupak;
+4) oštećeni je pravno ili fizičko lice koje je pretrpjelo štetu koja je na bilo koji način nastala počinjenjem prekršaja;
+5) sud je općinski sud u kojem je osnovano prekršajno odjeljenje;
+6) drugostepeni sud je nadležni kantonalni sud;
+7) kažnjenik je osoba za koju je konačnim prekršajnim nalogom ili pravomoćnim rješenjem o prekršaju ustanovljeno da je odgovorna za određeni prekršaj;
+8) uručenje pismena poštom je uručenje putem preporučene pošte na adresu fizičkog lica koje je određeno u Registru prebivališta i boravišta, a koju vodi Glavni centar za obradu podataka u Bosni i Hercegovini ili na registriranu adresu sjedišta pravnog lica;
+9) posao (rad) za opće dobro je neplaćeni rad u korist društva kojim se ne vrijeđa ljudsko dostojanstvo i ne ostvaruje profit i koji se može izreći samo uz pristanak učinitelja, a ne može trajati kraće od 10 sati niti duže od 120 sati, s tim što se ne može obavljati duže od dva sata dnevno.
+(2) Gramatička terminologija korištenja muškog ili ženskog roda podrazumijeva uključivanje oba roda.
+(3) Značenje izraza navedenih u članu 2. Krivičnog zakona Federacije Bosne i Hercegovine ("Službene novine Federacije BiH", br. 36/03, 37/03, 21/04, 69/04, 18/05, 42/10 i 42/11 - u daljnjem tekstu: Krivični zakon) koristit će se u ovom zakonu ukoliko se kontekstom jasno ne zahtijeva drugačije.
+Član 4.
+(Prava osoba okrivljenih za prekršaje)
+Niko ne može biti kažnjen za prekršaj, niti se prema njemu mogu primijeniti prekršajne sankcije ako radnja koja mu se stavlja na teret prije nego što je bila izvršena nije bila zakonom, ili na zakonu osnovanom propisu određena kao prekršaj i za koju zakonom ili drugom na zakonu osnovanom propisu nije propisana vrsta i visina sankcije za učinitelja.
+Član 5.
+Svako ko je okrivljen da je počinio prekršaj ima pravo zahtijevati da o njegovoj odgovornosti za počinjeni prekršaj odluči sud, ukoliko on to zahtijeva u roku koji je propisan zakonom. Takve osobe imaju pravo da:
+1) smatraju se nevinim dok se ne dokaže njihova odgovornost u skladu sa zakonom;
+2) u najkraćem roku biti obaviještene detaljno i na jeziku koji razumiju o prirodi i razlogu optužbi protiv njih;
+3) da im se da odgovarajuće vrijeme i mogućnost za pripremu njihove odbrane;
+4) brani se lično, ili putem branitelja prema vlastitom izboru, ili ukoliko nemaju dovoljno sredstava, da im se on osigura besplatno kada to zahtijevaju interesi pravde;
+5) ispitaju ili da se u njihovo ime ispitaju svjedoci koji ih terete i da se osigura prisustvo i saslušanje svjedoka u njihovu korist pod istim uvjetima kao i svjedoka koji ih terete;
+6) dobiju besplatnu pomoć prevodioca ako ne razumiju jezik koji se upotrebljava u sudu.
+Član 6.
+(1) Ako se protiv odgovorne osobe u pravnom licu ne može pokrenuti postupak, postupak će se pokrenuti i provesti samo protiv pravnog lica.
+(2) Ako je pravno lice prestalo postojati ili postoje druge pravne smetnje za vođenje postupka, postupak će se pokrenuti i provesti samo protiv odgovorne osobe u pravnom licu.
+(3) Odgovornost odgovorne osobe za prekršaj ne prestaje zato što joj je prestao radni odnos u pravnom licu ili što je u registru subjekta upisa nakon počinjenja prekršaja izvršena promjena te odgovorne osobe.
+Član 7.
+Predstavnik okrivljene strane pravnog lica je osoba koja upravlja predstavništvom ili drugom poslovnom jedinicom tog pravnog lica u Federaciji, ukoliko za predstavnika pravnog lica ne bude određena druga osoba.
+Član 8.
+(Osobe koje ne mogu biti predstavnici pravnog lica)
+(1) Predstavnik pravnog lica ne može biti osoba koja je u istoj stvari svjedok.
+(2) Predstavnik pravnog lica ne može biti odgovorna osoba protiv koje se vodi postupak za isti prekršaj, ili osoba koja ističe da je postupala po naredbi druge odgovorne osobe ili organa upravljanja.
+(3) U slučajevima iz st. (1) i (2) ovog člana sud je dužan pozvati pravno lice da u roku osam dana odredi drugog predstavnika.
+Član 9.
+(Diplomatski imunitet)
+U pogledu vođenja prekršajnog postupka prema osobama koje uživaju pravo imuniteta u Bosni i Hercegovini primjenjuju se pravila međunarodnog prava.
+Član 10.
+Za prekršaj ne mogu biti odgovorni Federacija, kanton, grad, općina i mjesne zajednice.
+Član 11.
+(1) Ako se prije započinjanja prekršajnog postupka utvrdi da je osoba protiv koje se pokreće postupak umrla, odnosno pravno lice protiv kojeg se pokreće postupak prestalo postojati, rješenjem će se odbaciti zahtjev za pokretanje prekršajnog postupka, a ako se činjenica smrti ili prestanak postojanja pravnog lica utvrdi nakon započinjanja postupka, rješenjem će se obustaviti prekršajni postupak.
+(2) Ako se postupak može provesti protiv pravnog sljednika pravnog lica, neće se donositi rješenje iz stava (1) ovog člana, već će se zastati s postupanjem i postupak nastaviti nakon što ovlašteni organ na odgovarajući način izmijeni zahtjev. Ako je već doneseno rješenje iz stava (1) ovog člana, nakon što ovlašteni organ izmijeni zahtjev, to će se rješenje staviti van snage i nastaviti postupak.
+(3) Ako se nakon izdavanja prekršajnog naloga, a prije njegove pravomoćnosti ili stavljanja van snage, utvrdi da je okrivljeni umro, odnosno okrivljeno pravno lice prestalo postojati, rješenjem ovlaštenog organa će se prekršajni nalog staviti van snage.
+(4) Rješenje iz st. (1) i (2) ovog člana donosi sud kod kojeg se nalazi spis u času utvrđenja smrti okrivljenika, odnosno prestanka postojanja pravnog lica.
+Član 12.
+(Propisivanje prekršaja)
+(1) Prekršaji i prekršajne sankcije mogu biti propisani zakonima Bosne i Hercegovine, Federacije, kantona ili drugim propisima Vijeća ministara Bosne i Hercegovine, Vlade Federacije, vlada kantona i odlukama gradskog ili općinskog vijeća.
+(2) Organi ovlašteni za donošenje propisa o prekršajima mogu propisivati samo kazne i zaštitne mjere predviđene ovim zakonom i u granicama koje određuje ovaj zakon.
+(3) Organi ovlašteni za donošenje propisa iz stava (1) ovog člana mogu propisivati prekršajne kazne i zaštitne mjere samo za povrede propisa koje oni donose u okviru svoje nadležnosti utvrđene Ustavom i zakonom, pod uvjetima određenim ovim zakonom.
+(4) Organ ovlašten da propisuje prekršajne kazne i zaštitne mjere ne može ovo pravo prenijeti na druge organe.
+Član 13.
+(Vrijeme izvršenja prekršaja)
+Prekršaj je izvršen u vrijeme kada je počinilac radio ili bio dužan raditi, bez obzira na to kada je posljedica nastupila.
+Član 14.
+(Mjesto izvršenja prekršaja)
+Prekršaj je izvršen kako u mjestu gdje je počinilac radio ili bio dužan raditi tako i u mjestu gdje je nastupila posljedica.
+Član 15.
+(Nadležnost sudova)
+(1) Sudovi u Federaciji stvarno su nadležni odlučivati o prekršajima iz člana 12. stav (1) koji su počinjeni na teritoriji Federacije.
+(2) Sud na čijem je području počinjen prekršaj mjesno je nadležan za vođenje prekršajnog postupka.
+Član 16.
+(Izricanje prekršajne sankcije)
+(1) Prekršajnu sankciju može izreći sud u prekršajnom postupku koji je pokrenut i proveden u skladu s ovim zakonom.
+(2) Ovlašteni organ može izreći prekršajnu sankciju putem izdavanja prekršajnog naloga u skladu s postupkom koji je propisan ovim zakonom.
+Član 17.
+(Lišenje slobode i garancija kao osiguranje prisustva i plaćanja novčane kazne)
+(1) Policijski službenik može na zahtjev ovlaštene službene osobe lišiti slobode osobu koja je osumnjičena za prekršaj, ali je dužna takvu osobu odmah, a najkasnije u roku 12 sati, izvesti pred sud kako bi se osiguralo njeno prisustvo u sudu pod sljedećim uvjetima:
+1) kada osoba odbija ili nije u mogućnosti otkriti svoj identitet,
+2) kada osoba nije nastanjena u Bosni i Hercegovini ili privremeno boravi u inozemstvu, a postoji sumnja da može pobjeći kako bi izbjegla odgovornost za prekršaj ili
+3) kada postoji opasnost da će osoba nastaviti sa vršenjem prekršaja, ili ponovo počiniti istovrsni prekršaj.
+(2) Sud mora ispitati okrivljenog odmah a najkasnije u roku 12 sati od trenutka kada je ta osoba lišena slobode.
+(3) Svako lišenje slobode može biti određeno samo ako se ista svrha ne može ostvariti drugom mjerom, mora biti razumno i u skladu s prirodom počinjenog prekršaja, a mora se voditi računa o starosti i drugim ličnim osobinama te osobe, tako da dužina trajanja lišenja slobode odgovara okolnostima. Svaka osoba lišena slobode u skladu s odredbama ovog člana mora biti u najkraćem roku obaviještena detaljno i na jeziku koji razumije o razlozima za lišenje slobode, kao i o prekršaju koji joj se stavlja na teret.
+(4) Radi osiguranja prisustva pred sudom policija ili drugi ovlašteni organ može zahtijevati od osobe koja je okrivljena za prekršaj, a nema prebivalište u Bosni i Hercegovini ili privremeno boravi u inozemstvu a želi napustiti Bosnu i Hercegovinu prije okončanja postupka, a za koju postoji sumnja da može pobjeći kako bi izbjegla odgovornost za prekršaj, da preda svoj pasoš ili drugi identifikacijski dokument do pojavljivanja na sudu, ali ne duže od 24 sata. Uz prekršajni nalog, ili zahtjev za pokretanje prekršajnog postupka sudu će se predati pasoš ili drugi identifikacijski dokument.
+(5) Radi osiguranja plaćanja novčane kazne osobi koja je okrivljena za prekršaj, a nema prebivalište u Bosni i Hercegovini, ili privremeno boravi u inozemstvu a želi napustiti Bosnu i Hercegovinu prije okončanja postupka, a za koju postoji sumnja da može pobjeći kako bi izbjegla odgovornost za prekršaj, sudija može naložiti da položi novčanu garanciju u visini maksimalne kazne koja može biti izrečena za takav prekršaj.
+Član 18.
+(Primjena odredaba Krivičnog zakona i Zakona o krivičnom postupku Federacije Bosne i Hercegovine)
+(1) Ukoliko nije drugačije propisano odredbama ovog zakona, sljedeće odredbe Krivičnog zakona će se mutatis mutandis primjenjivati na prekršaje: čl. 26. i 27. koji nose naziv "Nužna odbrana" i "Krajnja nužda"; čl. 31., 32. i 33. koji nose naziv "Saučiniteljstvo", "Podstrekavanje" i "Pomaganje"; član 36. pod nazivom "Ubrojivost"; član 37. pod nazivom "Umišljaj"; član 38. pod nazivom "Nehat"; član 39. pod nazivom "Stvarna zabluda"; član 40. Pod nazivom "Pravna zabluda" i Glava XIV. pod nazivom "Odgovornost pravnih osoba".
+(2) Ukoliko nije drugačije propisano odredbama ovog zakona sljedeće odredbe Zakona o krivičnom postupku Federacije Bosne i Hercegovine ("Službene novine Federacije BiH", br. 35/03, 37/03, 56/03, 78/04, 28/05, 55/06, 27/07, 53/07, 9/09 i 12/10 - u daljnjem tekstu: Zakon o krivičnom postupku) će se mutatis mutandis primjenjivati u prekršajnom postupku: Glava I. pod nazivom "Osnovna načela"; Glava III. pod nazivom "Pravna pomoć i službena saradnja"; Glava IV. Odjeljak 2. pod nazivom "Mjesna nadležnost" i Odjeljak 3. pod nazivom "Spajanje i razdvajanje postupka"; Glava V. pod nazivom "Izuzeće"; Glava VII. pod nazivom "Branitelj"; Glava VIII. Odjeljak 1. pod nazivom "Pretres stana, prostorija i osoba"; Glava VIII. Odjeljak 2. pod nazivom "Privremeno oduzimanje predmeta i imovine"; Glava VIII. Odjeljak 4. pod nazivom "Ispitivanje osumnjičenog"; Glava VIII. Odjeljak 5. pod nazivom "Ispitivanje svjedoka"; Glava VIII. Odjeljak 6. Pod nazivom "Uviđaj i rekonstrukcija "; Glava VIII. Odjeljak 7. pod nazivom "Vještačenje"; Glava XI. pod nazivom "Podnesci i zapisnici"; Glava XII. pod nazivom "Rokovi"; Glava XIV. pod nazivom "Dostavljanje pismena"; Glava XVI. pod nazivom "Troškovi krivičnog postupka"; Glava XVII. pod nazivom "Imovinsko-pravni zahtjevi"; Glava XXI. pod nazivom "Glavni pretres"; Glava XXIII. Odjeljak 1. pod nazivom "Žalba na prvostepenu presudu"; Glava XXIV. pod nazivom "Vanredni pravni lijekovi"- "Ponavljanje postupka"; Glava XXVII. pod nazivom "Postupak prema maloljetnicima", Glava XXVIII. Pod nazivom "Postupak za krivična djela protiv pravnih osoba" i Glava XXIX. pod nazivom "Postupak za primjenu mjera sigurnosti, za oduzimanje imovinske koristi pribavljene krivičnim djelom i za opozivanje uslovne osude".
+(3) U slučaju bilo kakvih nesaglasnosti između odredbi Krivičnog zakona iz stava (1) ovog člana i odredbi Zakona o krivičnom postupku iz stava (2) ovog člana i ovog zakona, primjenjivat će se odredbe ovog zakona. Upućivanje na odredbe Zakona o krivičnom postupku koje se odnose na tužitelja na odgovarajući način primjenjivat će se na svaki ovlašteni organ.
+Član 19.
+(Odmjeravanje kazni)
+Ako se prilikom odmjeravanja kazne utvrdi da prekršajem nisu prouzrokovane teže posljedice, a postoje olakšavajuće okolnosti koje ukazuju da se i blažom kaznom može postići svrha kažnjavanja, propisana kazna može se ublažiti tako što će se izreći kazna ispod najmanje mjere kazne propisane za taj prekršaj, ali ne ispod najmanje zakonske mjere te vrste kazne.
+Član 20.
+(Naknada štete kao razlog obustave postupka)
+Sud može obustaviti postupak protiv počinioca prekršaja za koji je propisana novčana kazna kao jedina kazna u iznosu do 1.000,00 KM, ako je on dobrovoljno nakon počinjenja prekršaja, a prije održavanja usmenog pretresa otklonio protivpravno stanje ili nadoknadio štetu koju je prouzrokovao prekršajem.
+Član 21.
+(Vrste sankcija)
+(1) Sljedeće sankcije mogu biti izrečene osobi odgovornoj za počinjeni prekršaj:
+1) novčana kazna;
+2) uvjetna osuda;
+3) ukor i
+4) zaštitne mjere.
+(2) Sljedeće mjere mogu biti izrečene kao posljedica odgovornosti za počinjeni prekršaj:
+1) oduzimanje imovinske koristi;
+2) obaveza naknade štete;
+3) kazneni poeni i
+4) lišenje slobode radi naplate novčane kazne.
+Član 22.
+(Novčana kazna)
+(1) Novčana kazna može se propisati u određenom rasponu ili u fiksnom iznosu.
+(2) Za prekršaje iz oblasti poreza, carina, finansija, zaštite okoliša i koncesija, radnih odnosa i zaštite na radu novčane kazne mogu se propisati u višestrukom iznosu ili kao procenat porezne, carinske, finansijske ili koncesijske obaveze koja je trebala biti plaćena, ili kao procenat ili višestruki iznos vrijednosti robe koja je predmet prekršaja, ali ne u iznosu većem od 200.000,00 KM.
+(3) Kada zakon određuje raspon u visini novčane kazne za određeni prekršaj sud će odrediti visinu kazne uzimajući u obzir sve olakšavajuće i otežavajuće okolnosti uključujući, ali ne ograničavajući se na težinu prekršaja i njegove posljedice, stepen odgovornosti okrivljenog, uvid u evidenciju o njegovim prethodnim prekršajima, njegovu finansijsku situaciju, kao i da li je iskazao kajanje.
+(4) Novčana kazna za fizičko lice ne može se propisati u iznosu nižem od 30,00 KM, za odgovornu osobu u pravnom licu u iznosu nižem od 50,00 KM, za pravno lice u iznosu nižem od 500,00 KM, a za osobu koja obavlja samostalnu poslovnu djelatnost - obrt u iznosu nižem od 100,00 KM.
+(5) Za prekršaj propisan zakonom novčana kazna može se propisati za fizičko lice do 10.000,00 KM, za odgovornu osobu u pravnom licu do 20.000,00 KM, a za pravno lice do 200.000,00 KM.
+(6) Za prekršaj koji počini osoba koja obavlja samostalnu poslovnu djelatnost - obrt zakonom se može propisati novčana kazna do 20.000,00 KM.
+(7) Za prekršaj propisan uredbom ili odlukom vlade, odlukom gradskog ili općinskog vijeća novčana kazna može se propisati za fizičko lice do 3.000,00 KM, za odgovornu osobu u pravnom licu do 5.000,00 KM, za pravno lice do 10.000,00 KM, a za osobu koja obavlja samostalnu poslovnu djelatnost - obrt u iznosu do 6.000,00 KM.
+Član 23.
+(Rok plaćanja novčane kazne)
+(1) Rješenjem o prekršaju odredit će se rok u kojem novčana kazna treba biti plaćena, koji ne može biti kraći od osam dana niti duži od tri mjeseca od dana pravomoćnosti rješenja o prekršaju.
+(2) U slučaju plaćanja novčane kazne u roku određenom na osnovu člana 57. ovog zakona kažnjenik se oslobađa plaćanja 50% iznosa izrečene novčane kazne.
+Član 24.
+(Sticaj)
+(1) Ukoliko okrivljeni jednom ili sa više radnji počini više prekršaja, novčana kazna utvrdit će se za svaki pojedini prekršaj, a onda će biti izrečena jedinstvena novčana kazna na osnovu tako utvrđenih novčanih kazni.
+(2) Izrečena jedinstvena novčana kazna iz stava (1) ovog člana mora biti veća od svake pojedinačne utvrđene novčane kazne, ali ne smije preći zbir utvrđenih novčanih kazni.
+Član 25.
+(Uvjetna osuda)
+(1) Uvjetnom osudom sud okrivljenom utvrđuje novčanu kaznu i/ili zaštitnu mjeru i istovremeno određuje da se ona neće izvršiti ako okrivljeni za vrijeme koje odredi sud, a koje ne može biti kraće od šest mjeseci niti duže od jedne godine (vrijeme provjere), ne izvrši novi prekršaj ili ispuni drugi uvjet koji mu odredi sud.
+(2) Pri odlučivanju hoće li izreći uvjetnu osudu sud će, vodeći računa o svrsi uvjetne osude, posebno uzeti u obzir ličnost okrivljenog, njegov raniji život, njegovo ponašanje poslije izvršenog prekršaja, stepen prekršajne odgovornosti i druge okolnosti pod kojima je prekršaj izvršen.
+(3) Zaštitne mjere izrečene uz uvjetnu osudu se izvršavaju.
+Član 26.
+(Opoziv uvjetne osude)
+(1) Uvjetna osuda opozvat će se ako uvjetno kažnjeni u roku za koji je odgođeno izvršenje kazne i/ili zaštitne mjere izvrši novi isti takav ili teži prekršaj, ili ako ne ispuni postavljeni uvjet.
+(2) U slučaju opozivanja uvjetne osude sud koji vodi prekršajni postupak izreći će, primjenom odredaba člana 24. ovog zakona, kaznu i/ili zaštitnu mjeru za ranije izvršeni i za novi prekršaj, uzimajući kaznu i/ili zaštitnu mjeru iz opozvane odluke kao već utvrđenu.
+Član 27.
+(Ukor)
+(1) Ukor je prekršajnopravna sankcija koja se može primijeniti prema počiniocu prekršaja za koji je propisana kao jedina kazna novčana kazna do 3.000,00 KM, a sud utvrdi da postoje okolnosti koje u značajnoj mjeri umanjuju odgovornost okrivljenog, te da se radi o očito lahkom obliku tog prekršaja, a da se, s obzirom na sve okolnosti koje se tiču počinioca ili njegovog odnosa prema oštećenom i naknadi štete prouzrokovane prekršajem i da postoje uvjeti na osnovu kojih sud može zaključiti da će se okrivljeni ubuduće uzdržati od činjenja prekršaja i bez kažnjavanja novčanom kaznom.
+(2) Ukor se može primijeniti i na prekršaje počinjene u sticaju ako su se za svaki od tih prekršaja stekli uvjeti iz stava (1) ovog člana.
+Član 28.
+(Zaštitne mjere)
+(1) Zaštitne mjere mogu se propisati samo zakonom.
+(2) Za prekršaj se mogu propisati sljedeće zaštitne mjere:
+1) oduzimanje predmeta,
+2) zabrana vršenja poziva, djelatnosti ili dužnosti,
+3) potpuna ili djelimična zabrana upravljanja motornim vozilom,
+4) liječenje od zavisnosti i
+5) zabrana pristupa oštećenom, objektima ili mjestu izvršenja prekršaja.
+(3) Zakonima koji propisuju prekršaje mogu se odrediti dodatne vrste zaštitnih mjera, s tim da svaka zaštitna mjera koja nije predmet direktnog izvršenja od organa vlasti mora biti uvjetovana dobrovoljnim pristankom okrivljenog na takvu zaštitnu mjeru od okrivljenog.
+Član 29.
+(Izricanje zaštitnih mjera)
+(1) Sud može rješenjem o prekršaju okrivljenom izreći jednu ili više zaštitnih mjera. Kada razlozi za izricanje zaštitnih mjera prestanu postojati, zaštitna mjera bit će opozvana.
+(2) Trajanje zaštitne mjere predstavlja najkraći period potreban da se okrivljeni spriječi da počini sličan prekršaj, kao što je određeno od suda, uzimajući u obzir sve olakšavajuće i otežavajuće okolnosti, uključujući, ali ne ograničavajući se na težinu prekršaja i njegove posljedice, stepen odgovornosti okrivljenog, uvid u evidenciju o njegovim prethodnim prekršajima ili krivičnim djelima, njegovu finansijsku situaciju, kao i da li je iskazao kajanje.
+(3) Ovlašteni organ može prekršajnim nalogom izreći samo jednu zaštitnu mjeru u najkraćem predviđenom trajanju, kao i zaštitnu mjeru oduzimanja predmeta.
+Član 30.
+(Sticaj zaštitnih mjera)
+Ako je jednim rješenjem za više prekršaja utvrđeno više zaštitnih mjera iste vrste za koje je propisano da će se izreći u određenom trajanju, izreći će se jedinstvena zaštitna mjera jednaka zbiru trajanja pojedinačno utvrđenih zaštitnih mjera, s tim da ona ne može preći najvišu zakonsku granicu trajanja te vrste zaštitne mjere.
+Član 31.
+(Oduzimanje predmeta)
+(1) Predmeti koji su upotrijebljeni, ili su bili namijenjeni za izvršenje prekršaja, ili koji su nastali izvršenjem prekršaja mogu se oduzeti ako su vlasništvo okrivljenog.
+(2) Predmeti iz stava (1) ovog člana mogu se oduzeti i kada nisu vlasništvo okrivljenog ako je to neophodno radi zaštite interesa opće sigurnosti, čuvanja života i zdravlja ljudi, sigurnosti robnog prometa ili razloga javnog morala, kao i u drugim slučajevima predviđenim zakonom.
+(3) Sud koji donosi rješenje o prekršaju ili ovlašteni organ koji izdaje prekršajni nalog odredit će, u skladu s posebnim propisima, da li će se oduzeti predmeti uništiti, prodati ili predati odgovarajućem ovlaštenom organu. Sredstva ostvarena prodajom pripadaju odgovarajućem budžetu u skladu sa zakonom koji uređuje pripadnost javnih prihoda.
+(4) Predmeti koji se prema zakonu mogu oduzeti ili se oduzimaju, oduzet će se i kada se prekršajni postupak ne završi odlukom kojom se okrivljeni oglašava odgovornim, ako to zahtjevaju interesi opće sigurnosti ili razlozi morala, kao i u drugim slučajevima određenim posebnim zakonom. O oduzimanju predmeta donosi se posebno rješenje.
+(5) Oduzimanjem predmeta ne dira se u pravo trećih osoba na naknadu štete od okrivljenog.
+Član 32.
+(Zabrana vršenja poziva, djelatnosti ili dužnosti)
+(1) Zabrana odgovornoj osobi da obavlja određene poslove sastoji se u zabrani okrivljenom da obavlja poslove koje je obavljao u vrijeme izvršenja prekršaja ili rukovodnu dužnost u privrednom ili finansijskom poslovanju, ili određenu vrstu poslova ili sve ili neke dužnosti vezane uz raspolaganje, korištenje, upravljanje ili rukovanje povjerenom imovinom.
+(2) Ako propisom kojim se određuje prekršaj nije drugačije određeno, zabrana odgovornoj osobi da obavlja određene poslove izriče se kada odgovorna osoba zloupotrijebi dužnost radi izvršenja prekršaja.
+(3) Sud može okrivljenom fizičkom licu zabraniti vršenje poziva, djelatnosti ili dužnosti ako je počinilo prekršaj vršeći takav poziv, djelatnost ili dužnost i ako sud utvrdi da bi dopuštanje okrivljenom da i dalje vrši takav poziv, djelatnost ili dužnost moglo rezultirati počinjenjem prekršaja u budućnosti. Zabrana kažnjenoj osobi da obavlja određene poslove može se izreći u trajanju od tri mjeseca do jedne godine, računajući od pravomoćnosti rješenja.
+(4) Sud može zabraniti okrivljenom pravnom licu vršenje određene djelatnosti ili narediti zatvaranje poslovnih prostorija ili nametnuti druga ograničenja u vršenju djelatnosti pravnom licu u periodu do šest mjeseci koja se ukažu odgovarajućim u sprečavanju budućeg činjenja prekršaja.
+Član 33.
+(Ograničenje upravljanja motornim vozilima)
+(1) Kao sankciju za prekršaj počinjen u saobraćaju sud i ovlašteni organi mogu okrivljenom zabraniti upravljanje motornim vozilima ili određenom vrstom motornog vozila na period koji nije kraći od 30 dana niti duži od jedne godine.
+(2) Kao sankciju za prekršaj počinjen u saobraćaju sud može kažnjenom odrediti ograničenja na upravljanje motornim vozilima kao što su: zabrana upravljanja vozilom tokom noći, ili preko određene udaljenosti od kuće, ograničenje na vožnju do i s posla, ili ograničenje samo na vožnju vezanu uz obavljanje posla na period koji nije kraći od 30 dana niti duži od jedne godine.
+(3) Oduzimanje vozačke dozvole može se izreći kao posljedica dodijeljenih kaznenih poena u skladu sa Zakonom o osnovama sigurnosti saobraćaja na putevima u Bosni i Hercegovini ("Službeni glasnik BiH", br. 6/06, 75/06, 44/07, 48/10 i 84/13). Sud ili ovlašteni organi ne mogu promijeniti broj kaznenih poena koji se automatski uračunavaju kao rezultat odgovornosti za prekršaj u skladu sa Zakonom o osnovama sigurnosti saobraćaja na putevima u Bosni i Hercegovini.
+Član 34.
+(Liječenje od zavisnosti)
+(1) Uvjetna, ili ublažena sankcija može se izreći okrivljenom koji je počinio prekršaj pod odlučujućim djelovanjem zavisnosti od alkohola ili opojnih droga pod uvjetom da se podvrgne liječenju zavisnosti od alkohola i droga u određenom periodu, ili dok se ne ustanovi da ne postoji potreba za daljnjim liječenjem okrivljenog, zasnovana na mišljenju specijaliziranih stručnjaka zaduženih za liječenje, uz uvjet da trajanje takvog liječenja nije duže od jedne godine.
+(2) Sud će opozvati uvjetnu ili ublaženu sankciju ukoliko se kažnjeni ne podvrgne određenom liječenju.
+Član 35.
+(Zabrana pristupa oštećenom, objektima ili mjestu izvršenja prekršaja)
+(1) Zabrana pristupa oštećenom, objektima ili mjestu izvršenja prekršaja izriče se radi sprečavanja počinioca da ponovi prekršaj ili nastavi ugrožavati oštećenog.
+(2) Mjera iz stava (1) ovog člana izriče se na pisani prijedlog podnosioca zahtjeva za pokretanje prekršajnog postupka ili na usmeni zahtjev oštećenog istaknut na saslušanju u prekršajnom postupku.
+(3) Odluka suda kojom se izriče zabrana pristupa mora sadržavati: vremenski period u kojem se izvršava, podatke o osobama kojima počinilac ne smije pristupiti, naznačenje objekata kojima ne smije pristupiti i u koje vrijeme, mjesta ili lokacije u okviru kojih se počiniocu zabranjuje pristup.
+Član 36.
+(Kršenje zabrane pristupa oštećenom, objektima ili mjestu izvršenja prekršaja)
+(1) Kažnjenik kojem je pravomoćnim rješenjem izrečena mjera zabrane pristupa, a koji pristupi oštećenom, objektima ili mjestu izvršenja prekršaja tokom trajanja mjere ili ostvari kontakt s oštećenim na nedozvoljen način ili u nedozvoljeno vrijeme, bit će kažnjen novčanom kaznom do 1.000,00 KM.
+(2) Kaznom iz stava (1) ovog člana bit će kažnjen i oštećeni na čiji je prijedlog mjera određena, koji svojim radnjama navede kažnjenog da prekrši zabranu pristupa.
+Član 37.
+(Oduzimanje imovinske koristi i naknada štete)
+(1) Niko ne može zadržati imovinsku korist pribavljenu izvršenjem prekršaja.
+(2) Od okrivljenog će se oduzeti novac, predmeti od vrijednosti i svaka druga imovinska korist koji su pribavljeni prekršajem ili će se okrivljeni obavezati da nadoknadi štetu koju je pretrpio oštećeni.
+(3) Iznos i vrsta oduzimanja ili naknada štete odredit će se rješenjem o prekršaju.
+(4) Ako kažnjenik u određenom roku ne plati novčani iznos iz stava (2) ovog člana, naplata će se izvršiti prinudnim putem.
+Član 38.
+(Oduzimanje imovinske koristi od drugog)
+Ako je prekršajem pribavljena imovinska korist za drugo fizičko lice ili za pravno lice, ta će se korist oduzeti.
+Član 39.
+(Zaštita oštećenog)
+Ako je oštećenom u prekršajnom postupku dosuđen imovinsko-pravni zahtjev, oduzimanje imovinske koristi izreći će se samo ukoliko ta korist prelazi dosuđeni imovinsko-pravni zahtjev oštećenog.
+Član 40.
+(Prekršajni postupak prema maloljetnicima)
+(1) Odredbe čl. 1., 2., 3., 4., 5., 12., 15., 16., 18. i 21. ovog zakona primjenjuju se prema maloljetnim počiniocima prekršaja ukoliko u čl. od 41. do 44. ovog zakona nije drugačije određeno.
+(2) Prema maloljetniku koji u vrijeme izvršenja prekršaja nije navršio 14 godina života ne može se pokrenuti, ni voditi prekršajni postupak.
+(3) Prekršajni postupak prema maloljetniku može se pokrenuti samo putem zahtjeva za pokretanje prekršajnog postupka.
+(4) Maloljetnik mora imati branitelja tokom vođenja prekršajnog postupka.
+(5) Podnosilac zahtjeva za pokretanje prekršajnog postupka protiv maloljetnika jednu kopiju zahtjeva dostavlja sudu, jednu kopiju zahtjeva nadležnom organu starateljstva, a jednu kopiju maloljetniku i njegovim roditeljima, odnosno zakonskom zastupniku lično ili putem pošte.
+(6) Sudija koji vodi postupak protiv maloljetnika pribavlja podatke o ličnosti maloljetnika od organa starateljstva i poziva organ starateljstva na usmeni pretres. Organ starateljstva ima pravo upoznati se s tokom usmenog pretresa, u toku postupka davati prijedloge i ukazivati na činjenice i dokaze koji su od važnosti za donošenje pravilne odluke.
+(7) Kada je maloljetnik koji nije navršio 14 godina počinio prekršaj zbog propuštanja dužnog nadzora roditelja, usvojitelja, odnosno staratelja, a ove osobe su bile u mogućnosti da takav nadzor vrše, roditelj, usvojitelj ili staratelj maloljetnika bit će kažnjen za prekršaj kao da ga je sam učinio.
+(8) Zakonom se može propisati da će za prekršaj biti kažnjen i roditelj, usvojitelj, odnosno staratelj maloljetnika koji ima od 14 do 18 godina koji je počinio prekršaj ako je počinjeni prekršaj posljedica propuštanja nadzora nad maloljetnikom, a bili su u mogućnosti vršiti takav nadzor.
+Član 41.
+(Sankcije prema maloljetnicima)
+(1) Maloljetniku koji je u vrijeme izvršenja prekršaja navršio 14 a nije navršio 16 godina života (mlađi maloljetnik) mogu se izreći samo odgojne mjere.
+(2) Maloljetniku koji je u vrijeme izvršenja prekršaja navršio 16 a nije navršio 18 godina života (stariji maloljetnik) mogu se izreći odgojne mjere kao i bilo koja od sankcija ili mjera određenih u članu 21. stav (1) i (2) tač. 1) i 2) ovog zakona.
+Član 42.
+(Uvjeti za primjenu odgojnih mjera)
+(1) Uvjeti za primjenu odgojnih mjera starijem maloljetniku su njegovo priznanje da je počinio prekršaj i izrazio žaljenje zbog počinjenog prekršaja i da je dobrovoljno pristao na takve odgojne mjere.
+(2) U slučaju da stariji maloljetnik ne da dobrovoljni pristanak za primjenu odgojne mjere iz stava (1) ovog člana sud će izreći sankciju iz člana 41. stav (2) ovog zakona.
+Član 43.
+(Vrste odgojnih mjera)
+Prema maloljetniku se mogu odrediti sljedeće odgojne mjere:
+1) nalaganje ličnog izvinjenja oštećenom;
+2) nalaganje redovnog pohađanja škole;
+3) rad za opće dobro na slobodi;
+4) nalaganje prihvatanja odgovarajućeg zaposlenja;
+5) nalaganje maloljetniku da posjećuje odgojne, obrazovne, psihološke i druge vrste savjetovališta;
+6) nalaganje maloljetniku da se suzdržava od konzumiranja alkoholnih pića i opojnih droga;
+7) zabrana druženja s osobama koje imaju loš uticaj na maloljetnika i
+8) policijska kontrola kretanja poslije određenog vremena.
+Član 44.
+(Izbor odgojnih mjera)
+(1) Prilikom odlučivanja o izboru određene odgojne mjere sud će uzeti u obzir ukupne interese maloljetnika i oštećenog. Pritom će posebno voditi računa da primijenjenim odgojnim mjerama ne ugrozi redovno školovanje maloljetnika ili njegov rad. Izbor i primjena odgojnih mjera vršit će se u saradnji s roditeljima ili starateljima maloljetnika i organima socijalnog staranja.
+(2) Sud može ukinuti ili izmijeniti mjeru koju je odredio. Odgojne mjere mogu trajati najduže jednu godinu.
+Član 45.
+(1) Sud će postupiti u skladu sa odredbom stava (1) člana 44. ovog zakona i ako je maloljetnik postao punoljetan prije donošenja odluke.
+(2) Ako je maloljetnik postao punoljetan poslije donošenja odluke kojom je bila izrečena odgojna mjera, sud može u skladu sa stavom (1) ovog člana rješenjem obustaviti izvršenje te mjere.
+Član 46.
+Ako se nakon donošenja odluke kojom je izrečena odgojna mjera pojave okolnosti kojih nije bilo u vrijeme donošenja odluke ili se za njih nije znalo, a one bi bile od uticaja na donošenje odluke, izvršenje izrečene mjere može se obustaviti ili se izrečena mjera može zamijeniti drugom odgojnom mjerom.
+Član 47.
+(Ponovno odlučivanje o odgojnim mjerama)
+Ako je od pravomoćnosti odluke kojom je izrečena neka od odgojnih mjera prošlo više od šest mjeseci a izvršenje nije započeto, sud će ponovno odlučiti o potrebi da se izvrši izrečena mjera. Pri tome može odlučiti da se ranije izrečena mjera izvrši, ne izvrši, ili se zamijeni nekom drugom odgojnom mjerom.
+Član 48.
+Sud je dužan voditi posebnu evidenciju za svakog maloljetnika kojem je izrečena odgojna mjera.
+Član 49.
+(Izricanje odgojne mjere ili kazne za prekršaje u sticaju)
+(1) Ako je maloljetnik učinio više prekršaja u sticaju, sud će pri izboru odgojnih mjera jedinstveno cijeniti sve prekršaje i izreći samo jednu mjeru.
+(2) Ako sud za neki od prekršaja utvrdi kaznu, a za druge prekršaje odgojne mjere, izreći će samo kaznu. Tako će postupiti i ako se nakon izrečene odgojne mjere, odnosno kazne utvrdi da je maloljetnik prije ili poslije njenog izricanja učinio prekršaj.
+Član 50.
+(Zastara pokretanja i vođenja postupka)
+Prekršajni postupak ne može se pokrenuti ni voditi za:
+1) prekršaje za koje je propisana novčana kazna u iznosu do 3.000,00 KM kad prođu dvije godine od dana kada je prekršaj izvršen, ako ovim zakonom nije drugačije propisano;
+2) prekršaje za koje je propisana novčana kazna u iznosu većem od 3.000,00 KM kad prođu tri godine od dana kada je prekršaj izvršen, ako ovim zakonom nije drugačije propisano;
+3) prekršaje u oblasti poreza, carina, finansija, rada, zaštite na radu, zaštite okoliša i koncesija kada prođe pet godina od dana kada je prekršaj izvršen.
+Član 51.
+(Zastara izvršenja zaštitnih mjera)
+Zastara izvršenja zaštitnih mjera propisanih ovim zakonom nastupa kada prođe jedna godina od dana pravomoćnosti rješenja ili konačnog i izvršnog prekršajnog naloga kojim su te zaštitne mjere izrečene.
+Član 52.
+(Tok i prekid zastare)
+(1) Zastara za pokretanje i vođenje prekršajnog postupka počinje od dana kada je prekršaj izvršen, a zastara za izvršenje novčane kazne i zaštitne mjere od dana pravomoćnosti rješenja ili konačnog i izvršnog prekršajnog naloga kojim je novčana kazna i zaštitna mjera izrečena.
+(2) Zastara se prekida svakom procesnom radnjom ovlaštenog organa ili suda poduzetom radi gonjenja počinioca prekršaja, vođenja postupka ili izvršenja zaštitne mjere.
+(3) Svakim prekidom zastara počinje ponovo teći, ali bez obzira na prekide, zastara u svakom slučaju nastaje kada prođe dva puta onoliko vremena koliko je predviđeno u čl. 50. i 51. ovog zakona.
+Član 53.
+(Prekršajni postupak)
+(1) Prekršajni postupak pokreće se na sljedeći način:
+1) izdavanjem prekršajnog naloga ili
+2) podnošenjem zahtjeva za pokretanje prekršajnog postupka sudu koji je nadležan prema članu 15. stav (2) ovog zakona.
+(2) Zahtjev za pokretanje prekršajnog postupka podnijet će se samo u slučajevima kada ne postoje uvjeti za izdavanje prekršajnog naloga određeni u članu 54. ovog zakona.
+Član 54.
+(Izdavanje prekršajnog naloga)
+(1) Ovlašteni organ izdat će prekršajni nalog ukoliko ustanovi da je prekršaj iz njegove nadležnosti utvrđen na jedan od sljedećih načina:
+1) neposrednim opažanjem od ovlaštene službene osobe prilikom inspekcije, nadzora i pregleda, kao i uvida u službenu evidenciju nadležnog organa, kao i druge službene dokumentacije koje je pravno ili fizičko lice koje obavlja samostalnu poslovnu djelatnost - obrt dužno voditi, odnosno imati u skladu sa zakonom ili službene zabilješke ili pisane prijave drugih ovlaštenih organa;
+2) na osnovu podataka dobijenih upotrebom uređaja za nadzor ili mjerenje;
+3) prilikom provođenja inspekcijskog ili drugog nadzora, pregledom dokumentacije, prostorija i robe, ili na drugi zakonit način ili na drugi posredan način na osnovu izvršenog nadzora ili izvještaja drugog ovlaštenog organa ili
+4) na osnovu priznanja okrivljenog o izvršenju prekršaja pred ovlaštenim organom na licu mjesta počinjenja prekršaja ili u nekom drugom sudskom ili drugom postupku.
+(2) Prekršajni nalog može se izdati samo u slučajevima kada odgovarajući zakon ili drugi propis određuje fiksnu novčanu kaznu, kada novčana kazna može biti izračunata korištenjem matematičke formule, ili kada ovlašteni organ odluči izreći minimalnu novčanu kaznu, odnosno zaštitnu mjeru u najkraćem trajanju ili zaštitnu mjeru oduzimanja predmeta određenu takvim zakonom ili drugim propisom.
+(3) Ako okrivljeni izvrši više prekršaja u sticaju, tada ovlašteni organ može prekršajnim nalogom izreći jedinstvenu novčanu kaznu primjenom člana 24. ovog zakona, a ako je za samo jedan od izvršenih prekršaja predviđena zaštitna mjera, može izreći i tu zaštitnu mjeru u najkraćem predviđenom trajanju.
+(4) Ovlašteni organ koji je izdao prekršajni nalog može u svako vrijeme ispraviti greške u pisanju, ili ostale očigledne greške po službenoj dužnosti, ili na prijedlog strana u postupku.
+(5) O ispravci iz stava (4) ovog člana donosi se poseban zaključak o ispravljanju greške u nalogu, u skladu sa odredbama Zakona o upravnom postupku.
+Član 55.
+(Sadržaj prekršajnog naloga)
+(1) Prekršajni nalog izdaje se u pisanoj formi i mora sadržavati sljedeće podatke:
+1) naziv: prekršajni nalog;
+2) naziv ovlaštenog organa koji ga je izdao;
+3) ime i svojstvo službene osobe koja ga je izdala;
+4) jedinstveni broj određen od ovlaštenog organa;
+5) datum izdavanja i datum uručenja kao što je određeno u članu 56. stav (3) ovog zakona;
+6) prekršaj koji je počinio okrivljeni, naziv zakona i član koji određuje prekršaj;
+7) u slučajevima gdje je okrivljeni fizičko lice - njegovo ime i prezime, njegova stalna adresa, odnosno adresa iz evidencije prebivališta i boravišta, jedinstveni matični broj, a za strance broj pasoša, država izdavanja pasoša, datum rođenja, kao i mjesto zaposlenja okrivljenog;
+8) u slučajevima gdje je okrivljeni pravno lice - njegov naziv i sjedište i jedinstven identifikacijski broj;
+9) mjesto, datum i vrijeme kada je prekršaj počinjen, kao i činjenični opis radnji koje određuju pravnu kvalifikaciju prekršaja;
+10) utvrđena sankcija, uključujući novčanu kaznu i/ili zaštitnu mjeru;
+11) iznos naknade štete, ukoliko se taj iznos može odrediti prema objektivnim mjerilima i troškovi postupka ukoliko su određeni zakonom u fiksnom iznosu;
+12) uputstvo da se novčana kazna, šteta i troškovi trebaju platiti, ili da okrivljeni mora zatražiti sudsko odlučivanje o prekršajnom nalogu u roku osam dana od dana uručenja;
+13) uputstvo o načinu plaćanja novčane kazne, štete i troškova i
+14) potpis ovlaštenog predstavnika ovlaštenog organa.
+(2) Ako je prekršaj počinjen u saobraćaju i uključuje motorno vozilo, sljedeći dodatni podaci trebaju biti sadržani u prekršajnom nalogu:
+1) registarski broj vozila i broj saobraćajne dozvole,
+2) broj vozačke dozvole vozača, ako je poznat i
+3) broj kaznenih poena koje zakon propisuje za takav prekršaj.
+(3) Prekršajni nalog, pored ostalog, sadržavat će sljedeća uputstva:
+1) okrivljeni ima pravo podnijeti zahtjev za sudsko odlučivanje o prekršajnom nalogu, naznačavajući kojem sudu i u kojem roku okrivljeni treba podnijeti zahtjev;
+2) kazna izrečena od suda može biti veća od one koja je izrečena prekršajnim nalogom;
+3) okrivljeni će biti dužan naknaditi sudske troškove u slučaju kada zatraži sudsko odlučivanje o prekršajnom nalogu ukoliko sud utvrdi da je on odgovoran za prekršaj naveden u prekršajnom nalogu;
+4) u slučaju prekršaja iz oblasti saobraćaja za koje zakon propisuje dodjeljivanje kaznenih poena, prihvatanje odgovornosti, ili utvrđivanje odgovornosti od suda rezultirat će dodjeljivanjem tih kaznenih poena.
+(4) U slučaju kada sud postupa po zahtjevu za sudsko odlučivanje, ako je nalog nerazumljiv ili nepotpun, pozvat će se ovlašteni organ da u roku osam dana uredi nalog.
+(5) Prekršajni nalog sadržavat će određeno mjesto na kojem će se okrivljeni potpisati u slučaju da zahtijeva sudsko rješavanje u skladu sa članom 59. ovog zakona.
+(6) Ako postoji dogovor između ovlaštenog organa i suda prekršajnim nalogom može se odrediti datum i vrijeme usmenog pretresa koji ne može biti kraći od osam dana od datuma izdavanja prekršajnog naloga.
+(7) Svaki ovlašteni organ može imati vlastiti obrazac prekršajnog naloga. Obrazac takvog prekršajnog naloga treba biti odobren od Federalnog ministarstva pravde.
+(8) U slučaju da su ovlašteni organi Bosne i Hercegovine prekršajni nalozi koji se izdaju na obrascu odobrenom od Ministarstva pravde Bosne i Hercegovine bit će pravovaljani, u smislu ovog zakona, ako sadrže podatke iz st. od (1) do (3) ovog člana.
+Član 56.
+(Uručenje prekršajnog naloga)
+(1) Prekršajni nalog sastoji se od originala i najmanje dvije kopije. Original zadržava ovlašteni organ u svojoj evidenciji. Dvije kopije uručuju se okrivljenom.
+(2) Prekršajni nalog može se uručiti okrivljenom osobnim uručenjem ili uručenjem putem pošte.
+Član 57.
+(Prihvatanje odgovornosti)
+Okrivljeni može prihvatiti odgovornost za prekršaj tako što će platiti novčanu kaznu i sve druge obaveze utvrđene prekršajnim nalogom u određenom roku, ili obavijestiti ovlašteni organ o prihvatanju sankcije određene u prekršajnom nalogu, ukoliko je prekršajnim nalogom specificirano da je takvo obavještenje prihvatljiva alternativa. Svaka osoba koja prihvati odgovornost u skladu sa ovim članom ne može kasnije odbijati odgovornost, ili se žaliti na visinu kazne ili vrstu bilo koje sankcije ili troškova.
+Član 58.
+(Propuštanje)
+(1) Ako je prekršajni nalog pravilno dostavljen u skladu sa odredbama člana 56. ovog zakona i ako okrivljeni u roku koji je određen u prekršajnom nalogu ne prihvati odgovornost za prekršaj u skladu sa odredbama člana 57. ovog zakona, ili ne zatraži odlučivanje o predmetu pred sudom, smatrat će se da je okrivljeni prihvatio odgovornost propuštanjem i prekršajni nalog će postati konačan i izvršan.
+(2) Kada je novčana kazna određena zbog propuštanja u skladu sa stavom (1) ovog člana, ovlašteni organ koji je izdao prekršajni nalog odredit će dodatnu taksu za naplatu u iznosu od 20,00 KM.
+(3) U slučaju kada je prekršajni nalog uručen u skladu sa članom 56. stav (2) tačka 3) ovog zakona ovlašteni organ obavijestit će vlasnika vozila ličnim uručenjem ili putem pošte da takav prekršajni nalog postaje konačan i izvršan u roku 10 dana od datuma obavještavanja.
+Član 59.
+(Postupak po zahtjevu za odlučivanje od suda)
+(1) Okrivljeni koji primi prekršajni nalog i želi se o predmetu odlučiti pred sudom mora:
+1) zatražiti sudsko odlučivanje tako što će na odgovarajućem mjestu potpisati jednu kopiju prekršajnog naloga i dostaviti je sudu kao što je određeno u prekršajnom nalogu prije isteka roka određenog prekršajnim nalogom i
+2) pojaviti se pred sudom na dan i u vrijeme određeno za usmeni pretres po prekršajnom nalogu, ili, ako datum nije naveden, na dan koji je sud odredio za usmeni pretres.
+(2) Kada okrivljeni zahtijeva sudsko odlučivanje, sankcije određene u prekršajnom nalogu smatrat će se ništavnim. Sud može izreći bilo koju sankciju koju zakon dozvoljava, uključujući i strožiju sankciju od sankcije izrečene prekršajnim nalogom.
+Član 60.
+(Osobe koje nemaju prebivalište u Bosni i Hercegovini)
+Okrivljenom koji nema prebivalište u Bosni i Hercegovini, a primi prekršajni nalog može se ponuditi mogućnost plaćanja novčane kazne u najbližoj policijskoj stanici, ili u uredu ovlaštenog organa.
+Član 61.
+Ukoliko okrivljeni iz člana 60. ovog zakona ne plati novčanu kaznu, smatrat će se da je podnio zahtjev za sudsko rješavanje i tada predstavnik ovlaštenog organa može okrivljenog odmah izvesti pred nadležni sud. Ako nije moguće okrivljenog odmah izvesti pred sud, predstavnik ovlaštenog organa može poduzeti one radnje kojima bi se osiguralo njegovo pojavljivanje u skladu sa odredbama člana 17. ovog zakona.
+Član 62.
+(Sadržaj zahtjeva za pokretanje prekršajnog postupka)
+(1) Zahtjev za pokretanje prekršajnog postupka treba biti na standardnom obrascu propisanom od Federalnog ministarstva pravde i treba sadržavati sljedeće podatke:
+1) naziv ovlaštenog organa koji podnosi zahtjev;
+2) prekršaj koji se okrivljenom stavlja na teret, naziv i član propisa koji propisuje prekršaj;
+3) u slučaju da se radi o fizičkom licu - ime i prezime okrivljenog i, ukoliko je poznata, njegova stalna adresa, odnosno adresa iz evidencije prebivališta i boravišta, jedinstven matični broj, a za strance broj pasoša, država izdavanja pasoša, datum rođenja i mjesto zaposlenja;
+4) u slučaju da se radi o pravnom licu - njegov naziv i sjedište i jedinstven identifikacijski broj;
+5) činjenični opis radnji koji određuje pravnu kvalifikaciju prekršaja, vrijeme i mjesto počinjenja prekršaja i druge okolnosti neophodne za određivanje prekršaja,
+6) procijenjenu visinu naknade štete i druge troškove;
+7) prijedlog dokaza koji se trebaju izvesti i
+8) potpis ovlaštenog predstavnika ovlaštenog organa.
+(2) Podnosilac zahtjeva jednu kopiju zahtjeva dostavlja sudu, a drugu kopiju dostavlja okrivljenom, lično ili putem pošte.
+(3) Zahtjev za pokretanje prekršajnog postupka može biti povučen od ovlaštenog organa koji ga je podnio sve do donošenja rješenja o prekršaju po zahtjevu za pokretanje prekršajnog postupka.
+(4) Ako je zahtjev nerazumljiv, ili nepotpun, sud će podnosiocu uputiti poziv da zahtjev u određenom roku, a najkasnije u roku osam dana od dana dostavljanja poziva, ispravi, odnosno dopuni, a ako to ne učini, zahtjev će biti odbačen.
+U pozivu za ispravku, odnosno dopunu podneska podnosilac će biti upozoren na posljedice propuštanja.
+Član 63.
+(Sporazum o sankciji)
+(1) Ovlašteni organ, uz zahtjev za pokretanje prekršajnog postupka, može priložiti ponudu okrivljenom da prihvati predloženu sankciju koja može biti novčana kazna i/ili predložena zaštitna mjera. Ako okrivljeni prihvati predloženu sankciju ili ako se ovlašteni organ i okrivljeni sporazumiju o drugoj sankciji prije donošenja odluke o prekršaju, ovlašteni organ može podnijeti sudu na odobrenje pisani sporazum koji sadrži detalje o sankciji, potpisan od okrivljenog i ovlaštenog predstavnika ovlaštenog organa. U opravdanim slučajevima sporazumom o sankciji može se predvidjeti i plaćanje novčane kazne u ratama u roku do šest mjeseci. Sud će odobriti sporazum između okrivljenog i ovlaštenog organa ako utvrdi da on ispunjava zakonske uvjete.
+(2) Za sve što nije regulirano ovim članom analogno se primjenjuju odredbe člana 246. Zakona o krivičnom postupku.
+(3) Sporazum o sankciji koji sud odobri može biti izvršen od ovlaštenog organa u skladu sa odredbama čl. od 102. do 105. ovog zakona.
+Član 64.
+(Suđenje)
+Suđenje u prekršajnom postupku provodi se na usmenom pretresu koji vodi sudija pojedinac. Ukoliko ne postoje izuzetne okolnosti, prekršajni postupak trebao bi se okončati na jednom usmenom pretresu.
+Član 65.
+(Zakazivanje usmenog pretresa)
+(1) Kada sud primi zahtjev za odlučivanje od suda u skladu sa članom 59. ovog zakona, ili zahtjev za pokretanje prekršajnog postupka (u daljnjem tekstu: zahtjev) ispitat će takav zahtjev da bi utvrdio da li je podnesen u roku koji je određen zakonom.
+(2) Ako sud utvrdi da zahtjev nije pravovremeno podnesen, ili da postoje drugi zakonski razlozi zbog kojih se postupak ne može pokrenuti ni voditi, donijet će rješenje o odbacivanju zahtjeva. Kopije tog rješenja dostavit će se lično ili putem pošte ovlaštenom organu i okrivljenom.
+(3) Ukoliko je zahtjev pravovremeno podnesen i ako datum i vrijeme usmenog pretresa nisu već određeni u skladu sa članom 55. stav (6) ovog zakona, sud će odrediti datum i vrijeme usmenog pretresa i o tome obavijestiti okrivljenog, ovlašteni organ i oštećenog, uz primjenu sljedećih pravila o pozivanju:
+1) pozivanje se vrši dostavljanjem pisanog poziva koji sadrži: naziv suda koji poziva, ime i prezime okrivljenog, naziv prekršaja koji mu se stavlja na teret, mjesto, dan i sat održavanja suđenja, uz naznačenje obaveza i posljedica propuštanja prema čl. 66., 67. i 68. ovog zakona, te otisak službenog pečata, ime i prezime sudije koji poziva;
+2) u pozivu okrivljenom, uz koji se dostavlja kopija zahtjeva za pokretanje prekršajnog postupka, navest će se da se poziva u svojstvu okrivljenog, uz upozorenje da je dužan odmah obavijestiti sud o promjeni adrese, kao i o namjeri promijene boravišta;
+3) kada se okrivljeni prvi put poziva, poučit će se u pozivu o pravu da uzme branitelja, kao i o njegovim pravima u skladu sa čl. 4. i 5. ovog zakona.
+(4) Ukoliko je zahtjev pravovremeno podnesen i ako su dan i vrijeme usmenog pretresa već određeni u skladu sa članom 55. stav (6) ovog zakona, sud će obavijestiti ovlašteni organ i oštećenog da je okrivljeni podnio zahtjev za odlučivanje od suda.
+(5) Prije početka usmenog pretresa okrivljeni može uložiti pisani prijedlog za obustavljanje prekršajnog postupka iz bilo kojeg od razloga određenih u članu 76. ovog zakona. U tom slučaju sud može:
+1) usvojiti prijedlog i donijeti odluku o obustavljanju prekršajnog postupka,
+2) zahtijevati od ovlaštenog organa ulaganje pisanog odgovora ili
+3) razmotriti takav zahtjev na početku usmenog pretresa.
+Član 66.
+(Propuštanje pojavljivanja okrivljenog)
+Okrivljeni koji se ne pojavi na dan i u vrijeme određeno za usmeni pretres u skladu sa članom 55. stav (6) ili članom 65. stav (3) ovog zakona smatrat će se da je prihvatio odgovornost propuštanjem da se pojavi, ako je:
+1) prekršajni postupak pokrenut putem prekršajnog naloga, prekršajni nalog postat će konačan i izvršan s danom kada je usmeni pretres trebao biti održan u skladu sa članom 58. ovog zakona, ili
+2) prekršajni postupak pokrenut podnošenjem zahtjeva za pokretanje prekršajnog postupka, sud će donijeti odluku o prekršaju u skladu sa članom 78. ovog zakona.
+Član 67.
+(Propuštanje pojavljivanja ovlaštenog organa)
+(1) Ako okrivljeni pristupi na usmeni pretres na dan i u vrijeme određeno za usmeni pretres u skladu sa članom 55. stav (5) ili članom 65. stav (3) ovog zakona, a predstavnik ovlaštenog organa propusti da se pojavi, sud će donijeti odluku o obustavljanju prekršajnog postupka i stavljanju van snage prekršajnog naloga ukoliko je postupak pokrenut prekršajnim nalogom.
+(2) U slučaju da je prekršajni postupak pokrenut zahtjevom za pokretanje prekršajnog postupka, a predstavnik ovlaštenog organa propusti da se pojavi na usmenom pretresu, sud će donijeti rješenje o obustavljanju postupka. Protiv ovog rješenja žalba nije dopuštena.
+(3) Ako na usmeni pretres ne pristupe ni predstavnik ovlaštenog organa niti okrivljeni, a prekršajni postupak je pokrenut putem prekršajnog naloga, prekršajni nalog postat će konačan i izvršan u skladu sa članom 58. ovog zakona, a ako je prekršajni postupak pokrenut podnošenjem zahtjeva za pokretanje prekršajnog postupka, sud će donijeti odluku o obustavljanju postupka. Protiv navedenih odluka suda žalba nije dopuštena.
+Član 68.
+(Svjedoci i isprave)
+(1) Ako okrivljeni, ili ovlašteni organ namjeravaju pozvati svjedoke, oni moraju osigurati pojavljivanje takvih svjedoka na usmenom pretresu. U slučaju da svjedok ne želi dobrovoljno pristupiti na sud svaka od strana može zahtijevati od suda da pozove takve svjedoke. Svaki takav zahtjev mora se podnijeti najmanje osam dana prije dana određenog za usmeni pretres. Ako sud odobri takav zahtjev za pozivanje i ako je neophodno dodatno vrijeme da bi se ti pozivi uručili, sud može odgoditi usmeni pretres.
+(2) Svaka strana koja namjerava podnijeti bilo koju ispravu kao dokaz mora donijeti takvu ispravu na usmeni pretres. Ako takva isprava nije dostupna strani koja je želi podnijeti kao dokaz, ta strana može zahtijevati od suda izdavanje sudskog naloga za njeno pribavljanje. Svaki takav zahtjev mora biti podnesen najmanje tri dana prije dana određenog za usmeni pretres. Ako sud odobri takav zahtjev za izdavanje sudskog naloga i ako je neophodno dodatno vrijeme da bi se taj nalog uručio, sud može odgoditi usmeni pretres. Isprava iz ovog stava mora biti u formi originala ili ovjerene fotokopije.
+(3) Usmeni pretres neće biti odgođen ili pomjeren zbog propuštanja bilo koje strane da osigura svjedoke ili isprave, osim ako sud ne utvrdi da je to propuštanje bilo potpuno van kontrole te strane.
+Član 69.
+(Postupak na usmenom pretresu)
+(1) Usmeni pretres počet će objavljivanjem glavnog sadržaja prekršajnog naloga ili zahtjeva za pokretanje prekršajnog postupka. Sud će tražiti od okrivljenog da se izjasni o tome da li prihvata odgovornost. Ako prihvati odgovornost, sud će razmatrati samo vrstu i visinu sankcije. U tom slučaju rješenje ne treba sadržavati obrazloženje, a u pouci će se navesti da se okrivljeni može žaliti samo u pogledu sankcije i zaštitne mjere. Ako okrivljeni odbija odgovornost, sud će pozvati predstavnika ovlaštenog organa da izloži šta se stavlja na teret okrivljenom.
+(2) Teret dokazivanja da je okrivljeni počinio prekršaj je na ovlaštenom organu.
+(3) Okrivljeni ima pravo iznijeti svoju odbranu, ali nije obavezan govoriti ili iznositi dokaze.
+(4) Svaka strana ima pravo biti saslušana i ispitati svjedoke koje je pozvala protivna strana.
+(5) Svaka strana ima pravo prezentirati dokaze i podnositi prijedloge tokom usmenog pretresa.
+(6) Svaka strana ima pravo na zastupanje ili pomoć od advokata.
+(7) Usmeni pretres bit će proveden od suda na način koji okrivljenom garantira sva prava predviđena čl. 4. i 5. ovog zakona.
+(8) Usmeni pretres bit će otvoren za javnost, osim ako sud odredi da je isključivanje sredstava informiranja ili javnosti opravdano radi zaštite morala, javnog reda i nacionalne sigurnosti u demokratskom društvu, kada to zahtijevaju interesi maloljetnika, ili zaštita privatnosti stranaka, ili u stepenu kada je to stvarno neophodno u posebnim slučajevima kada bi publicitet prejudicirao interese pravde.
+(9) Kopije bilo kojeg pisanog dokaza prezentiranog na usmenom pretresu bit će zadržane u spisu predmeta. Prema pravilu, vodit će se zapisnik koji treba sadržavati samo sažete podatke o toku i sadržaju poduzete radnje. U narativnoj formi u zapisnik se unosi samo ono što je bitno u datim izjavama i svjedočenjima. Pitanja se unose u zapisnik jedino ako su bitna za shvatanje odgovora. Tonski zapisi, ili doslovni prijepisi saslušanja neće se vršiti, osim u slučajevima kada sud odredi da je to opravdano postojanjem posebnih okolnosti.
+(10) Svakom ko ima opravdani interes može se, na pisani zahtjev, dozvoliti razmatranje i kopiranje spisa.
+Član 70.
+(Dokazi)
+(1) Pravo suda da ocjenjuje postojanje ili nepostojanje činjenica nije vezano ni ograničeno posebnim formalnim dokaznim pravilima.
+(2) Sud ne može svoju odluku zasnovati na dokazima do kojih se došlo kršenjem ljudskih prava i sloboda na način utvrđen u članu 11. Zakona o krivičnom postupku.
+Član 71.
+(Prethodno pitanje)
+Ako primjena propisa o prekršaju zavisi o prethodnom rješenju kakvog pravnog pitanja za čije je rješenje nadležan sud u kojem drugom postupku ili koje drugo državno tijelo, sud može sam riješiti i to pitanje prema odredbama koje važe za dokazivanje u prekršajnom postupku. Rješenje tog pravnog pitanja ima učinak samo za prekršajni predmet o kojem se raspravlja.
+Član 72.
+(Rješenje o prekršaju)
+(1) Prekršajni postupak završava se donošenjem rješenja o prekršaju.
+(2) Rješenjem o prekršaju sud će odlučiti:
+1) da se prekršajni postupak obustavlja,
+2) da je okrivljeni odgovoran zbog propuštanja, ili
+3) da se okrivljeni oglašava odgovornim za prekršaj.
+(3) Ako se okrivljeni oglasi odgovornim zbog propuštanja ili odgovornim za prekršaj, rješenjem o prekršaju izreći će se sankcija prema okrivljenom.
+(4) Sud koji je donio rješenje o prekršaju može u svako vrijeme ispraviti greške u pisanju ili ostale očigledne greške po službenoj dužnosti ili na prijedlog strana u postupku.
+Član 73.
+(Donošenje rješenja)
+Sud će na kraju pretresa usmeno objaviti rješenje. U posebnim slučajevima sud može odgoditi donošenje rješenja, ali ni u kojem slučaju rješenje neće biti doneseno po isteku roka od 15 dana od dana kada je usmeni pretres završen.
+Član 74.
+(Rješenje o prekršaju)
+Rješenje o prekršaju sadržavat će sljedeće podatke:
+1) naziv i sastav suda;
+2) broj i datum donošenja rješenja o prekršaju;
+3) prekršaj koji je počinio okrivljeni, naziv i član zakona, ili drugog propisa koji propisuje prekršaj;
+4) kratku ocjenu činjeničnog stanja i navođenje propisa kojim je propisan prekršaj;
+5) da li je prekršajni postupak obustavljen ili je okrivljeni odgovoran zbog propuštanja ili je oglašen krivim;
+6) izrečenu sankciju;
+7) odluku o troškovima prekršajnog postupka;
+8) odluku o imovinsko-pravnom zahtjevu;
+9) pouku o pravnom lijeku i
+10) potpis sudije.
+Član 75.
+(Uručenje rješenja)
+Sud će uručiti kopiju rješenja o prekršaju osobnim uručenjem ili putem pošte okrivljenom i ovlaštenom organu ili oštećenom u roku od pet dana od dana donošenja rješenja o prekršaju.
+Član 76.
+(Obustavljanje postupka)
+Rješenje o prekršaju kojim se obustavlja prekršajni postupak sud će donijeti kada se utvrdi sljedeće:
+1) radnja koja se okrivljenom stavlja na teret nije prekršaj;
+2) sud nije nadležan za odlučivanje;
+3) postupak je vođen bez zahtjeva ovlaštenog organa;
+4) okrivljeni je zbog istog prekršaja pravomoćno osuđen u drugom prekršajnom postupku;
+5) okrivljeni je u krivičnom postupku pravomoćno oglašen krivim za djelo koje obuhvata i obilježja prekršaja;
+6) okrivljeni ima imunitet;
+7) nastupila je zastara za vođenje prekršajnog postupka;
+8) okrivljeni je u toku prekršajnog postupka obolio od trajnog duševnog oboljenja ili umro;
+9) ovlašteni organ odustao je od zahtjeva za pokretanje prekršajnog postupka prije donošenja rješenja o prekršaju;
+10) postoje druge okolnosti koje isključuju odgovornost za prekršaj,
+11) nije dokazano da je okrivljeni počinio prekršaj ili
+12) postoje drugi razlozi predviđeni zakonom.
+Član 77.
+(Oslobođenje od kazne)
+(1) Sud će počinioca prekršaja osloboditi od kazne kada to zakon izričito propisuje.
+(2) Sud može počinioca prekršaja osloboditi od kazne kada zakon propisuje takvu mogućnost.
+(3) Kada zakon propisuje mogućnost oslobođenja od kazne, sud može, umjesto osloboditi od kazne, počinioca prekršaja blaže kazniti na način propisan članom 19. ovog zakona.
+(4) Sud može osloboditi od kazne i počinioca prekršaja koji je nakon počinjenja prekršaja u cijelosti nadoknadio štetu učinjenu prekršajem ili platio propisana davanja zbog čijeg je neplaćanja pokrenut prekršajni postupak.
+Član 78.
+(Odgovornost zbog propuštanja)
+Ako okrivljeni ne pristupi na usmeni pretres zakazan na osnovu zahtjeva za pokretanje prekršajnog postupka, sud će donijeti rješenje kojim će okrivljenog oglasiti odgovornim zbog propuštanja. Sud će utvrditi odgovarajuću sankciju na osnovu dokaza podnesenih od ovlaštenog organa.
+Član 79.
+(Rješenje o prekršaju kojim se okrivljeni oglašava odgovornim)
+Rješenje o prekršaju kojim se okrivljeni oglašava odgovornim za prekršaj bit će doneseno kada ne postoji niti jedan od razloga utvrđenih u članu 76. ovog zakona i kada je okrivljeni odgovoran za prekršaj.
+Član 80.
+(Izjavljivanje žalbe)
+Okrivljeni i ovlašteni organ mogu izjaviti žalbu na rješenje o prekršaju. Oštećeni može izjaviti žalbu na rješenje o prekršaju samo u pogledu imovinsko-pravnog zahtjeva.
+Član 81.
+(Rokovi za podnošenje žalbe)
+(1) Žalba se može izjaviti u roku 15 dana od dana dostavljanja rješenja o prekršaju.
+(2) U složenim predmetima sud može na zahtjev bilo koje strane produžiti rok za izjavljivanje žalbe za maksimalno osam dana.
+Član 82.
+(Posljedice izjavljivanja žalbe)
+Izjavljena žalba odgađa izvršenje rješenja o prekršaju.
+Član 83.
+(Sadržaj žalbe)
+(1) Žalba treba sadržavati broj i datum rješenja o prekršaju protiv kojeg se izjavljuje i potpis podnosioca žalbe (u daljnjem tekstu: žalitelj). Žalba treba sadržavati razloge zbog kojih se izjavljuje, a koji su navedeni u čl. 85. ili 86. ovog zakona.
+(2) Žalba se dostavlja sudu koji je donio rješenje o prekršaju u dovoljnom broju primjeraka za sud i suprotnu stranu.
+Član 84.
+(Osnovi za žalbu)
+Rješenje o prekršaju može se pobijati zbog:
+1) bitnih povreda prekršajnog postupka,
+2) povrede materijalnog propisa o prekršajima ili
+3) odluke o sankciji, zaštitnoj mjeri, oduzimanju imovinske koristi, troškovima prekršajnog postupka i imovinskopravnom zahtjevu.
+Član 85.
+(Bitne povrede prekršajnog postupka)
+Bitne povrede prekršajnog postupka postoje ako:
+1) rješenje o prekršaju donio je sudija koji se morao izuzeti ili je bio izuzet od vođenja prekršajnog postupka;
+2) okrivljenom su uskraćena bilo koja prava određena u čl. 4. i 5. ovog zakona;
+3) sud nije bio stvarno nadležan rješavati u toj stvari;
+4) prekršajni nalog ili zahtjev za pokretanje prekršajnog postupka podnesen je od neovlaštenog organa;
+5) nije u cijelosti odlučeno o prekršajnom nalogu ili zahtjevu za pokretanje prekršajnog postupka, ili ako je odlučeno mimo tog zahtjeva;
+6) rješenje o prekršaju zasniva se na dokazu koji se nije mogao koristiti, osim ako je očigledno da bi i bez tog dokaza bila donesena ista odluka ili
+7) sud je propustio primijeniti ili je pogrešno primijenio odredbe ovog zakona, što je rezultiralo značajnom štetom po interese žalitelja.
+Član 86.
+(Povreda materijalnog propisa o prekršaju)
+Povreda materijalnog propisa o prekršaju postoji ako je taj propis povrijeđen, s obzirom na to da li:
+1) radnja opisana u prekršajnom nalogu ili zahtjevu za pokretanje prekršajnog postupka predstavlja prekršaj;
+2) postoje okolnosti koje isključuju odgovornost za prekršaj;
+3) nastupa zastara pokretanja i vođenja prekršajnog postupka ili je stvar već pravomoćno riješena;
+4) došlo je do pogrešne primjene zakona ili propisa koji određuju prekršaj ili
+5) odlukom o sankciji ili drugoj mjeri sud je prekoračio ovlaštenja koja ima prema zakonu.
+Član 87.
+(Odgovor na žalbu i dostavljanje spisa predmeta)
+(1) Žalbu protiv rješenja o prekršaju sud dostavlja na odgovor suprotnoj strani.
+(2) Strana iz stava (1) ovog člana odgovor na žalbu dostavlja prvostepenom sudu u roku osam dana od dana prijema žalbe.
+(3) Po prijemu odgovora na žalbu ili po isteku roka za odgovor na žalbu, prvostepeni sud će je, ako utvrdi da je žalba pravovremena, potpuna i dopuštena, zajedno sa odgovorom na žalbu, ako je podnijet, i spisom predmeta dostaviti drugostepenom sudu.
+Član 88.
+(Razmatranje žalbe)
+(1) Nepravovremenu, nepotpunu ili nedopuštenu žalbu odbacit će drugostepeni sud rješenjem, ako to nije učinio prvostepeni sud.
+(2) Po žalbama na rješenja prvostepenog suda kojim je izrečena novčana kazna u iznosu do 3.000,00 KM odlučuje sudija pojedinac drugostepenog suda. Po žalbama na rješenja prvostepenog suda kojim je izrečena novčana kazna u iznosu većem od 3.000,00 KM drugostepeni sud odlučuje u vijeću sastavljenom od trojice sudija od kojih je jedan predsjednik vijeća.
+(3) Drugostepeni sud razmotrit će žalbu na osnovu spisa predmeta, žalbe i odgovora, bez održavanja usmenog pretresa.
+Član 89.
+(Odlučivanje o žalbi)
+(1) Odlučujući o žalbi drugostepeni sud može rješenje o prekršaju potvrditi, preinačiti ili ukinuti.
+(2) Drugostepeni sud putem pošte dostavlja strankama prijepise svog rješenja i vraća spis predmeta prvostepenom sudu.
+Član 90.
+(Potvrđivanje rješenja o prekršaju)
+Drugostepeni sud odbit će žalbu i potvrditi rješenje o prekršaju ako nađe da ne postoji ni jedan od osnova za podnošenje žalbe koji su određeni u članu 84. ovog zakona.
+Član 91.
+(Preinačenje rješenja o prekršaju)
+(1) Ako prvostepeni sud okrivljenog oglasi krivim, a drugostepeni sud utvrdi da zbog bitne povrede prekršajnog postupka ili povrede materijalnog propisa o prekršaju, prekršajni postupak treba obustaviti, drugostepeni sud će preinačiti rješenje o prekršaju i obustaviti prekršajni postupak.
+(2) Drugostepeni sud može preinačiti rješenje o prekršaju ako utvrdi da je zbog bitne povrede prekršajnog postupka ili povrede materijalnog propisa o prekršaju izrečena sankcija u rješenju o prekršaju nepravilna.
+(3) Ako je žalbu podnio samo okrivljeni, rješenjem o preinačenju rješenja o prekršaju ne može se izreći strožija sankcija od one izrečene u prvostepenom postupku.
+Član 92.
+(Ukidanje rješenja o prekršaju i održavanje usmenog pretresa)
+(1) Ako prvostepeni sud, prije dostavljanja predmeta na odlučivanje drugostepenom sudu, utvrdi da je nastupila zastara vođenja postupka, donijet će rješenje kojim će svoje rješenje staviti van snage i obustaviti prekršajni postupak.
+(2) Ako drugostepeni sud utvrdi da je počinjena bitna povreda prekršajnog postupka ili kršenje materijalnih propisa o prekršajima, uslijed čega su značajno oštećeni interesi žalitelja, i ako ne postoji način da se posljedice takvog kršenja isprave bez ponavljana usmenog pretresa, ukinut će rješenje o prekršaju i održat će usmeni pretres.
+Član 93.
+(Prijedlog za povrat u pređašnje stanje)
+(1) Okrivljeni kojem je izrečena sankcija zbog propuštanja da se pojavi u skladu sa odredbama člana 58. ovog zakona, ili u odnosu na kojeg je rješenje o prekršaju doneseno u skladu sa članom 78. ovog zakona, ili ako propusti rok za žalbu, može podnijeti prijedlog za povrat u pređašnje stanje.
+(2) Sud će uvažiti prijedlog za povrat u pređašnje stanje ako okrivljeni može dokazati da mu nije uručen prekršajni nalog ili zahtjev za pokretanje prekršajnog postupka ili poziv za usmeni pretres ili kopija rješenja o prekršaju i da je propuštanje pojavljivanja ili pravovremenog postupanja nastalo iz opravdanih razloga.
+(3) Ovlašteni organ u odnosu na kojeg je doneseno rješenje o obustavljanju prekršajnog postupka u skladu sa članom 67. ovog zakona može podnijeti prijedlog za povrat u pređašnje stanje.
+(4) Sud će uvažiti takav prijedlog za povrat u pređašnje stanje ako ovlašteni organ može dokazati da je do propuštanja pojavljivanja došlo iz opravdanih razloga.
+Član 94.
+(Rok za podnošenje prijedloga za povrat u pređašnje stanje)
+Svaki prijedlog za povrat u pređašnje stanje mora biti podnesen sudu u roku tri mjeseca od dana kada je prekršajni nalog postao konačan ili izvršan ili od dana donošenja rješenja o prekršaju.
+Član 95.
+(Posljedice podnošenja prijedloga)
+(1) Ako sud uvaži prijedlog za povrat u pređašnje stanje, odredit će se dan i vrijeme za usmeni pretres i o tome obavijestiti okrivljeni i ovlašteni organ.
+(2) Ako sud uvaži prijedlog za povrat u pređašnje stanje, prekršajni nalog ili rješenje o prekršaju stavljaju se van snage.
+(3) Ako, nakon što je sud uvažio prijedlog za povrat u pređašnje stanje, okrivljeni propusti da se pojavi na dan i u vrijeme određeno za usmeni pretres, sud će odbiti prijedlog za povrat u pređašnje stanje i izdani prekršajni nalog ili rješenje o prekršaju održati na snazi.
+(4) Ako se, nakon što je sud uvažio prijedlog za povrat u pređašnje stanje, okrivljeni pojavi na dan i u vrijeme određeno za usmeni pretres, a predstavnik ovlaštenog organa propusti da se pojavi, sud će donijeti rješenje kojim se obustavlja prekršajni postupak ili prekršajni nalog stavlja van snage ako je prekršajni postupak pokrenut putem prekršajnog naloga.
+Član 96.
+(Zahtjev za ponavljanje prekršajnog postupka)
+Kažnjenik koji je rješenjem o prekršaju oglašen odgovornim može sudu podnijeti zahtjev za ponavljanje prekršajnog postupka i to:
+1) ako se dokaže da je odluka zasnovana na lažnoj ispravi ili na lažnom iskazu svjedoka ili vještaka;
+2) ako se dokaže da je do odluke došlo uslijed krivičnog djela sudije ili druge službene osobe koja je učestvovala u postupku;
+3) kada se utvrdi da je kažnjenik za tu radnju već kažnjen u prekršajnom postupku ili za tu radnju prije donošenja rješenja o prekršaju proglašen krivim u krivičnom postupku;
+4) kada se iznesu nove činjenice ili podnesu novi dokazi koji bi doveli do drugačije odluke da su bili poznati u ranijem postupku ili
+5) ako Ustavni sud Bosne i Hercegovine ili Evropski sud za ljudska prava utvrdi kršenja Evropske konvencije o ljudskim pravima i osnovnim slobodama, kao i Ustava Bosne i Hercegovine i Ustava Federacije Bosne i Hercegovine i ako je odluka zasnovana na tim kršenjima.
+Član 97.
+(Rok)
+Zahtjev za ponavljanje prekršajnog postupka mora se podnijeti u roku od tri godine od dana pravomoćnosti rješenja o prekršaju.
+Član 98.
+(Razmatranje zahtjeva)
+(1) O zahtjevu za ponavljanje prekršajnog postupka rješava sud koji je donio prvostepenu odluku o prekršaju.
+(2) U zahtjevu se navodi po kojem zakonskom osnovu se traži ponavljanje i kojim dokazima se potkrjepljuju činjenice na kojima se zahtjev zasniva. Ako zahtjev ne sadrži ove podatke, odbacuje se rješenjem.
+(3) Zahtjev će se odbaciti i ako prvostepeni sud, na osnovu zahtjeva za pokretanje prekršajnog postupka i dokaza iz spisa predmeta iz ranijeg postupka, utvrdi da je zahtjev podnijela neovlaštena osoba ili da je nepravovremeno podnesen, ili da nema zakonskih uvjeta za ponavljanje postupka, ili da činjenice i dokazi na kojima se zahtjev zasniva očigledno nisu podobni da se na osnovu njih dozvoli ponavljanje prekršajnog postupka.
+(4) Sud će usvojiti zahtjev za ponavljanje prekršajnog postupka samo ako novi dokazi navedeni u zahtjevu mogu voditi značajnijoj promjeni odluke suda u korist kažnjenika.
+(5) Uvažavajući zahtjev, sud može izmijeniti prvobitno rješenje o prekršaju ili odrediti dan i vrijeme za usmeni pretres. U tom slučaju izvršenje rješenja o prekršaju bit će odgođeno do donošenja nove odluke.
+(6) Ako je kazna već bila izvršena prema kažnjeniku, sud može odrediti povrat naplaćene novčane kazne ili troškova i/ili ukinuti svaku drugu sankciju.
+Član 99.
+(Vođenje evidencije)
+(1) Sud koji donosi rješenje o prekršaju i ovlašteni organ koji izda prekršajni nalog bez odlaganja će u elektronskoj formi u prekršajnu evidenciju unijeti podatke o novčanoj kazni i zaštitnim mjerama izrečenim fizičkom licu, pravnom licu, odgovornoj osobi, kao i osobi koja obavlja samostalnu poslovnu djelatnost - obrt.
+(2) Sud koji primi zahtjev za sudsko odlučivanje, u skladu sa članom 59. ovog zakona, taj podatak će bez odlaganja unijeti u prekršajnu evidenciju u elektronskoj formi i brisati sankcije izrečene prekršajnim nalogom.
+(3) Novčana kazna neće se brisati iz prekršajne evidencije dok se vodi kao dug u Registru novčanih kazni u skladu sa članom 102. ovog zakona. Zaštitne mjere neće se brisati iz prekršajne evidencije dok se ne izvrše ili dok ne istekne rok zastare.
+(4) Posebnim zakonom mogu biti propisani duži rokovi za brisanje sankcija iz prekršajne evidencije.
+(5) Propis o sadržaju i načinu vođenja prekršajne evidencije donosi federalni ministar unutrašnjih poslova, uz saglasnost federalnog ministra pravde.
+Član 100.
+(Brisanje sankcija)
+(1) Kažnjavanost pravnog lica, fizičkog lica, odgovorne osobe, kao i osobe koja obavlja samostalnu poslovnu djelatnost - obrt novčanom kaznom briše se iz evidencije ex lege ako kažnjeno pravno lice, fizičko lice, odgovorna osoba, kao i osoba koja obavlja samostalnu poslovnu djelatnost - obrt u roku dvije godine od dana pravomoćnosti odluke kojom je izrečena kazna ne učini novi prekršaj, odnosno ako pravno lice, fizičko lice, odgovorna osoba, kao i osoba koja obavlja samostalnu poslovnu djelatnost - obrt ne učini krivično djelo koje sadrži obilježje prekršaja.
+(2) Pravnom licu, fizičkom licu, odgovornoj osobi, kao i osobi koja obavlja samostalnu poslovnu djelatnost - obrt, koja je više puta bila kažnjena za prekršaj brisat će se ranije kazne ako u roku dvije godine od dana pravomoćnosti odluke kojom je izrečena posljednja kazna ne izvrši novi prekršaj, odnosno ako pravno lice, fizičko lice, odgovorna osoba, kao i osoba koja obavlja samostalnu poslovnu djelatnost - obrt ne izvrši krivično djelo koje sadrži obilježje prekršaja.
+Član 101.
+(Davanje podataka iz evidencije)
+(1) Podaci iz evidencije mogu se dati samo ako sud utvrdi da za to postoje opravdani razlozi.
+(2) Podaci iz evidencije mogu se dati samo: drugom sudu, nadležnom tužiteljstvu, organima unutrašnjih poslova i organima inspekcije u vezi s krivičnim postupkom ili postupkom za prekršaj koji se vodi protiv osobe koja je ranije bila kažnjavana za prekršaj, organima nadležnim za izvršenje sankcija za prekršaje ili nadležnim organima koji učestvuju u postupku brisanja kazne.
+(3) Na obrazložen zahtjev nadležnog organa vlasti, ili osobe mogu se dati podaci iz evidencije ako još traju određene pravne posljedice kazne ili zaštitne mjere, ili ako za to postoji opravdan interes zasnovan na zakonu.
+(4) Ako je odluka o kazni brisana, podaci o toj odluci nikom se ne daju osim sudu i nadležnom tužiteljstvu u vezi s postupkom za prekršaj koji se vodi protiv osobe čija je odluka brisana.
+Član 102.
+(Unos podataka o kaznama u Registar novčanih kazni)
+(1) Sve novčane kazne i troškovi postupka izrečeni na osnovu konačnog i izvršnog prekršajnog naloga ili pravomoćnog i izvršnog rješenja o prekršaju upisat će se u Registar novčanih kazni i biti evidentirani kao dug koji kažnjenik duguje odgovarajućem nivou vlasti kojem se plaća.
+(2) Nakon što prekršajni nalog postane konačan i izvršan ili rješenje o prekršaju postane pravomoćno i izvršno, ovlašteni organ ili sud izvršit će unos podataka o novčanoj kazni i troškovima postupka u Registar novčanih kazni.
+(3) Način i postupak unosa podataka o novčanoj kazni i troškovima postupka u Registar novčanih kazni iz stava (2) ovog člana utvrdit će Federalno ministarstvo unutrašnjih poslova u roku tri mjeseca od dana stupanja na snagu ovog zakona.
+(4) Novčane kazne i troškovi postupka evidentiraju se kao dug u Registru novčanih kazni dok kažnjenik ne plati puni iznos novčane kazne i troškova postupka. Novčana kazna i troškovi postupka u svakom slučaju bit će brisani iz Registra novčanih kazni po isteku pet godina od dana kada je prekršajni nalog postao konačan i izvršan ili je rješenje o prekršaju postalo pravomoćno i izvršno.
+(5) Sud će na prijedlog ovlaštenog organa ili po službenoj dužnosti donijeti rješenje o obustavljanju postupka izvršenja kazni i troškova postupka u slučaju smrti ili trajnog duševnog oboljenja kažnjenika, nakon čega će se izvršiti brisanje novčane kazne i troškova postupka.
+Član 103.
+(Posljedice upisa kazne u Registar novčanih kazni)
+Dok se ne plate sve novčane kazne i troškovi evidentirani u registru novčanih kazni, kažnjeniku se neće dozvoliti:
+1) registracija ili produženje važnosti registracije motornog vozila;
+2) izdavanje ili produženje važnosti vozačke dozvole;
+3) učestvovanje na javnom tenderu;
+4) registracija pravnog lica, promjena registracije pravnog lica ili registracije samostalne poslovne djelatnosti - obrta ili
+5) promjena vlasništva motornog vozila.
+Član 104.
+(Postupak prinudne naplate)
+(1) Svaki ovlašteni organ odgovoran je za praćenje izvršenja novčanih kazni i drugih mjera izrečenih prekršajnim nalogom ili putem sporazuma o sankciji.
+(2) Sudovi će pratiti izvršenje novčanih kazni i drugih mjera izrečenih rješenjem o prekršaju.
+(3) Ovlašteni organ ili sud koji je izrekao novčanu kaznu zatražit će od nadležnog suda prinudnu naplatu blokiranjem računa fizičkog, odnosno pravnog lica u skladu sa odredbama Zakona o izvršnom postupku ("Službene novine Federacije BiH", br. 32/03, 52/03, 33/06, 39/06, 39/09 i 35/12) u slučaju:
+1) ako se utvrdi da kažnjeni izbjegava platiti novčanu kaznu ili
+2) ako postoji opasnost od nastupanja zastarjelosti za izvršenje novčane kazne.
+(4) Izuzetno od odredaba stava (3) ovog člana, prinudnu naplatu može provesti i ovlašteni organ, ako je to propisano posebnim federalnim zakonom.
+Član 105.
+(Lišenje slobode zbog neplaćanja)
+(1) Kažnjenik koji u roku ne plati u potpunosti ili djelimično novčanu kaznu koja mu je određena rješenjem o prekršaju ili prekršajnim nalogom bit će prinuđen na plaćanje određivanjem lišenja slobode ako sud smatra da je to jedini razuman i efikasan način koji će primorati kažnjenika da plati iznos na koji je obavezan. O lišenju slobode zbog neplaćanja sud odlučuje rješenjem koje se protiv kažnjenika može donijeti samo jednom za odnosni prekršaj. Lišenje slobode može biti određeno od suda po službenoj dužnosti ili na prijedlog ovlaštenog organa ili Porezne uprave Federacije Bosne i Hercegovine. Sud će obavijestiti podnosioca prijedloga o svojoj odluci i o izvršenju lišenja slobode.
+(2) Sud može odrediti lišenje slobode do 15 dana. Vrijeme za koje je kažnjenik lišen slobode neće uticati na plaćanje iznosa koji duguje. Kažnjenik će biti odmah oslobođen nakon plaćanja punog iznosa novčane kazne.
+(3) Lišenje slobode prema odredbama ovog člana ne može biti određeno kažnjeniku koji može dokazati da nije u mogućnosti platiti novčanu kaznu.
+(4) Protiv rješenja o lišenju slobode kažnjenik može izjaviti žalbu drugostepenom sudu u roku osam dana od prijema rješenja o lišenju slobode. Prvostepeni sud dužan je žalbu dostaviti drugostepenom sudu u roku tri dana od dana prijema žalbe. Drugostepeni sud mora donijeti odluku po žalbi u roku 15 dana od prijema spisa. Žalba odgađa izvršenje.
+(5) Prije početka izvršenja rješenja o lišenju slobode kažnjenik može sudu predložiti obavljanje poslova za opće dobro ili poslove za dobro lokalne zajednice kao zamjenu za plaćanje novčane kazne. Sud će voditi listu takvih poslova u saradnji s nadležnim kompetentnim organima vlasti. Prilikom odlučivanja o prijedlogu sud će razmotriti sve okolnosti slučaja, kao i finansijske uvjete i mogućnost kažnjenika da plati novčanu kaznu, kao i vrstu izvršenog prekršaja, uzrast, fizičku i radnu sposobnost, psihičke osobine, obrazovanje, sklonosti i druge posebne okolnosti koje se odnose na ličnost učinitelja.
+(6) Ako sud usvoji prijedlog iz stava (5) ovog člana izdat će nalog za obustavu izvršenja lišenja slobode za vrijeme dok ne istekne rok za obavljanje takvog posla. Ako kažnjenik obavi predviđeni posao lišenje slobode se neće izvršiti i novčana kazna brisat će se iz Registra novčanih kazni i neće biti naplaćena. Ukoliko kažnjenik uopće ne obavi predviđeni posao rješenje o lišenju slobode bit će izvršeno, a ako ga obavi samo djelimično, sud će ocijeniti da li je svrsishodno izvršiti rješenje o lišenju slobode i o tome donijeti odgovarajući nalog.
+(7) U slučaju kada sud ili ovlašteni organ utvrdi da se ne može izvršiti novčana kazna izrečena na osnovu konačnog i izvršnog prekršajnog naloga ili pravomoćnog rješenja o prekršaju, primjenom odredbi čl. 103. i 104. ovog zakona i st. (1), (2) i (3) ovog člana, sud će, po službenoj dužnosti ili na prijedlog ovlaštenog organa, donijeti rješenje o izvršenju novčane kazne kojim se kažnjeniku nalaže obavljanje određenih poslova za opće dobro ili poslova za dobro lokalne zajednice kao zamjenu za plaćanje novčane kazne.
+Ukoliko kažnjenik obavi predviđeni posao, novčana kazna brisat će se iz Registra novčanih kazni.
+(8) Postupak i uvjete za izvršenje sudskog rješenja o lišavanju slobode kažnjenika zbog neplaćanja novčane kazne, kao i postupak i uvjete obavljanja poslova za opće dobro ili poslova za dobro lokalne zajednice i način vođenja evidencije o obavljanju tih poslova regulirat će podzakonskim propisima federalni ministar pravde u saradnji s nadležnim kantonalnim ministarstvima u roku šest mjeseci od dana stupanja na snagu ovog zakona.
+Član 106.
+(Potraga)
+(1) Ako se ne zna prebivalište ili boravište kažnjene osobe u toku postupka izvršenja odluke o prekršaju, kao i u drugim slučajevima kada je to prema ovom zakonu potrebno, sud će zatražiti od policije da nađe osobu odgovornu za prekršaj i sud obavijesti o njegovoj adresi.
+(2) Sud može narediti privođenje osobe iz stava (1) ovog člana.
+Član 107.
+(Pravo na naknadu štete zbog neopravdanog kažnjavanja)
+Pravo na naknadu štete zbog neopravdanog kažnjavanja ima osoba kojoj je pravomoćnim rješenjem bila izrečena prekršajna kazna ili zaštitna mjera, a kasnije je povodom vanrednog pravnog lijeka prekršajni postupak obustavljen, osim u sljedećim slučajevima:
+1) ako je povodom zahtjeva za ponavljanje prekršajnog postupka na štetu okrivljenog novi postupak obustavljen uslijed smrti ili kakvog trajnog duševnog oboljenja okrivljenog nakon učinjenog prekršaja;
+2) ako je novi prekršajni postupak obustavljen zbog zastare gonjenja do koje je došlo zbog nedostupnosti okrivljenog;
+3) ako je okrivljeni svojim lažnim priznanjem ili na drugi način namjerno prouzrokovao svoje kažnjavanje, osim ako je na to bio prinuđen.
+Član 108.
+(Drugi slučajevi prava na naknadu štete)
+Pravo na naknadu štete ima i osoba koja je:
+1) bila zadržana u prekršajnom postupku, pa je postupak obustavljen;
+2) uslijed greške ili nezakonitog rada sudije neosnovano zadržana duže nego što zakon dozvoljava.
+Član 109.
+(Vraćanje novčanih iznosa)
+(1) Osoba kojoj je u prekršajnom postupku neopravdano izrečena novčana kazna, zaštitna mjera oduzimanja imovinske koristi, ili zaštitna mjera oduzimanje predmeta ima pravo na vraćanje plaćene novčane kazne, vraćanje oduzete imovinske koristi, vraćanje predmeta ili novčane vrijednosti oduzetog predmeta.
+(2) Smatra se da je osoba neopravdano kažnjena ako je u slučaju preinačenja ili ukidanja pravomoćnog rješenja o kažnjavanju postupak protiv nje obustavljen, ili je doneseno oslobađajuće rješenje uslijed toga što je utvrđeno da radnja nije prekršaj ili što postoje osnovi koji isključuju odgovornost učinitelja prekršaja ili što nije dokazano da je ta osoba učinila prekršaj.
+(3) Vraćanje novčanog iznosa ne može zahtijevati kažnjena osoba koja je lažnim priznanjem prouzrokovala kažnjavanje.
+(4) Poslije smrti neopravdano kažnjene osobe naknadu štete, odnosno vraćanje novčanog iznosa mogu tražiti njen bračni partner i njeni srodnici koje je ona po zakonu bila dužna izdržavati.
+Član 110.
+(Zastara prava na vraćanje novčanog iznosa)
+(1) Pravo neopravdano kažnjene osobe i osoba iz člana 109. stav (4) ovog zakona da traži naknadu štete, odnosno vraćanje novčanog iznosa zastarjeva za jednu godinu od dana pravomoćnosti rješenja, odnosno rješenja kojim je prekršajni postupak bio obustavljen.
+(2) Zastara iz stava (1) ovog člana se prekida podnošenjem zahtjeva nadležnom organu, ministarstvu ili upravi nadležnoj za poslove prekršaja.
+(3) Ako je zahtjev za naknadu štete, odnosno vraćanje novčanog iznosa podnijela neopravdano kažnjena osoba, poslije njene smrti osobe iz člana 109. stav (4) ovog zakona mogu produžiti postupak za ostvarivanje zahtjeva u roku tri mjeseca od dana smrti neopravdano kažnjene osobe i to samo u granicama ranije podnesenog zahtjeva.
+(4) Ako se neopravdano kažnjena osoba odrekla zahtjeva za naplatu štete, odnosno vraćanje novčanog iznosa, nakon njene smrti zahtjev se ne može podnijeti.
+Član 111.
+(Postupak ostvarivanja prava)
+(1) Ovlaštena osoba dužna je sa svojim zahtjevom za naknadu štete obratiti se nadležnom organu, ministarstvu ili upravi nadležnoj za poslove prekršaja radi sporazuma o postojanju štete i visini naknade.
+(2) Ako do sporazuma ne dođe u roku tri mjeseca od dana prijema zahtjeva, ovlaštena osoba može nadležnom sudu podnijeti tužbu za naknadu štete protiv Federacije Bosne i Hercegovine, kantona, grada ili općine u zavisnosti u korist čijeg budžeta je plaćena novčana kazna, oduzeta imovinska korist, uknjižen oduzeti predmet ili novčana vrijednost oduzetog predmeta.
+(3) Zahtjev za vraćanje novčanog iznosa podnosi se organu uprave nadležnom za finansije u skladu sa stavom (2) ovog člana.
+Član 112.
+(Prijelazne odredbe vezane uz sankcije)
+(1) Odluke o prekršajima koje su postale pravomoćne prije stupanja na snagu ovog zakona izvršit će se prema odredbama ovog zakona.
+(2) Danom stupanja na snagu ovog zakona sve neplaćene novčane kazne izrečene za izvršene prekršaje, kao i troškovi postupka izrečeni u prekršajnom postupku, a koji su još predmet izvršenja, evidentirat će se u Registru novčanih kazni na način propisan članom 102. ovog zakona.
+Član 113.
+(Prestanak važenja Zakona)
+(1) Danom stupanja na snagu ovog zakona prestaje važiti Zakon o prekršajima Federacije Bosne i Hercegovine ("Službene novine Federacije BiH", br. 31/06 i 37/10).
+(2) U slučaju da su drugi zakoni u Federaciji u suprotnosti sa ovim zakonom primjenjivat će se ovaj zakon.
+(3) U postupku za oduzimanje imovinske koristi pribavljene prekršajem primjenjivat će se odgovarajuće odredbe posebnog propisa koji uređuje oduzimanje imovinske koristi.
+(4) Odredbe propisa kojima se regulira visina novčanih kazni u prekršajnom postupku uskladit će se sa odredbama ovog zakona u roku šest mjeseci od dana stupanja na snagu ovog zakona.
+Član 114.
+(Stupanje na snagu i primjena Zakona)
+Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u "Službenim novinama Federacije BiH".

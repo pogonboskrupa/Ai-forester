@@ -1,0 +1,305 @@
+Član 1.
+Ovim Zakonom uređuju se određena pitanja upravljanja i poslovanja u javnim preduzećima.
+Član 2.
+Javno preduzeće, u smislu ovog zakona, jeste pravno lice koje je upisano u sudski registar kao privredno društvo i koje obavlja djelatnost od javnog društvenog interesa (energetika, komunikacije, komunalne djelatnosti, upravljanje javnim dobrima i druge djelatnosti od javnog društvenog interesa) ili pravno lice definisano kao javno preduzeće posebnim propisom.
+Djelatnosti od javnog društvenog interesa utvrđuju općina, kanton i Federacija Bosne i Hercegovine, svako u okviru svojih nadležnosti.
+Javna preduzeća iz stava 1. ovog člana dužna su da informacije o svojoj organizacionoj strukturi, finansijskom poslovanju i obavljanju upravnih poslova iz nadležnosti organa uprave koji se obavljaju u okviru propisanih javnih ovlaštenja učine dostupnim javnosti putem internet stranice javnog preduzeća.
+Član 2a.
+Obavljanje djelatnosti od javnog društvenog interesa iz člana 2. ovog Zakona zasniva se na sljedećim principima:
+a) jednakom tretmanu i slobodi osnivanja i pružanja usluga,
+b) slobodnog pristupa informacijama,
+c) nadziranju državne pomoći dodijeljene javnim preduzećima radi izbjegavanja narušavanja konkurencije,
+d) preventivnom nadziranju objedinjavanja javnih preduzeća radi izbjegavanja narušavanja konkurencije,
+e) slobodnog obavljanja određenih djelatnosti od javnog društvenog interesa radi izbjegavanja narušavanja konkurencije,
+f) slobodnog pristupa informacijama o finansijskim odnosima općina, kantona i Federacije Bosne i Hercegovine sa javnim preduzećima i
+g) uspostavi i vođenju odgovarajuće knjigovodstvene i druge evidencije i obračuna na način da se obezbijedi jasno razgraničenje rashoda i prihoda povezanih sa različitim djelatnostima koje obavlja javno preduzeće.
+Javna preduzeća iz člana 2. ovog Zakona ne mogu zaključivati sporazume koji imaju za posljedicu sprječavanje, ograničavanje ili narušavanje konkurencije na tržištu i vršiti zloupotrebu dominantnog položaja.
+Vlada Federacije Bosne i Hercegovine donijet će uredbu kojom će se detaljnije urediti principi iz stava 1. ovog člana.
+Član 3.
+Javna preduzeća iz člana 2. ovog Zakona mogu se organizirati u obliku dioničkog društva ili društva sa ograničenom odgovornošću.
+Član 4.
+U ovom Zakonu primjenjuju se sljedeće definicije:
+"poslovne tajne" - uključuju sve informacije koje se odnose na poslovanje javnog preduzeća koje mogu biti od koristi za konkurente kao što su npr. proizvodni proces, inžinjerski i tehnički projekti i nacrti, specifikacije proizvoda, liste klijenata, poslovna strategija, te informacije vezane za finansije, prodaju i marketing;
+"interna kontrola" - jeste organizacija politika i procedura koje se koriste kako bi pomogle obezbijediti da programi javnog preduzeća u Federaciji Bosne i Hercegovine postignu svoje ciljane rezultate, da resursi za te programe budu korišteni konzistentno sa navedenim ciljevima organizacije i da su programi zaštićeni od prevara, nenamjenskog trošenja i pogrešnog upravljanja i da su dobijene informacije pouzdane, pravovremeno pribavljene, održavane i korištene za izvještavanje i donošenje odluka o njima;
+"postupak nabavke" - jeste odgovarajući postupak za dodjelu ugovora dobavljaču u skladu sa Zakonom o javnim nabavkama Bosne i Hercegovine ("Službeni glasnik BiH", br. 49/04, 19/05, 52/05, 94/05, 8/06, 24/06 i 70/06);
+"povezano lice" - jeste svaki zaposlenik javnog preduzeća, uključujući i pojedince i zastupnike koje javno preduzeće imenuje za obavljanje određenih djelatnosti, svaki Član nadzornog odbora i odbora za reviziju, svako javno preduzeće ili pojedinac u čijem posrednom ili neposrednom vlasništvu je najmanje 10% od ukupne sume glasačkih prava javnog preduzeća;
+"odgovorno lice" - jeste svako lice kojem se zakonom ili statutom javnog preduzeća dodjeljuje nadležnost za konkretan posao ili zadatak, odnosno svako lice za koje se sa razlogom može reći da takva nadležnost potpada pod odredbe njegovog ugovora o radu ili u djelokrug njegovih poslova u javnom preduzeću;
+"revidiranje" - jeste analiziranje izvještaja ili situacije i u roku od 15 dana podnošenje prijedloga relevantnih pisanih korektivnih strategija menadžmentu radi otklanjanja mogućih i stvarnih nezakonitosti, neefikasnosti, gubitaka i izdataka;
+"nadziranje ili nadzor" - jeste detaljno i sistematsko nadgledanje izvršenja bilo kojeg posla ili zadataka odgovornog lica, ili druge aktivnosti javnog preduzeća. Cilj nadzora je da se otkrije i nadležnim organima prijavi moguća prijevara ili druga nezakonita aktivnost, te da se pokrene postupak za disciplinsko kažnjavanje i otpuštanje odgovornih lica koja su počinila prekršaj u vezi sa tim zadacima i poslovima;
+"zakonske rezerve" - jesu rezerve koje se formiraju po osnovu dioničarske premije (razlika od nominalne vrijednosti do cijene dionica), otkupa kapitala (zamjena običnih za prioritetne dionice), dobiti i drugih izvora, čiji iznos ne smije biti manji od 25% osnovnog kapitala i čija je raspodjela javnom preduzeću zabranjena Zakonom o privrednim društvima ("Službene novine Federacije BiH", br. 23/99, 45/00, 2/02, 6/02, 29/03, 68/05 i 91/07);
+"statutarne rezerve" - jesu rezerve koje se propisuju statutom na osnovu koga se utvrđuje namjena i način korištenja rezervi u poslovanju društva sa ograničenom odgovornošću;
+Član 5.
+Organi javnog preduzeća su:
+- skupština,
+- nadzorni odbor,
+- uprava (menadžment), kao organi upravljanja i
+- odbor za reviziju.
+Član 6.
+(1) Pored odluka utvrđenih Zakonom o privrednim društvima ("Službene novine Federacije BiH", br. 23/99, 45/00, 2/02, 6/02 i 29/03) skupština donosi odluke i o sljedećem:
+a) poslovniku ili poslovnicama na prijedlog nadzornog odbora,
+b) etičkom kodeksu na prijedlog nadzornog odbora,
+c) planu poslovanja, odnosno revidiranom planu poslovanja u skladu sa članom 23. ovog Zakona.
+(2) Skupština podnosi općinskom vijeću, skupštini kantona, odnosno Parlamentu Federacije Bosne i Hercegovine izvještaje o radu i poslovanju javnih preduzeća najmanje jednom godišnje.
+Član 7.
+Brisano.
+Član 8.
+Pored nadležnosti utvrđenih u Zakonu o privrednim društvima nadzorni odbor ima i sljedeće nadležnosti:
+a) (brisano)
+b) priprema poslovnike i predlaže ih skupštini;
+c) priprema etički kodeks i predlaže ga skupštini;
+d) vrši izbor kandidata odbora za reviziju i podnosi prijedlog za njegovo imenovanje skupštini;
+e) razmatra provedbeni propis za postupak nabavke i nadzire njegovo provođenje;
+f) daje mišljenje skupštini o prijedlogu uprave za raspodjelu dobiti;
+g) (brisano)
+h) daje ovlaštenja za aktivnosti koje su ograničene na osnovu odredaba ovog Zakona;
+i) daje upute direktoru za provođenje preporuka u vezi sa uočenim nepravilnostima.
+Član 9.
+(1) Nadzorni odbor sastoji se od najmanje tri člana.
+(2) Jedno mjesto u nadzornom odboru pripada kandidatu sa najvećim brojem glasova iz skupštine koji je bio kandidiran od dioničara ili vlasnika udjela sa najmanje 5% dionica ili udjela sa pravom glasa.
+Član 10.
+(1) Vršenje neposrednog nadzora nad provođenjem pojedinih odredaba iz člana 19. ovog Zakona predsjednik nadzornog odbora može povjeriti jednom od članova tog organa.
+(2) U slučaju iz stava 1. ovog člana predsjednik nadzornog odbora je solidarno odgovoran sa članom nadzornog odbora kojem je povjeren takav zadatak za izvršenje tog zadatka.
+Član 11.
+Pored nadležnosti utvrđenih u Zakonu o privrednim društvima uprava je nadležna i za:
+a) izvještavanje nadzornog odbora na zahtjev nadzornog odbora;
+b) provedbu etičkog kodeksa;
+c) izradu i nadgledanje realizacije planova poslovanja;
+d) izradu provedbenih propisa za postupak nabavki i provedbu Zakona o javnim nabavkama Bosne i Hercegovine ("Službeni glasnik BiH", br. 49/04, 19/05, 52/05, 94/05, 8/06, 24/06 i 70/06);
+e) pripremu prijedloga o raspodjeli dobiti;
+f) zapošljavanje i otpuštanje zaposlenika u skladu sa postupcima utvrđenim u poslovniku ili poslovnicima te važećim zakonima.
+Član 12.
+Uprava se bira, imenuje i razrješava u skladu sa postupkom utvrđenim u statutu javnog preduzeća na osnovu javnog konkursa iz reda kandidata koji po menadžerskim znanjima i iskustvu najbolje odgovaraju za izvršenje operativnih i poslovnih potreba javnog preduzeća. U upravu ne mogu biti imenovana lica koja vrše funkciju u političkim strankama.
+Član 13.
+(1) Direktor i izvršni direktori javnog preduzeća podliježu dužnostima, odgovornostima i ograničenjima koja su utvrđena ovim Zakonom i drugim važećim propisima.
+(2) Vršenje neposrednog nadzora nad provođenjem pojedinih odredaba iz člana 19. ovog Zakona direktor može povjeriti izvršnom direktoru.
+(3) U slučaju iz stava 2. ovog člana direktor je solidarno odgovoran sa izvršnim direktorom za izvršenje povjerenog zadatka.
+Član 14.
+(Sukob interesa)
+(1) Povezano lice dužno je izbjegavati stvarne ili očigledne sukobe interesa sa javnim preduzećem u ličnim ili profesionalnim odnosima.
+(2) Sukob interesa javlja se kada lični, odnosno profesionalni interes povezanog lica onemogućava, eventualno može onemogućiti ili interes, ili poslovanje javnog preduzeća ili sposobnost povezanog lica da ispunjava svoje obaveze i odgovornosti.
+(3) Povezano lice dužno je omogućiti uvid upravi ili nadzornom odboru ili drugom nadzornom organu u sve transakcije ili odnose za koje povezano lice opravdano očekuje da bi mogle dovesti do stvarnog ili očiglednog sukoba interesa sa javnim preduzećem.
+(4) Javnom preduzeću, prilikom poslovanja, nije dopušteno da povezanim licima nudi povoljnije uvjete od onih koje nudi drugim licima koja nisu povezana sa javnim preduzećem. U smislu odredbe ovog stava, sljedeća lica se smatraju povezanim licima:
+a) članovi uže porodice povezanih lica do trećeg stepena krvnog srodstva ili tazbine, odnosno lica koja žive u istom domaćinstvu sa povezanim licima;
+b) pravna lica koja raspolažu glasačkim pravima u javnom preduzeću;
+c) pravna lica u kojima javno preduzeće ima udio od najmanje 10% od ukupne sume glasačkih prava;
+d) pravna lica u kojima javno preduzeće ima najmanje 10% dionica sa pravom glasa;
+e) pravna lica u kojima je povezano lice ili članovi uže porodice, član nadzornog odbora ili uprave.
+(5) Zabrana iz stava (4) ovog člana ne odnosi se na poslove između javnog preduzeća i privrednih društava sa kojima je javno preduzeće, na osnovu zaključenog ugovora o vođenju poslova, objedinjeno jedinstvenim vođenjem poslova.
+(6) Ako bilo koje povezano lice zna ili je moralo znati da je neko drugo povezano lice djelovalo u suprotnosti sa odredbama ovog člana to povezano lice je o tome dužno odmah obavijestiti upravu i nadzorni odbor ili drugi nadzorni organ i ostale nadležne organe.
+(7) Povezanom licu nije dopušteno odavanje poslovne tajne javnog preduzeća.
+Član 15.
+(Stručne sposobnosti i savjesno postupanje)
+Povezana lica javnog preduzeća dužna su vršiti svoje funkcije, izvršavati svoje obaveze uz dužnu pažnju, stručno i savjesno.
+Član 16.
+(Zaštita imovine javnog preduzeća)
+U ispunjavanju svojih obaveza i odgovornosti nadzorni odbor i uprava dužni su podsticati na odgovorno korištenje i kontrolu imovine i resursa javnog preduzeća.
+Član 17.
+(Postupanje u skladu sa zakonima, propisima i smjernicama)
+(1) U izvršavanju svojih obaveza i odgovornosti nadzorni odbor i uprava dužni su aktivno učestvovati u kontroli provođenja važećih zakona, pravilnika i drugih propisa u javnom preduzeću.
+(2) Nadzorni odbor i uprava dužni su poduzimati radnje da javno preduzeće unapređuje etičko ponašanje i podsticati zaposlenike na prijavljivanje o nezakonitom ili neetičkom ponašanju pojedinih zaposlenika javnog preduzeća.
+Član 18.
+(Prijavljivanje protivpravnog ponašanja)
+Ako bilo koje povezano lice dođe do saznanja o bilo kojoj informaciji za koju smatra da predstavlja dokaz o materijalnom kršenju zakona, pravilnika, smjernica ili propisa koji se odnose na javno preduzeće, to povezano lice dužno je ukazati na tu informaciju nadzornom odboru, skupštini, direktoru i drugim nadležnim organima.
+Član 19.
+(1) Dužnost i odgovornost nadzornog odbora je da osigura:
+a) donošenje jednog ili više poslovnika kojima se utvrđuju operativni i funkcionalni aspekti rada nadzornog odbora i uprave u skladu sa Zakonom o privrednim društvima i ovim Zakonom, statutom i etičkim kodeksom;
+b) prethodno razmatranje uz potvrdu zakonitosti poslovnika od kvalifikovanih lica pravne struke;
+c) da akti javnog preduzeća sadrže detaljne odredbe o disciplinskom postupku i pravičnom postupku smjenjivanja odgovornih lica;
+d) da akti javnog preduzeća sadrže odredbe o potpunom isključenju sa posla iz javnog preduzeća na period od najmanje dvije godine za lica koja su smijenjena na način opisan u ovom Zakonu, uključujući i dužnost uprave da za tu svrhu vodi adekvatne kadrovske evidencije;
+e) utvrđivanje stimulativnih mjera za poboljšanje i vrednovanje u okviru javnog preduzeća.
+(2) Uprava i nadzorni odbor dužni su i odgovorni za strogo poštivanje poslovnika i drugih akata i dosljedno provođenje zakona.
+Član 20.
+(Etički kodeks)
+(1) Nadzorni odbor je dužan i odgovoran da, u saradnji sa odborom za reviziju, pripremi etički kodeks.
+(2) Etički kodeks će kao neophodni minimum sadržavati sljedeće obavezne odredbe:
+a) zabrane u pogledu sukoba interesa u skladu sa članom 14. ovog Zakona;
+b) zabrane odavanja poslovnih tajni u skladu sa članom 14. stav 4. ovog Zakona;
+c) zabrane u pogledu konkurencije u skladu sa čl. 34 i 35. Zakona o privrednim društvima;
+d) zabrane u pogledu kredita u skladu sa članom 41. ovog Zakona;
+e) izjavu kojom se propisuju dužnosti utvrđene čl. 15., 16., 17. i 18. ovog Zakona.
+(3) Nadzorni odbor ne može prenositi nadležnost iz stava 2. ovog člana na drugi organ.
+Član 21.
+(1) Uprava je dužna i odgovorna:
+a) za dosljedno provođenje etičkog kodeksa u javnom preduzeću,
+b) da osigura da sva odgovorna lica postupaju u skladu sa etičkim kodeksom tako što će se protiv lica koja krše navedeni kodeks provesti disciplinski postupak.
+(2) Uprava može na jednog ili više svojih članova izvršiti prijenos svake od navedenih dužnosti, uz jednoglasnu pisanu saglasnost nadzornog odbora, ali će uprava i dalje biti odgovorna za izvršenje svake od prenesenih dužnosti.
+Član 22.
+(Plan poslovanja)
+Koristeći se Međunarodnim računovodstvenim standardima kojima se uređuju ova pitanja, uprava javnog preduzeća izradit će i nadgledati realizaciju trogodišnjeg plana poslovanja za javno preduzeće. Nakon što javno preduzeće usvoji plan poslovanja rukovodilac odjela za internu reviziju plan će dostaviti glavnom revizoru, dok će rukovodilac javnog preduzeća plan predočiti ministarstvu nadležnom za javno preduzeće, odnosno nadležnom općinskom organu uprave.
+Član 23.
+Plan poslovanja iz člana 22. ovog Zakona sadržavat će sve elemente koji inače ulaze u sastav takvih planova a naročito će sadržavati:
+a) predviđanje prihoda i rashoda;
+b) kapitalne izdatke predložene za period koji plan poslovanja obuhvata;
+c) izvor finansija predloženih za navedene kapitalne izdatke, te druge poslovne ciljeve;
+d) sve zajmove čije uzimanje je planirano u periodu koji plan poslovanja obuhvata;
+e) garancije čije je davanje predloženo za osiguranje tih kredita;
+f) prijedloge za obrazovanje ili kupovinu novih preduzeća ili poslova (bilo u cjelini ili djelimično) ili prodaju bilo kojeg od zavisnih preduzeća (tj. supsidijara) javnog preduzeća, te kadrovsku popunu kao i prateće rashode za ove aktivnosti;
+g) prijedloge za korištenje i raspodjelu dobiti za period koji obuhvata plan poslovanja;
+h) Plan prihoda i rashoda mora odražavati planirane aktivnosti javnog preduzeća.
+Član 24.
+(1) Plan poslovanja će za period za koji je donesen predstavljati osnov poslovnih aktivnosti javnog preduzeća u pogledu onih pitanja koja sadrži.
+(2) Izuzetno od odredaba stava 1. ovog člana, uprava će na godišnjem osnovu razmotriti plan poslovanja te u slučaju potrebe, a u skladu sa njegovim ciljevima, revidirati i usaglasiti plan poslovanja radi njegovog prilagođavanja kretanjima na komercijalnom tržištu.
+Član 25.
+(Međunarodni računovodstveni standardi - međunarodni standardi revizije)
+(1) Nadzorni odbor je odgovoran da organizira izradu vjerodostojnih računovodstvenih evidencija i finansijskih izvještaja sačinjenih u skladu sa Zakonom o računovodstvu i reviziji u Federaciji Bosne i Hercegovine iz kojih je vidljiv finansijski položaj javnog preduzeća, te koji se daju na uvid svim licima koja imaju legitiman interes za poslovanje javnog preduzeća.
+(2) Obavezu iz stava 1. ovog člana nadzorni odbor ne može prenositi na drugi organ.
+Član 26.
+(Odbor za reviziju)
+(1) Nadzorni odbor odgovoran je da:
+- predlaže skupštini sastav odbora za reviziju, nakon izbora kandidata većinom glasova na osnovu javnog konkursa, s tim da odabere lica koja su najkvalifikovanija za tu funkciju;
+- nadzire upravu u primjeni preporuka datih od odbora za reviziju i vanjskog revizora u utvrđenim vremenskim rokovima.
+(2) Obavezu iz stava 1. ovog člana nadzorni odbor ne može prenositi na drugi organ.
+Član 27.
+(1) U skladu sa Zakonom o ministarskim, vladinim i drugim imenovanjima Federacije Bosne i Hercegovine ("Službene novine Federacije BiH", br. 12/03 i 34/03) generalni revizor ima pravo da imenuje lice na funkciju direktora odjela za internu reviziju koji će vršiti funkciju člana odbora za reviziju, bez prava glasa u ovom organu.
+(2) Odjel za internu reviziju formira se u javnim preduzećima koja zapošljavaju više od 100 radnika, a u preduzećima koja zapošljavaju manje od 100 radnika formira se odbor za reviziju i angažira nezavisni revizor koji podnosi godišnji izvještaj o izvršenoj reviziji javnog preduzeća na internet-stranici javnog preduzeća, odnosno njegovog većinskog vlasnika.
+(3) Javno preduzeće će snositi troškove imenovanja direktora odjela za internu reviziju.
+(4) Direktora odjela za internu reviziju kojeg imenuje generalni revizor organi javnog preduzeća ne mogu smijeniti bez prethodnog pisanog odobrenja generalnog revizora.
+(5) Nakon razrješenja direktora odjela za internu reviziju generalni revizor ima pravo da imenuje novog direktora odjela za internu reviziju u skladu sa stavom 1. ovog člana.
+(6) Odbor za reviziju dužan je u roku od 30 dana obavijestiti generalnog revizora o svakoj ostavci ili razrješenju u slučaju da direktor kojeg postavi generalni revizor podnese ostavku ili bude razriješen sa funkcije u javnom preduzeću.
+Član 28.
+Odbor za reviziju dužan je:
+a) imenovati vanjskog revizora;
+b) imenovati direktora odjela za internu reviziju na osnovu javnog konkursa za izbor tehnički najbolje kvalifikovanog kandidata, ukoliko Ured za reviziju institucija u Federaciji Bosne i Hercegovine nije upoznao javno preduzeće sa svojom namjerom da izvrši imenovanje u roku od 30 dana od dana kada je generalni revizor obaviješten u skladu sa članom 27. stav 5. ovog Zakona;
+c) razmotriti godišnju strategiju rizika i plan revizije u kojima su prikazane pojedinosti u pogledu rizičnih područja i revizija koje će se izvršiti, te osigurati da prijavljena pitanja budu bez odlaganja i na odgovarajući način korigovana;
+d) razmotriti navedenu strategiju rizika i plan revizije i postići sporazum sa generalnim revizorom po pitanju obrade, isključivo u slučaju kada je generalni revizor imenovao direktora odjela za internu reviziju javnog preduzeća;
+e) osigurati da odjel za internu reviziju izvrši svoj posao u skladu sa planom revizije;
+f) osigurati da interne kontrole u javnom preduzeću budu adekvatne i da funkcioniraju kako je predviđeno;
+g) podnositi nadzornom odboru sažete mjesečne izvještaje o svojim sastancima svakog mjeseca;
+h) konsultovati se sa generalnim revizorom u pogledu nezavisne revizorske organizacije ili strukovne stručne grupe koja vrši stručno unutrašnje strukovno ocjenjivanje odjela za internu reviziju svake dvije do tri godine;
+i) osigurati da odjel za internu reviziju obavlja svoje obaveze u skladu sa međunarodnim revizijskim standardima.
+Član 29.
+Uprava je dužna i odgovorna za primjenu preporuka odbora za reviziju u rokovima koje u pogledu njihove realizacije utvrdi odbor za reviziju. Uprava može na jednog od svojih članova prenijeti ovu dužnost, ali je i dalje odgovorna za njihovu realizaciju.
+Član 30.
+(Odjel za internu reviziju)
+U skladu sa odredbama ovog Zakona direktor odjela za internu reviziju dužan je i odgovoran da uspostavi odjel za internu reviziju odgovarajućeg obima potrebnog da se adekvatno obavljaju dužnosti utvrđene u članu 32. ovog Zakona, te ima isključivu odgovornost za izbor i rukovođenje licima zaposlenim u navedenom odjelu.
+Član 31.
+(1) Uprava je dužna i odgovorna da:
+a) osigura adekvatne prostorije, s ciljem da se omogući operativnost odjela za internu reviziju i neometano obavljanje svog posla;
+b) osigura da, bez izuzetka, odjel za internu reviziju ima potpun i cjelovit uvid u svu evidenciju javnog preduzeća potrebnu za obavljanje poslova.
+(2) Uprava na jednog od svojih članova može prenijeti ovu dužnost, ali je i dalje odgovorna za njenu realizaciju.
+Član 32.
+(1) Odjel za internu reviziju odgovoran je da:
+a) podnosi godišnju studiju rizika i plan revizije odboru za reviziju u kojima je sadržan detaljan prikaz rizičnih područja i revizija koje će biti izvršene;
+b) podnosi izvještaj o obavljenim revizijama i preporuke odboru za reviziju putem direktora odjela za internu reviziju;
+c) obavlja svoje dužnosti u potpunom skladu sa međunarodnim revizijskim standardima.
+(2) Odjel za internu reviziju ovu dužnost ne može prenositi na drugi organ.
+Član 33.
+(1) Cjelokupno osoblje odjela za internu reviziju su zaposlenici javnog preduzeća.
+(2) Direktor odjela za internu reviziju ne može biti zaposlenik javnog preduzeća, ali će za usluge koje pruža javnom preduzeću biti shodno tome nagrađen od tog preduzeća i u skladu sa odgovarajućim tarifama u slučaju da se one mogu dobiti iz Ureda glavnog revizora ili ministarstva u čijoj nadležnosti se javno preduzeće nalazi.
+Član 34.
+(Nabavka)
+Odgovarajući postupci nabavke koji se obavljaju u javnom preduzeću bit će provedeni uz strogo poštivanje odredaba Zakona o javnim nabavkama Bosne i Hercegovine ("Službeni glasnik BiH", br. 49/04, 19/05, 52/05, 94/05, 8/06, 24/06 i 70/06). Uprava i nadzorni odbor javnog preduzeća dužni su provoditi odredbe važećih propisa o nabavci.
+Član 35.
+(1) Uprava je dužna:
+a) donijeti provedbeni propis o nabavci kojim će se urediti postupak nabavke u javnom preduzeću u skladu sa važećim propisima o nabavci;
+b) nadzirati zaposlenike javnog preduzeća u implementaciji važećih propisa o nabavci, te odredaba provedbenog propisa o nabavci u javnom preduzeću;
+c) podnositi izvještaje o nabavci odboru za reviziju u roku od 15 dana i nadzornom odboru u roku od 30 dana od dana zaključenja ugovora o nabavci.
+(2) Uprava može na jednog od svojih članova prenijeti svaku od navedenih dužnosti, uz jednoglasnu pisanu saglasnost nadzornog odbora, ali će uprava i dalje biti odgovorna za vršenje nadzora nad svakom od navedenih dužnosti.
+Član 36.
+(1) U postupku nabavke nadzorni odbor je dužan:
+a) razmatrati provedbeni propis za postupak nabavke u smislu njegove usaglašenosti sa važećim propisima o nabavci;
+b) vršiti nadzor nad radom uprave i zaposlenika javnog preduzeća u pogledu primjene provedbenog propisa o postupku nabavke te važećih propisa o nabavci;
+c) razmatrati izvještaje o nabavci te prijaviti nadležnim organima sve eventualne prijevare ili zloupotrebe.
+(2) Nadzorni odbor ne može prenositi ovlaštenja iz ovog člana na drugi organ.
+Član 37.
+(Raspodjela dobiti)
+U svakoj finansijskoj godini uprava javnog preduzeća, na bazi utvrđenog iznosa neto dobiti izraženog u svom revidiranom finansijskom izvještaju pripremljenom u skladu sa Zakonom o računovodstvu i Reviziji u Federaciji Bosne i Hercegovine, predlaže iznos, ukoliko za to postoje uvjeti, da se za datu finansijsku godinu rasporedi kao dobit ili privremena dividenda.
+Član 38.
+Prilikom odlučivanja o iznosu koji može biti raspoređen kao profit, uprava će voditi računa o preporukama datim od odbora za reviziju te ukupnim finansijskim obavezama javnog preduzeća u finansijskoj godini na koju se raspodjela odnosi, uključujući i iznos neto profita potrebnog javnom preduzeću u toj finansijskoj godini za realizaciju bilo kojeg zadatka iz plana poslovanja javnog preduzeća, kao i iznos kapitalnih izdataka te drugih investicija neophodnih za pravilno održavanje i rast javnog preduzeća.
+Član 39.
+Upravi nije dopušteno da:
+(a) izdvaja za rezerve iznose veće od jedne polovine neto dobiti raspoložive za raspodjelu,
+(b) (brisano)
+Član 40.
+Odluku o raspodjeli dobiti/dividende donosi skupština na obrazložen prijedlog uprave, uz prethodno pribavljeno mišljenje odbora za reviziju i nadzornog odbora.
+Član 41.
+(Nedopuštene aktivnosti)
+Javnom preduzeću strogo je zabranjeno obavljanje sljedećih aktivnosti:
+a) davanje kredita ili pozajmica zaposlenim u javnom preduzeću ili trećim licima, ili pružanje garancija ili osiguranja za kredite osim u procesu prestrukturiranja kada javno preduzeće može izvršiti ulaganje ili dati pozajmicu privrednom društvu isključivo na osnovu odluke skupštine javnog preduzeća;
+b) davanja putem donacija u suprotnosti sa odredbama važećih zakona o dodjeli sredstava ili donacijama;
+c) isplata plaća zaposlenim na bilo kakvoj listi čekanja;
+d) isplata plaća zaposlenim bez uplate doprinosa i poreza u skladu sa važećim zakonskim propisima;
+e) učešće u postupku nabavke u svojstvu ponuđača bilo kojeg lica koje je pripremilo poziv na tender;
+f) vršenje izmjena ili dopuna u bilo kojem već zaključenom ugovoru o nabavci, osim ako nisu izvršene u skladu sa važećim zakonima o nabavci;
+g) prihvat plaćanja sredstvom koje zamjenjuje novac, plaćanja u naturi, ili gotovinskom ekvivalentu;
+h) investiranje iz kratkoročnih izvora sredstava javnog preduzeća, osim kada se radi o odobrenim investicijama prema definiciji datoj u važećim zakonima koji regulišu tu oblast;
+i) zaključenje ugovora o raspolaganju sa ukupnom vrijednošću većom od 10.000,00 KM, bez potpisa direktora i odgovornog člana uprave;
+j) obnavljanje ili materijalno mijenjanje postojećih zajmova dodijeljenih povezanim licima ili trećim stranama.
+Član 42.
+(Ograničene aktivnosti)
+Javno preduzeće može poduzimati sljedeće aktivnosti, isključivo uz pisano ovlaštenje nadzornog odbora:
+a) izmirenje duga prema povjeriocu javnog preduzeća plaćanjem trećem licu (ugovori o cesiji duga);
+b) prebijanje dugova prema nekoj strani sa dugovima te iste strane koja je iz tog razloga istovremeno i povjerilac i dužnik javnog preduzeća (ugovori o prostoj kompenzaciji);
+c) učešće u aranžmanu višestrukog prebijanja dugova između više strana bilo da je isti aranžman organizirala vlada ili drugi organ (ugovori o multilateralnoj odnosno višestranoj kompenzaciji);
+d) izmirenje duga prema javnom preduzeću u slučaju da dužnik plaća povjeriocu javnog preduzeća;
+e) otpis potraživanja;
+f) zaključivanje ugovora o izmirenju dospjelog duga prema javnom preduzeću, pod povoljnijim uslovima, koje utvrđuje Vlada Federacije Bosne i Hercegovine.
+Član 43.
+(Tužbe dioničara i ostalih lica)
+Tužbu prema članu 258. Zakona o privrednim društvima može podnositi i nadležni regulatorni organ.
+Član 44.
+(1) Razlozi za razrješenje odgovornog lica u javnom preduzeću po skraćenom postupku su sljedeći:
+a) neispunjavanje odgovornosti u skladu sa važećim zakonima;
+b) dodjela ugovora o nabavci u suprotnosti sa važećim zakonima o nabavci;
+c) učešće u sukobu interesa;
+d) učešće u aktivnosti koja je zabranjena ovim Zakonom;
+e) nepodnošenje zahtjeva za odgovarajuće odobrenje aktivnosti ograničenih ovim Zakonom;
+f) svjesno ili nesvjesno davanje ovlaštenja za obavljanje ograničene aktivnosti čija je posljedica materijalna šteta po preduzeće;
+g) izvršenje krivičnog ili drugog protivpravnog djela kojim se uzrokuje materijalna šteta po javno preduzeće.
+(2) Ukoliko neki od članova nadzornog odbora izvrši neku od radnji iz stava 1. ovog člana, skupštini će biti predloženo njegovo razrješenje.
+Član 45.
+(1) Uprava ima dužnost i odgovornost osigurati da:
+a) otpuštenom licu bude spriječen ponovni ulazak u službeni prostor ili prostorije javnog preduzeća nakon datuma prekida radnog odnosa;
+b) javnom preduzeću bude zabranjeno da u periodu od najmanje dvije godine ponovno zaposli takvo lice otpušteno u bilo kojem svojstvu;
+c) se vode odgovarajuće evidencije o zaposlenicima sa detaljnim podacima o otpuštanju navedenih lica za period od dvije godine;
+d) se navedenim otpuštenim licima od momenta izvršenog kršenja radne dužnosti ne vrše isplate bilo kakve naknade u novcu, zamjeni novca ili u naturi.
+(2) Uprava može jednom od svojih članova prenijeti bilo koju od obaveza utvrđenih u ovom članu, ali će ostati odgovorna za izvršenje svake od navedenih obaveza.
+Član 46.
+Zaposlenik javnog preduzeća može biti razriješen samo po okončanju provedenog disciplinskog postupka, propisanom u odgovarajućem poslovniku ili poslovnicama, osim ako je razriješen po skraćenom postupku.
+Član 47.
+(Kaznene odredbe)
+(1) Novčanom kaznom u iznosu od 5.000,00 KM do 15.000,00 KM kaznit će se za privredni prijestup pravno lice ukoliko:
+a) u propisanom roku ne bude donesen poslovnik, statut i etički kodeks preduzeća u skladu sa odredbama člana 19. stav 1. a) ili člana 20. stav 1., ili pravilnici ne budu usvojeni, odnosno ne sadrže pojedinosti utvrđene u članu 20. stav 2. ovog Zakona;
+b) lice koje je moralo biti smijenjeno a nije smijenjeno u skladu sa članom 46.;
+c) etički kodeks nije izrađen i ne provodi se na način propisan članom 20.;
+d) trogodišnji plan poslovanja nije usvojen i podnesen nadležnim organima u skladu sa članom 22.;
+e) plan poslovanja naveden u prethodnoj tački ne sadrži elemente propisane u članu 23.;
+f) se poslovne djelatnosti ne obavljaju u skladu sa navedenim u članu 24.;
+g) se plan poslovanja ne razmatra na godišnjoj osnovi i ne revidira u skladu sa članom 24.;
+h) imenovanje u odboru za reviziju nije izvršeno u skladu sa čl. 26. i 27.;
+i) imenovanje direktora odjela za internu reviziju nije izvršeno u skladu sa članom 27.
+(2) Novčanom kaznom u iznosu od 500,00 KM do 1.500,00 KM kaznit će se odgovorno lice u pravnom licu za privredni prijestup iz prethodnog stava.
+Član 48.
+(1) Novčanom kaznom u iznosu od 5.000,00 KM do 10.000,00 KM kaznit će se za privredni prijestup pravno lice ukoliko:
+a) nadzorni odbor ne ispunjava obaveze i odgovornosti u skladu sa članom 25.;
+b) uprava ne ispunjava obaveze i odgovornosti u skladu sa članom 35.;
+c) direktor ne ispunjava obaveze i odgovornosti u skladu sa članom 13.
+(2) Novčanom kaznom u iznosu do 1.000,00 KM kaznit će se odgovorno lice u pravnom licu za privredni prijestup iz prethodnog stava.
+Član 49.
+(1) Novčanom kaznom u iznosu od 13.000,00 KM do 17.000,00 KM kaznit će se za prekršaj pravno lice ukoliko:
+a) se postupak nabavke ne obavlja u skladu sa važećim zakonima o nabavci na osnovu propisanog u članu 34.;
+b) se dužnosti uprave ne izvršavaju prema članu 31. ili članu 35.;
+c) odbor za reviziju ne ispunjava svoje obaveze prema članu 30.;
+d) uprava donese odluku o raspodjeli dividendi/profita suprotno čl. 37., 38. ili 39.;
+e) se povezanom licu ponude povoljniji uvjeti u suprotnosti sa članom 14.;
+f) se obavljaju aktivnosti zabranjene članom 41.;
+g) se obavljaju aktivnosti koje su ograničene prema članu 42., bez odgovarajućeg pisanog ovlaštenja.
+(2) Novčanom kaznom u iznosu do 1.700,00 KM kaznit će se odgovorno lice u pravnom licu za prekršaj iz prethodnog stava.
+Član 50.
+Novčanom kaznom u iznosu do 1.700,00 KM kaznit će se za prekršaj odgovorno lice ukoliko:
+a) stupi u stvarni ili očigledni sukob interesa sa javnim preduzećem (Član 14. stav 1.);
+b) se poslovna tajna otkrije trećoj strani, suprotno odredbama člana 14. stav 6.;
+c) ne pruži uvid nadzornom odboru ili drugom nadzornom organu u podatke kako je propisano u članu 18.
+Član 51.
+(1) Na pitanja koja nisu obuhvaćena ovim Zakonom primjenjuje se Zakon o privrednim društvima ("Službene novine Federacije BiH", br. 23/99, 45/00, 2/02, 6/02 i 29/03).
+(2) U slučaju sukoba pojedinih odredaba ovog Zakona i Zakona o privrednim društvima te njegovih izmjena, primjenjivat će se odredbe ovog Zakona.
+(3) Danom stupanja na snagu ovog Zakona prestaje da se primjenjuje Zakon o javnim preduzećima ("Službeni list RBiH", br. 4/92, 21/92 i 13/94).
+(4) Vlada Federacije Bosne i Hercegovine, donijet će uredbu iz člana 2a. ovog zakona najkasnije do 30.06.2012. godine.
+Član 52.
+(1) Glavni revizor će u roku od najkasnije tri mjeseca od dana stupanja na snagu ovog Zakona obavijestiti javna preduzeća u kojima namjerava imenovati direktora odjela za internu reviziju.
+(2) Glavni revizor će navedena imenovanja izvršiti u skladu sa stavom 1. ovog člana u roku od najkasnije četiri mjeseca nakon stupanja na snagu ovog Zakona.
+(3) Ako glavni revizor ne izvrši navedena imenovanja u skladu sa stavom 2. ovog člana ta imenovanja će, u skladu sa članom 28.b), izvršiti odbor za reviziju.
+Član 53.
+Zajedno sa ovim Zakonom izvršit će se objavljivanje modela etičkog kodeksa i modela statuta javnog preduzeća u "Službenim novinama Federacije BiH".
+Član 54.
+Ovaj Zakon stupa na snagu narednog dana od dana objavljivanja u "Službenim novinama Federacije BiH".

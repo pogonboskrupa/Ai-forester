@@ -454,5 +454,127 @@
     ],
     "answer": "Vlasnik upravlja svojom šumom i gospodari njome u skladu sa zakonom i šumskoprivrednom osnovom [@usk-zakon-izmjene-dopune-2016#6].\n\n- **Čuvanje šume** je obaveza vlasnika, osim ako ga ugovorom prenese na drugo pravno lice [@usk-zakon-izmjene-dopune-2016#6].\n- **Stručne poslove** (doznaka, žigosanje, premjer, otpremni iskaz, planiranje radova) ugovorom prenosi Upravi za šumarstvo ili registrovanom pravnom licu. Naknada je najviše **10 % cijene drveta na panju** [@usk-zakon-izmjene-dopune-2016#6].\n- **Sječa** je moguća tek nakon rješenja Uprave i doznake. Uz zahtjev se prilažu ZK izvadak, kopija plana, saglasnost suvlasnika i izjave susjeda [@usk-zakon-o-sumama#14].\n- Drvo se ne smije pomjerati od panja prije žigosanja i premjera, niti stavljati u promet bez **otpremnog iskaza** [@usk-zakon-o-sumama#26].\n- Provodi sanitarnu sječu i mjere zaštite od štetnika [@usk-zakon-o-sumama#24] i uklanja otpad iz svoje šume [@usk-zakon-o-sumama#34].\n- Sječine i paljike pošumljava u roku od **2 godine** [@usk-zakon-o-sumama#21].\n- Vodi računa o susjednim parcelama i traži saglasnost susjeda za radove koji na njih utiču [@usk-zakon-o-sumama#56].",
     "reviewed": false
+  },
+  {
+    "id": "radni-probni-rad",
+    "topic": "Radni odnosi",
+    "q": "Koliko može trajati probni rad i kakav je otkazni rok u probnom radu?",
+    "alt": [
+      "probni rad",
+      "trajanje probnog rada",
+      "probni rad ugovor o radu",
+      "otkaz u probnom radu"
+    ],
+    "answer": "Probni rad se može ugovoriti pri zaključivanju ugovora o radu i **ne može trajati duže od šest mjeseci** [@fbih-zakon-o-radu#21].\n\n- Ako se probni rad prekida prije ugovorenog roka, **otkazni rok je sedam dana** [@fbih-zakon-o-radu#21].\n- Radniku koji ne zadovolji na probnom radu radni odnos prestaje **danom isteka roka** iz ugovora o probnom radu [@fbih-zakon-o-radu#21].",
+    "reviewed": false
+  },
+  {
+    "id": "radni-radno-vrijeme",
+    "topic": "Radni odnosi",
+    "q": "Koliko traje puno radno vrijeme i koliko se može raditi prekovremeno?",
+    "alt": [
+      "radno vrijeme",
+      "prekovremeni rad",
+      "40 sati sedmično",
+      "koliko se smije raditi prekovremeno",
+      "plaćanje prekovremenog rada"
+    ],
+    "answer": "**Puno radno vrijeme traje 40 sati sedmično**, osim ako zakon, kolektivni ugovor, pravilnik o radu ili ugovor o radu ne određuju kraće; za maloljetne najviše 35 sati [@fbih-zakon-o-radu#36].\n\n**Prekovremeni rad** je dozvoljen u slučaju više sile i iznenadnog povećanja obima posla, **najviše do osam sati sedmično** [@fbih-zakon-o-radu#38].\n- Ako traje duže od tri sedmice neprekidno ili više od 10 sedmica u kalendarskoj godini, poslodavac obavještava inspekciju rada [@fbih-zakon-o-radu#38].\n- Zabranjen je maloljetnicima, trudnicama i roditeljima male djece (uz izuzetke uz pisanu izjavu) [@fbih-zakon-o-radu#38].\n- Prema Općem kolektivnom ugovoru, prekovremeni i noćni rad se plaćaju uvećano **najmanje 25 %** neto satnice [@fbih-opci-kolektivni-ugovor#11]. Provjerite i vlastiti kolektivni ugovor/pravilnik o radu.",
+    "reviewed": false
+  },
+  {
+    "id": "radni-godisnji-odmor",
+    "topic": "Radni odnosi",
+    "q": "Koliko dana godišnjeg odmora pripada radniku?",
+    "alt": [
+      "godišnji odmor",
+      "broj dana godišnjeg odmora",
+      "kada se stiče pravo na godišnji odmor",
+      "kolektivni odmor"
+    ],
+    "answer": "Radnik ima pravo na plaćeni godišnji odmor od **najmanje 20, a najviše 30 radnih dana** za kalendarsku godinu; kolektivnim ugovorom može biti i duži. Maloljetnik ima najmanje **24 radna dana** [@fbih-zakon-o-radu#47].\n\nPravo na odmor se stiče nakon **šest mjeseci neprekidnog rada** (novozaposleni ili prekid duži od 15 dana); do tada pripada najmanje **jedan dan za svaki navršeni mjesec rada** [@fbih-zakon-o-radu#48].",
+    "reviewed": false
+  },
+  {
+    "id": "radni-otkaz",
+    "topic": "Radni odnosi",
+    "q": "Kako se otkazuje ugovor o radu i koliki je otkazni rok?",
+    "alt": [
+      "otkaz ugovora o radu",
+      "otkazni rok",
+      "otkaz radniku",
+      "otkaz bez otkaznog roka",
+      "kako dati otkaz"
+    ],
+    "answer": "Otkaz se daje **u pisanoj formi**, poslodavac ga mora **obrazložiti** i dostaviti radniku [@fbih-zakon-o-radu#104].\n\n- **Otkazni rok** ne može biti kraći od **7 dana** kad otkazuje radnik, odnosno **14 dana** kad otkazuje poslodavac; duže trajanje može se odrediti kolektivnim ugovorom, pravilnikom o radu ili ugovorom, najviše mjesec dana (radnik) odnosno tri mjeseca (poslodavac) [@fbih-zakon-o-radu#105].\n- Poslodavac otkazuje uz otkazni rok ako je otkaz opravdan ekonomskim, tehničkim ili organizacijskim razlozima ili radnik ne može izvršavati obaveze [@fbih-zakon-o-radu#96].\n- **Bez otkaznog roka** poslodavac može otkazati zbog težeg prijestupa ili teže povrede radnih obaveza; za lakše je potrebno prethodno pisano upozorenje [@fbih-zakon-o-radu#97].",
+    "reviewed": false
+  },
+  {
+    "id": "poslovanje-organi-jp",
+    "topic": "Poslovanje preduzeća",
+    "q": "Koji su organi javnog preduzeća i kako se bira uprava?",
+    "alt": [
+      "organi javnog preduzeća",
+      "nadzorni odbor",
+      "uprava javnog preduzeća",
+      "javni konkurs za direktora",
+      "imenovanje uprave"
+    ],
+    "answer": "Organi javnog preduzeća su **skupština, nadzorni odbor, uprava (menadžment)** i **odbor za reviziju** [@fbih-zakon-o-javnim-preduzecima#5].\n\n- Nadzorni odbor ima **najmanje tri člana** [@fbih-zakon-o-javnim-preduzecima#9].\n- **Uprava se bira, imenuje i razrješava** po postupku iz statuta, na osnovu **javnog konkursa**; u upravu ne mogu biti imenovana lica koja vrše funkciju u političkim strankama [@fbih-zakon-o-javnim-preduzecima#12].",
+    "reviewed": false
+  },
+  {
+    "id": "poslovanje-nabavke-jp",
+    "topic": "Poslovanje preduzeća",
+    "q": "Primjenjuje li javno preduzeće Zakon o javnim nabavkama?",
+    "alt": [
+      "javne nabavke javno preduzeće",
+      "ugovorni organ",
+      "nabavke u javnom preduzeću",
+      "ko je ugovorni organ"
+    ],
+    "answer": "Da. Postupci nabavke u javnom preduzeću provode se **uz strogo poštivanje Zakona o javnim nabavkama BiH** [@fbih-zakon-o-javnim-preduzecima#34].\n\nUgovorni organ je, između ostalog, i pravno lice osnovano radi zadovoljavanja potreba od općeg interesa bez industrijskog ili komercijalnog karaktera koje je većim dijelom finansirano iz javnih sredstava ili je pod nadzorom/upravom organa vlasti [@bih-zakon-o-javnim-nabavkama#4]. **Kojoj kategoriji ugovornih organa vaše društvo pripada i koji vrijednosni razredi se primjenjuju**, provjerite u važećoj listi Agencije za javne nabavke.",
+    "reviewed": false
+  },
+  {
+    "id": "rad-zastita-obaveze-poslodavca",
+    "topic": "Radni odnosi",
+    "q": "Koje su obaveze poslodavca u zaštiti na radu?",
+    "alt": [
+      "zaštita na radu",
+      "obaveze poslodavca zaštita na radu",
+      "procjena rizika",
+      "osposobljavanje za siguran rad",
+      "akt o procjeni rizika"
+    ],
+    "answer": "Poslodavac je dužan, između ostalog, **organizovati poslove zaštite na radu**, **procijeniti rizik za svako radno mjesto**, osposobiti radnike za siguran rad, osigurati sredstva i opremu lične zaštite te periodične ljekarske preglede i preglede sredstava rada [@fbih-zakon-o-zastiti-na-radu#22].\n\n- Mora donijeti **interni akt o zaštiti na radu** na osnovu **akta o procjeni rizika**, uz konsultovanje povjerenika za zaštitu na radu [@fbih-zakon-o-zastiti-na-radu#23].\n- Osposobljavanje se vrši pri zasnivanju radnog odnosa, premještaju, uvođenju nove tehnologije ili sredstava za rad [@fbih-zakon-o-zastiti-na-radu#46].",
+    "reviewed": false
+  },
+  {
+    "id": "poslovanje-pristup-informacijama",
+    "topic": "Poslovanje preduzeća",
+    "q": "U kojem roku se odgovara na zahtjev za pristup informaciji i šta javno preduzeće mora objaviti?",
+    "alt": [
+      "pristup informacijama",
+      "zahtjev za pristup informaciji",
+      "rok za odgovor na zahtjev",
+      "objava informacija na internet stranici"
+    ],
+    "answer": "Rješenje o zahtjevu za pristup informaciji dostavlja se **što prije, a najkasnije u roku od 15 dana** od prijema zahtjeva [@fbih-zakon-o-slobodi-pristupa-informacijama#14].\n\nJavna preduzeća su dužna da informacije o **organizacionoj strukturi, finansijskom poslovanju** i obavljanju upravnih poslova iz javnih ovlaštenja učine dostupnim na svojoj **internet stranici** [@fbih-zakon-o-javnim-preduzecima#2].",
+    "reviewed": false
+  },
+  {
+    "id": "radni-oku-placa",
+    "topic": "Radni odnosi",
+    "q": "Šta Opći kolektivni ugovor propisuje o plaći, toplom obroku i minulom radu?",
+    "alt": [
+      "topli obrok",
+      "minuli rad",
+      "najniža satnica",
+      "najniža plaća",
+      "opći kolektivni ugovor"
+    ],
+    "answer": "- **Najniža plaća** se dobija množenjem najniže satnice (koju utvrđuje Ekonomsko-socijalno vijeće) s brojem sati u fondu rada za mjesec [@fbih-opci-kolektivni-ugovor#7][@fbih-opci-kolektivni-ugovor#9].\n- **Minuli rad:** osnovna plaća se povećava za **0,4 % za svaku godinu staža** kod poslodavca [@fbih-opci-kolektivni-ugovor#12].\n- **Topli obrok:** poslodavac osigurava ishranu u toku radnog vremena, a ako je ne osigura, radniku isplaćuje naknadu [@fbih-opci-kolektivni-ugovor#13].\n\nProvjerite da li je ugovor još na snazi i postoji li granski ili pojedinačni kolektivni ugovor koji uređuje ista pitanja.",
+    "reviewed": false
   }
 ]

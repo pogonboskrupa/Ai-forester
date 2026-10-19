@@ -123,7 +123,7 @@ function Composer() {
         <textarea
           ref={ref}
           rows={1}
-          placeholder="Postavite pitanje o šumarskim propisima…"
+          placeholder="Postavite pitanje o šumarstvu, radu ili poslovanju…"
           value={draft.value}
           aria-label="Pitanje"
           onInput={(e) => (draft.value = e.currentTarget.value)}

@@ -2,7 +2,7 @@ import { batch, computed, effect, signal } from '@preact/signals';
 import type MiniSearch from 'minisearch';
 import type { Article, Conversation, FaqEntry, LawInfo, Msg, Project, UserLaw } from './types';
 import { buildFaqIndex, extractiveAnswer, matchFaq } from './answer';
-import { buildIndex, retrieve } from './search';
+import { BUSINESS_TOPICS, buildIndex, retrieve, setBusinessLaws } from './search';
 import { isAbort, streamCompletion, type Turn } from './ai/client';
 import { buildPrompt, systemPrompt } from './ai/prompt';
 import { isConfigured, settings } from './settings';
@@ -116,6 +116,7 @@ function rebuildCorpus(): void {
     articles.value = all;
     laws.value = [...builtinLaws, ...privateLawList, ...custom.map((u) => u.law)];
   });
+  setBusinessLaws(laws.value.filter((l) => l.topic && BUSINESS_TOPICS.has(l.topic)).map((l) => l.id));
   index = buildIndex(all);
 }
 

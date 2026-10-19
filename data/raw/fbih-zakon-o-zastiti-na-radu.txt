@@ -1,0 +1,445 @@
+Član 1.
+(Predmet Zakona)
+(1) Ovim zakonom uređuju se prava, obaveze i odgovornosti poslodavaca i radnika u vezi sa provođenjem i poboljšanjem sigurnosti i zaštite zdravlja radnika na radu, kao i opća načela prevencije, te sistem pravila sigurnosti i zaštite zdravlja na radu, čijom primjenom se postiže sprječavanje povreda na radu, profesionalnih oboljenja i drugih oboljenja u vezi sa radom, kao i zaštita radne okoline, te druga pitanja u vezi sa sigurnošću i zaštitom zdravlja na radu.
+(2) Posebna zaštita se propisuje radi očuvanja duševnog i tjelesnog razvoja mladih, zaštite žena od rizika koji bi mogli ugroziti ostvarivanje materinstva, zaštite lica sa invaliditetom i profesionalno oboljelih lica od daljeg oštećenja zdravlja i umanjenja njihove radne sposobnosti i očuvanja radnih sposobnosti starijih radnika u granicama primjerenim njihovoj životnoj dobi.
+Član 2.
+(Preuzimanje pravnih akata Europske unije)
+Ovim zakonom se u pravni poredak Federacije Bosne i Hercegovine (u daljnjem tekstu: Federacija) preuzima Direktiva Vijeća 89/391/EEZ od 12. juna 1989. godine o uvođenju mjera za podsticanje poboljšanja sigurnosti i zdravlja radnika na radu.
+Član 3.
+(Definicije pojmova)
+(1) Pojmovi koji se koriste u ovom zakonu imaju sljedeće značenje:
+a) poslodavac je pravno ili fizičko lice koje zapošljava jednog ili više radnika, uključujući i organe državne uprave. Poslodavcem, u smislu ovog zakona, smatra se i poljoprivrednik i fizičko lice koje samo ili sa članovima svoje porodice obavlja poljoprivrednu ili neku drugu djelatnost kao jedino ili glavno zanimanje;
+b) radnik je lice koje radi kod poslodavca na osnovu ugovora o radu, ugovora o obavljanju privremenih i povremenih poslova ili rješenja o postavljenju osobe koja nije državni službenik, državnog službenika i namještenika, kao i pripadnici oružanih snaga i policijski službenici;
+c) mjesto rada u smislu ovog zakona je prostor namijenjen za obavljanje poslova (u objektu ili na otvorenom, kao i na privremenim i pokretnim gradilištima, objektima, uređajima, saobraćajnim sredstvima), u kojem radnik boravi i ima pristup u toku rada, kao i svaki prostor, odnosno prostorija u kojem se obavlja posao i koji je pod posrednim ili neposrednim nadzorom poslodavca ili vlasnika sredstava rada;
+d) radna okolina je prostor u kojem se obavlja rad i koji uključuje mjesto rada, radne uvjete, radne postupke i odnose u procesu rada, a čine je fizikalni, hemijski i biološki faktori na mjestu rada i u njegovom okruženju;
+e) sredstva za rad u smislu ovog zakona su: - objekti namijenjeni za rad sa pripadajućim prostorijama, instalacijama i uređajima, prostorijama i površinama za kretanje radnika, te pomoćnim prostorijama i njihovim instalacijama i uređajima, prijevozna sredstva željezničkog, drumskog, riječnog, jezerskog i zračnog prijevoza, te druga sredstva rada koja se koriste prilikom obavljanja poslova, - radna oprema (svaka mašina ili uređaj, aparat, oruđe ili druga oprema koja se upotrebljava za rad), - sredstva i oprema lične zaštite pri radu, - sirovine i materijali koji se koriste u procesu rada, - drugo sredstvo koje se upotrebljava u random procesu ili je na bilo koji način povezano sa radnim procesom;
+f) radnik za zaštitu na radu je lice kojem poslodavac povjeri izvršavanje stručnih poslova sigurnosti I zaštite zdravlja na radu;
+g) povjerenik za zaštitu na radu je lice izabrano ili imenovano da predstavlja zaposlene u oblasti sigurnosti i zaštite zdravlja na radu kod poslodavca;
+h) ovlaštena zdravstvena ustanova je zdravstvena ustanova koja u skladu sa propisima o zdravstvenoj zaštiti obavlja djelatnost specifične zdravstvene zaštite radnika/medicine rada;
+i) ovlaštena organizacija za zaštitu na radu je privredno društvo ili ustanova specijalizovana za vršenje periodičnih pregleda iz oblasti zaštite na radu, procjene rizika i osposobljavanja radnika;
+j) rizik je vjerovatnoća nastanka povrede, oboljenja ili oštećenja zdravlja radnika usljed opasnosti;
+k) prevencija u smislu ovog zakona je svaka planirana, odnosno preduzeta mjera u svakoj fazi rada kod poslodavca, čiji je cilj sprječavanje ili smanjenje rizika na radu;
+l) procjena rizika u smislu ovog zakona je sistematsko evidentiranje i procjenjivanje svih faktora u procesu rada koji mogu uzrokovati nastanak povreda na radu, oboljenja ili oštećenja zdravlja i utvrđivanje mogućnosti, odnosno načina sprječavanja, otklanjanja ili smanjenja rizika;
+m) poslovi sa povećanim rizikom su poslovi utvrđeni aktom o procjeni rizika na kojim i pored potpuno ili djelimično primijenjenih mjera u skladu sa ovim zakonom, postoje okolnosti koje mogu da ugroze sigurnost i zdravlje radnika;
+n) opasne materije su eksplozivne, zapaljive, oksidirajuće, otrovne, zarazne, korozivne, kancerogene i radioaktivne materije utvrđene standardima i drugim propisima, a koje se proizvode, koriste ili skladište u procesu rada, kao i materije čija su svojstva, kada su vezane za neke supstance, opasne po život i zdravlje radnika;
+o) štetnosti su hemijske, biološke i fizičke štetnosti, koje mogu uzrokovati oštećenje zdravlja radnika i drugih lica koja su im izložena;
+p) biološke štetnosti su biološki agensi, odnosno mikroorganizmi, uključujući i genetski modificirane ćelijske kulture i endoparazite čovječjeg i životinjskog porijekla, koji mogu uzrokovati zarazu, alergiju ili trovanje, a koji se koriste u radu ili su prisutni u radnoj okolini.
+(2) Pojmovi koji se koriste u ovom zakonu, a imaju rodno značenje koriste se neutralno i odnose se jednako na muški i ženski rod.
+Član 4.
+(Sigurnost i zaštita zdravlja na radu)
+Sigurnost i zaštita zdravlja na radu, u smislu ovog zakona, je osiguranje takvih uvjeta na radu kojima se u najvećoj mogućoj mjeri sprječava nastanak povreda na radu, profesionalnih oboljenja i oboljenja u vezi sa radom i koji stvaraju pretpostavku za punu fizičku, psihičku i socijalnu sigurnost zaposlenih.
+Član 5.
+(Lica koja imaju pravo na sigurnost i zaštitu zdravlja na radu)
+(1) Pravo na sigurnost i zaštitu zdravlja na radu ima:
+a) radnik, b) lice koje je kod poslodavca na stručnom osposobljavanju, c) lice koje se nalazi na prekvalifikaciji, dokvalifikaciji ili stručnom usavršavanju, d) učenici i studenti na praktičnoj nastavi, e) lice koje učestvuje u javnim radovima, f) lice koje obavlja volonterski rad, g) lice koje za vrijeme izdržavanja kazne zatvora radi u zatvorskoj radionici, na gradilištu ili na drugim radnim mjestima, h) drugo lice koje se zatekne u radnoj okolini radi obavljanja određenih poslova, ako je o njegovom prisustvu poslodavac upoznat.
+(2) Sigurnost i zaštitu zdravlja na radu licima iz stava (1) tač. a), b), d), f), i h) ovog člana obezbjeđuje poslodavac, licima iz tačke c) ovog člana obrazovna ustanova, licima iz tačke e) ovog člana organizator radova i licima iz tačke g) ovog člana ustanova za izvršenje kazne zatvora.
+Član 6.
+(Primjena zakona na pripadnike oružanih snaga i policije)
+(1) Odredbe ovog zakona primjenjuju se na pripadnike oružanih snaga i policijske službenike, do donošenja posebnih propisa iz oblasti sigurnosti i zaštite zdravlja na radu za pripadnike oružanih snaga i policijske službenike.
+(2) Odredbe ovog zakona ne primjenjuju se na pripadnike oružanih snaga i policijske službenike, ako su u suprotnosti sa propisima koji regulišu službu u oružanim snagama i policiji.
+Član 7.
+(Vijeće za zaštitu na radu)
+(1) Vlada Federacije Bosne i Hercegovine (u daljnjem tekstu: Vlada Federacije), osniva Vijeće za zaštitu na radu (u daljnjem tekstu: Vijeće) koje čine predstavnici Vlade Federacije, udruženja poslodavaca, sindikata i istaknutih stručnjaka za sigurnost i zaštitu zdravlja na radu.
+(2) Vijeće ima devet članova. Članove Vijeća imenuje Vlada Federacije na period od četiri godine, a čine ga premijer Federacije, federalni ministar nadležan za rad (u daljnjem tekstu: federalni ministar), federalni ministar zdravstva, po dva predstavnika poslodavaca i radnika koje predlažu reprezentativna udruženja poslodavaca i radnika za teritorij Federacije, te dva istaknuta stručnjaka za sigurnost i zaštitu zdravlja na radu.
+(3) Vijeće predlaže i povremeno preispituje politiku sigurnosti i zaštite zdravlja na radu i podstiče usklađivanje rada svih relevantnih organa i tijela, kao i zakonodavstva, u cilju obezbjeđenja života, zdravlja i radne sposobnosti radnika, sprječavanja povreda na radu i profesionalnih oboljenja.
+(4) Odluku o osnivanju Vijeća iz stava (1) ovog člana, donijet će Vlada Federacije, na prijedlog Federalnog ministarstva rada i socijalne politike (u daljnjem tekstu: ministarstva), u roku od šest mjeseci od dana stupanja na snagu ovog zakona.
+(5) Vijeće:
+a) prati, analizira i ocjenjuje sistem i politiku zaštite na radu i o svojim nalazima i ocjenama najmanje jednom godišnje izvještava Vladu Federacije te predlaže potrebne promjene, b) prati učinke primjene ovoga zakona, njegovih provedbenih propisa, posebnih zakona i drugih propisa kojima se štiti sigurnost i zdravlje radnika te, prema potrebi, predlaže Vladi Federacije njihove promjene, kao i njihovo usklađivanje sa međunarodnim propisima, c) obavlja i druge poslove na zahtjev Vlade Federacije.
+(6) Predsjednika Vijeća i dva zamjenika biraju njegovi članovi, na svojoj prvoj sjednici koju će sazvati federalni ministar.
+(7) Vijeće donosi poslovnik o radu kojim se uređuju prava i dužnosti članova, način rada, održavanje sjednica, postupak odlučivanja na sjednicama ovog vijeća i druga pitanja vezana za njegov rad, ukoliko ovim zakonom nije drugačije određeno.
+(8) Administrativne i stručne poslove za potrebe Vijeća obavljat će ministarstvo.
+(9) Finansijska sredstva potrebna za rad Vijeća osiguravat će se u Budžetu Federacije.
+Član 8.
+(Učešće sindikata)
+Sindikat učestvuje u uređivanju i unaprjeđivanju sigurnosti i zaštite zdravlja radnika na radu u skladu sa zakonom, propisima donesenim na osnovu zakona i kolektivnim ugovorom.
+Član 9.
+(Opća pravila i mjere zaštite na radu)
+(1) Zaštita na radu obuhvata sistem pravila i mjera, a posebno:
+a) pravila i mjere pri projektovanju i izradi sredstava rada, b) pravila i mjere pri upotrebi, održavanju, pregledu i ispitivanju sredstava rada, c) pravila i mjere koje se odnose na radnike, te prilagođavanje procesa rada njihovom polu, dobi, fizičkim i psihičkim sposobnostima, d) načine i postupke osposobljavanja i obavještavanja radnika i poslodavaca sa svrhom postizanja odgovarajućeg nivoa zaštite na radu, e) načine i postupke saradnje poslodavca, radnika i njihovih predstavnika i udruženja, te državnih organa nadležnih za zaštitu na radu, f) zabranu stavljanja radnika u nepovoljniji položaj zbog aktivnosti preduzetih radi zaštite na radu, g) ostale mjere za sprječavanje rizika na radu, sa svrhom uklanjanja faktora rizika i njihovih štetnih posljedica.
+(2) Zaštita na radu kao sistemski organizovano djelovanje sastavni je dio organizacije rada i izvođenja radnog postupka, koje poslodavac ostvaruje primjenom svih mjera zaštite na radu u skladu s općim načelima prevencije.
+(3) Projektovanje, izvođenje i stavljanje u funkciju objekata, tehnoloških procesa i radnih mjesta, izrada, proizvodnja, uskladištenje, ispitivanje, zamjena, instaliranje, korištenje i održavanje sredstava za rad, uvoz i rukovanje sredstvima za rad, opasnim materijama i energijom, vrši se u skladu sa zahtjevima utvrđenim odredbama ovog zakona, tehničkih propisa i razvojem naučno-tehničkih dostignuća.
+(4) Opća pravila i mjere zaštite na radu posebno se odnose na sljedeće zahtjeve: zaštitu od mehaničkih opasnosti, zaštitu od udara električne struje, sprječavanje nastanka požara i eksplozije, osiguranje mehaničke otpornosti i stabilnosti građevine, osiguranje potrebne radne površine i radnog prostora, osiguranje potrebnih puteva za prolaz, prijevoz i evakuaciju radnika i drugih lica, osiguranje čistoće, osiguranje propisane temperature i vlažnosti zraka i ograničenja brzine strujanja zraka, osiguranje propisane rasvjete, zaštitu od buke i vibracija, zaštitu od štetnih atmosferskih i klimatskih uticaja, zaštitu od fizikalnih, hemijskih i bioloških štetnih uticaja, zaštitu od prekomjernih napora, zaštitu od elektromagnetskog i ostalog zračenja, te osiguranje prostorija i uređaja za ličnu higijenu.
+(5) Usljed vremenskih neprilika kao što su visoke ili niske temperature i sl, kao i u drugim stanjima potrebe ministarstvo može poslodavcima izdati preporuke o provođenju posebnih mjera zaštite, kojima će se spriječiti nastupanje štetnih posljedica po zdravlje radnika. Ukoliko vremenske neprilike ili druga stanja potrebe, usljed kojih su izdate preporuke, potraju duže od pet dana, ministarstvo će obaviti konsultacije sa reprezentativnim udruženjima poslodavaca i radnika za teritorij Federacije.
+Član 10.
+(Obaveza primjene propisanih mjera zaštite na radu)
+(1) Poslodavac koji izrađuje tehničku dokumentaciju za objekte i tehničko-tehnološke procese obavezan je da pri projektovanju objekata i tehničko-tehnoloških procesa primijeni propisane mjere sigurnosti i zaštite zdravlja na radu, sa naznakom svih rizika i mjera za njihovo otklanjanje.
+(2) Poslodavac iz stava (1) ovog člana dužan je da izda ispravu kojom potvrđuje da je projektovanje izvršeno u skladu sa zakonom, odnosno propisima donesenim na osnovu zakona.
+(3) Ako u projektovanju objekata i tehničko-tehnoloških procesa učestvuje više poslodavaca iz stava (1) ovog člana, investitor je obavezan da osigura jedinstvenu ispravu.
+Član 11.
+(Obaveza projektovanja mjera zaštite na radu)
+(1) Poslodavac koji izvodi radove na izgradnji objekata i tehničko-tehnoloških procesa dužan je da izvodi radove prema tehničkoj dokumentaciji u kojoj su projektovane mjere zaštite na radu.
+(2) Obaveza iz stava (1) ovog člana odnosi se i na radove na montaži, zamjeni opreme, remontu i rekonstrukciji objekata.
+(3) Novi, obnovljeni ili rekonstruisani objekti i tehničkotehnološki procesi ne mogu početi sa radom bez upotrebne dozvole, u skladu sa zakonom.
+Član 12.
+(Elaborat o uređenju radilišta)
+(1) Poslodavac koji izvodi radove na izgradnji, montaži, zamjeni opreme, remontu ili rekonstrukciji objekata obavezan je prije početka radova da izradi elaborat o uređenju radilišta u skladu sa propisima donesenim na osnovu zakona i obezbijedi izvođenje radova prema tom elaboratu.
+(2) Poslodavac iz stava (1) ovog člana koji izvodi radove na radilištu duže od sedam dana, obavezan je da prijavu i elaborat o uređenju radilišta dostavi nadležnoj inspekciji rada najmanje osam dana prije početka rada na radilištu.
+Član 13.
+(Obaveza osiguranja jedinstvenog elaborata o uređenju radilišta)
+Ako dva ili više poslodavaca koriste isti prostor za radilište, svaki od njih provodi mjere zaštite na radu, a glavni izvođač odnosno investitor je obavezan da obezbijedi jedinstveni elaborat o uređenju radilišta.
+Član 14.
+(Uvjeti za upotrebu sredstava za rad)
+(1) Radna oprema može se staviti u promet, naručiti ili staviti u upotrebu ako su ispunjeni uvjeti za sigurnost i zaštitu zdravlja na radu i ako je to potvrdio proizvođač ili uvoznik uvezenih proizvoda.
+(2) Sredstva i oprema lične zaštite mogu se staviti u promet, naručiti ili staviti u upotrebu ako pružaju pouzdanu zaštitu od rizika pri radu i ako je to potvrdio proizvođač ili uvoznik uvezenih proizvoda.
+(3) Sredstva za rad, koja podliježu obavezi periodičnih pregleda i ispitivanja iz oblasti zaštite na radu, mogu se upotrebljavati samo ako posjeduju zapisnik, odnosno ispravu iz člana 67. stav (1) ovog zakona kojim se dokazuje da pregledana sredstva za rad udovoljavaju propisima donesenim na osnovu zakona.
+Član 15.
+(Radna oprema)
+(1) Radna oprema mora odgovarati radnom procesu koji se obavlja i mora biti na odgovarajući način prilagođena toj svrsi tako da ne ugrožava sigurnost i zdravlje radnika.
+(2) Izbor radne opreme i materijala koji se koriste vrši se u skladu sa posebnim uvjetima i specifičnostima rada kako bi se otklonili ili smanjili rizici.
+Član 16.
+(Uputstva za sigurnu upotrebu i rukovanje sredstvima za rad)
+(1) Proizvođači i uvoznici radne opreme i sredstava i opreme lične zaštite obavezni su da izdaju ispravu kojom se dokazuje da odgovaraju međunarodnim propisima, tehničkim propisima i propisanim mjerama sigurnosti i zaštite zdravlja na radu, te daju uputstva za upotrebu i održavanje na jednom od službenih jezika u Bosni i Hercegovini, odnosno Federaciji.
+(2) Proizvođači i uvoznici opasnih materija dužni su da daju uputstvo za sigurnu upotrebu i rukovanje. Uputstvo sadrži identifikacione podatke, podatke o fizičkim, hemijskim i biološkim karakteristikama, stepen opasnosti od požara i eksplozije, opasnosti po zdravlje, o radioaktivnosti, o ekološkim podacima, o posebnim zaštitnim mjerama, o načinu skladištenja i označavanja, o prijenosu i transportu, kao i o postupku otklanjanja opasnih materija (sigurnosni list). Ovi podaci se daju na jednom od službenih jezika u Bosni i Hercegovini, odnosno Federaciji.
+Član 17.
+(Obaveza pribavljanja potrebne dokumentacije)
+Poslodavac ne može staviti u promet ili upotrebu sredstva za rad ili opasne materije prije nego što pribavi dokumentaciju iz člana 16. ovog zakona.
+Član 18.
+(Izdavanje isprava)
+Isprave iz člana 10. st.
+(2) i (3) i člana 16. stav (1) može izdati i ovlaštena organizacija za zaštitu na radu.
+Član 19.
+(Zabrana davanja finansijske naknade)
+Poslodavci ne mogu dati finansijsku ili drugu naknadu radnicima u zamjenu za ispunjavanje zahtjeva standard sigurnosti i zaštite zdravlja na radu.
+Član 20.
+(Obaveza osiguranja preventivnih mjera)
+(1) Poslodavac je obavezan da prilikom organizovanja rada i radnog procesa osigura preventivne mjere radi zaštite života i zdravlja zaposlenih, kao i potrebna materijalna sredstva za njihovu primjenu.
+(2) Poslodavac je dužan da osigura preventivne mjere prije početka rada radnika, u toku rada, kao i kod svake izmjene tehnološkog postupka, izborom radnih i proizvodnih metoda kojima se osigurava najveća sigurnost i zaštita zdravlja na radu, zasnovana na primjeni propisa iz oblasti sigurnosti i zaštite zdravlja na radu, radnih odnosa, tehničkih propisa i standarda, propisa iz oblasti zdravstvene zaštite i dr.
+(3) U slučaju kada poslodavac, u skladu sa članom 33. ovog zakona, angažuje ovlaštenu organizaciju za zaštitu na radu, to ga neće osloboditi odgovornosti utvrđene u stavu (1) ovog člana.
+Član 21.
+(Načela u provođenju mjera zaštite na radu)
+Poslodavac provodi mjere zaštite na radu poštujući sljedeća opća načela prevencije:
+a) procjene rizika, b) izbjegavanja rizika, c) sprječavanja rizika, d) otklanjanja rizika na njihovom izvoru, e) prilagođavanja rada i mjesta rada radniku naročito u pogledu izbora opreme za rad i metoda rada, kao i izbora tehnološkog postupka da bi se izbjegla jednoličnost u radu u cilju smanjenja njihovog uticaja na zdravlje radnika, f) prilagođavanja tehničkom napretku, g) zamjene opasnih tehnoloških procesa ili metoda rada bezopasnim ili manje opasnim, h) zamjene opasnih materija bezopasnim, i) utvrđivanja jedinstvenih preventivnih mjera s ciljem međusobnog povezivanja tehnologije, organizacije rada, uvjeta rada, socijalnih odnosa i uticaja faktora vezanih za radnu okolinu, j) davanja prednosti zajedničkim mjerama zaštite pred pojedinačnim, k) odgovarajućeg osposobljavanja i obavještavanja radnika.
+Član 22.
+(Obaveze poslodavca)
+Poslodavac je dužan da:
+a) organizuje poslove sigurnosti i zaštite zdravlja na radu, b) vrši procjenu rizika za svako radno mjesto i utvrđuje poslove sa povećanim rizikom, na način i pod uvjetima utvrđenim ovim zakonom, c) omogući radniku da se prije stupanja na rad upozna sa mjerama sigurnosti i zaštite na radu, d) donese interni akt o zaštiti na radu, e) obavještava radnike, sindikat i povjerenika za zaštitu na radu o uvođenju novih tehnologija i sredstava za rad, te opasnostima i štetnostima po zdravlje radnika i izdaje uputstva za siguran rad, f) osigurava da planiranje i uvođenje novih tehnologija bude predmet savjetovanja sa radnicima i/ili njihovim povjerenikom za zaštitu na radu u vezi sa posljedicama po sigurnost i zdravlje izazvanih izborom opreme, uvjeta rada i radne okoline, g) osposobljava radnike za siguran rad, h) osigurava radnicima sredstva i opremu lične zaštite i njihovo korištenje, i) osigurava periodične ljekarske preglede radnika koji rade na poslovima na kojima postoje povećani rizici po zdravlje i preduzima mjere za sprječavanje nastanka invaliditeta i profesionalnih oboljenja radnika, j) osigurava periodične preglede sredstava rada i sredstava i opreme lične zaštite pri radu, u skladu sa tehničkim standardima, k) osigurava periodične preglede i ispitivanja fizičkih, hemijskih i bioloških štetnosti i mikroklime u radnoj okolini, l) osigurava periodične preglede i ispitivanja sredstava rada i opreme, radnih i pomoćnih prostorija i sredstava i opreme lične zaštite, koji ne podliježu obaveznim periodičnim pregledima i ispitivanjima, na način, po postupku i u rokovima utvrđenim općim aktom, m) provodi mjere zaštite od požara u skladu sa posebnim propisima, n) provodi mjere za osiguranje prve pomoći, o) unaprjeđuje sigurnost i zaštitu zdravlja na radu, p) obavještava nadležnu inspekciju rada o svakom smrtnom slučaju, nesreći koja je zadesila jednog ili više radnika, težoj povredi, profesionalnom oboljenju, svakoj pojavi ili bolesti koje pogađaju više od jednog radnika i svakoj pojavi koja bi mogla ugroziti život ili zdravlje radnika na radu, r) obavještava nadležnu inspekciju o početku i završetku radova na izgradnji, montaži, zamjeni opreme, remontu i rekonstrukciji objekata.
+Član 23.
+(Interni akt o zaštiti na radu i akt o procjeni rizika)
+(1) Poslodavac je dužan svojim internim aktom o zaštiti na radu utvrditi organizaciju provođenja zaštite na radu, pravila prevencije i zaštite, poslove sa povećanim rizikom, poslove na kojima se provodi mjera skraćivanja radnog vremena, način utvrđivanja zdravstvenog stanja radnika koji rade na poslovima sa povećanim rizikom, i drugih radnika, sredstva i opremu lične zaštite koja pripadaju radniku, te prava, obaveze i odgovornosti radnika za zaštitu na radu i drugih radnika u ovoj oblasti, kao i druga pitanja od značaja za sigurnost i zaštitu zdravlja na radu.
+(2) Osnov za izradu akta iz stava (1) ovog člana je akt o procjeni rizika na mjestu rada koji sadrži opis procesa rada sa procjenom rizika od povreda ili oštećenja zdravlja na mjestu rada u radnoj okolini i mjere za otklanjanje ili smanjivanje rizika na najmanju moguću mjeru u cilju poboljšanja sigurnosti i zaštite zdravlja na radu.
+(3) U slučaju promjene rizika u procesu rada, poslodavac je dužan da izvrši odgovarajuću izmjenu akta o procjeni rizika iz stava (2) ovog člana.
+(4) Poslodavac vrši procjenu rizika na osnovu pravila koja donosi federalni ministar u saradnji sa federalnim ministrom zdravstva.
+(5) Pri izradi internog akta o zaštiti na radu poslodavac je dužan da konsultuje povjerenika za zaštitu na radu.
+Član 24.
+(Obaveza utvrđivanja uvjeta rada i zahtjeva u pogledu sposobnosti radnika)
+(1) Poslodavac je dužan da za sve poslove u tehničkotehnološkom procesu rada utvrdi uvjete rada i zahtjeve u pogledu zdravstvenih i psihofizičkih sposobnosti radnika koji će te poslove obavljati.
+(2) Radnik ne može zasnovati radni odnos ukoliko prethodno nije utvrđeno da njegovo zdravstveno stanje i psihofizičke sposobnosti odgovaraju uvjetima rada i zahtjevima radnog mjesta.
+(3) Zdravstveno stanje i psihofizičke sposobnosti radnika iz stava (2) ovog člana utvrđuju se na osnovu ljekarskog uvjerenja izdatog od strane odjeljenja za medicinu rada i zdravstvenu zaštitu radnika ovlaštene zdravstvene ustanove.
+(4) Zdravstveno stanje i psihofizičke sposobnosti pripadnika oružanih snaga i policijskih službenika utvrđuju se zdravstvenim pregledom koji organizuje poslodavac.
+Član 25.
+(Obaveza ispitivanja radne okoline)
+Poslodavac je obvezan ispitivati radnu okolinu, odnosno procijeniti rizike i osigurati zaštitu zdravlja i sigurnost radnika izloženih fizičkim, hemijskim i biološkim štetnostima na radu.
+Član 26.
+(Obaveza poslodavca u vezi sa upotrebom opasnih materija na radu)
+(1) Poslodavac je obavezan primjenom manje opasnih i štetnih materija stalno unaprjeđivati zaštitu na radu.
+(2) Poslodavac koji koristi, proizvodi, prerađuje, odnosno skladišti opasne materije mora, u skladu sa procjenom rizika, primjenjivati pravila zaštite na radu.
+(3) Opasne materije poslodavac smije koristiti samo ako ne može iste radne rezultate postići primjenom bezopasnih materija.
+(4) Ako nije moguća zamjena opasnih materija bezopasnim ili manje opasnim, odnosno manje štetnim materijama, poslodavac je obavezan utvrditi da li se primjenom drugog radnog postupka može smanjiti opasnost ili štetnost od njihove primjene.
+(5) Ako koristi opasne materije, poslodavac je obavezan pravila zaštite na radu primjenjivati sljedećim redoslijedom:
+a) koristiti zatvorene sisteme, ako je to moguće prema vrsti poslova i stanju tehnike, b) odvoditi sa mjesta nastanka, odnosno izvan radne okoline opasne materije čije oslobađanje ne može spriječiti, na način da pri odvođenju ne zagađuje čovjekovu okolinu, c) kada ne može odvoditi opasne materije sa mjesta nastanka, ograničiti na najmanju moguću mjeru: - količinu opasnih materija, - broj radnika izloženih djelovanju opasnih materija, - vrijeme izlaganja radnika uticaju opasnih materija.
+d) osigurati da radnici pri radu sa opasnim materijama koriste propisanu ličnu zaštitnu opremu, ako se pravilima navedenima u tač. a), b) i c) ovog stava ne može postići zadovoljavajuća sigurnost i zaštita zdravlja radnika.
+(6) Obaveza je poslodavca da koncentracija opasnih materija na mjestima rada i u radnoj okolini bude što niža i ispod granične vrijednosti izloženosti.
+Član 27.
+(Zaštita radnika izloženih opasnim materijama na radu)
+Federalni ministar će u saradnji sa federalnim ministrom zdravstva propisati granične vrijednosti izloženosti opasnim materijama, kao i pravila, mjere i postupke zaštite na radu radnika koji su izloženi opasnim materijama na radu.
+Član 28.
+(Osiguranje pristupa radnom mjestu sa povećanim rizikom)
+Poslodavac je dužan da osigura da pristup radnom mjestu sa povećanim rizikom, na kojem prijeti neposredna opasnost od povređivanja ili zdravstvenih oštećenja (trovanja, gušenja i sl.), imaju samo radnici koji su osposobljeni za siguran i zdrav rad, koji su dobili posebna uputstva za rad na takvom mjestu, koji ispunjavaju zdravstvene uvjete i koji su snabdjeveni odgovarajućim sredstvima i opremom za ličnu zaštitu pri radu.
+Član 29.
+(Sredstva i oprema lične zaštite)
+(1) Poslodavac je dužan da obezbijedi radnicima sredstva i opremu lične zaštite.
+(2) Poslodavac ne smije staviti u upotrebu sredstva i opremu lične zaštite ako nisu izrađena u skladu sa članom 14. ovog zakona.
+(3) Poslodavac je obavezan da osigura da se sredstva i oprema lične zaštite održavaju u dobrom stanju.
+(4) Poslodavac je dužan da isključi iz upotrebe sredstva i opremu lične zaštite na kojima nastanu promjene zbog kojih postoji opasnost po sigurnost i zdravlje radnika.
+Član 30.
+(Obaveze poslodavaca pri obavljanju djelatnosti na istom mjestu rada sa više poslodavaca)
+U slučaju kada više poslodavaca obavlja djelatnost na istom mjestu rada, obavezni su da:
+a) sarađuju, vodeći računa o prirodi djelatnosti, u cilju provođenja odredaba o sigurnosti i zaštiti zdravlja na radu, b) usklađuju aktivnosti, vodeći računa o prirodi poslova, u cilju zaštite radnika i sprječavanju rizika na radu, c) obavijeste jedni druge o rizicima na radu, d) obavijeste radnike i/ili njihove predstavnike o rizicima na radu.
+Član 31.
+(Zabrana prouzrokovanja finansijskih obaveza za radnike)
+Mjere zaštite koje provodi poslodavac i koje se odnose na sigurnost i zaštitu zdravlja na radu ne smiju radnicima prouzrokovati finansijske obaveze.
+Član 32.
+(Obaveza upoznavanja sa propisima iz oblasti sigurnosti i zaštite zdravlja na radu)
+Poslodavac, odnosno radnik koji organizuje ili rukovodi procesom rada, mora biti upoznat sa propisima iz oblasti sigurnosti i zaštite zdravlja na radu, a naročito ako se radi o tehnologijama u kojima postoji opasnost od povreda na radu, profesionalnih oboljenja i poremećaja u tehnološkom procesu koji bi mogli ugroziti sigurnost i zdravlje radnika.
+Član 33.
+(Organizovanje poslova zaštite na radu)
+(1) Poslodavac je dužan organizovati poslove zaštite na radu vodeći računa o tehničko-tehnološkom procesu rada, broju radnika, broju lokacija odvojenih radnih jedinica, opasnostima i rizicima po zdravlje radnika.
+(2) Ako se u nedostatku stručnog osoblja poslovi zaštite i prevencije ne mogu organizovati kod poslodavca, poslodavac će angažovati ovlaštenu organizaciju za zaštitu na radu.
+(3) Ako poslodavac angažuje ovlaštenu organizaciju iz stave (2) ovog člana, dužan je da osigura uvid u podatke vezane za rizike po sigurnost i zdravlje na radu, kao i mjere i aktivnosti za sprječavanje tih rizika na nivou radnog mjesta.
+(4) Poslove zaštite na radu poslodavac može da obavlja sam u djelatnostima trgovine, ugostiteljstva i turizma, finansijsko-tehničkih i poslovnih usluga, obrazovanja, nauke i informacija, zdravstvene i socijalne zaštite i u stambeno-komunalnim djelatnostima, ako ima do 30 radnika.
+(5) Federalni ministar propisat će uvjete koje mora ispunjavati stručno osoblje iz stava (2) ovog člana, kao i način i uvjete obavljanja poslova zaštite na radu kod poslodavca u zavisnosti od rizika, djelatnosti i broja radnika.
+Član 34.
+(Radnik za zaštitu na radu)
+(1) Poslodavac kod kojeg postoje poslovi sa povećanim rizikom određuje jednog ili više radnika koji će obavljati poslove vezane za sprječavanje rizika na radu i zaštitu zdravlja radnika.
+(2) Poslodavac je dužan radniku za zaštitu na radu osigurati uvjete za rad, potrebnu opremu i pomoć drugog stručnog osoblja, kao i sredstva za obavljanje i organizovanje preventivnih i zaštitnih mjera.
+(3) Radnik za zaštitu na radu ne može biti doveden u nepovoljniji položaj zbog poslova koje obavlja u cilju sprječavanja rizika na radu i zaštite zdravlja radnika.
+(4) Radnik za zaštitu na radu mora biti odgovarajuće osposobljen i imati položen stručni ispit koji se odnosi na sigurnost i zaštitu zdravlja na radu (u daljnjem tekstu: stručni ispit) u skladu sa ovim zakonom.
+(5) Stručni ispit iz stava (4) ovog člana polaže se pred komisijom koju imenuje Federalni ministar, a za čiji će se rad osiguravati finansijska sredstva u Budžetu Federacije.
+(6) Federalni ministar donijet će pravilnik kojim će propisati uvjete koje moraju ispunjavati radnici za zaštitu na radu, program, sadržaj, način i troškove polaganja stručnog ispita, sastav komisije iz stava (5) ovog člana, kao i uvjete pod kojim određena lica mogu biti oslobođena obaveze polaganja stručnog ispita.
+Član 35.
+(Obaveze radnika za zaštitu na radu)
+(1) Obaveze radnika za zaštitu na radu su:
+a) učešće u izradi akta o procjeni rizika, b) izrada prijedloga internog akta o zaštiti na radu, c) izrada plana i programa mjera zaštite na radu, d) unutrašnji nadzor nad primjenom mjera zaštite na radu, e) stručna pomoć poslodavcu u provođenju i unaprjeđenju sigurnosti i zaštite zdravlja na radu, f) izrada uputstava za siguran rad, g) praćenje i organizovanje periodičnih pregleda sredstava za rad, sredstava i opreme lične zaštite, h) praćenje i organizovanje periodičnih pregleda hemijskih, fizičkih i bioloških štetnosti i mikroklime u radnoj okolini, i) priprema i organizovanje osposobljavanja radnika za siguran rad, j) praćenje stanja i izvještavanje poslodavca o povredama na radu, profesionalnim oboljenjima i bolestima u vezi sa radom, k) analiziranje uzroka povreda na radu i profesionalnih oboljenja u saradnji sa ovlaštenim doktorom specijalistom medicine rada i predlaganje mjere za unaprjeđenje sigurnosti i zaštite zdravlja na radu, l) praćenje i organizovanje periodičnih ljekarskih pregleda radnika koji rade na poslovima sa povećanim rizikom, te analiza izvještaja o obavljenim periodičnim ljekarskim pregledima, m) savjetovanje poslodavca u pogledu izbora i nabavke opreme i tehnološkog procesa rada, n) saradnja sa poslodavcem prilikom planiranja izgradnje i rekonstrukcije objekata namijenjenih za rad, o) saradnja sa nadležnom inspekcijom rada i drugim ustanovama koje se bave sigurnošću i zaštitom na radu, p) saradnja sa sindikatom, vijećem zaposlenika i povjerenikom za zaštitu na radu, u skladu sa ovim zakonom.
+(2) Radnik za zaštitu na radu je obavezan da zabrani rad na radnom mjestu, odnosno da zabrani upotrebu sredstava za rad i sredstava i opreme lične zaštite u slučaju kada utvrdi neposrednu opasnost po život i zdravlje radnika, te da o tome u pisanom obliku obavijesti poslodavca i povjerenika za zaštitu na radu.
+Član 36.
+(Prva pomoć, protivpožarna zaštita, evakuacija radnika, ozbiljna i neposredna opasnost)
+(1) Poslodavac je dužan da:
+a) preduzme potrebne mjere za prvu pomoć, protivpožarne mjere i mjere za evakuaciju radnika, prilagođene prirodi aktivnosti i veličini preduzeća, odnosno poslovanja, b) uspostavi potrebne veze sa specijalizovanim službama, posebno u pogledu prve pomoći, hitne zdravstvene zaštite, spašavanja i protivpožarne zaštite.
+(2) Za provođenje odredaba iz stava (1) ovog člana poslodavac će odrediti radnike koji će provoditi mjere prve pomoći, protivpožarne zaštite i evakuacije radnika.
+(3) Broj radnika iz stava (2) ovog člana, njihovo osposobljavanje i oprema kojom raspolažu moraju odgovarati veličini i/ili posebnim opasnostima u pravnom licu, odnosno poslovanju.
+(4) Federalni ministar će u saradnji sa federalnim ministrom zdravstva propisati način provođenja mjera za prvu pomoć, potrebna sredstva i opremu za pružanje prve pomoći u slučaju povreda i oboljenja radnika na radu, pitanja iz stava (3) ovog člana, kao i druga pitanja od važnosti za provođenje mjera za prvu pomoć.
+Član 37.
+(Obaveze poslodavca u slučaju ozbiljne i neposredne opasnosti)
+(1) Poslodavac je dužan da:
+a) upozna sve radnike koji su ili bi mogli biti izloženi ozbiljnoj i neposrednoj opasnosti o riziku koji postoji kao i mjerama koje su preduzete ili koje će se preduzeti u pogledu zaštite, što je prije moguće, b) preduzme mjere i izda uputstva kako bi se omogućilo radnicima da u slučaju ozbiljne i neposredne opasnosti prekinu s radom i/ili odmah napuste radno mjesto i pređu na neko sigurno mjesto, c) ne traži od radnika da nastave rad u situaciji kada još uvijek postoji ozbiljna i neposredna opasnost, osim u izuzetnim slučajevima kada postoji ozbiljna i neposredna opasnost po sigurnost više ljudi i širu okolinu.
+(2) Radnici koji u slučaju ozbiljne i neposredne opasnosti napuste svoje radno mjesto i/ili opasno područje ne smiju snositi negativne posljedice u smislu propisa o radu.
+(3) U slučaju ozbiljne i neposredne opasnosti po vlastitu sigurnost ili sigurnost drugih lica, radnici koji nisu u mogućnosti stupiti u vezu sa neposrednim rukovodiocem, obavezni su preduzeti odgovarajuće mjere u skladu sa svojim znanjem i tehničkim sredstvima koja su im na raspolaganju, da bi se izbjegle posljedice te opasnosti, pod uvjetom da te mjere ne smiju biti u očitom neskladu sa opasnošću.
+(4) Zbog preduzimanja mjera iz stava (3) ovog člana radnici ne smiju snositi negativne posljedice u smislu propisa o radu.
+Član 38.
+(Obavještavanje radnika)
+(1) Poslodavac je dužan radnicima i/ili njihovim predstavnicima davati odgovarajuća pisana uputstva koja se odnose na rizike po sigurnost i zdravlje sa zaštitnim i preventivnim mjerama koje se preduzimaju za otklanjanje ili smanjenje tih rizika.
+(2) Uputstva iz stava (1) ovog člana moraju biti istaknuta na mjestu rada.
+(3) Izuzetno, kada prijeti iznenadna opasnost po život i zdravlje, uputstvo iz stava (1) ovog člana poslodavac može dati usmeno.
+(4) Uputstva iz stava (1) ovog člana daju se svim radnicima uključujući i radnike drugih poslodavaca koji obavljaju poslove kod poslodavca.
+Član 39.
+(Znakovi upozorenja na opasnost)
+(1) Poslodavac je dužan na mjestima rada, na sredstvima za rad i pripadajućim instalacijama trajno postaviti znakove upozorenja na opasnost i znakove općih obavještavanja, u skladu sa posebnim propisima.
+(2) Ako znakovi upozorenja na opasnost nisu dovoljni za efikasno obavještavanje, poslodavac je dužan trajno postaviti pisana uputstva o uvjetima i načinu korištenja prostora, prostorija, sredstava rada, opasnih materija i opreme.
+Član 40.
+(Obavještavanje predstavnika radnika i sindikata)
+(1) Poslodavac je dužan da najmanje dva puta godišnje izvijesti povjerenika za zaštitu na radu, vijeće zaposlenika i sindikat o rizicima po sigurnost i zdravlje, te mjerama koje je preduzeo i koje će preduzeti radi unaprjeđivanja sigurnosti i zaštite zdravlja.
+(2) Osim redovnog obavještavanja iz stava (1) ovog člana, poslodavac ima obavezu da obavještava i da se savjetuje sa predstavnicima radnika ili radnicima nakon smrtne, grupne ili teške povrede na radu, utvrđenog slučaja profesionalnog oboljenja, kao i nalaza nadležne inspekcije rada kojim je utvrđen nedostatak u primjeni mjera zaštite na radu.
+Član 41.
+(Upotreba opasnih materija)
+Poslodavac smije dati opasne materije u upotrebu radnicima samo pod uvjetom da su opremljene dokumentom na jednom od službenih jezika u Bosni i Hercegovini, odnosno Federaciji, na kojem je proizvođač, odnosno dobavljač, u skladu sa propisima, naveo sve bezbjednosno-tehničke podatke koji su važni za ocjenjivanje rizika pri radu s tim materijama, te da su zadovoljene sve sigurnosne mjere koje se navode u tom dokumentu.
+Član 42.
+(Pisana obavijest o rezultatima procjene rizika)
+Poslodavac je dužan osigurati da zaposlena žena za vrijeme trudnoće i dojenja, radnik mlađi od 18 godina života i radnik sa promijenjenom radnom sposobnošću, i pored osposobljavanja za siguran i zdrav rad, budu u pisanoj formi obaviješteni o rezultatima procjene rizika na radnom mjestu i o mjerama kojima se rizici otklanjaju u cilju povećanja sigurnosti i zaštite zdravlja na radu.
+Član 43.
+(Savjetovanje i uključivanje radnika i njihovih predstavnika)
+Poslodavac se savjetuje sa radnicima i/ili njihovim predstavnicima i omogućava im da učestvuju u raspravama o svim pitanjima u pogledu sigurnosti i zaštite zdravlja na radu. Posebno im omogućava da učestvuju u:
+a) raspravama i odobravanju svih mjera u pogledu sigurnosti i zaštite zdravlja na radu, b) svakoj mjeri koja može značajno uticati na sigurnost i zaštitu zdravlja na radu, c) imenovanju radnika koji će obavljati poslove vezane za obezbjeđenje zdravih i sigurnih uvjeta rada, prve pomoći, gašenje požara i evakuaciju radnika, d) angažovanju, tamo gdje je potrebno, ovlaštenih organizacija za zaštitu na radu, e) planiranju i organizovanju osposobljavanja radnika u oblasti zaštite na radu.
+Član 44.
+(Povjerenik za zaštitu na radu)
+(1) Kod poslodavca koji zapošljava 30 ili više radnika, radnici biraju ili imenuju povjerenika za zaštitu na radu. Broj povjerenika, izbor i njihov mandat utvrđuju se u skladu sa propisom o vijeću zaposlenika, vodeći računa o zastupljenosti svih dijelova procesa rada.
+(2) Pod uvjetima iz stava (1) ovog člana, povjerenika za zaštitu na radu imenuje sindikat, ukoliko povjerenika nisu izabrali radnici iz stava (1) ovog člana.
+(3) Imenovani povjerenik za zaštitu na radu iz stava (2) ovog člana ima ista prava i obaveze kao i izabrani povjerenik radnika.
+(4) Povjerenik za zaštitu na radu će biti izabran ili imenovan bez obzira na broj radnika ako to zahtijevaju uvjeti rada (povećana opasnost za sigurnost i zdravlje radnika, rad na izdvojenim mjestima i sl.).
+(5) Povjerenik za zaštitu na radu mora imati odgovarajuću stručnu spremu i radno iskustvo.
+Član 45.
+(Prava i dužnosti povjerenika za zaštitu na radu)
+(1) Povjerenik za zaštitu na radu ima pravo da:
+a) dobije informacije o uvjetima rada, analizama povreda na radu, profesionalnih oboljenja i bolesti vezanih za rad, nalazima i preporukama inspekcijskih organa, b) zahtijeva od poslodavca da preduzme odgovarajuće mjere i dostavi mu prijedloge za ublažavanje rizika i otklanjanja izvora opasnosti, c) informiše radnike o provođenju mjera zaštite na radu, d) zahtijeva inspekcijski pregled ako smatra da mjere koje je preduzeo poslodavac nisu primjerene cilju po kojem treba osigurati sigurne i zdrave uvjete rada i iznese svoja zapažanja u toku inspekcijskog pregleda, e) prisustvuje inspekcijskim pregledima i/ili dostavi svoja zapažanja u toku inspekcijskih pregleda.
+(2) Za vrijeme obavljanja poslova utvrđenih ovim zakonom, povjerenik za zaštitu na radu iz reda zaposlenih ima pravo na naknadu plaće u visini plaće koju bi ostvario da je radio na poslovima za koje je zaključio ugovor o radu.
+(3) Povjerenik za zaštitu na radu poslove utvrđene ovim zakonom može obavljati najviše šest sati sedmično.
+(4) Poslodavac osigurava povjereniku za zaštitu na radu potrebna sredstva da može ostvarivati svoje funkcije koje proizilaze iz ovog zakona.
+(5) Povjerenik za zaštitu na radu ne može biti doveden u nepovoljniji položaj u odnosu na druge radnike, zbog svojih poslova vezanih za sigurnost i zaštitu zdravlja na radu.
+Član 46.
+(Osposobljavanje radnika)
+(1) Poslodavac je dužan da izvrši osposobljavanje radnika za siguran i zdrav rad kod zasnivanja radnog odnosa, odnosno premještaja na druge poslove, prilikom uvođenja nove tehnologije ili novih sredstava za rad, kao i kod promjene procesa rada koji može prouzrokovati promjenu mjera za siguran i zdrav rad.
+(2) Poslodavac je dužan da radnika u toku osposobljavanja za siguran i zdrav rad, upozna sa svim vrstama rizika na poslovima na koje ga raspoređuje i o preduzetim konkretnim mjerama sigurnosti i zaštite na radu, u skladu sa aktom o procjeni rizika.
+(3) Osposobljavanje radnika za siguran i zdrav rad mora biti prilagođeno specifičnostima njegovog radnog mjesta.
+Član 47.
+(Zabrana samostalnog rada)
+(1) Radnici ne mogu biti raspoređeni na radna mjesta na kojima će samostalno obavljati poslove prije nego što steknu znanja iz člana 46. ovog zakona.
+(2) Poslodavac kod kojeg rad obavljaju radnici drugog poslodavca mora osigurati da ti radnici budu upoznati sa mjerama zaštite na radu i zdravstvenim rizicima na radu.
+(3) Osposobljavanje radnika iz člana 46. ovog zakona mora se obavljati u toku radnog vremena i ne smije izazvati troškove za radnika.
+Član 48.
+(Provjera osposobljenosti za siguran i zdrav rad)
+(1) Osposobljavanje radnika za siguran i zdrav rad, poslodavac obavlja teorijski i na praktičan način.
+(2) Provjera teorijske i praktične osposobljenosti radnika za siguran i zdrav rad obavlja se na radnom mjestu.
+(3) Periodične provjere osposobljenosti za siguran i zdrav rad radnika koji radi na poslovima sa povećanim rizikom vrši se na način, u roku i po postupku utvrđenom aktom o procjeni rizika.
+Član 49.
+(Teorijsko i praktično osposobljavanje)
+(1) U toku osposobljavanja iz oblasti sigurnosti i zaštite zdravlja na radu, radnik se upoznaje naročito sa:
+a) tehničko-tehnološkim procesom i organizacijom rada u cjelini, a posebno sa poslovima svog radnog mjesta, b) opasnostima koje ugrožavaju sigurnost i zdravlje na radu, korištenjem sredstava rada i opreme i načinom upotrebe štetnih materija, c) mjerama zaštite na radu i razlozima zbog kojih se te mjere predviđaju i provode, d) upotrebom odgovarajućih sredstava rada i odgovarajuće opreme i sredstava lične zaštite, kao i pravilnim i namjenskim korištenjem uređaja i sredstava kojima se služi pri radu, e) pravima i dužnostima u provođenju propisa i mjera zaštite na radu i posljedicama zbog nepridržavanja tih propisa i mjera, f) pružanjem prve pomoći, g) organizacijom sigurnosti i zaštite zdravlja na radu, h) korištenjem protivpožarnih aparata, i) odredbama ovog zakona.
+(2) Osposobljavanje radnika iz stava (1) ovog člana poslodavac može obaviti ako ima zaposlena lica sa odgovarajućom visokom stručnom spremom iz oblasti sigurnosti i zaštite zdravlja na radu.
+(3) Ako poslodavac nije u mogućnosti da izvrši osposobljavanje radnika u smislu stava (1) ovog člana, te poslove povjerit će ovlaštenoj organizaciji iz člana 64. ovog zakona.
+Član 50.
+(Pravo na sigurne i zdrave uvjete rada)
+(1) Radnik ima pravo na sigurne i zdrave uvjete rada.
+(2) Radna okolina i sredstva za rad moraju, s obzirom na prirodu posla, biti sigurni za radnike i ne smiju ugroziti njihovo zdravlje.
+Član 51.
+(Dužnost radnika da sebe i druge ne izlaže opasnostima)
+Radnik je dužan da obavlja posao u skladu sa svojom stručnom spremom i završenom obukom, kao i uputstvima koja daje poslodavac, tako da ne izlaže sebe ili druga lica na koja mogu uticati njegove aktivnosti ili nepažnja u toku procesa rada, opasnostima od povrede na radu ili profesionalnog oboljenja.
+Član 52.
+(Dužnosti radnika)
+(1) Radnici su, naročito, dužni:
+a) da se pridržavaju utvrđenih pravila sigurnosti i zaštite zdravlja na radu u smislu ovog zakona, b) da pravilno upotrebljavaju sredstva za rad i opremu, opasne materije i druga sredstva proizvodnje u skladu sa uputstvima proizvođača i uputstvima za siguran rad koja daje poslodavac, c) da pravilno upotrebljavaju sredstva i opremu lične zaštite koja su im dodijeljena i da ih nakon upotrebe vraćaju na mjesto na kojem se čuvaju, d) ne smiju samovoljno isključiti, modifikovati, promijeniti ili ukloniti sigurnosni uređaj koji je instaliran, posebno ne mašinu, uređaj, alat, pogon ili objekat i takav uređaj moraju pravilno upotrebljavati, e) da odmah obavijeste poslodavca i/ili radnika za zaštitu na radu o svakoj pojavi na poslu za koju postoji opravdana sumnja da predstavlja opasnost po sigurnost i zdravlje kao i o nedostacima u postupcima zaštite, f) da obavijesti lice odgovorno za to radno mjesto i/ili poslodavca o povredama koje su zadobili, g) da sarađuju sa poslodavcem i/ili radnikom za zaštitu na radu u provođenju mjera ili zahtjeva koje je naredio inspektor rada, h) da sarađuje sa poslodavcem i/ili radnikom za zaštitu na radu u provođenju mjera koje će obezbijediti da radna okolina i uvjeti rada budu sigurni i ne predstavljaju rizik po sigurnost i zdravlje u okviru njihovog radnog mjesta, i) obavljaju periodične ljekarske preglede u terminima po zahtjevu poslodavca, j) da daju sve podatke i informacije koje traže inspektori rada.
+(2) Radnik koji se ne pridržava utvrđenih pravila sigurnosti i zaštite zdravlja na radu i propisanih obaveza u smislu ovog zakona čini težu povredu radne obaveze u skladu sa kolektivnim ugovorom, odnosno općim aktom poslodavca.
+(3) Obaveze radnika u području sigurnosti i zaštite zdravlja na radu ne utiču na obaveze i odgovornosti poslodavca iz ovog zakona.
+Član 53.
+(Postupanje u slučaju neposredne opasnosti po život i zdravlje radnika)
+(1) Radnik ima pravo da odbije da radi ako smatra da mu prijeti neposredna opasnost po život i zdravlje i dužan je da o tome odmah obavijesti svog neposrednog rukovodioca i/ili imenovanog radnika za zaštitu na radu, nadležnog inspektora rada i predstavnika radnika.
+(2) Po prijemu obavijesti iz stava (1) ovog člana nadležna inspekcija rada obavezna je da odmah izvrši uviđaj na licu mjesta i naredi da se provedu odgovarajuće mjere zaštite odnosno zabrani rad dok se mjere ne provedu ili obavijesti radnika iz kojih razloga njegov zahtjev nije osnovan.
+(3) Radnik iz stava (1) ovog člana koji se udaljio sa radnog mjesta, ne smije snositi negativne posljedice u smislu propisa o radu, osim u slučaju ako poslodavac dokaže da se radnik neopravdano udaljio sa radnog mjesta.
+Član 54.
+(Pravo radnika na specifičnu zdravstvenu zaštitu/medicinu rada)
+(1) Radnik ima pravo na zdravstvenu zaštitu primjerenu rizicima za sigurnost i zdravlje kojima je izložen na radu, u skladu s posebnim propisima koji uređuju mjere zdravstvene zaštite u vezi sa radom.
+(2) Poslodavac je dužan da zdravstvenim radnicima, koji pružaju usluge specifične zdravstvene zaštite/medicine rada, osigura pristup u sve radne prostorije i prostore.
+Član 55.
+(Poslovi specifične zdravstvene zaštite/medicine rada)
+Ovlaštena zdravstvena ustanova, pored poslova utvrđenih propisima o zdravstvenoj zaštiti, može obavljati i sljedeće poslove:
+a) daje savjete poslodavcu o unaprjeđivanju zaštite zdravlja, sigurnosti, higijene rada, ergonomiji i zaštitnim sredstvima, b) upoznaje radnike sa rizicima po zdravlje koji su povezani sa njihovim radom i obavlja poslove osposobljavanja radnika za pružanje prve pomoći, c) učestvuje u izradi akta o procjeni rizika na mjestu rada kod poslodavca, d) ocjenjuje i utvrđuje posebne zdravstvene sposobnosti koje moraju da ispunjavaju radnici za obavljanje određenih poslova na radnom mjestu sa povećanim rizikom ili za upotrebu, odnosno rukovanje određenom opremom za rad, e) vrši prethodne i periodične ljekarske preglede radnika na radnim mjestima sa povećanim rizikom i izdaje izveštaje o ljekarskim pregledima u skladu sa propisima o sigurnosti i zaštiti zdravlja na radu, f) učestvuje u organizovanju prve pomoći, spašavanju i evakuaciji u slučaju povređivanja radnika ili havarija, g) daje savjete poslodavcu pri izboru drugog odgovarajućeg posla prema zdravstvenoj sposobnosti radnika, h) savjetuje poslodavca u izboru i testiranju novih sredstava za rad, opasnih materija i sredstava i opreme za ličnu zaštitu na radu, sa zdravstvenog aspekta, i) sarađuje sa radnikom za zaštitu na radu.
+Član 56.
+(Obaveza obavještavanja ovlaštene zdravstvene ustanove)
+Poslodavac, radnik za zaštitu na radu, povjerenik za zaštitu na radu, sindikat i drugi radnici dužni su obavijestiti ovlaštenu ustanovu iz člana 55. ovog zakona, o svim faktorima na radnom mjestu i u radnoj okolini za koje znaju ili pretpostavljaju da se mogu nepovoljno odraziti na zdravlje radnika.
+Član 57.
+(Poslovi sa povećanim rizikom)
+(1) Poslodavac je dužan da radniku koji obavlja poslove sa povećanim rizikom, prije početka rada osigura prethodni ljekarski pregled, kao i periodični ljekarski pregled u toku rada.
+(2) Poslovi sa povećanim rizikom utvrđuju se internim aktom o zaštiti na radu.
+(3) Poslovima sa povećanim rizikom smatraju se:
+a) poslovi sa povećanim rizikom od povređivanja, nastanka profesionalnih oboljenja i oštećenja zdravlja radnika, b) poslovi sa specifičnim zahtjevima koji, u cilju sigurnog i uspješnog rada uvjetuju posebne zdravstvene i psihofizičke sposobnosti radnika na tim radnim mjestima, c) poslovi na kojima, nakon primjene svih tehnički priznatih metoda za smanjenje rizika, postoji preostali rizik za neke radnike.
+Član 58.
+(Evidencije o ljekarskim pregledima radnika)
+(1) Prilikom upućivanja radnika na ljekarski pregled iz člana 57. stav (1) ovog zakona, poslodavac je obavezan ovlaštenoj zdravstvenoj ustanovi dostaviti podatke o poslovima sa povećanim rizikom i navesti štetnosti i opasnosti kojima su radnici izloženi.
+(2) O rezultatima odgovarajućeg ljekarskog pregleda radnika, ovlaštena zdravstvena ustanova vodi evidenciju i u roku od 15 dana od izvršenog pregleda o tome dostavlja izvještaj poslodavcu.
+Član 59.
+(Pravo radnika na premještaj na drugo radno mjesto)
+Ako se u postupku periodičnog ljekarskog pregleda utvrdi da radnik ne ispunjava posebne zdravstvene uvjete za obavljanje poslova sa povećanim rizikom, poslodavac je dužan da ga premjesti na drugo radno mjesto koje odgovara njegovim zdravstvenim sposobnostima, ukoliko takvo radno mjesto postoji kod poslodavca. Ukoliko takvo mjesto ne postoji, primjenjuju se odgovarajuće odredbe Zakona o radu.
+Član 60.
+(Način obavljanja ljekarskih pregleda)
+(1) Prethodni i periodični ljekarski pregledi radnika koji obavljaju poslove sa povećanim rizikom vrše se na način, po postupku i u rokovima koje utvrđuje federalni minister u saradnji sa federalnim ministrom zdravstva.
+(2) Radnik iz stava (1) ovog člana koji ne obavi periodični ljekarski pregled ne može nastaviti sa radom dok se ne utvrdi njegovo zdravstveno stanje i psihofizičke sposobnosti.
+Član 61.
+(Obaveza vođenja evidencija kod poslodavca)
+(1) Poslodavac je dužan da vodi propisanu evidenciju o:
+a) radnicima na radnim mjestima sa povećanim rizikom, b) radnim mjestima sa povećanim rizikom, c) opasnim materijama koje se koriste pri radu, d) provjeri znanja radnika iz oblasti sigurnosti i zaštite zdravlja na radu, e) izvršenim pregledima i ispitivanjima radne sredine i sredstava za rad, f) povredama na radu, profesionalnim oboljenjima, smrtnim slučajevima i njihovim uzrocima, g) ljekarskim pregledima radnika.
+(2) Poslodavac je dužan dostaviti nadležnoj inspekciji rada godišnji izvještaj o slučajevima iz stava (1) tačka f) ovog člana.
+Član 62.
+(Dostavljanje izvještaja o povredi na radu i profesionalnom oboljenju)
+(1) Izvještaj o povredi na radu koja se dogodi i profesionalnom oboljenju koje nastane na radnom mjestu, poslodavac je dužan dostaviti radniku koji je pretrpio povredu, odnosno kod kojeg je nastalo oboljenje, nadležnom zavodu zdravstvenog osiguranja kod kojeg je radnik zdravstveno osiguran, ovlaštenoj zdravstvenoj ustanovi koja obavlja usluge specifične zdravstvene zaštite/medicine rada kod poslodavca, kao i nadležnoj inspekciji rada, u roku od sedam dana od dana pretrpljene povrede odnosno nastanka oboljenja.
+(2) Izvještaj iz stava (1) ovog člana podnosi se na obrascu čiji sadržaj i način podnošenja propisuje federalni ministar u saradnji sa federalnim ministrom zdravstva.
+Član 63.
+(Obaveza obavještavanja inspekcije rada)
+(1) O svakom smrtnom slučaju, težoj povredi na radu, profesionalnom oboljenju i svakoj pojavi koja bi mogla ugroziti život ili zdravlje radnika na radu poslodavac je obavezan odmah obavijestiti nadležnu inspekciju rada.
+(2) Za svaku povredu na radu poslodavac je dužan na uviđaj pozvati radnika za zaštitu na radu, neposrednog rukovodioca povrijeđenog radnika i povjerenika za zaštitu na radu.
+Član 64.
+(Izdavanje i oduzimanje dozvole za obavljanje stručnih poslova)
+(1) Privrednom društvu ili ustanovi koja ispunjava kadrovske, organizacijske, tehničke i druge uvjete (u daljnjem tekstu: ovlaštena organizacija), federalni ministar izdaje dozvolu za obavljanje sljedećih stručnih poslova:
+a) periodičnih pregleda i ispitivanja fizičkih, hemijskih i bioloških štetnosti i mikroklime u radnim i pomoćnim prostorijama, b) periodičnih pregleda i ispitivanja sredstava za rad i sredstava i opreme lične zaštite, električnih i gromobranskih instalacija na objektima na kojima se primjenjuju mjere zaštite na radu, c) osposobljavanje radnika za siguran rad, d) procjenu rizika na mjestima rada i radne okoline iz člana 23. ovog zakona.
+(2) Dozvola iz stava (1) ovog člana se izdaje na određeno vrijeme u trajanju od četiri godine.
+(3) Privredno društvo ili ustanova kojem je izdata dozvola iz stava (1) ovog člana, dužno je federalnom ministru na kraju svake kalendarske godine, najkasnije do 15. januara, dostaviti dokumentaciju o ispunjavanju kadrovskih, organizacijskih i drugih uvjeta, kao i izvještaj o obavljenim poslovima iz stava (1) ovog člana.
+(4) Dozvolu iz stava (1) ovog člana federalni ministar će oduzeti:
+a) ako se utvrdi da ovlaštena organizacija više ne ispunjava uvjete za dobijanje dozvole, b) ako je dozvola izdata na osnovu neistinitih podataka, c) ako se u postupku nadzora iz člana 68. ovog zakona utvrdi da se poslovi ne obavljaju u skladu sa zakonom i drugim propisima donesenim na osnovu zakona, d) na prijedlog inspekcije rada, ako utvrdi da se poslovi ne obavljaju u skladu sa zakonom i drugim propisima donesenim na osnovu zakona, e) ako ne postupi u skladu sa obavezama propisanim u stavu (3) ovog člana.
+Član 65.
+(Postupak izdavanja odnosno oduzimanja dozvole)
+(1) O izdavanju, odnosno oduzimanju dozvole za rad federalni ministar donosi rješenje protiv kojeg nije dozvoljena žalba, ali se može pokrenuti upravni spor pred nadležnim sudom.
+(2) Troškove postupka izdavanja dozvole za rad snosi ovlaštena organizacija.
+(3) Rješenje o dozvoli, odnosno oduzimanju dozvole za rad upisuje se u registar koji vodi ministarstvo.
+(4) Način vođenja i obrazac registra iz stava (3) ovog člana propisuje federalni ministar.
+Član 66.
+(Uvjeti koje moraju ispunjavati ovlaštene organizacije)
+(1) Radnik koji u ovlaštenoj organizaciji obavlja stručne poslove iz člana 64. stav (1) ovog zakona mora imati odgovarajuću stručnu spremu i položen stručni ispit koji se odnosi na obavljanje tih poslova, u skladu sa ovim zakonom.
+(2) Stručni ispit iz stava (1) ovog člana polaže se pred komisijom koju imenuje federalni ministar, a za čiji se rad osiguravaju finansijska sredstva u Budžetu Federacije.
+(3) Federalni ministar donijet će pravilnik kojim će propisati organizacijske, kadrovske, tehničke i druge uvjete koje moraju ispunjavati ovlaštene organizacije iz člana 64. ovog zakona, postupak i način utvrđivanja tih uvjeta, te sadržaj, program, način i troškove polaganja stručnog ispita iz stava (1) ovog člana, kao i sastav komisije iz stava (2) ovog člana.
+Član 67.
+(Zapisnik o izvršenim periodičnim pregledima)
+(1) O izvršenim periodičnim pregledima i ispitivanjima iz člana 64. stav (1) ovog zakona ovlaštena organizacija sačinjava zapisnik o stručnom nalazu, na osnovu kojeg izdaje ispravu.
+(2) Zapisnik i isprava iz stava (1) ovog člana sadrži rezultat pregleda i ispitivanja i konstataciju da li pregledana sredstva za rad i sredstva i oprema lične zaštite udovoljavaju propisima donesenim na osnovu zakona.
+(3) Način, postupak i rokove vršenja periodičnih pregleda i ispitivanja iz stava (1) ovog člana, te oblik i sadržaj zapisnika i isprave iz stava (2) ovog člana propisuje federalni ministar.
+Član 68.
+(Nadzor nad zakonitošću rada ovlaštenih organizacija)
+Nadzor nad zakonitošću rada ovlaštene organizacije koja je dobila dozvolu iz člana 64. stav (1) ovog zakona, u dijelu koji se odnosi na obavljanje periodičnih pregleda i ispitivanja sredstava za rad i sredstava i opreme lične zaštite, vrši ministarstvo.
+Član 69.
+(Zaštita grupa posebno osjetljivih na rizike)
+(1) Poslodavac je dužan organizovati radno mjesto tako da vodi računa o prisustvu grupa osjetljivih na određene rizike.
+(2) Grupe posebno osjetljive na rizike, kao što su trudnice, porodilje ili dojilje, maloljetnici, lica sa invaliditetom, kao i radnici sa promijenjenom radnom sposobnošću u smislu propisa o penzijskom i invalidskom osiguranju, moraju se zaštititi od opasnosti koje posebno njih pogađaju, u skladu sa ovim zakonom, drugim propisima, kolektivnim ugovorom i općim aktom poslodavca.
+Član 70.
+(Zabrana rada grupa posebno osjetljivih na rizike na određenim poslovima)
+(1) Zabranjen je rad trudnicama, porodiljama i dojiljama na poslovima na kojima postoji rizik od izloženosti opasnim materijama, hemijskim, fizičkim i biološkim agensima, štetnim zračenjima i mikroklimatskim uticajima, odnosno na poslovima sa teškim uvjetima rada, kao i posebno teškim i opasnim poslovima gdje postoji rizik po njihovo fizičko i mentalno zdravlje.
+(2) Zabranjen je rad maloljetnicima na poslovima koji mogu ugroziti njihovo zdravlje i razvoj.
+(3) Radnik sa promijenjenom radnom sposobnošću ne smije obavljati poslove na kojima postoji opasnost smanjenja preostale radne sposobnosti.
+Član 71.
+(Postupak raspoređivanja radnika na poslove sa povećanim rizikom)
+(1) Kada su na određenom radnom mjestu takvi uvjeti da uprkos primjeni mjera zaštite na radu i dalje postoji preostali rizik i prijetnja od obolijevanja tj. invaliditeta, poslodavac je dužan preduzeti mjere za sprječavanje oboljenja tj. nastanka invaliditeta ili dalje pogoršanje bolesti radnika.
+(2) U slučajevima iz stava (1) ovog člana radno vrijeme se skraćuje srazmjerno štetnom utjecaju uvjeta rada na zdravlje i na radnu sposobnost radnika, u skladu sa zakonom.
+(3) Za poslove koji su internim aktom o zaštiti na radu i ugovorom o radu utvrđeni kao poslovi sa povećanim rizikom, postupak za raspoređivanje radnika na te poslove, uvjete rada i zdravstveni nadzor propisuje federalni ministar u saradnji sa federalnim ministrom zdravstva.
+Član 72.
+(Postupak skraćivanja radnog vremena)
+(1) Poslovi iz člana 71. stav (2) ovog zakona i trajanje radnog vremena utvrđuju se internim aktom poslodavca o zaštiti na radu, na osnovu akta o procjeni rizika iz člana 23. stav (2) ovog zakona i stručnog nalaza ovlaštene organizacije, koja ispunjava kadrovske, organizacijske, tehničke i druge uvjete.
+(2) O skraćivanju radnog vremena u smislu stava (1) ovog člana odlučuje ministarstvo.
+(3) Postupak skraćivanja radnog vremena kod poslodavca, kao i kadrovske, organizacijske, tehničke i druge uvjete koje moraju ispunjavati ovlaštene organizacije iz stava (1) ovog člana, propisat će federalni ministar.
+(4) Pri ostvarivanju prava na plaću i drugih prava po osnovu rada i u vezi sa radom, skraćeno radno vrijeme u smislu ovog člana izjednačava se sa punim radnim vremenom.
+Član 73.
+(Posebno osiguranje radnika koji obavljaju poslove sa povećanim rizikom)
+Poslodavac posebno osigurava od rizika nesreće i povrede na radu radnike koji obavljaju poslove sa povećanim rizikom, utvrđene internim aktom o zaštiti na radu, radi obezbjeđenja naknade štete, u skladu sa zakonom.
+Član 74.
+(Organi nadležni za vršenje inspekcijskog nadzora)
+(1) Inspekcijski nadzor nad provođenjem ovog zakona, propisa donesenih na osnovu zakona, tehničkih propisa i standarda koji se odnose na sigurnost i zaštitu zdravlja na radu i općih akata iz oblasti sigurnosti i zaštite zdravlja na radu vrši kantonalna uprava za inspekcijske poslove (u daljnjem tekstu: kantonalna uprava), osim nadzora koji je ovim zakonom stavljen u nadležnost Federalne uprave za inspekcijske poslove (u daljnjem tekstu: Federalna uprava) (2) Poslove inspekcijskog nadzora iz stava (1) ovog člana vrši inspektor zaštite na radu, odnosno inspektor rada (u daljem tekstu: inspektor).
+Član 75.
+(Nadležnosti Federalne uprave za inspekcijske poslove)
+(1) Federalna uprava vrši neposredni nadzor kod poslodavca koji obavlja djelatnost:
+a) proizvodnje i prerade sirovog željeza, čelika i ferolegura, b) proizvodnje i prerade glinice, aluminija, olova i cinka, mangana i drugih teških metala, c) proizvodnje i prerade baznih hemikalija, plastičnih masa, premaznih sredstava, lijekova i farmaceutskih hemikalija, d) proizvodnje i uskladištenja koksa i karbogasa i drugih tehničkih plinova, e) proizvodnje eksploziva i eksplozivnih sredstava i galanterije, f) proizvodnje i distribucije naftnih derivata, g) proizvodnje celuloze i papira i hemijske prerade drveta, h) proizvodnje cementa i cementnih proizvoda, i) proizvodnje električne energije.
+(2) Federalna uprava vrši neposredni nadzor nad izvođenjem radova:
+a) u tunelima i na drugim podzemnim radovima izuzev rudarskih, b) na armirano-betonskim, čeličnim i drvenim mostovima raspona preko 20 m, c) u kesonima i ronilačkim radovima, d) na izgradnji termoelektrana i hidroelektrana.
+(3) Izuzetno, u slučaju potrebe, direktor Federalne uprave, uz saglasnost kantonalnog rukovodioca inspekcije, može prenijeti ovlaštenje kantonalnom inspektoru da obavlja poslove inspekcijskog nadzora iz nadležnosti Federalne uprave na teritoriji Federacije.
+Član 76.
+(Saradnja inspekcijskih organa)
+(1) U vršenju inspekcijskog nadzora federalni inspector ostvaruje saradnju sa nadležnim kantonalnim inspektorima u pitanjima koja su od zajedničkog interesa za vršenje inspekcijskog nadzora i pruža im stručnu pomoć.
+(2) U cilju jedinstvenog provođenja ovog zakona, federalni inspektor može izdavati kantonalnom inspektoru odgovarajuće upute i instrukcije za rad.
+Član 77.
+(Obaveza vršenja inspekcijskih pregleda)
+(1) U vršenju inspekcijskog nadzora inspektori su obavezni kod poslodavca, kod kojeg se obavljaju tehničkotehnološki procesi rada, izvršiti preglede najmanje jednom godišnje, a u drugim slučajevima po potrebi.
+(2) Inspektori su obavezni izvršiti i kontrolne preglede kod poslodavca iz stava (1) ovog člana kod kojeg su naređene mjere za otklanjanje nedostatka iz oblasti sigurnosti i zaštite zdravlja na radu.
+Član 78.
+(Postupanje u slučaju kada se utvrdi povreda propisa iz oblasti sigurnosti i zaštite zdravlja na radu)
+(1) Ako inspektor utvrdi povrede propisa iz oblasti sigurnosti i zaštite zdravlja na radu donijet će rješenje o otklanjanju tih nedostataka odnosno nepravilnosti i odrediti rok u kojem se oni imaju otkloniti.
+(2) Poslodavac je obavezan pismeno izvijestiti inspektora o izvršenju rješenja u roku od osam dana od dana isteka roka za otklanjanje nedostataka, odnosno nepravilnosti.
+(3) Inspektor može narediti da se provede i mjera zaštite na radu koja nije propisana, ako su radnici na radu neposredno ugroženi.
+(4) Ako su za otklanjanje utvrđenih nepravilnosti i nedostataka potrebna veća investiciona ulaganja, a život i zdravlje radnika nisu neposredno ugroženi, inspektor će narediti poslodavcu da sačini poseban investicioni program o postupnom usklađivanju stanja sa odredbama propisa o sigurnosti i zaštiti zdravlja na radu.
+Član 79.
+(Postupanje inspektora kod smrtnog slučaja ili nesreće koja je zadesila jednog ili više radnika)
+(1) Kantonalna uprava dužna je odmah po prijemu obavještenja poslodavca izvijestiti Federalnu upravu o svakom smrtnom slučaju, nesreći na radu koja dovodi do onesposobljenosti u trajanju od tri ili više dana ili bilo kojem događaju koji je zadesio jednog ili više radnika.
+(2) Kantonalni inspektor obavezan je izvršiti uviđaj svakog smrtnog slučaja, nesreće koja je zadesila jednog ili više radnika i teže povrede na radu kod poslodavca.
+(3) Nakon izvršenog uviđaja iz stava (2) ovog člana kantonalna uprava obavezna je preduzeti odgovarajuće mjere i dostaviti izvještaj Federalnoj upravi.
+(4) Kod smrtnog slučaja ili nesreće koja je zadesila jednog ili više radnika, uviđaj će izvršiti i federalni inspektor.
+Član 80.
+(Postupanje inspektora u slučaju neposredne opasnosti po život i zdravlje radnika na radu)
+(1) Ako inspektor utvrdi da postoji neposredna opasnost po život i zdravlje radnika na radu, odmah će donijeti rješenje o zabrani rada na radnom mjestu.
+(2) Ako poslodavac ne postupi po rješenju o otklanjanju nedostataka, inspektor će zabraniti rad na radnom mjestu na koje se rješenje odnosi, dok se nepravilnosti, odnosno nedostaci ne otklone.
+Član 81.
+(Obaveza čuvanja povjerljivih podataka)
+Inspektor je dužan čuvati kao povjerljiv podatak ime radnika koji mu se obratio po bilo kojem osnovu zbog neprovođenja propisa iz oblasti sigurnosti i zaštite zdravlja na radu.
+Član 82.
+(Pravo na žalbu)
+(1) Protiv rješenja kantonalnog inspektora može se izjaviti žalba nadležnom federalnom inspektoru, u roku od osam dana od dana prijema rješenja.
+(2) Protiv rješenja federalnog inspektora donesenog u prvom stepenu može se izjaviti žalba Federalnom ministarstvu rada i socijalne politike u roku od osam dana od dana prijema rješenja.
+(3) U slučaju kada je naložena zabrana rada žalba ne odlaže izvršenje rješenja.
+Član 83.
+(1) Novčanom kaznom od 5.000,00 do 15.000,00 KM kaznit će se za prekršaj poslodavac: 1. koji izvodi radove na izgradnji, montaži, zamjeni opreme, remontu i rekonstrukciji objekata i tehničko-tehnološkog procesa, ako ne izvodi radove prema tehničkoj dokumentaciji, član 11. stav (1), 2. koji stavi u promet ili upotrebu sredstva za rad ili opasne materije bez prethodno pribavljene odgovarajuće dokumentacije, čl. 16. i 17., 3. ako ne osigura periodične preglede i ispitivanje sredstava za rad i sredstava i opreme lične zaštite, član 22. tačka j), 4. ako ne osigura periodične preglede i ispitivanja fizičkih, hemijskih i bioloških štetnosti i mikroklime u radnoj okolini, član 22. tačka k), 5. ako ne osigura periodične preglede i ispitivanja sredstava rada i opreme, radnih i pomoćnih prostorija i sredstava i opreme lične zaštite, koji ne podliježu obaveznim periodičnim pregledima i ispitivanjima, na način, po postupku i u rokovima utvrđenim općim aktom, član 22. tačka l), 6. ako ne provodi mjere i ne osigura sredstva za prvu pomoć, član 22. tačka n), 7. ako ne izvrši procjenu rizika na mjestima rada, član 23. stav (2), 8. ako zasnuje radni odnos sa radnikom, a da prethodno nije utvrđeno da njegovo zdravstveno stanje i psihofizičke sposobnosti odgovaraju zahtjevima određenog radnog mjesta, član 24. stav (2), 9. ako ne uputi radnika na odgovarajući ljekarski pregled, ili ga ne osigura u rokovima utvrđenim zakonom ili propisima donesenim na osnovu zakona, član 57. stav (1) i član 60. stav (1), 10. ako ne utvrdi radna mjesta sa povećanim rizikom, član 57. stav (2).
+(2) Novčanom kaznom iz stava (1) ovog člana kaznit će se ovlaštena organizacija za zaštitu na radu, ako: 1. obavlja stručne poslove suprotno odredbama ovog zakona i propisa donesenih na osnovu zakona ili ako obavlja stručne poslove bez propisane dozvole, član 64. stav (1), 2. ako sačini ili izda isprave čiji su oblik i sadržina suprotni propisu, član 67.
+(3) Za prekršaj iz stava (1) ovog člana kaznit će se i poslodavac fizičko lice novčanom kaznom od 1.000,00 do 1.500,00 KM.
+(4) Za prekršaj iz st.
+(1) i (2) ovog člana kaznit će se i odgovorno lice kod pravnog lica novčanom kaznom od 2.000,00 do 3.000,00 KM.
+Član 84.
+(1) Novčanom kaznom od 4.000,00 do 15.000,00 KM kaznit će se za prekršaj: 1. poslodavac koji izrađuje tehničku dokumentaciju za objekte i tehničko-tehnološke procese, ako pri projektovanju ne primijeni propisane mjere sigurnosti i zaštite zdravlja na radu i ne izda ispravu kojom potvrđuje da je projektovanje izvršeno u skladu sa zakonom i propisima donesenim na osnovu zakona, član 10, 2. poslodavac ako stavi u upotrebu sredstva za rad, koja podliježu obavezi periodičnih pregleda i ispitivanja, bez pribavljenog zapisnika, odnosno isprave iz člana 67. stav (1) ovog zakona, član 14. stav (3), 3. proizvođač i uvoznik radne opreme i sredstava i opreme lične zaštite ako ne izda ispravu kojom dokazuje da odgovaraju međunarodnim propisima, tehničkim propisima i propisanim mjerama sigurnosti i zaštite zdravlja na radu ili ne izda uputstvo za upotrebu i održavanje na jednom od službenih jezika u Bosni i Hercegovini, odnosno Federaciji, član 16. stav (1), 4. proizvođač i uvoznik opasnih materija ako ne izda uputstvo za sigurnu upotrebu i rukovanje na jednom od službenih jezika u Bosni i Hercegovini, odnosno Federaciji, član 16. stav (2), (2) Za prekršaj iz stava (1) ovog člana kaznit će se i odgovorno lice kod pravnog lica novčanom kaznom od 1.500,00 do 2.500,00 KM.
+Član 85.
+(1) Novčanom kaznom od 4.000,00 do 15.000,00 KM kaznit će se za prekršaj investitor ili glavni izvođač ako ne obezbijedi jedinstveni elaborat o uređenju radilišta u slučaju da dva ili više poslodavaca koriste isti prostor za radilište, član 13.
+(2) Novčanom kaznom od 2.000,00 do 10.000,00 KM kaznit će se za prekršaj poslodavac: 1. ako prije početka radova ne izradi elaborat o uređenju radilišta u skladu sa propisima donesenim na osnovu zakona, ne izvodi radove prema tom elaboratu i u roku ne dostavi elaborat nadležnoj inspekciji rada, član 12., 2. ako ne donese interni akt o zaštiti na radu, član 23. stav (1), 3. ako internim aktom o zaštiti na radu ne utvrdi organizaciju provođenja zaštite na radu, član 23. stav (1), 4. ako za sve poslove u tehničko-tehnološkom procesu rada ne utvrdi uvjete rada i zahtjeve u pogledu zdravstvenih i psihofizičkih sposobnosti, član 24., 5. ako od radnika zahtijeva sudjelovanje u troškovima provođenja mjera zaštite na radu, član 31., 6. ako ne organizuje poslove zaštite na radu zavisno od tehničko-tehnološkog procesa, broja radnika, štetnosti po zdravlje, broja lokacija odvojenih radnih jedinica, opasnostima i rizicima po zdravlje radnika, član 33. stav (1), 7. ako ne odredi jednog ili više radnika za zaštitu na radu i ne osigura im uvjete za rad, član 34. st.
+(1) i (2), 8. ako dovodi u nepovoljniji položaj radnika za zaštitu na radu dok postupa u skladu sa odredbama ovog zakona, član 34. stav (3), 9. ako radnicima ne daje odgovarajuća pisana uputstva, član 38., 10. ako ne postavi znakove upozorenja i znakove općih obavještavanja, član 39., 11. ako da radnicima u upotrebu opasne materije koje nisu opremljene dokumentom o bezbjedonosnotehničkim podacima prevedenim na jedan od službenih jezika u Bosni i Hercegovini, odnosno Federaciji, član 41., 12. ako ne izvrši osposobljavanje radnika za siguran i zdrav rad, član 46., 13. ako dozvoli samostalno obavljanje poslova radniku koji prethodno nije osposobljen za samostalan rad na siguran način, član 47., 14. ako ne premjesti radnika na drugo radno mjesto koje odgovara njegovim zdravstvenim sposobnostima, ukoliko takvo radno mjesto postoji kod poslodavca, član 59., 15. ako ne obavijesti nadležnu inspekciju rada o smrtnom slučaju, težoj povredi na radu ili profesionalnom oboljenju, čl. 62. i 63., 16. ako postupi protivno odredbi člana 70. i dozvoli rad osobama iz st. (1), (2) i (3) tog člana, 17. ako ne preduzme mjere za sprječavanje nastupanja oboljenja odnosno invaliditeta kod radnika, član 71., 18. ako posebno ne osigura od rizika nesreće i povrede na radu radnike koji obavljaju poslove sa povećanim rizikom, član 73., 19. ako ne postupi po rješenju inspektora rada u skladu sa članom 78. st.
+(1) i (3) ovog zakona.
+(3) Za prekršaj iz st.
+(1) i (2) ovog člana kaznit će se I poslodavac fizičko lice novčanom kaznom od 500,00 do 1.000,00 KM.
+(4) Za prekršaj iz st.
+(1) i (2) ovog člana kaznit će se odgovorno lice kod pravnog lica novčanom kaznom od 1.000,00 do 2.000,00 KM.
+Član 86.
+(1) Novčanom kaznom od 1.000,00 do 5.000,00 KM kaznit će se za prekršaj poslodavac: 1. ako ne utvrdi internim aktom o zaštiti na radu koja sredstva i oprema lične zaštite pripadaju radniku, član 23. stav (1), 2. ako ne konsultuje povjerenika za zaštitu na radu pri izradi internog akta o zaštiti na radu, član 23. stav (5), 3. ako ne obezbijedi da pristup radnim mjestima sa povećanim rizikom imaju samo radnici koji su dobili posebna uputstva i zaštitna sredstva, član 28., 4. ako ne obezbijedi radnicima sredstva i opremu lične zaštite, član 29. stav (1), 5. ako ne obezbijedi da sredstva i oprema lične zaštite budu u ispravnom stanju, član 29. stav (3), 6. ako ne obavijesti radnike o rizicima po sigurnost i zdravlje, te mjerama koje je preduzeo radi unaprjeđenja sigurnosti i zaštite zdravlja, član 40., 7. ako postupa suprotno odredbi člana 45. ovog zakona, 8. ako ne vodi evidenciju propisanu odredbom člana 61. ovog zakona i ne dostavi godišnji izvještaj nadležnoj inspekciji rada, 9. ako ne dostavi izvještaj iz odredbe člana 62. ovog zakona, 10. ako ne organizuje radno mjesto tako da vodi računa o prisustvu grupa osjetljivih na određene rizike, član 69., (2) Za prekršaj iz stava (1) ovog člana kaznit će se i poslodavac fizičko lice novčanom kaznom od 500,00 do 1.000,00 KM.
+(3) Za prekršaj iz stava (1) ovog člana kaznit će se i odgovorno lice kod pravnog lica novčanom kaznom od 100,00 do 1.000,00 KM.
+Član 87.
+Poslodavci su dužni da usklade opće akte sa odredbama ovog zakona u roku od godinu dana od dana stupanja na snagu ovog zakona.
+Član 88.
+(1) Organizacije koje su do dana stupanja na snagu ovogzakona bile ovlaštene da vrše poslove iz člana 21. stav (1) i člana 28. stav (2) Zakona o zaštiti na radu ("Službeni list SR BiH", broj 22/90), obavezne su da podnesu zahtjev za utvrđivanje uvjeta u smislu člana 64. i člana 72. stav (1) ovog zakona, u roku od tri mjeseca od dana donošenja podzakonskog akta iz člana 66. stav (3), odnosno člana 72. stav (3) ovog zakona.
+(2) Organizacije iz stava (1) ovog člana, koje u roku od tri mjeseca od dana donošenja podzakonskog akta iz člana 66. stav (3) ovog zakona, odnosno člana 72. stav (3) ovog zakona podnesu zahtjev za utvrđivanje uvjeta u smislu člana 64. stav (1) ovog zakona i člana 72. stav (1) ovog zakona, zadržavaju ovlaštenje za vršenje poslova iz člana 21. stav (1), odnosno člana 28. stav (2) Zakona o zaštiti na radu ("Službeni list SR BiH", broj: 22/90), sve do donošenja konačnog rješenja po podnesenom zahtjevu iz stava (1) ovog člana.
+(3) Organizacijama iz stava (1) ovog člana, koje u roku od tri mjeseca od dana donošenja podzakonskog akta iz člana 66. stav (3), odnosno člana 72. stav (3) ovog zakona, ne podnesu zahtjev za utvrđivanje uvjeta u smislu člana 64, odnosno člana 72. stav (1) ovog zakona, sa danom isteka roka iz stava (1) ovog člana, po sili zakona prestaje ovlaštenje za vršenje poslova iz člana 21. stav (1) i člana 28. stav (2) Zakona o zaštiti na radu ("Službeni list SR BiH", broj: 22/90).
+Član 89.
+Propisi iz odredbe člana 23. stav (4), člana 34. stav (6), člana 60. stav (1), člana 62. stav (2), člana 65. stav (4), člana 66. stav (3), člana 67. stav (3) ovog zakona i člana 72. stav (3) ovog zakona, donijet će se u roku od dvanaest mjeseci od dana stupanja na snagu ovog zakona.
+Član 90.
+Do donošenja propisa iz člana 89. ovog zakona primjenjivat će se: 1. Pravilnik o uslovima za utvrđivanje radnih mjesta sa posebnim uslovima rada i ljekarskim pregledima radnika na tim radnim mjestima ("Službeni list SR BiH", broj 2/91), 2. Pravilnik o postupku skraćivanja radnog vremena na radnim mjestima sa posebnim uslovima rada ("Službeni list SR BiH", broj 2/91), 3. Pravilnik o uslovima koje u pogledu kadrova i tehničke opreme moraju ispunjavati organizacije koje vrše periodične preglede i ispitivanja iz oblasti zaštite na radu ("Službeni list SR BiH", broj 2/91), 4. Pravilnik o vođenju evidencije, čuvanju isprava i sadržaju godišnjeg izvještaja iz oblasti zaštite na radu ("Službeni list SR BiH", broj 2/91), 5. Pravilnik o načinu i postupku vršenja periodičnih pregleda i ispitivanja iz oblasti zaštite na radu ("Službeni list SR BiH", broj 2/91), 6. Pravilnik o pružanju prve pomoći u slučaju povrede i oboljenja radnika na radu ("Službeni list SR BiH", broj 38/86).
+Član 91.
+(1) Do donošenja novih propisa o sigurnosti i zaštiti zdravlja na radu, ako nisu u suprotnosti sa odredbama ovog zakona i drugim propisima, primjenjivat će se: 1. Opći pravilnik o higijensko-tehničkim zaštitnim mjerama pri radu ("Službeni list FNRJ", br. 16/47, 18/47 i 36/50), 2. Pravilnik o higijenskim i tehničkim zaštitnim mjerama pri radu u kudeljarama ("Službeni list FNRJ" broj 46/47), 3. Pravilnik o higijenskim i tehničkim zaštitnim mjerama pri radu u grafičkim preduzećima ("Službeni list FNRJ", broj 56/47), 4. Pravilnik o higijenskim i tehničkim mjerama pri radu u fabrikama stakla-staklarama ("Službeni list FNRJ", br. 14/48, 18/48), 5. Pravilnik o higijenskim i tehničkim mjerama pri radu u kamenolomima i ciglanama, kao i kod vađenja gline, pijeska i šljunka ("Službeni list FNRJ", broj 69/48), 6. Pravilnik o zaštitnim mjerama pri rukovanju eksplozivom i lagumanju (miniranju) u rudnicima i kamenolomima, kao i pri drugim radovima (prilog broj 8 uz "Službeni list FNRJ", broj 98/49), 7. Pravilnik o tehničkim i zdravstveno- tehničkim zaštitnim mjerama na radu pri hemijsko-tehnološkim procesima (prilog broj 8 uz "Službeni list FNRJ", broj 55/50), 8. Pravilnik o tehničkim i zdravstveno-tehničkim zaštitnim mjerama pri radu u crnoj metalurgiji ("Službeni list FNRJ", broj 7/55), 9. Pravilnik o higijenskim i tehničkim zaštitnim mjerama pri ronilačkim radovima ("Službeni list FNRJ", broj 36/58), 10. Pravilnik o higijensko-tehničkim mjerama pri radu na preradi i obradi metala ("Službeni list FNRJ", broj 40/61), 11. Pravilnik o higijensko-tehničkim zaštitnim mjerama pri lučko-transportnom radu ("Službeni list SFRJ", broj 14/64), 12. Pravilnik o zaštiti na radu pri tehničkom obrađivanju legura lakih metala u kupatilima s nitratnim solima ("Službeni list SFRJ", broj 48/65), 13. Pravilnik o zaštiti na radu pri održavanju motornih vozila i prijevozu motornim vozilima ("Službeni list SFRJ", broj 55/65), 14. Pravilnik o zaštiti na radu pri utovaru tereta u teretna motorna vozila i istovaru tereta iz takvih vozila ("Službeni list SFRJ", broj 17/66), 15. Pravilnik o zaštiti na radu s uređajima za ukrcavanje i iskrcavanje tereta na pomorskim brodovima I plovilima unutrašnje plovidbe ("Službeni list SFRJ", broj 32/66), 16. Pravilnik o zaštiti na radu u poljoprivredi ("Službeni list SFRJ", broj 34/68), 17. Pravilnik o zaštiti na radu u građevinarstvu ("Službeni list SFRJ", br. 42/68 i 45/68), 18. Pravilnik o tehničkim normativima za dizalice ("Službeni list SFRJ", broj 65/91), 19. Pravilnik o sredstvima lične zaštite na radu i ličnoj zaštitnoj opremi ("Službeni list SFRJ", broj 35/69), 20. Pravilnik o zaštiti na radu pri izradi eksploziva i baruta i manipulisanju eksplozivima i barutima ("Službeni list SFRJ", broj 55/69), 21. Pravilnik o posebnim mjerama i normativima za zaštitu na radu pri preradi i obradi kože, krzna i otpadaka kože ("Službeni list SFRJ", broj 47/70), 22. Pravilnik o općim mjerama i normativima zaštite na radu od buke u radnim prostorijama ("Službeni list SFRJ", broj 29/71), 23. Pravilnik o mjerama i normativima zaštite na radu na oruđima za rad ("Službeni list SFRJ", broj 18/91), 24. Pravilnik o zaštiti na radu u šumarstvu ("Službeni list SR BiH", broj 20/85), 25. Pravilnik o zaštiti na radu sa razvijačima acetilena i acetilenskim stanicama ("Službeni list SR BiH", broj 2/87), 26. Pravilnik o zaštiti na radu pri mehaničkoj preradi i obradi drveta i sličnih materijala ("Službeni list SR BiH", broj 5/86), 27. Pravilnik o zaštiti na radu u željeznicama ("Službeni list SR BiH", br. 42/86 i 3/87), 28. Pravilnik o opštim mjerama zaštite na radu za građevinske objekte namjenjene za radne i pomoćne prostorije i radne prostore ("Službeni list SR BiH", broj 5/88), 29. Pravilnik o zaštiti na radu pri korištenju električne energije ("Službeni list SR BiH", broj 34/88).
+(2) Nove propise o sigurnosti i zaštiti zdravlja na radu iz stave (1) ovog člana donijet će federalni ministar.
+Član 92.
+Danom stupanja na snagu ovog zakona prestaje da važi Zakon o zaštiti na radu ("Službeni list SR BiH", broj 22/90).
+Član 93.
+Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u "Službenim novinama Federacije BiH". Predsjedavajući Predstavničkog doma Parlamenta Federacije BiH Mirsad Zaimović Predsjedavajući Doma naroda Parlamenta Federacije BiH Tomislav Martinović
