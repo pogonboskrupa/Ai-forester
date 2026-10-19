@@ -709,3 +709,13 @@ input[type='checkbox'] { accent-color: var(--accent); width: 16px; height: 16px;
 .proc-table tr.long td:first-child { white-space: normal; width: 45%; }
 .proc-card { min-width: 0; }
 .proc-swatch { display: inline-block; width: 12px; height: 12px; border-radius: 3px; margin-right: 8px; vertical-align: -1px; border: 1px solid rgba(0,0,0,.15); }
+
+/* Rezime propisa */
+.law-summary { margin-top: 12px; border: 1px solid var(--border); border-radius: 14px; background: var(--surface); padding: 4px 16px 14px; }
+.law-summary > summary { cursor: pointer; font-weight: 650; padding: 10px 0; display: flex; align-items: center; gap: 8px; list-style: none; }
+.law-summary > summary::-webkit-details-marker { display: none; }
+.sum-overview { margin: 0 0 8px; font-size: 0.95rem; line-height: 1.5; }
+.sum-block h3 { margin: 12px 0 4px; font-size: 0.82rem; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); }
+.sum-block ul { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 5px; font-size: 0.9rem; line-height: 1.45; }
+.ref-link { display: inline; padding: 0 5px; margin: 0 1px; border-radius: 6px; background: var(--accent-soft); color: var(--accent); font-weight: 600; font-size: 0.85em; }
+.ref-link:hover { background: var(--accent); color: var(--accent-fg); }

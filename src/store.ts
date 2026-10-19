@@ -3,6 +3,7 @@ import type MiniSearch from 'minisearch';
 import type { Article, Conversation, FaqEntry, LawInfo, Msg, Project, UserLaw } from './types';
 import { buildFaqIndex, extractiveAnswer, matchFaq } from './answer';
 import { orgAnchors } from './org';
+import { findSummaryLaw, summaryMarkdown } from './summary';
 import { BUSINESS_TOPICS, buildIndex, retrieve, setBusinessLaws } from './search';
 import { isAbort, streamCompletion, type Turn } from './ai/client';
 import { buildPrompt, systemPrompt } from './ai/prompt';
@@ -246,6 +247,14 @@ async function generate(convId: string, question: string, history: Msg[], opts: 
       patchConv(convId, (c) => ({ ...c, messages: [...c.messages, reply], updatedAt: Date.now() }));
       streaming.value = null;
     });
+
+  // 0) Zahtjev za rezime propisa ("rezime zakona o radu"): prikazuje se pripremljeni rezime s citatima.
+  const sumLaw = opts.forceAi ? null : findSummaryLaw(question, laws.value);
+  if (sumLaw?.summary) {
+    const { text, sourceIds } = summaryMarkdown(sumLaw, sumLaw.summary, (id) => byId.value.has(id));
+    finish({ id: msgId, role: 'assistant', text, sourceIds, kind: 'search', model: 'Rezime propisa', ts: Date.now() });
+    return;
+  }
 
   // 1) Provjereni odgovor iz baze čestih pitanja: trenutan, besplatan, isti svaki put.
   const hit = !opts.forceAi && faqIndex ? matchFaq(faqIndex, faq.value, question) : null;

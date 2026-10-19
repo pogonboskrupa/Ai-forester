@@ -1,6 +1,7 @@
 import { copyFileSync, readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
 import { amendedArticleNumbers, parseArticles } from '../src/parse';
-import type { Article, FaqEntry, LawInfo, LawMeta } from '../src/types';
+import { refNumbers } from '../src/summary';
+import type { Article, FaqEntry, LawInfo, LawMeta, LawSummary } from '../src/types';
 
 const registry: LawMeta[] = JSON.parse(readFileSync('data/registry.json', 'utf8'));
 const articles: Article[] = [];
@@ -29,6 +30,18 @@ for (const law of registry.filter((l) => l.amends)) {
       links++;
     }
   }
+}
+
+// Rezimei propisa (data/summaries.json): svaka referenca "(čl. N)" mora postojati u propisu, inače build pada.
+const summaries: Record<string, LawSummary> = existsSync('data/summaries.json') ? JSON.parse(readFileSync('data/summaries.json', 'utf8')) : {};
+for (const [id, s] of Object.entries(summaries)) {
+  const law = laws.find((l) => l.id === id);
+  if (!law) throw new Error(`Rezime: nepoznat propis ${id}`);
+  const bad = [s.overview, ...s.points, ...(s.forestry ?? []), ...(s.wood ?? []), s.caution ?? '']
+    .flatMap(refNumbers)
+    .filter((n) => !byId.has(`${id}#${n}`));
+  if (bad.length) throw new Error(`Rezime "${id}": nepostojeći članovi ${[...new Set(bad)].join(', ')}`);
+  law.summary = s;
 }
 
 // Česta pitanja: reference [@lawId#broj] -> [n]; nepostojeća referenca ruši build.
