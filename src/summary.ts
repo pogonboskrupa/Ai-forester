@@ -3,7 +3,7 @@ import type { LawInfo, LawSummary } from './types';
 
 /** "čl. 14", "čl. 5, 7 i 9", "čl. 5–7", "dio 2" */
 // Referenca na član drugog propisa ("čl. 14 Zakona o šumama", "čl. 26 osnovnog zakona") se ne provjerava i ne linkuje.
-export const REF_RE = /(čl\.|članovi?|dio)\s*(\d+[a-z]?(?:\s*(?:,|i|–|-)\s*\d+[a-z]?)*)(?![\da-z])(?!\s+(?:st\.\s*\d+\s+)?(?:osnovnog\s+)?(?:zakona|pravilnika|uredbe|odluke|uputstva))/giu;
+export const REF_RE = /(čl\.|članovi?|dio)\s*(\d+[a-z]?(?:\s*(?:,|i|–|-)\s*\d+[a-z]?)*)(?![\da-z])(?!\s*(?:,|i|–|-)\s*\d)(?!\s+(?:st\.\s*\d+\s+)?(?:osnovnog\s+)?(?:zakona|pravilnika|uredbe|odluke|uputstva|statuta|poslovnika))/giu;
 const NUM_RE = /\d+[a-z]?/g;
 
 /** Brojevi članova iz teksta rezimea, u obliku koji se koristi u id-ju člana ("14", "dio 2"). */
@@ -11,15 +11,21 @@ export function refNumbers(text: string): string[] {
   const out: string[] = [];
   for (const m of text.matchAll(REF_RE)) {
     const prefix = m[1]!.toLowerCase() === 'dio' ? 'dio ' : '';
-    for (const n of m[2]!.match(NUM_RE) ?? []) out.push(`${prefix}${n}`);
+    // "čl. 122–136": raspon se provjerava samo po prvom članu (ostali mogu biti objedinjeni u jedan)
+    const body = m[2]!.replace(/\s*[–-]\s*\d+[a-z]?/g, '');
+    for (const n of body.match(NUM_RE) ?? []) out.push(`${prefix}${n}`);
   }
   return out;
 }
 
+/** Id člana na koji se referenca odnosi: prvo u samom propisu, zatim u propisu koji on mijenja. */
+export const resolveRef = (law: { id: string; amends?: string }, num: string, exists: (id: string) => boolean): string | null =>
+  [law.id, law.amends].filter((x): x is string => !!x).map((l) => `${l}#${num}`).find(exists) ?? null;
+
 export type Piece = string | { label: string; id: string };
 
 /** Dijeli tekst na komade; reference koje postoje u propisu postaju klikabilne. */
-export function linkRefs(text: string, lawId: string, exists: (id: string) => boolean): Piece[] {
+export function linkRefs(text: string, law: { id: string; amends?: string }, exists: (id: string) => boolean): Piece[] {
   const out: Piece[] = [];
   let last = 0;
   for (const m of text.matchAll(REF_RE)) {
@@ -30,8 +36,8 @@ export function linkRefs(text: string, lawId: string, exists: (id: string) => bo
     let pos = 0;
     for (const n of body.matchAll(NUM_RE)) {
       out.push(body.slice(pos, n.index));
-      const id = `${lawId}#${prefix}${n[0]}`;
-      out.push(exists(id) ? { label: n[0], id } : n[0]);
+      const id = resolveRef(law, `${prefix}${n[0]}`, exists);
+      out.push(id ? { label: n[0], id } : n[0]);
       pos = n.index! + n[0].length;
     }
     out.push(body.slice(pos));
@@ -47,8 +53,8 @@ export function summaryMarkdown(law: LawInfo, s: LawSummary, exists: (id: string
   const citeRef = (kind: string, body: string): string => {
     const prefix = kind.toLowerCase() === 'dio' ? 'dio ' : '';
     const cites = (body.match(NUM_RE) ?? []).map((n) => {
-      const id = `${law.id}#${prefix}${n}`;
-      if (!exists(id)) return '';
+      const id = resolveRef(law, `${prefix}${n}`, exists);
+      if (!id) return '';
       let i = sourceIds.indexOf(id);
       if (i === -1) i = sourceIds.push(id) - 1;
       return `[${i + 1}]`;

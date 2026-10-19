@@ -132,15 +132,20 @@ async function main(): Promise<void> {
   if (cmd === 'summaries' && arg) {
     const b = await load(pass);
     const sums = JSON.parse(readFileSync(arg, 'utf8')) as Record<string, LawSummary>;
+    const errors: string[] = [];
     for (const [id, s] of Object.entries(sums)) {
       const law = b.laws.find((l) => l.id === id);
-      if (!law) throw new Error(`Rezime: nepoznat akt ${id}`);
+      if (!law) {
+        errors.push(`nepoznat akt ${id}`);
+        continue;
+      }
       const bad = [s.overview, ...s.points, ...(s.forestry ?? []), ...(s.wood ?? []), s.caution ?? '']
         .flatMap(refNumbers)
         .filter((n) => !b.articles.some((a) => a.id === `${id}#${n}`));
-      if (bad.length) throw new Error(`Rezime "${id}": nepostojeći članovi ${[...new Set(bad)].join(', ')}`);
+      if (bad.length) errors.push(`${id}: nepostojeći članovi ${[...new Set(bad)].join(', ')}`);
       law.summary = s;
     }
+    if (errors.length) throw new Error(`Rezimei:\n  ${errors.join('\n  ')}`);
     console.log(`Rezimei upisani: ${Object.keys(sums).length}`);
     return save(b, pass);
   }

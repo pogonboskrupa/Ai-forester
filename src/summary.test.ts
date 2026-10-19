@@ -14,7 +14,7 @@ describe('reference u rezimeu', () => {
     expect(refNumbers('mijenja čl. 26 osnovnog zakona i čl. 14 Zakona o šumama, te čl. 3')).toEqual(['3']);
   });
   it('linkRefs pravi klikabilne brojeve samo za postojeće članove', () => {
-    const pieces = linkRefs('Otkaz (čl. 96, 97).', 'z', (id) => id === 'z#96');
+    const pieces = linkRefs('Otkaz (čl. 96, 97).', { id: 'z' }, (id) => id === 'z#96');
     expect(pieces).toContainEqual({ label: '96', id: 'z#96' });
     expect(pieces).toContain('97');
     expect(pieces.map((p) => (typeof p === 'string' ? p : p.label)).join('')).toBe('Otkaz (čl. 96, 97).');
@@ -37,5 +37,18 @@ describe('rezime u chatu', () => {
     expect(findSummaryLaw('sažetak zakona o javnim preduzećima', laws)?.id).toBe('zjp');
     expect(findSummaryLaw('koliko traje probni rad', laws)).toBeNull();
     expect(findSummaryLaw('rezime nepoznatog propisa', laws)).toBeNull();
+  });
+});
+
+import { existsSync, readFileSync } from 'node:fs';
+describe.skipIf(!existsSync('data/summaries.json'))('rezimei javnih propisa', () => {
+  const reg = JSON.parse(readFileSync('data/registry.json', 'utf8')) as { id: string }[];
+  const sums = JSON.parse(readFileSync('data/summaries.json', 'utf8')) as Record<string, LawSummary>;
+  it('svaki propis iz registra ima rezime s najmanje 3 stavke', () => {
+    for (const { id } of reg) {
+      expect(sums[id], id).toBeDefined();
+      expect(sums[id]!.points.length, id).toBeGreaterThanOrEqual(3);
+      expect(sums[id]!.overview.length, id).toBeGreaterThan(20);
+    }
   });
 });
