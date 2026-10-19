@@ -1,4 +1,5 @@
 import type { Article, Project } from '../types';
+import { orgContext } from '../org';
 
 const BASE = `Ti si stručni asistent za šumarske propise u Bosni i Hercegovini, Federaciji BiH i Unsko-sanskom kantonu (USK), te za propise o radu i poslovanju javnog preduzeća (radni odnosi, zaštita na radu, javna preduzeća, javne nabavke, računovodstvo, upravni i prekršajni postupak). Korisnici su uglavnom zaposlenici kantonalnog šumarskog preduzeća i privatni šumoposjednici.
 
@@ -15,7 +16,8 @@ Kako odgovaraš:
 
 export function systemPrompt(project: Project | null): string {
   const extra = project?.instructions.trim();
-  return extra ? `${BASE}\n\nUpute za projekat "${project!.name}":\n${extra}` : BASE;
+  const base = `${BASE}\n\n${orgContext()}`;
+  return extra ? `${base}\n\nUpute za projekat "${project!.name}":\n${extra}` : base;
 }
 
 /** noticeOf: napomena o ažurnosti propisa (LawInfo.notice), ako postoji. */

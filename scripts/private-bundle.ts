@@ -5,6 +5,7 @@
  *   SPD_PASS=… npx tsx scripts/private-bundle.ts add <manifest.json>   dodaje/zamjenjuje akte iz manifesta
  *   SPD_PASS=… npx tsx scripts/private-bundle.ts list                  ispisuje sadržaj paketa
  *   SPD_PASS=… npx tsx scripts/private-bundle.ts remove <lawId>
+ *   SPD_PASS=… npx tsx scripts/private-bundle.ts summaries <summaries.json>  upisuje rezimee ({ lawId: LawSummary }) u akte
  *   SPD_PASS=… SPD_NEW_PASS=… npx tsx scripts/private-bundle.ts rekey  mijenja šifru
  *
  * Manifest: [{ id, title, gazette, topic?, kind: "articles" | "positions" | "sections" | "procedure", file }]
@@ -18,7 +19,8 @@ import { dirname, resolve } from 'node:path';
 import { decryptJson, encryptJson, type EncryptedBundle } from '../src/crypto';
 import { parseArticles } from '../src/parse';
 import { reflow } from '../src/text';
-import type { Article, LawInfo, LawMeta } from '../src/types';
+import { refNumbers } from '../src/summary';
+import type { Article, LawInfo, LawMeta, LawSummary } from '../src/types';
 import type { PrivateBundle } from '../src/private';
 import { PROCEDURE_LAW_ID, type Procedure } from '../src/procedure';
 
@@ -105,7 +107,8 @@ async function add(manifestPath: string, pass: string): Promise<void> {
       : it.kind === 'sections' ? sectionsToArticles(JSON.parse(raw) as Position[], meta)
       : parseArticles(raw, meta);
     if (!arts.length) throw new Error(`${it.id}: nije pronađen nijedan član`);
-    bundle.laws = [...bundle.laws.filter((l) => l.id !== it.id), { ...meta, articleCount: arts.length } satisfies LawInfo];
+    const old = bundle.laws.find((l) => l.id === it.id);
+    bundle.laws = [...bundle.laws.filter((l) => l.id !== it.id), { ...meta, articleCount: arts.length, ...(old?.summary ? { summary: old.summary } : {}) } satisfies LawInfo];
     bundle.articles = [...bundle.articles.filter((a) => a.lawId !== it.id), ...arts];
     console.log(`${it.id}: ${arts.length} članova`);
   }
@@ -126,8 +129,28 @@ async function main(): Promise<void> {
     const procedure = arg === PROCEDURE_LAW_ID ? undefined : b.procedure;
     return save({ ...b, laws: b.laws.filter((l) => l.id !== arg), articles: b.articles.filter((a) => a.lawId !== arg), procedure }, pass);
   }
+  if (cmd === 'summaries' && arg) {
+    const b = await load(pass);
+    const sums = JSON.parse(readFileSync(arg, 'utf8')) as Record<string, LawSummary>;
+    const errors: string[] = [];
+    for (const [id, s] of Object.entries(sums)) {
+      const law = b.laws.find((l) => l.id === id);
+      if (!law) {
+        errors.push(`nepoznat akt ${id}`);
+        continue;
+      }
+      const bad = [s.overview, ...s.points, ...(s.forestry ?? []), ...(s.wood ?? []), s.caution ?? '']
+        .flatMap(refNumbers)
+        .filter((n) => !b.articles.some((a) => a.id === `${id}#${n}`));
+      if (bad.length) errors.push(`${id}: nepostojeći članovi ${[...new Set(bad)].join(', ')}`);
+      law.summary = s;
+    }
+    if (errors.length) throw new Error(`Rezimei:\n  ${errors.join('\n  ')}`);
+    console.log(`Rezimei upisani: ${Object.keys(sums).length}`);
+    return save(b, pass);
+  }
   if (cmd === 'rekey') return save(await load(pass), env('SPD_NEW_PASS'));
-  console.error('Upotreba: add <manifest.json> | list | remove <lawId> | rekey');
+  console.error('Upotreba: add <manifest.json> | list | remove <lawId> | summaries <json> | rekey');
   process.exit(1);
 }
 

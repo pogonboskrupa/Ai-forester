@@ -1,6 +1,15 @@
 /** ŠPD = interni akti šumskoprivrednog društva (šifrovani paket, src/private.ts). */
 export type Level = 'BiH' | 'FBiH' | 'USK' | 'ŠPD';
 
+/** Rezime propisa: najbitnije stavke s referencama oblika "(čl. 14)"; piše se iz stvarnog teksta propisa. */
+export interface LawSummary {
+  overview: string;
+  points: string[];
+  forestry?: string[]; // šta je bitno za šumarstvo / šumskoprivredno društvo
+  wood?: string[]; // šta je bitno za promet i preradu drveta
+  caution?: string;
+}
+
 export interface LawMeta {
   id: string;
   file: string;
@@ -13,6 +22,7 @@ export interface LawMeta {
   amends?: string; // id osnovnog akta koji ovaj akt mijenja
   group?: string; // grupa u sekciji "Pravilnici ŠPD" (interni akti)
   notice?: string; // upozorenje o ažurnosti (npr. kasnije izmjene koje nisu u bazi)
+  summary?: LawSummary;
 }
 
 export interface LawInfo extends LawMeta {

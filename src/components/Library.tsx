@@ -6,6 +6,7 @@ import { fold } from '../text';
 import { OSTALO, SUBTOPICS, buildSubtopicIndex, faqInSubtopic, type SubtopicId } from '../subtopics';
 import type { Article, FaqEntry, Level } from '../types';
 import { Icon } from './Icon';
+import { LawSummaryCard } from './LawSummary';
 
 const LEVELS: Level[] = ['USK', 'FBiH', 'BiH'];
 
@@ -297,6 +298,7 @@ export function Library() {
                 )}
               </div>
               {law.notice && <p class="notice"><Icon name="alert" size={14} /> {law.notice}</p>}
+              <LawSummaryCard law={law} />
               {law.custom && <p class="muted xs">Dodano iz PDF-a ({law.file}) u ovom pregledniku. Provjerite tekst prema službenom glasniku.</p>}
             </div>
             <div class="searchbox"><Icon name="search" size={16} /><input placeholder="Traži unutar propisa…" value={term} onInput={(e) => setTerm(e.currentTarget.value)} /></div>

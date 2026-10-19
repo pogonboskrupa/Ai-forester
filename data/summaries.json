@@ -1,0 +1,1175 @@
+{
+ "fbih-uredba-o-sumama": {
+  "overview": "Uredba Vlade FBiH (23.12.2009) uređuje očuvanje i zaštitu šuma i šumskog zemljišta, planiranje i upravljanje šumama, promet drveta, ekonomske funkcije šuma, finansiranje biološke obnove, nadzor i kazne. Odnosi se na korisnika državnih šuma (kantonalno šumskoprivredno društvo), vlasnike privatnih šuma, kantonalne uprave, ministarstva i sva pravna i fizička lica koja koriste šumu ili stavljaju u promet drvo.",
+  "points": [
+   "Šuma je zemljište obraslo šumskim drvećem i grmljem površine preko 1000 m2, širine najmanje 20 m, s pokrivenošću krošnji preko 30%; šumom se smatraju i rasadnici i plantaže. U slučaju spora odlučuje kantonalni ministar uz mišljenje kantonalne uprave (čl. 2).",
+   "Gospodari se po šumskoprivrednoj osnovi (period 10 godina, obavezna), godišnjem planu gospodarenja i projektu za izvođenje. Ukupan obim sječa iz osnove za uređajni period ne smije se prekoračiti, a osnova za državne šume ne smije se primjenjivati bez saglasnosti Federalnog ministarstva (čl. 3).",
+   "Godišnji plan gospodarenja korisnik šuma dostavlja najkasnije do 30.11. za narednu godinu; radovi se ne smiju početi bez saglasnosti, a usvojeni plan se u roku od 15 dana dostavlja inspekcijama i lokalnoj samoupravi (čl. 4, izmijenjen uredbom iz 2011).",
+   "Projekat za izvođenje važi dvije godine i obavezan je; izrađuje ga dipl. inž. šumarstva s najmanje 2 godine iskustva i stručnim ispitom, a donosi ga korisnik šuma. Sječa je dozvoljena tek nakon doznake, izrade projekta i obavještavanja kantonalne uprave i općine (čl. 5, čl. 6).",
+   "Čiste sječe i pustošenje šuma nisu dozvoljeni (osim zahvata iz osnove, sanitarnih razloga i preventivnih mjera); sječine i paljevine moraju se pošumiti u roku od dvije godine (čl. 10). Tehnički prijem radova vrši komisija od najmanje tri člana, a pošumljavanje se prima poslije dvije godine (čl. 8).",
+   "Drvo se ne smije pomjerati od panja dok se ne žigoše, obroji i premjeri, niti stavljati u promet bez otpremnog iskaza; za državne šume to radi korisnik šuma (čl. 13). Drvo četinara i brijesta ne smije se sa korom stavljati u promet i uskladištavati od 1. aprila do 1. novembra, osim ako od sječe do otpreme prođe najduže 21 dan (čl. 13).",
+   "Korisnik državnih šuma plaća naknadu od 7% prihoda od drveta (cijena na panju) i nedrvnih proizvoda: 1% Budžet Federacije, 1% budžet kantona, 5% općina; plaća se tromjesečno i po završnom računu (čl. 33, čl. 47). Naknadu za općekorisne funkcije šuma od 0,07% ukupnog prihoda plaćaju pravna lica, uz izuzeće korisnika državnih šuma (čl. 48).",
+   "Krčenje šuma je zabranjeno osim za objekte iz prostornog plana, uz dozvolu Federalnog ministarstva; ako se iskrčeno zemljište ne privede namjeni u 2 godine, mora se pošumiti, a naknada za promjenu namjene dijeli se 40% Federacija / 60% kanton (čl. 38). Državne šume se ne mogu privatizovati niti prometovati osim arondacije i komasacije (čl. 29).",
+   "Kazne za korisnika šuma ili pravno lice kreću se od 5.000 do 15.000 KM po težini prekršaja, uz kazne za odgovorno lice, a fizička lica 200 do 1.500 KM (čl. 53 do 56)."
+  ],
+  "forestry": [
+   "Korisnik šuma (kantonalno ŠPD) finansira izradu osnove za državne šume i mora najmanje 120 dana prije isteka važenja dostaviti dva primjerka nove osnove kantonalnom ministarstvu (čl. 3).",
+   "Doznaku stabala vrši dipl. inž. šumarstva (min. 2 godine iskustva, stručni ispit) koga odredi korisnik šuma; šumarski tehničar s 5 godina iskustva može doznačavati u šumama za direktnu konverziju i sanitarnu sječu uz kontrolu dipl. inženjera (čl. 6, izmjena iz 2010). Doznaka i sječa nisu dozvoljene u šumama gdje imovinskopravni odnosi nisu riješeni i granice nisu obilježene (čl. 6).",
+   "Radove u šumi smiju izvoditi samo obučena lica, a pravna lica moraju provesti obuku zaposlenih (čl. 9). Korisnik šuma vodi registar projekata za izvođenje i evidenciju izvršenih radova; evidencije se dostavljaju kantonalnoj upravi do 28. februara za prethodnu godinu (čl. 5, čl. 32).",
+   "Korisnik šuma mora izvršavati biološku obnovu najmanje u obimu iz osnove (čl. 7), provoditi sanitarne sječe i šumski red (čl. 11), izraditi planove zaštite od požara i izvještavati Federalnu upravu (čl. 18) te pratiti zdravstveno stanje šuma (čl. 21).",
+   "Zabranjeni su otvorena vatra u šumi i do 150 m od nje te objekti s otvorenim plamenom bliže od 300 m od granice šume (čl. 18); upotreba hemikalija i odlaganje otpada u šumi zabranjeni su, uz izuzetke uz dozvolu kantonalnog ministarstva (čl. 19). Paša, žirenje i brst zahtijevaju odobrenje korisnika (čl. 20).",
+   "Zabranjena je sječa ili oštećivanje pančićeve omorike, tise, mečje lijeske, planinskog javora, planinskog bora, zelene johe, munike i zanovijeti, osim uzgojnih i sanitarnih sječa (čl. 23).",
+   "Kantonalno ŠPD je korisnik državnih šuma; Federalno ministarstvo mu ugovorom prenosi gospodarenje, uključujući proizvodnju i promet šumskog sjemena i sadnog materijala (čl. 31). Korisnik obilježava granice državnih šuma i održava granične znakove (čl. 29).",
+   "Šumske puteve gradi se nakon izrade projekta i dozvole nadležnog organa (čl. 24); motorna vozila u šumi dozvoljena su samo u svrhe gospodarenja i nadzora i za druge navedene slučajeve (čl. 25).",
+   "Čuvari šuma (kantonalna uprava) imaju javna ovlaštenja: zaustavljaju prijevozna sredstva, pregledaju dokumentaciju i porijeklo drveta, legitimišu lica i sačinjavaju zapisnik o protivpravnim radnjama (čl. 45)."
+  ],
+  "wood": [
+   "Korisnik šuma je obavezan šumske drvne sortimente prodavati po tržišnim uslovima i cijenama; neprodavanje po tržišnim cijenama je prekršaj s kaznom 12.000 do 15.000 KM (čl. 31, čl. 53).",
+   "Stavljanje u promet drveta koje nije žigosano, obrojčano, premjereno i snabdjeveno otpremnim iskazom je zabranjeno; kazne su novčana kazna i oduzimanje drveta, a za pravno lice 5.000 do 10.000 KM (čl. 13, čl. 55). Nedrvni šumski proizvodi smiju se stavljati u promet samo uz odobrenje korisnika šuma ili vlasnika (čl. 13).",
+   "Od 1. aprila do 1. novembra drvo četinara i brijesta s korom ne smije se stavljati u promet niti uskladištavati, osim ako od sječe do otpreme prođe najviše 21 dan (čl. 13); kršenje se kažnjava (čl. 55).",
+   "Čuvari šuma pregledaju porijeklo drveta na pilanama i svim drugim mjestima gdje se drvo drži, i dužni su pregledati dokumentaciju za prijevoz sortimenata; svako lice mora na zahtjev pokazati ispravu za drvo u prijevozu ili uskladišteno (čl. 45).",
+   "Pravna i fizička lica koja nanesu štetu šumi i šumskom zemljištu dužna su je nadoknaditi prema odštetnom cjenovniku (čl. 13).",
+   "Osnovica naknade od 7% je prihod od drveta računat po cijeni na panju (čl. 33, čl. 47). Naknadu za općekorisne funkcije (0,07% ukupnog prihoda) plaćaju sva pravna lica registrovana za djelatnost u FBiH, uz izuzetak korisnika državnih šuma, javnih institucija, humanitarnih organizacija, udruženja i fondacija koje ne djeluju radi dobiti (čl. 48)."
+  ],
+  "caution": "Uredba je mijenjana dva puta (vidi fbih-uredba-o-sumama-izmjene-2610 i fbih-uredba-o-sumama-izmjene-6011): izmijenjeni su čl. 3, 4, 6, 30, 31, 39, 40, 45, 46, 52, 59 i 61. U tekstu osnovne uredbe čl. 4 st. 2 (saglasnost kantonalne uprave), čl. 31 st. 1 i čl. 45 st. 7 više ne važe u izvornom obliku. Čl. 61 u osnovnom tekstu ograničava primjenu na najduže 90 dana ili do donošenja zakona o šumama, a izmjena iz 2010. tu granicu postavlja na 30.06.2010.; provjeriti trenutni pravni status. Brojevi stavova u čl. 6 pomaknuti su izmjenom iz 2010. (novi st. 3)."
+ },
+ "fbih-uredba-o-sumama-izmjene-2610": {
+  "overview": "Uredba Vlade FBiH (14.4.2010) o izmjenama i dopunama Uredbe o šumama; mijenja čl. 3, 6, 30, 39, 40, 45, 46, 52, 59 i 61 osnovne uredbe. Odnosi se na korisnika državnih šuma, privatne šume, čuvare šuma i inspekcije.",
+  "points": [
+   "Čl. 1: u čl. 3 st. 6 osnovne uredbe dodaje se naziv „Federalno ministarstvo poljoprivrede, vodoprivrede i šumarstva (u daljnjem tekstu: Federalno ministarstvo)“.",
+   "Čl. 2: u čl. 6 dodaje se novi st. 3 — doznaku u šumama predviđenim za direktnu konverziju i sanitarnu sječu, a u privatnim šumama i za snabdijevanje ogrjevnim drvetom, može vršiti šumarski tehničar s pet godina radnog iskustva uz kontrolu dipl. inženjera šumarstva. Dosadašnji st. 3 do 7 postaju st. 4 do 8.",
+   "Čl. 3: u čl. 30 dodaje se st. 4 — naknada za stručne poslove u privatnim šumama iznosi najviše 10% od cijene na panju sortimenata po cjenovniku korisnika državnih šuma.",
+   "Čl. 4 i 5: u čl. 39 st. 4 na kraju se dodaju riječi „koja je oslobođena plaćanja naknade za eksproprijaciju“; u čl. 40 st. 5 uslovi za zakup proširuju se na uspostavu prava služnosti.",
+   "Čl. 6: čl. 45 st. 7 se mijenja — čuvar šuma je dužan bez odlaganja sačiniti zapisnik za sve bespravne radnje, na osnovu kojeg ovlašteno lice kantonalne uprave pokreće postupak kod nadležnog organa.",
+   "Čl. 7: u čl. 46 dodaje se st. 5 — način obračunavanja, rokovi i postupak plaćanja naknada vrši se prema uputstvu Federalnog ministarstva.",
+   "Čl. 8: u čl. 52 dodaju se st. 6 do 8 — inspekcijski nadzor vrše federalna i kantonalna šumarska inspekcija; šumarski inspektor smije pregledati osnove, godišnje planove, projekte i poslovne knjige, zaustavljati prevozna sredstva i pregledati dokumentaciju za prevoz sortimenata i privremeno oduzimati bespravno posječeno drvo.",
+   "Čl. 9 i 10: u čl. 59 dodaje se st. 2 (ugovori o prenosu gospodarenja iz ranijeg Zakona o šumama važe do donošenja zakona), a čl. 61 se mijenja — uredba se primjenjuje do donošenja Zakona o šumama, najduže do 30.06.2010. Čl. 11: stupa na snagu narednog dana od objave."
+  ],
+  "forestry": [
+   "Doznaka stabala može se povjeriti šumarskom tehničaru s 5 godina iskustva za direktnu konverziju i sanitarne sječe (te za ogrjevno drvo u privatnim šumama), uz kontrolu dipl. inženjera (čl. 2).",
+   "Čuvari šuma moraju za svaku bespravnu radnju odmah sačiniti zapisnik (čl. 6).",
+   "Šumarski inspektor ima ovlaštenje uvida u osnove, godišnje planove, projekte, planove biološke obnove i zaštite, poslovne knjige (čl. 8).",
+   "Ugovori o prenosu poslova gospodarenja državnim šumama zaključeni po ranijem Zakonu o šumama (20/02, 29/03, 37/04) važe do donošenja novog zakona (čl. 9)."
+  ],
+  "wood": [
+   "Šumarski inspektor može zaustavljati prevozna sredstva, pregledati prateću dokumentaciju za prevoz drvnih sortimenata i nedrvnih šumskih proizvoda te privremeno oduzimati bespravno posječeno drvo i drvo nezakonito stavljeno u promet (čl. 8).",
+   "Naknada za stručne poslove u privatnim šumama ograničena je na najviše 10% cijene na panju po cjenovniku korisnika državnih šuma (čl. 3)."
+  ],
+  "caution": "Čl. 10 ovog akta ograničava primjenu Uredbe najduže do 30.06.2010.; izmjena iz 2011. (fbih-uredba-o-sumama-izmjene-6011) je naknadno mijenjala čl. 4 i 31. Provjeriti važeći status uredbe."
+ },
+ "fbih-uredba-o-sumama-izmjene-6011": {
+  "overview": "Uredba Vlade FBiH (5.9.2011, Sl. novine FBiH 60/11) o izmjenama Uredbe o šumama; mijenja čl. 4 st. 2 i 3 (saglasnost na godišnji plan gospodarenja) i čl. 31 st. 1 (ko obavlja gospodarenje državnim šumama). Odnosi se na šumskoprivredna društva i organe koji daju saglasnost.",
+  "points": [
+   "Čl. 1: čl. 4 st. 2 se mijenja — godišnji plan gospodarenja korisnik šuma dostavlja najkasnije do 30.11. tekuće za narednu godinu, a saglasnost u roku od 30 dana od prijema plana daje Federalna uprava za šumarstvo za društva koja imaju važeću šumskoprivrednu osnovu.",
+   "Čl. 1: za preduzeća koja nemaju važeću šumskoprivrednu osnovu saglasnost daje Federalno ministarstvo poljoprivrede, vodoprivrede i šumarstva uz prethodno pribavljenu saglasnost Federalne uprave. Radovi iz godišnjeg plana ne smiju se početi bez te saglasnosti.",
+   "Čl. 1: čl. 4 st. 3 se mijenja — usvojeni plan korisnik šuma dostavlja u roku od 15 dana Kantonalnoj upravi, federalnoj i kantonalnoj šumarskoj inspekciji i jedinici lokalne samouprave (umjesto ranije Federalne uprave).",
+   "Čl. 2: čl. 31 st. 1 se mijenja — do stupanja na snagu Zakona o šumama poslove gospodarenja državnim šumama na području FBiH obavljaju šumskoprivredna društva koja su te poslove obavljala do prestanka važenja ranijeg Zakona o šumama (20/02, 29/03, 37/04).",
+   "Čl. 3: sve saglasnosti i ugovori o prenosu gospodarenja državnim šumama koji su u suprotnosti s ovom uredbom stavljaju se van snage; uredba stupa na snagu narednog dana od objave."
+  ],
+  "forestry": [
+   "Za ŠPD: saglasnost na godišnji plan ne daje više kantonalna uprava nego Federalna uprava za šumarstvo (ako društvo ima važeću osnovu), odnosno Federalno ministarstvo (ako nema) (čl. 1).",
+   "Rok za dostavu godišnjeg plana ostaje 30.11., saglasnost se daje u roku od 30 dana, a usvojeni plan se u roku od 15 dana dostavlja kantonalnoj upravi, federalnoj i kantonalnoj inspekciji i općini (čl. 1).",
+   "Gospodarenje državnim šumama ostaje kod postojećih šumskoprivrednih društava do stupanja na snagu zakona o šumama (čl. 2)."
+  ],
+  "caution": "Ovaj akt mijenja samo čl. 4 st. 2 i 3 te čl. 31 st. 1; ostale odredbe Uredbe o šumama (uključujući raniju izmjenu čl. 61) nisu obuhvaćene."
+ },
+ "fbih-naputak-naknade-sume": {
+  "overview": "Naputak federalnog ministra poljoprivrede, vodoprivrede i šumarstva (14.7.2010, Sl. novine FBiH 44/10) propisuje način obračuna, rokove i postupak plaćanja naknada za zaštitu i unaprjeđenje šuma iz Uredbe o šumama. Obveznici su korisnik državnih šuma, vlasnici privatnih šuma, investitori/podnosioci zahtjeva za promjenu namjene te pravna lica kao obveznici naknade za općekorisne funkcije šuma.",
+  "points": [
+   "Naputak označava odredbe brojevima tačaka (tač. 1 do 54), a ne članovima. Tač. 4 nabraja devet vrsta naknada: stručni poslovi u privatnim šumama, korištenje državnih šuma, izdvajanje iz šumskoprivrednog područja, promjena namjene (krčenje), izvlašteno zemljište, zakup, služnost, općekorisne funkcije i ostali prihodi.",
+   "Cijena drveta na panju je prihod od prodaje sortimenata na stovarištu umanjen za troškove sječe, izrade i izvoza do stovarišta, podijeljen sa ukupnom neto drvnom masom bez obzira na strukturu (tač. 3).",
+   "Naknada za korištenje državnih šuma: obveznik je korisnik šuma (kantonalno društvo), mjesto nastanka je općina gdje je izvršena sječa ili skupljeni nedrvni proizvodi (tač. 10 i 11), osnovica je prihod od drveta po cijeni na panju plus prihod od nedrvnih proizvoda (tač. 13).",
+   "Ukupna naknada iznosi 7%: 1,0% podračun Proračuna Federacije, 1,0% podračun proračuna kantona, 5,0% računi općina, raspoređeno proporcionalno ostvarenom prihodu po općinama gdje je izvršena sječa (tač. 14).",
+   "Rok za plaćanje tromjesečno, u roku od 30 dana za proteklo tromjesečje, i po završnom godišnjem izvješću u roku od 30 dana po predaji završnog računa (tač. 12).",
+   "Naknada za obavljanje stručnih poslova u privatnim šumama: rok plaćanja 15 dana od prijema rješenja o dozvoli sječe (tač. 7), visinu određuje kantonalno ministarstvo, najviše 10% vrijednosti sortimenata na panju po cjeniku korisnika državnih šuma, uplata u proračun kantona (tač. 8 i 9).",
+   "Naknada za promjenu namjene (krčenje): rok plaćanja je godinu dana od rješenja o promjeni namjene (tač. 22); visinu određuje stručno povjerenstvo kantonalnog ministarstva, a dijeli se 40% Federacija / 60% kanton (tač. 24).",
+   "Naknada za općekorisne funkcije šuma: 0,07% od ukupnog ostvarenog prihoda, uplata 20% Federaciji i 80% kantonu (tač. 43 i 44), tromjesečno u roku od 30 dana (tač. 42); fizička lica koja samostalno obavljaju djelatnost plaćaju najkasnije do desetog u mjesecu za protekli mjesec (tač. 47).",
+   "Obveznici naknada iz odjeljaka B i H predaju obrazac ONŠ uz polugodišnji i godišnji finansijski izvještaj Agenciji (AFIP Sarajevo odnosno APIF Mostar), a podatke o uplati dostavljaju uredu Porezne uprave (tač. 48 i 49). Kontrolu obračuna i uplate općekorisne naknade vrše Porezna uprava i šumarska inspekcija (tač. 50)."
+  ],
+  "forestry": [
+   "ŠPD kao korisnik državnih šuma obračunava i uplaćuje naknadu od 7% tromjesečno u roku od 30 dana po kvartalu i po završnom računu, razdvojeno po općinama gdje je sječa izvršena (tač. 10 do 14).",
+   "ŠPD dostavlja obrazac ONŠ uz polugodišnji i godišnji finansijski izvještaj i podatke o uplati Poreznoj upravi (tač. 48 i 49).",
+   "Kantonalna uprava preko ugovora preuzima stručne poslove u privatnim šumama uz naknadu koju plaća vlasnik šume (tač. 5 do 9).",
+   "Cijena na panju iz tač. 3 računa se iz prihoda od prodaje na stovarištu umanjenog za troškove sječe, izrade i izvoza."
+  ],
+  "wood": [
+   "Prihod od prodaje drvnih sortimenata na stovarištu, umanjen za troškove sječe, izrade i izvoza, daje cijenu na panju kao osnovicu naknada (tač. 3).",
+   "Obveznici naknade za općekorisne funkcije (0,07% ukupnog prihoda) su sve pravne osobe registrirane za djelatnost u FBiH i dijelovi pravnih osoba sa sjedištem van FBiH koje djeluju u FBiH, kao i osobe koje samostalno obavljaju djelatnost (tač. 40); osnovica je ukupni ostvareni prihod (tač. 43), što obuhvata i preduzeća za promet i preradu drveta."
+  ],
+  "caution": "Naputak se poziva na Uredbu o šumama (83/09, 26/10, 38/10) i na članke po hrvatskoj ortografiji; tačka 15 poziva se na „točku 13. ove Uredbe“. Tač. 40 ne ponavlja izuzeća od naknade za općekorisne funkcije iz čl. 48 st. 3 Uredbe (korisnici državnih šuma, javne institucije i dr.). Posebno provjeriti da li je Naputak još na snazi, jer je vezan za Uredbu s ograničenim rokom primjene."
+ },
+ "fbih-odluka-prodaja-sortimenata": {
+  "overview": "Odluka Vlade FBiH (23.7.2009) propisuje transparentan i tržišni način prodaje šumskih drvnih sortimenata iz državnih šuma u FBiH: ciljeve, načine prodaje, opće uslove za kupce, računanje minimalne cijene i nadzor. Odnosi se na kantonalno šumskoprivredno društvo kao prodavca i na kupce (pravna lica, uključujući preradu drveta) te na mjesno stanovništvo.",
+  "points": [
+   "Ciljevi su razvoj tržišta drveta i tržišne cijene, jednaki uslovi za sve kupce, sistem prodaje bez odlučivanja pojedinca o kupcima, cijenama i raspodjeli količina, te razdvajanje administrativnih od ekonomskih funkcija (čl. 2).",
+   "Tri načina prodaje: sukcesivna isporuka, licitacija, maloprodaja za potrebe ruralnog stanovništva; kantonalno ŠPD planira količine po načinima prodaje na bazi godišnjeg plana proizvodnje (čl. 3).",
+   "Opći uslovi za kupce: za sukcesivnu isporuku rješenje o upisu u sudski registar, dokaz o uslovima za djelatnost rezanja, cijepanja, polufinalne, finalne ili hemijske prerade drveta, transakcijski račun, porezni i PDV broj; za licitaciju i visokovrijedne sortimente isti uslovi ili registracija za promet drvnim sortimentima i PDV broj (čl. 4).",
+   "Za sve načine prodaje kupac ne smije biti u sudskom sporu s prodavcem oko isporuke, mora avansno plaćati ili dati garanciju plaćanja, te ne smije biti dužnik privrednim društvima u šumarstvu (osim uz ugovor o izmirenju duga i uredno plaćene rate) (čl. 4). Posebne uslove i kriterije rangiranja kupaca donosi ŠPD internim aktom (čl. 4).",
+   "Ugovori za sukcesivnu isporuku sklapaju se s privrednim društvima za primarnu, polufinalnu, finalnu i hemijsku preradu i cijepanje drveta; ugovorom se prodaju F i L trupci, pilanska oblovina I, II i III klase, tt stubovi, sitno tehničko drvo, jamsko, celulozno, drvo za ploče, ogrjevno i drvo za energiju (čl. 5).",
+   "Licitacija se objavljuje u najmanje dva dnevna lista na teritoriji Federacije, na web-stranici i oglasnim pločama ŠPD i podružnica; izvodi se kao pretprodaja, naknadna prodaja ili prodaja visokovrijednih sortimenata. ŠPD mora tokom godine najmanje 20% klasiranih sortimenata tehničke oblovine ponuditi naknadnom prodajom, a sve deklasirano drvo obavezno prodaje licitacijom (čl. 6).",
+   "Visokovrijedni sortimenti prodaju se po komadu (trupcu) putem međunarodnog tendera; troškove procesa snosi ŠPD ili privatni vlasnici po 1 m3 ponuđenog drveta; do razvoja tog sistema uključuju se u naknadnu prodaju/licitaciju (čl. 6).",
+   "Mjesnom stanovništvu prodaje se ogrjevno drvo i sitno tehničko drvo (u šumi na panju uz doznaku i nadzor prodavca ili na međustovarištu, uz uplatu prije prometa) te, uz uslove, tehnička oblovina za izgradnju kuće ili pomoćnih objekata (čl. 7). Nadzor vrše federalna i kantonalna šumarska inspekcija (čl. 9)."
+  ],
+  "forestry": [
+   "ŠPD kao prodavac planira količine po načinima prodaje, objavljuje licitacije i donosi interni akt s posebnim uslovima i kriterijima rangiranja kupaca (čl. 3, čl. 4, čl. 6).",
+   "U pretprodaji ŠPD sam ili preko registrovanih izvođača siječe, izrađuje i izvlači sortimente, krojenje, klasiranje i prijem kod panja i otpremu vrši prodavac, a prodavac nadzire sječu, izradu i izvlačenje (čl. 6).",
+   "Prodaja mjesnom stanovništvu ograničena je količinama iz šumskoprivredne osnove ili godišnjeg plana; sabir iza redovnih sječa u visokim šumama odobrava se tek nakon primopredaje odjela (čl. 7).",
+   "Bliže procedure i ovlaštena lica za prodaju mjesnom stanovništvu određuje ŠPD posebnim aktom (uputstvom) (čl. 7)."
+  ],
+  "wood": [
+   "Kupci moraju ispunjavati opće uslove iz čl. 4; sukcesivna isporuka je rezervisana za registrovane prerađivače i cjepače drveta (čl. 4 i 5).",
+   "Minimalna (rezervna) cijena bazira se na važećem cjenovniku; nova se izračunava na kraju svake godine za narednu i javno objavljuje u minimalnim cjenovnicima; u uslovima poremećaja na tržištu organ ŠPD može utvrditi nižu cijenu (čl. 8).",
+   "Naknadna prodaja: najmanje 20% klasirane tehničke oblovine godišnje na stovarištu, deklasirano drvo isključivo licitacijom (čl. 6).",
+   "Mjesno stanovništvo može kupiti ogrjevno drvo, sitno tehničko drvo (hmeljovke, kolje, stožine i sl.) i tehničku oblovinu za gradnju; plaćanje prethodi prometu uz otpremni dokument (čl. 7).",
+   "Ranija Odluka o općim uvjetima prodaje (Sl. novine FBiH 13/08) prestaje važiti danom stupanja na snagu ove odluke (čl. 10)."
+  ],
+  "caution": "Odluka je mijenjana (vidi fbih-odluka-prodaja-sortimenata-izmjene): izmijenjeni su čl. 6 st. 1 (objava u najmanje jednom dnevnom listu), čl. 7 (tehnička oblovina do 15 m3) i čl. 8 st. 2 (tabela računanja rezervne cijene). U osnovnom tekstu navedeni uslovi objave i količine za oblovinu su zato zamijenjeni. Odluka u čl. 2 pominje „Zakon o šumama“."
+ },
+ "fbih-odluka-prodaja-sortimenata-izmjene": {
+  "overview": "Odluka Vlade FBiH (14.4.2010) o izmjenama i dopunama Odluke o načinu prodaje šumskih drvnih sortimenata iz državnih šuma. Mijenja čl. 6 st. 1, čl. 7 st. 2 tačka 3 i čl. 8 st. 2 osnovne odluke; odnosi se na ŠPD kao prodavca i kupce drveta.",
+  "points": [
+   "Dio I (mijenja čl. 6 st. 1): licitacija se mora objaviti tako da je dostupna svim potencijalnim kupcima, u najmanje jednom dnevnom listu koji se distribuira na teritoriji FBiH (umjesto dva), na web-stranici i oglasnim pločama ŠPD; provodi se kao pretprodaja, naknadna prodaja i prodaja visokovrijednih sortimenata.",
+   "Dio I: objava u dnevnim listovima može biti obavijest o prodaji sa informacijom da se cijeli tekst nalazi na web-stranici i oglasnim pločama ŠPD.",
+   "Dio II (mijenja čl. 7 st. 2 tačka 3): tehnička oblovina može se odobriti lokalnom seoskom stanovništvu za izgradnju objekata potrebnih seoskom domaćinstvu (kuća, staja ili pomoćni objekti) na lični zahtjev, u količini potrebnoj za gradnju, najviše do 15 m3; lokacije su na panju iz sanitarnih sječa ili na međustovarištu, po istim procedurama kao za ogrjevno drvo.",
+   "Dio III (mijenja čl. 8 st. 2): nova rezervna/minimalna cijena računa se na kraju svake godine za narednu po modelu iz tabele; u primjeru je omjer 70% prodaje putem sukcesivne isporuke (rezervna cijena) i 30% licitacijom (tenderska cijena).",
+   "Dio III, tabela 1 (primjer modela): početna cijena 100 i tenderska 150 daju novu rezervnu cijenu 115 za sljedeću godinu (70% × 100 + 30% × 150); ostale godine u tabeli računaju se na isti način.",
+   "Dio IV: odluka stupa na snagu narednog dana od objave u Službenim novinama FBiH."
+  ],
+  "forestry": [
+   "ŠPD ima manju obavezu objave licitacije (jedan dnevni list uz web-stranicu i oglasne ploče) (dio I).",
+   "Za mjesno stanovništvo ŠPD odobrava tehničku oblovinu za domaćinstvo do 15 m3 po zahtjevu, iz sanitarnih sječa na panju ili na međustovarištu (dio II).",
+   "ŠPD svake godine preračunava rezervnu cijenu po modelu iz tabele (dio III)."
+  ],
+  "wood": [
+   "Kupci se obavještavaju o licitaciji putem jednog dnevnog lista, web-stranice i oglasnih ploča ŠPD (dio I).",
+   "Nova rezervna cijena za sljedeću godinu računa se po modelu iz tabele; u primjeru (100 i 150) iznosi 115, što odgovara omjeru 70:30 (dio III, tabela 1).",
+   "Tehnička oblovina za mjesno stanovništvo ograničena je na 15 m3 po objektu (dio II)."
+  ],
+  "caution": "Akt nema članove nego rimske brojeve (I do IV), pa su reference dane kao „dio I“ itd. Tabela u tekstu je rasuta (pdf extract); brojke su prepisane iz prvog reda primjera."
+ },
+ "fbih-zakon-o-sjemenu": {
+  "overview": "Zakon o sjemenu i sadnom materijalu šumskih i hortikulturnih vrsta drveća i grmlja (Sl. novine FBiH 71/05) uređuje registre, proizvodnju, doradu, kvalitet, deklarisanje i promet sjemena i sadnica, uvoz, naknade, nadzor i kazne. Odnosi se na proizvođače i dorađivače sjemena, rasadničare, uvoznike, laboratorije, ovlaštene ustanove i kantonalno šumskoprivredno društvo.",
+  "points": [
+   "Zakon se primjenjuje na reproduktivni materijal vrsta nabrojanih u čl. 3 (npr. jela, smrča, bukva, hrastovi, bor, ariš, javori, jasen) i na druge vrste šumskog drveća kad se proizvode za podizanje i obnovu šuma i uređenje okoliša (čl. 3). Poslove obavljaju Federalno ministarstvo, Federalna uprava, kantonalna ministarstva i uprave, kantonalno ŠPD i ovlaštene ustanove (čl. 4).",
+   "Federalna uprava vodi pet registara: proizvođača sjemena, dorađivača sjemena, proizvođača sadnog materijala, uvoznika i laboratorija; rješenje o upisu donosi Federalno ministarstvo (čl. 6, 7). Proizvođač sjemena briše se nakon 6 godina neaktivnosti, proizvođač sadnog materijala nakon 2 godine; svaka promjena prijavljuje se u roku od 30 dana (čl. 7).",
+   "Sjeme smije proizvoditi samo pravno lice upisano u Registar proizvođača sjemena; mora obavijestiti Federalno ministarstvo i Federalnu upravu o količini do 31. marta naredne godine (čl. 9) i voditi knjigu evidencije proizvodnje (čl. 11). Uslovi upisa uključuju vlasništvo ili dugoročno korištenje priznate sjemenske sastojine, opremu, skladište i dipl. inženjera s najmanje 3 godine iskustva te saglasnost kantonalnog ministarstva (čl. 10).",
+   "Sjemenski objekti podliježu obaveznom stručnom pregledu neposredno po kretanju vegetacije i po njenom završetku; pregled vrši ovlaštena ustanova koja izvještaj dostavlja u roku od 15 dana (čl. 12, 13). Zapisnik o kontroli i uvjerenje o porijeklu izdaju se u roku od 15 dana; sjeme bez uvjerenja uništava se pod nadzorom šumarskog inspektora (čl. 14, 15).",
+   "Prije stavljanja u promet sjeme mora biti dorađeno, a za svaku pošiljku mora se odrediti kvalitet (čistoća, vlaga, klijavost, vitalitet, zdravstveno stanje); mora biti pakirano s deklaracijom, a sjeme s isteklim rokom deklaracije ne smije se prometovati bez ponovnog utvrđivanja kvaliteta (čl. 17, 20 do 23, 26).",
+   "Prometom sjemena smiju se baviti samo pravna lica upisana u odgovarajući registar i sa zaposlenim dipl. inženjerom šumarstva ili hortikulture; građani ne smiju stavljati sjeme u promet. U promet se smije staviti samo normalno i selekcionisano sjeme priznato u Federaciji (čl. 27, 28).",
+   "Sadni materijal smiju proizvoditi pravna lica upisana u Registar proizvođača sadnog materijala (dipl. inženjer s najmanje 3 godine staža); proizvodnja u vegetaciji podliježe stručnom pregledu dva puta, a sadni materijal koji ne odgovara mora se uništiti pod nadzorom inspektora (čl. 34, 38, 40). Proizvođač vodi knjigu rasadnika i najmanje jednom godišnje obavještava kantonalnu upravu, Federalnu upravu i Ministarstvo (čl. 36).",
+   "Uvoz sjemena i sadnica dopušten je samo za pravna lica u Registru uvoznika i za materijal čije je uvođenje u proizvodnju odobreno; uz pošiljku ide certifikat o kvalitetu i fitocertifikat, a kontrolu na granici vrši Federalna granična inspekcija (čl. 29 do 31, 52 do 57).",
+   "Žalbe: protiv rješenja kantonalnog ili federalnog šumarskog inspektora žalba Federalnom ministarstvu u roku od osam dana; protiv rješenja kantonalnog ministarstva u roku od 15 dana (čl. 68). Kazne su propisane u čl. 70 do 73."
+  ],
+  "forestry": [
+   "Kantonalno ŠPD može predložiti granice sjemenskih sastojina i zona, a Federalno ministarstvo ih utvrđuje uz mišljenje kantonalne uprave (čl. 5); program privređivanja sjemenskim sastojinama izrađuje ovlaštena ustanova (čl. 5).",
+   "ŠPD kao proizvođač sjemena i rasadnik mora biti upisan u odgovarajući registar uz saglasnost kantonalnog ministarstva, uz dipl. inženjera šumarstva s 3 godine iskustva (čl. 10, čl. 34).",
+   "Obaveze nakon upisa: knjiga evidencije proizvodnje sjemena, obavještenje o količinama do 31. marta (čl. 9, 11), knjiga rasadnika (čl. 36) i godišnje obavještavanje do 31. decembra (čl. 4 st. 2).",
+   "Pravna lica mogu za vlastite potrebe koristiti sadni materijal od selekcionisanog i normalnog sjemena koji ima uvjerenje o porijeklu (čl. 50).",
+   "Ovlaštena ustanova ne smije vršiti stručni pregled vlastite proizvodnje (čl. 13, čl. 39).",
+   "Inspekcijski nadzor vrše federalna i kantonalna šumarska inspekcija; kantonalni inspektor kontroliše sjemenske objekte, rasadnike, dorade, skladišta i dokumente, može privremeno zabraniti prodaju i oduzeti sjeme i sadni materijal (čl. 60, 62)."
+  ],
+  "caution": "Zakon je mijenjan 2010. (vidi fbih-zakon-o-sjemenu-izmjene): čl. 70 do 73 u fajlu još sadrže stare iznose kazni, a izmjenama su zamijenjeni (npr. čl. 70 sada 12.000 do 15.000 KM za pravno lice, čl. 73 građanin 300 do 1.000 KM). Tekst u fajlu dolazi iz Službenih novina s ostacima zaglavlja."
+ },
+ "fbih-zakon-o-sjemenu-izmjene": {
+  "overview": "Zakon o izmjenama Zakona o sjemenu i sadnom materijalu šumskih i hortikulturnih vrsta drveća i grmlja (Ukaz od 16.2.2010; usvojen 7.12.2009. u Predstavničkom i 28.1.2010. u Domu naroda) mijenja kaznene odredbe čl. 70 do 73 osnovnog zakona. Odnosi se na pravna lica, odgovorna lica i građane koji krše odredbe o sjemenu i sadnom materijalu.",
+  "points": [
+   "Čl. 1 (mijenja čl. 70): novčana kazna za pravno lice iznosi 12.000 do 15.000 KM; odgovorno lice u pravnom licu kažnjava se sa 2.000 do 3.000 KM.",
+   "Čl. 2 (mijenja čl. 71): novčana kazna za pravno lice iznosi 10.000 do 12.000 KM; odgovorno lice 1.000 do 2.500 KM.",
+   "Čl. 3 (mijenja čl. 72): novčana kazna za pravno lice iznosi 2.000 do 10.000 KM; odgovorno lice 1.000 do 2.000 KM.",
+   "Čl. 4 (zamjenjuje čl. 73): građanin se kažnjava sa 300 do 1.000 KM ako stavi u promet sjeme i sadni materijal (čl. 27 st. 6 i čl. 49 st. 6 osnovnog zakona) ili učini bilo koju radnju iz čl. 71 i 72.",
+   "Čl. 5: zakon stupa na snagu narednog dana od objave u Službenim novinama FBiH."
+  ],
+  "forestry": [
+   "Za ŠPD kao proizvođača sjemena ili rasadnika kazne za prekršaje iz čl. 70 (npr. proizvodnja bez upisa u registar, promet nedorađenog ili neprikladnog sjemena) iznose 12.000 do 15.000 KM, uz kaznu odgovornom licu 2.000 do 3.000 KM (čl. 1).",
+   "Za prekršaje iz čl. 71 (npr. neobavljen stručni pregled, ne vodi se knjiga evidencije ili knjiga rasadnika) kazna je 10.000 do 12.000 KM (čl. 2); za čl. 72 (npr. izostanak obavještenja o proizvedenom sjemenu) 2.000 do 10.000 KM (čl. 3)."
+  ],
+  "caution": "Akt ne mijenja materijalne odredbe osnovnog zakona, samo visine kazni; sadržaj prekršaja (koji se odnose na čl. 70 do 72) treba čitati u osnovnom zakonu."
+ },
+ "fbih-pravilnik-registri-sjemena": {
+  "overview": "Pravilnik federalnog ministra (maj 2006) propisuje sadržaj, oblik i način vođenja registara proizvođača i dorađivača sjemena, laboratorija, uvoznika te proizvođača sadnog materijala. Odnosi se na Federalno ministarstvo/ovlaštena lica koja vode registre i na pravna lica koja se upisuju.",
+  "points": [
+   "Pravilnik uređuje pet registara: proizvođača sjemena, dorađivača sjemena, laboratorija, uvoznika sjemena i sadnog materijala te proizvođača sadnog materijala (čl. 1). Vode se na propisanim obrascima i mogu se voditi elektronski (čl. 2).",
+   "Uz registre se vodi kartoteka dokumenata po svakom upisanom pravnom licu i elektronski imenik registrovanih lica (čl. 3). Upis vrši lice koje ovlasti federalni ministar i odgovorno je za pravilan upis (čl. 4); elektronski podaci se arhiviraju kao sigurnosna kopija (čl. 5).",
+   "Upisana pravna lica dužna su prijaviti Federalnom ministarstvu sve promjene uslova propisanih zakonom i pravilnikom i priložiti dokaze (čl. 6).",
+   "Registar proizvođača sjemena sadrži naziv i sjedište, registarski broj i datum upisa, vrstu i kategoriju sjemena, registarski broj objekata, saglasnost kantonalnog ministarstva i rješenje o upisu; uz njega se vodi Registar objekata za proizvodnju sjemena (sjemenske sastojine, plus stabla, plantaže, matičnjaci) (čl. 7 i 8).",
+   "Upis objekta u Registar objekata vrši se nakon postupka kandidovanja, bonitiranja i prijedloga za registrovanje (čl. 10). Sadni materijal: Registar proizvođača sadnog materijala upisuje naziv rasadnika, vrstu i kategoriju sadnog materijala i saglasnost kantonalnog ministarstva (čl. 20 do 22).",
+   "Pravna lica već upisana u registre dužna su podatke uskladiti s pravilnikom u roku od šest mjeseci od stupanja na snagu (čl. 23); stavljeni su van snage raniji pravilnici o registrima iz 1979. i 1980. (čl. 24)."
+  ],
+  "forestry": [
+   "ŠPD kao proizvođač sjemena i proizvođač sadnog materijala upisuje se u registre uz saglasnost kantonalnog ministarstva i mora prijavljivati promjene Federalnom ministarstvu (čl. 8, 21, 6).",
+   "Sjemenske sastojine, plus stabla, sjemenske plantaže i matičnjaci upisuju se u Registar objekata za proizvodnju sjemena nakon kandidovanja i bonitiranja (čl. 7, 10)."
+  ],
+  "caution": "Tekstualni fajl je loše izvučen iz Službenih novina: sadrži dvije do tri kopije istog pravilnika (bosanska, hrvatska verzija) i ostatke tuđeg teksta (članci 32 do 37 o trgovačkoj knjizi). Reference se odnose na čist tekst čl. 1 do 25."
+ },
+ "fbih-pravilnik-evidencija-rasadnicka": {
+  "overview": "Pravilnik federalnog ministra (april 2008) propisuje sadržaj, oblik i način vođenja evidencije o pregledanoj rasadničkoj proizvodnji (vrsta, količina, starost, način uzgoja sadnica). Evidenciju vodi ovlaštena ustanova za stručni pregled sadnog materijala.",
+  "points": [
+   "Ovlaštena ustanova koju je Federalno ministarstvo ovlastilo za stručni pregled proizvodnje sadnog materijala dužna je voditi evidenciju o izvršenom stručnom pregledu (čl. 2).",
+   "Obrazac ima devet kolona: redni broj, datum pregleda, naziv proizvođača, latinski naziv vrste, količina, starost, način uzgoja (generativno ili vegetativno), potpis ovlaštenog lica i primjedbe; starost se definiše kao broj godina u sijalištu plus broj godina u rastilištu (čl. 3).",
+   "Evidencija se vodi u obliku knjige, i u elektronskoj formi; knjiga mora biti uvezana, prošivena jemstvenikom, ovjerena od rukovodioca ustanove, s numerisanim stranicama (čl. 4).",
+   "Upis se vrši plavom hemijskom olovkom, a ispravke crvenom: pogrešan tekst se precrtava tankom linijom, a ispravku vrši i potpisuje ovlašteno lice uz potpis i pečat (čl. 5)."
+  ],
+  "forestry": [
+   "Za ŠPD kao rasadnika: pregledi rasadnika evidentiraju se po vrsti, količini, starosti i načinu uzgoja u knjizi ovlaštene ustanove (čl. 2, 3); evidenciju ne vodi rasadnik nego ovlaštena ustanova."
+  ],
+  "caution": "Pravilnik je donesen na osnovu čl. 41 zakona iz 2005 i ne mijenja obaveze rasadnika iz zakona."
+ },
+ "fbih-pravilnik-kvalitet-sadnog": {
+  "overview": "Pravilnik federalnog ministra (april 2008) propisuje uslove koji osiguravaju održavanje kvaliteta šumskog i hortikulturnog sadnog materijala pri vađenju, čuvanju, transportu i privremenom skladištenju. Odnosi se na rasadnike i pravna lica koja stavljaju sadnice u promet.",
+  "points": [
+   "Sadni materijal koji se stavlja u promet mora se pohraniti u uslovima koji osiguravaju održavanje njegovog kvaliteta (čl. 2).",
+   "Sadnice se vade mašinski ili ručno, bez oštećenja korijena i korijenovih dlačica; vađenje trganjem rukama iz zemljišta nije dozvoljeno (čl. 3).",
+   "Vađenje se vrši neposredno prije otpreme; ako se transport ne vrši odmah, sadnice se čuvaju u hladnjačama ili u trapovima, ali ne duže od pet dana (čl. 4).",
+   "Korijen se odmah nakon vađenja mora tretirati rastvorom (tečno blato, hidro-gel i dr.) protiv isušivanja; sadnice se slažu tako da korijen jednog složaja bude okrenut prema korijenu drugog (čl. 5, 6). Za četinare je dozvoljena upotreba antitranspiranata prije transporta (čl. 7).",
+   "Transport samo u vozilima sa ceradom ili u hladnjačama; ako traje duže od 24 sata, hladnjača je obavezna (čl. 8). Nakon dopreme sadnice se mogu utrapiti do pošumljavanja, najduže deset dana, ili čuvati u hladnjačama (čl. 9)."
+  ],
+  "forestry": [
+   "Za rasadnike i pošumljavanje ŠPD: vađenje sadnica neposredno prije otpreme, maksimalno 5 dana u trapu/hladnjači nakon vađenja, transport pokrivenim vozilom, a preko 24 sata hladnjačom, utrapljivanje na odredištu najduže 10 dana (čl. 4, 8, 9)."
+  ]
+ },
+ "fbih-pravilnik-kvalitet-sjemena": {
+  "overview": "Pravilnik federalnog ministra (Sl. novine FBiH 75/12, 24.8.2012) propisuje uslove koji osiguravaju zadržavanje kvaliteta šumskog i hortikulturnog sjemena nakon stavljanja u promet. Odnosi se na pravna lica koja se bave prometom sjemena.",
+  "points": [
+   "Sjeme stavljeno u promet mora se čuvati u uslovima koji obezbjeđuju zadržavanje kvaliteta do isteka važnosti deklaracije; deklaracija o kvalitetu važi 6 mjeseci od datuma izdavanja (čl. 2).",
+   "Pravno lice koje se bavi prometom mora imati prostorije s umjetnim uslovima optimalnim za čuvanje pojedinih vrsta; kvalitet se zadržava suho-hladnim i vlažno-hladnim čuvanjem, čuvanjem na sobnoj temperaturi i u djelimičnom vakuumu (čl. 3).",
+   "Suho-hladno čuvanje: iznad tačke smrzavanja (0 do 3 °C), u frižideru ili hladnjači zavisno od količine (čl. 4). Vlažno-hladno: hladnjaci, hladnjače ili hladni podrumi s kontrolom temperature i cirkulacijom zraka (čl. 5).",
+   "Čuvanje na sobnoj temperaturi zahtijeva prozračne prostorije (čl. 6); čuvanje u djelimičnom vakuumu zahtijeva hermetički zatvorene posude (čl. 7)."
+  ],
+  "forestry": [
+   "ŠPD koji prodaje sjeme mora imati prostorije s kontrolisanim uslovima čuvanja prema vrsti sjemena, a deklaracija važi 6 mjeseci (čl. 2, 3)."
+  ],
+  "caution": "Fajl sadrži dvije verzije istog pravilnika (bosanski i hrvatski jezik, čl. 1 do 8)."
+ },
+ "fbih-pravilnik-ovlastene-ustanove": {
+  "overview": "Pravilnik federalnog ministra (27.8.2012) propisuje uslove koje moraju ispunjavati ovlaštene ustanove za izradu programa gospodarenja sjemenskim sastojinama i sjemenskim zonama i njihovu reviziju.",
+  "points": [
+   "Programe i reviziju može izrađivati pravno lice registrovano za uslužne djelatnosti u šumarstvu i iskorištavanju šuma (šifra djelatnosti 02.02 / 02.020) koje ima ovlaštenje Federalnog ministarstva (čl. 2).",
+   "Uslovi: u stalnom radnom odnosu najmanje jedan zaposleni s akademskim stepenom magistra šumarskih nauka (uzgajanje šuma), s najmanje 5 godina radnog iskustva nakon diplome, i tehnička oprema za rad u GIS-u (čl. 2).",
+   "Ovlaštenje se daje na rok od pet godina; promjenu podataka potrebno je prijaviti za izmjenu ovlaštenja u roku od 15 dana (čl. 2).",
+   "Uz zahtjev se prilažu rješenje o upisu u sudski registar, dokaz o stručnoj spremi i iskustvu zaposlenika (diploma, ugovor o radu, uvjerenje o iskustvu) i dokaz o GIS opremi, u originalu, prijepisu ili ovjerenoj fotokopiji (čl. 3).",
+   "Ustanova vodi evidenciju o izrađenim programima i njihovim revizijama, koja se čuva trajno (čl. 4)."
+  ],
+  "forestry": [
+   "Programi gospodarenja sjemenskim sastojinama i zonama (iz čl. 5 zakona) ne izrađuje ŠPD sam, nego ovlaštena ustanova koja ispunjava ove uslove (čl. 2)."
+  ]
+ },
+ "fbih-pravilnik-strucni-pregled": {
+  "overview": "Pravilnik federalnog ministra (decembar 2006) propisuje sadržaj, oblik i način stručnog pregleda proizvodnje šumskog i hortikulturnog sjemena i izrade izvještaja, te opremu koju mora imati ovlaštena institucija. Odnosi se na ovlaštenu instituciju i proizvođače sjemena.",
+  "points": [
+   "Propisani su obrasci za kontrolu objekata u kojima se proizvodi sjeme (sjemenske sastojine, plus stabla, sjemenske plantaže, stabla za sjeme poznatog porijekla) i njihovo zdravstveno stanje; zapisnici se vode na posebnim obrascima i mogu elektronski (čl. 2, 3).",
+   "Uz zapisnike se vodi arhiva s godišnjim izvještajima po sjemenskom objektu, šumariji, odnosno kantonalnom šumskogospodarskom društvu i prikaz statističke obrade uroda; podaci na računaru dupliraju se na sigurnosnu kopiju (čl. 4, 6).",
+   "Urod se ocjenjuje od 0 do 5 (npr. 0 bez uroda, 3 dobar urod 25 do 50% stabala, 5 odličan preko 80%); zdravstveno stanje ocjenjuje se kao dobro, pogoršano ili loše (čl. 8, 9).",
+   "Obrazac S1 popunjava se za sjemenske sastojine, plus stabla, plantaže i matičnjake (čl. 11), obrazac S2 za objekte sjemena poznatog porijekla uz geografske koordinate i nadmorsku visinu (čl. 12); objekti koji ne ispunjavaju minimum ili su ugroženi brišu se iz registra na obrascu S3 (čl. 13).",
+   "Uvjerenje o obavljenoj kontroli izdaje se najkasnije 15 dana nakon terenskog pregleda (čl. 14). Ovlaštena institucija mora imati propisanu opremu (penjalice, dvogled i GPS, laboratorijske kapacitete) (čl. 15, 16, 17).",
+   "Proizvođači sjemena upisani u registar i vlasnici matičnjaka moraju uskladiti poslovanje s pravilnikom u roku od šest mjeseci (čl. 18)."
+  ],
+  "forestry": [
+   "Sjemenske sastojine, plantaže i matičnjaci ŠPD pregledaju se i ocjenjuju (urod, zdravstveno stanje) na obrascima S1/S2; loši objekti mogu biti brisani iz registra (čl. 11, 12, 13).",
+   "Objekti za sjeme poznatog porijekla označavaju se žutom bojom na stablima za sabiranje sjemena, a zapisnik se sačinjava neposredno po završenoj doznaci (čl. 12, 16)."
+  ]
+ },
+ "fbih-pravilnik-naknada-pregled": {
+  "overview": "Pravilnik federalnog ministra (Sl. novine FBiH 75/12, 27.8.2012) propisuje visinu naknada za stručni pregled proizvodnje sjemena i sadnog materijala, utvrđivanje kvaliteta i deklarisanje. Plaćaju ih proizvođači, dorađivači, rasadnici i uvoznici.",
+  "points": [
+   "Kontrola jednog sjemenskog objekta za jedan pregled (proljetni ili jesenji): 150 KM za porijeklo, metodu proizvodnje i čistoću vrste, te 150 KM za zdravstveno stanje (čl. 2).",
+   "Laboratorijska analiza uzorka sjemena (čistoća, vlaga, klijavost, vitalitet): 240 KM; parcijalno čistoća 40 KM, vlaga 50 KM, klijavost i vitalitet (ISTA) 150 KM; zdravstveno stanje uzorka 200 KM (100 KM zaraženost uzročnicima bolesti i 100 KM oštećenost insektima) (čl. 3).",
+   "Kontrola jednog rasadnika po pregledu (proljeće ili jesen): 200 KM za porijeklo, vrstu, starost, način uzgoja, razvijenost i količinu, te 200 KM za zdravstveno stanje; naknada se računa po rasadniku bez obzira na veličinu; utvrđivanje kvalitetnih klasa za uzorak od 200 sadnica jedne vrste i sortimenta: 130 KM (čl. 4).",
+   "Naknade snosi podnosilac zahtjeva i uplaćuje ih ovlaštenoj ustanovi odnosno ovlaštenoj laboratoriji; ako je lice obveznik PDV-a, na cijene se obračunava PDV (čl. 5).",
+   "Deklarisanje: 0,20 KM za deklaraciju uz otpremnicu i 0,20 KM za deklaraciju na ambalaži; snose ih dorađivač (domaće sjeme), uvoznik sjemena, proizvođač sadnog materijala i uvoznik sadnog materijala; prihod su Budžeta FBiH (čl. 6)."
+  ],
+  "forestry": [
+   "Za ŠPD kao proizvođača sjemena i rasadnika: troškovi pregleda sjemenskih objekata i rasadnika i laboratorijskih analiza obračunavaju se po ovom cjeniku (čl. 2 do 4); deklaracije za sadnice koje proizvodi plaćaju 0,20 KM po deklaraciji (čl. 6)."
+  ],
+  "caution": "U čl. 5 pozivanja na „čl. 3. i 5.“ i „čl. 4.“ nisu usklađena sa sadržajem članova (čl. 3 obuhvata laboratorijske analize, a čl. 4 pregled rasadnika); pri primjeni treba se osloniti na smisao: laboratorijske analize uplaćuju se laboratoriji, a pregledi ovlaštenoj ustanovi. Fajl sadrži i hrvatsku verziju istog pravilnika."
+ },
+ "bih-zakon-zdravlje-bilja": {
+  "overview": "Zakon o zaštiti zdravlja bilja BiH (Sl. glasnik BiH, 2003) uređuje mjere i obaveze za sprečavanje pojave, unošenja i širenja štetnih organizama na biljke, biljne proizvode i druge regulirane objekte, uvoz/izvoz/tranzit, biljne pasoše, javne usluge i kazne. Odnosi se na Upravu BiH za zaštitu zdravlja bilja, entitetske organe, fitosanitarne inspektore i vlasnike, proizvođače, uvoznike i prerađivače bilja.",
+  "points": [
+   "Biljke uključuju žive biljke i žive dijelove (uključujući sjemenje i sječeno drveće s lišćem ili iglicama); biljni proizvod je i drvo koje je u cijelosti ili djelimično sačuvalo prirodnu okruglu površinu (okorano ili neokorano), strugotina, iver, piljevina, otpaci i ostaci drveta, te drvo kao ambalaža/paleta ako predstavlja rizik (čl. 3).",
+   "Zaštita zdravlja bilja je pravo i obaveza nadležnih organa i vlasnika; osniva se Uprava BiH za zaštitu zdravlja bilja kao samostalno pravno lice (čl. 4). Vlasnici moraju nadzirati biljke, uključujući rasadnike, skladišta i transportna sredstva, i odmah obavijestiti inspektora o novim pojavama štetnih organizama s lista I. A i II. A (čl. 6).",
+   "Štetni organizmi i bilje se klasificiraju u liste (I. A, II. A, I. B, II. B; III. A do V. B) koje utvrđuje Vijeće ministara na prijedlog Uprave (čl. 7, 8). Zabranjeno je unošenje i širenje štetnih organizama s lista I. A i II. A (čl. 14) i uvoz bilja i proizvoda s Liste III. A (čl. 15).",
+   "Pri sumnji na infekciju izdvaja se zvanični uzorak za dijagnostičko testiranje; kod potvrde inspektor mora narediti uništenje, tretman ili drugu mjeru (čl. 9, 10).",
+   "Registar proizvođača, prerađivača, uvoznika i distributera bilja s listi V. A i V. B je obavezan; upisani moraju voditi evidenciju (čuvati najmanje godinu), plan mjesta proizvodnje, redovno vizuelno kontrolisati bilje, dozvoliti inspektoru pristup i podnositi godišnji izvještaj; rješenje o upisu izdaje se najkasnije tri mjeseca nakon potpunog zahtjeva (čl. 19, 20, 22). Mali proizvođači za vlastitu upotrebu izuzeti su (čl. 23).",
+   "Uvoz: pošiljke s Liste V. B podliježu obaveznoj kontroli i moraju imati fitosanitarni certifikat; uvoznik mora obavijestiti inspektora o prispijeću, a carina ne smije početi postupak prije kontrole (čl. 25, 30). Izvoz je uz fitosanitarni certifikat (čl. 35, 36).",
+   "Prijevoz bilja i proizvoda s Liste V. A I. dozvoljen je uz biljni pasoš; pasoš izdaju ovlaštena lica s dozvolom nadležnog organa (čl. 38, 42, 43). Kupci moraju čuvati pasoše i dozvoliti inspektoru pristup biljkama i dokumentaciji (čl. 50).",
+   "Inspektori mogu zabraniti uvoz i prijevoz, narediti tretman ili uništenje pošiljke, privremeno zabraniti djelatnost proizvođača i izdavanje pasoša, narediti ispravku nedostataka i izricati mandatne kazne (čl. 81). Žalba ne odgađa izvršenje rješenja (čl. 78).",
+   "Kazne: pravno lice 4.000 do 80.000 KM, odgovorno lice 1.500 do 40.000 KM, fizičko lice 450 do 4.350 KM (čl. 84); mandatne kazne na licu mjesta: pravno lice 2.500 KM, odgovorno lice 850 KM, fizičko lice 1.700 KM (čl. 85)."
+  ],
+  "forestry": [
+   "Rasadnici i skladišta spadaju među objekte koje vlasnik mora nadzirati; vlasnik mora odmah prijaviti pojavu štetnih organizama s lista I. A i II. A i provesti mjere koje odredi inspektor, inače inspektor ih naređuje na teret vlasnika (čl. 6).",
+   "Sjemenje i sječeno drveće s lišćem ili iglicama spadaju u „biljke“ po zakonu (čl. 3). Do primjene biljnih pasoša sjemenje i sadnice moraju imati certifikat o zdravstvenom stanju, a bez njega je prodaja zabranjena (čl. 89, 90).",
+   "Propisano je praćenje zdravstvenog stanja uvezenih sadnica višegodišnjih biljki kod krajnjeg korisnika, uz zabranu premještanja bez dozvole nadležnog organa (čl. 91).",
+   "Ako ŠPD proizvodi ili distribuira bilje s lista V. A i V. B, mora biti upisan u registar uz odgovorno lice za zdravlje bilja i izdavati biljne pasoše samo uz dozvolu (čl. 19, 20, 42, 43). U Vijeću za zdravlje bilja učestvuju i stručnjaci iz šumarstva (čl. 72).",
+   "Naknada štete zbog naređenog uništenja pripada vlasniku koji je odmah prijavio pojavu i izvršio sve naređene mjere, isplaćuje se iz budžeta entiteta; ne plaća se ako se organizam pojavi pri uvozu (čl. 59)."
+  ],
+  "wood": [
+   "Drvo je biljni proizvod ako je u cijelosti ili djelimično sačuvalo prirodnu okruglu površinu (okorano ili neokorano), te strugotina, iver, piljevina, otpaci i ostaci drveta i drvo korišteno kao pregrada, oslonac ili paleta ako predstavlja rizik za zdravlje biljke (čl. 3).",
+   "Uvoz biljnih proizvoda s Liste III. A je zabranjen, a proizvodi s Liste V. B moraju imati fitosanitarni certifikat i proći inspekciju na granici; za izvoz kontrola prije izdavanja certifikata (čl. 15, 25, 35).",
+   "Ako drvo spada na Listu V. A, prijevoz zahtijeva biljni pasoš, a kupci moraju čuvati pasoše i dozvoliti inspektoru pristup robi i dokumentaciji (čl. 38, 50); inspektori imaju pristup prostorima kupaca i skladištima (čl. 80).",
+   "Inspektor može zabraniti prijevoz, narediti tretman ili uništenje pošiljke i privremeno zabraniti djelatnost proizvođača/prerađivača (čl. 81)."
+  ],
+  "caution": "Zakon je iz 2003. i većinu detalja (liste štetnih organizama, tačke ulaska, sadržaj pasoša, rokovi čuvanja) prepušta podzakonskim aktima Vijeća ministara i Uprave koji nisu u ovom fajlu; iz teksta se ne vidi koje vrste drveta su na Listi V. A / V. B. Prelazne odredbe (čl. 88 do 93, npr. rok upisa u registar od 12 mjeseci, primjena odredbi o pasošima 15 mjeseci nakon stupanja na snagu) su historijske. Tekstualni fajl ima ostatke zaglavlja i numeracije iz Službenog glasnika."
+ },
+ "fbih-zakon-o-lovstvu": {
+  "overview": "Zakon o lovstvu FBiH uređuje osnivanje i dodjelu lovišta, zaštitu i lov divljači, katastar lovišta, lovno-gospodarsku osnovu, lovočuvarsku službu, naknadu štete od divljači, nadzor i kazne. Lovstvo je javna djelatnost, a divljač državno vlasništvo (čl. 1, 3).",
+  "points": [
+   "Ulovljena, ranjena i uginula divljač pripada korisniku lovišta, a izvan lovišta kantonalnom ministarstvu nadležnom za šumarstvo ili licu kojem je povjerena zaštita (čl. 3). Lov izvan lovišta je zabranjen, a divljač na tim zemljištima dužni su štititi vlasnik/korisnik zemljišta i kantonalno ministarstvo (čl. 7).",
+   "Lovište osniva skupština kantona na prijedlog kantonalnog ministarstva (čl. 31). U lovište ne ulaze građevinsko zemljište, javni putevi i zaštitni pojas do 300 m od naselja, zaštićeni objekti prirode sa zabranom lova, te rasadnici i voćni/lozni nasadi do 100 ha ograđeni ogradom (čl. 6). Otvoreno lovište ne može biti manje od 1.000 ha za nisku i 3.000 ha za visoku divljač (čl. 34).",
+   "Korisnici lovišta mogu biti lovačka udruženja, privredna društva šumarstva i druga pravna lica registrirana za lovstvo; ne mogu biti lica koja su u lovnoj godini dva ili više puta kažnjavana za prekršaje iz čl. 82. st. 1. tač. 1–5 (čl. 10).",
+   "Korisnik lovišta je dužan: inventuru stanja lovišta najmanje jednom godišnje, sredstva za sanaciju šteta na divljači i lovištu i naknadu štete koju počini divljač, stručnu službu, organiziranu lovočuvarsku službu te lovačke pse (čl. 10).",
+   "Privredno lovište se dodjeljuje putem koncesije, a pravo učešća na javnom pozivu imaju i privredna društva šumarstva; koncesija traje najmanje 10, najviše 30 godina, a godišnja naknada ne može biti manja od 10% planiranog godišnjeg prihoda od odstrjela (čl. 36). Sportsko-privredno lovište daje se u zakup na 10 lovnih godina, uz isti minimum od 10% (čl. 37, 37a). Podzakup i ustupanje lovišta su zabranjeni (čl. 36, 37a, 37b).",
+   "Ugovor o dodjeli zaključuje kantonalno ministarstvo s korisnikom (čl. 39); može se raskinuti ako korisnik ne ispunjava obaveze ili ne gospodari prema osnovi, ili ako je zemljište/šuma/voda potrebna za ciljeve koji isključuju lovstvo (čl. 40). Granice lovišta korisnik mora obilježiti u roku od šest mjeseci od preuzimanja (čl. 41), a stručne poslove mora osigurati lice sa VII stepenom, šumarskog smjera, koje je učilo predmet Lovstvo (čl. 42 zakona).",
+   "Katastar lovišta vodi korisnik i dostavlja ga Federalnom i kantonalnom ministarstvu do 15. marta za proteklu lovnu godinu (čl. 44). Lovno-gospodarska osnova donosi se na najmanje 10 godina i bez nje lov nije dozvoljen; izrada se finansira 50% korisnik i 50% kantonalno ministarstvo, a kod koncesije u cijelosti koncesionar (čl. 45). Nova osnova mora biti završena četiri mjeseca prije isteka važeće (čl. 46). Godišnji plan važi za lovnu godinu od 1. aprila do 31. marta i traži saglasnost kantonalnog ministarstva (čl. 48).",
+   "Štete od divljači: korisnik lovišta sprečava štete (čl. 68), a vlasnici i korisnici zemljišta moraju poduzimati uobičajene zaštitne mjere, npr. zaštitu mladih sadnica omotavanjem ili premazivanjem (čl. 68). Prijava štete podnosi se kantonalnom ministarstvu odmah, a najkasnije u roku od tri dana; ministarstvo u roku od tri dana određuje tročlanu komisiju (čl. 73). Za štetu od medvjeda na uzgojnim područjima plaćaju Federacija 45%, kantoni 25% i korisnik lovišta 30% (čl. 70).",
+   "Lovočuvarsku službu osigurava korisnik; lovočuvar je ovlašteno lice, u uniformi i naoružan, s najmanje III stepenom škole te lovačkim i lovočuvarskim ispitom (čl. 75), s ovlaštenjima kontrole isprava, pregleda vozila i ulova i privremenog oduzimanja (čl. 76). Kazne za pravna lica kreću se od 10.000 do 15.000 KM (čl. 82), od 5.000 do 10.000 KM (čl. 83), a za fizička lica od 500 do 1.500 KM (čl. 84, 85); uz kaznu slijedi oduzimanje sredstava (čl. 86)."
+  ],
+  "forestry": [
+   "Privredna društva šumarstva izričito su navedena kao mogući korisnici lovišta i imaju pravo učešća na javnom pozivu za koncesiju privrednog lovišta (čl. 10, 36).",
+   "Korisnik zemljišta i voda na kojem je lovište osnovano ima pod jednakim uvjetima pravo prvenstva u dobijanju lovišta na gospodarenje (čl. 38).",
+   "Lovno-gospodarska osnova mora biti usklađena sa šumsko-gospodarskom osnovom za površine na kojima je lovište (čl. 47); korisnik lovišta mora održavati stanište poštujući zahtjeve prirodnog gospodarenja šumama (čl. 28).",
+   "Zabranjen je lov ptica i sisara korisnih za poljoprivredu i šumarstvo i uništavanje njihovih gnijezda i legla (čl. 21); koje su vrste korisne propisuje federalni ministar (čl. 24).",
+   "Ako se za zaštitu poljoprivrednih i šumskih kultura koriste hemijska sredstva štetna za divljač, vlasnici/korisnici zemljišta moraju najmanje tri dana prije upotrebe obavijestiti korisnika lovišta o mjestu, vremenu i načinu (čl. 20). Paljenje korova, trave i drugog raslinja u lovištima i odlaganje otpada u lovištu su zabranjeni (čl. 28).",
+   "Vlasnici i korisnici zemljišta (uključujući šume) moraju sami poduzimati uobičajene mjere protiv šteta od divljači, npr. zaštitu mladih sadnica omotavanjem ili premazivanjem; mjere propisuje kantonalni ministar (čl. 68). Nadoknadu štete vlasnicima zemljišta, voda i šuma isplaćuje korisnik lovišta (čl. 68, 69).",
+   "Štetu na zemljištu utvrđuje komisija u kojoj je predsjednik predstavnik kantonalnog ministarstva, a vještak za lovstvo može biti šumarske struke (čl. 73); ako nema sporazuma, oštećeni se upućuje na tužbu sudu (čl. 74).",
+   "Lovočuvari su službena lica zaposlena u lovištu (čl. 75); zahtjev za sudski postupak zbog bespravnog lova i štete na divljači podnosi korisnik na osnovu prijave lovočuvara (čl. 78). Za federalnog i kantonalnog lovnog inspektora može se imenovati lice šumarske struke (čl. 80b).",
+   "Posebna lovišta mogu se osnivati na površinama šuma posebne namjene, uz saglasnost vlade kantona (čl. 31)."
+  ],
+  "caution": "Fajl je označen kao „RADNI MATERIJAL - PREČIŠĆEN TEKST” (neslužbeni prečišćeni tekst). Sadrži kasnije izmjene i dopune (čl. 34a, 37a, 37b, 80a–80d), ali završne odredbe (čl. 88–91) i dalje upućuju na ranije zakone (4/06, 8/10, 81/14), pa je za pravno važeće rješenje potrebno provjeriti službeni prečišćeni tekst u „Službenim novinama FBiH”."
+ },
+ "fbih-pravilnik-lgo": {
+  "overview": "Pravilnik propisuje sadržaj, način izrade i odobravanje lovno-gospodarske osnove, programa uzgoja divljači, programa zaštite divljači te godišnjeg i privremenog plana gospodarenja lovištem (čl. 1). Uz osnovu se prilažu i obrasci LGO-1 do LGO-11 (čl. 44).",
+  "points": [
+   "Lovna godina traje od 1. aprila do 31. marta; matični fond divljači utvrđuje se obavezno do 31. marta za narednu lovnu godinu (čl. 5, 9). Brojanje: krupna divljač tokom cijele lovne godine, sitna divljač uzorcima na plohama od najmanje 50 ha (čl. 11).",
+   "Osnova je dugoročni plan za svako lovište (čl. 10) i sadrži opis staništa, vrste i broj divljači, smjernice gospodarenja, lovočuvarsku službu, plan ulaganja, lovnu hroniku i reviziju (čl. 26). Lovnogospodarski i lovnotehnički objekti ne smiju se planirati ni postavljati u pojasu od 100 m od granice lovišta (čl. 33).",
+   "Revizija osnove obavlja se ako se površina lovišta ili lovnoproduktivna površina promijeni za više od 20%, ako se matični fond ne može postići, ako se izgradnjom objekata i infrastrukture bitno naruši biološka cjelina lovišta, ako se pojavi nova vrsta divljači ili radi usklađivanja s pravilnikom (čl. 42).",
+   "Dozvoljena odstupanja od plana u jednoj lovnoj godini: izlučivanje do 25% kod krupne divljači (divlja svinja do 30%) i do 35% kod sitne; matični fond krupne divljači do 15%, sitne do 25% tokom tri uzastopne godine (čl. 43).",
+   "Program zaštite divljači je plan za 10 godina za površine izvan lovišta, a donosi ga pravno ili fizičko lice koje koristi zemljište ili njime upravlja na 10 godina (čl. 57). Na tim površinama dopušten je lov samo ranjene ili bolesne divljači, kod zarazne bolesti, za naučne potrebe i radi smanjenja prevelike gustoće (čl. 61, 60).",
+   "Ako osnova ili program isteknu, a nova nije donesena, lov se zasniva na postojećoj osnovi najduže jednu lovnu godinu, uz obavezno utvrđivanje brojnog stanja (čl. 68). Godišnji plan zasniva se na osnovi i proljetnom prebrojavanju divljači (čl. 69)."
+  ],
+  "forestry": [
+   "Osnovi se prilaže ugovor o međusobnim pravima i obavezama između korisnika lovišta i kantonalnih šumskogospodarskih društava ako se u lovištu nalaze šume i šumska zemljišta u vlasništvu Federacije (kantona) (čl. 27).",
+   "Smjernice gospodarenja moraju obuhvatiti mjere sprječavanja šteta od divljači i usklađivanje odnosa sa šumarstvom (čl. 35); lovna hronika bilježi štete od divljači te štete na divljači i lovištu (čl. 41).",
+   "Program zaštite divljači za površine izvan lovišta obuhvata mjere za sprječavanje šteta od divljači (edukacija, zaštitna sredstva, plašila) i pravilan izbor zaštitnih sredstava u šumarskoj proizvodnji (čl. 59, 60); odstrijeljena divljač pripada licu koje koristi ili upravlja zemljištem (čl. 62). Ovo je relevantno za ŠPD kao korisnika/upravitelja šumskog zemljišta izvan lovišta.",
+   "Zaštitu usjeva i nasada izgonom divljači i zaštitnim sredstvima o vlastitom trošku provode vlasnici i korisnici površina izvan lovišta (čl. 60)."
+  ],
+  "caution": "Fajl sadrži više verzija istog pravilnika (članak/član, 2006. godina), a pravilnik je donesen na osnovu Zakona o lovstvu br. 4/06. Reference se odnose na verziju s oznakom „Član”. Poslije toga zakon je mijenjan, pa za rokove i nadležnosti treba provjeriti važeći zakon."
+ },
+ "fbih-pravilnik-strucna-sluzba-lov": {
+  "overview": "Pravilnik propisuje kako korisnik lovišta organizira stručnu službu za provođenje lovno-gospodarske osnove i koje poslove obavlja stručni djelatnik (čl. 1, 4, 5).",
+  "points": [
+   "Stručnu službu čine jedan ili više stručnih djelatnika; mogu je činiti upravnik lovišta, lovočuvari, lovočuvari volonteri, knjigovođa, blagajnik, administrativni radnik, fazanerista i pomoćni radnici (čl. 2).",
+   "Ako korisnik lovišta nije stručno osposobljen, dužan je organizirati stručnu službu; stručni djelatnik mora imati višu ili visoku izobrazbu (inženjer šumarstva, lovstva i zaštite prirode, veterinarski ili poljoprivredni smjer) i tokom školovanja učiti predmet lovstvo (čl. 2). Poslovi se mogu ugovorom povjeriti drugoj ovlaštenoj ustanovi (čl. 2).",
+   "Broj stručnih djelatnika određuje korisnik prema površini lovišta, vrstama i brojnosti divljači, kapacitetu lovišta i intenzitetu uzgoja; jedan djelatnik može raditi u više lovišta (čl. 3).",
+   "Stručni djelatnik prati stanje lovišta (brojnost, zdravlje, prihrana, predatori, objekti, granice, rad lovočuvara), organizira brojanje divljači i lov u skladu s osnovom, izrađuje evidencije, plan lova i prihrane te godišnji plan lova (čl. 5).",
+   "Izrađuje i izvještaje o štetama od divljači i na divljači te katastar lovišta i pokreće reviziju osnove ako se ona ne provodi (čl. 5). Korisnici su morali uskladiti poslovanje u roku od šest mjeseci od stupanja na snagu (čl. 7)."
+  ],
+  "forestry": [
+   "Kao stručni djelatnik izričito se navodi šumarski inženjer; ako ŠPD ima lovište, njegovi šumarski stručnjaci mogu činiti stručnu službu (čl. 2).",
+   "Lovočuvari i lovočuvari volonteri ulaze u sastav stručne službe, a stručni djelatnik daje naputke za njihov rad (čl. 2, 5).",
+   "Stručni djelatnik evidentira štete od divljači i na divljači i provodi preventivne mjere zaštite divljači pri poljoprivrednim i drugim radovima u lovištu (čl. 5)."
+  ],
+  "caution": "Fajl sadrži tri verzije istog pravilnika (2006): „Članak” i dva puta „Član”. Pravilnik je donesen na osnovu zakona br. 4/06; stručni poslovi prema zakonu (čl. 42 zakona) traže VII stepen šumarskog smjera, a pravilnik navodi višu ili visoku izobrazbu raznih struka."
+ },
+ "fbih-pravilnik-uvjeti-gospodarenja-lov": {
+  "overview": "Pravilnik propisuje uvjete gospodarenja lovištem, organizaciju i trajanje lova, kontrolu izlovljavanja, naknadu štete koju počine lovci, sigurnosne mjere u lovu i korištenje objekata za korisnike lovišta, izričito i za gospodarsko društvo šumarstva (čl. 1).",
+  "points": [
+   "Korisnik lovišta mora imati registraciju, biti član lovačkog saveza, donijeti lovno-gospodarsku osnovu u roku od godinu dana od preuzimanja, godišnje planove do 30. aprila i izvještaj o izvršenju do 31. maja tekuće godine (čl. 2).",
+   "Mora osigurati sredstva za štete na divljači i lovištu i nadoknadu štete koju čini divljač (osiguranje, polog kod banke, hipoteka), organizirati lovočuvarsku službu te voditi evidencije o radovima i mjerama (čl. 2). Uvjete provodi ugovor između kantonalnog ministarstva i korisnika lovišta (čl. 2).",
+   "Lovi se uzgojno-selektivnim, sanitarnim, redovnim i trofejnim, redukcionim odstrjelom, hvatanjem žive divljači i odstrjelom uz odobrenje (čl. 7). Dozvola za lov krupne divljači izdaje se najmanje 24 sata prije početka lova i samo za vrste i broj iz godišnjeg plana (čl. 10, 11).",
+   "Divljač se iznosi iz lovišta samo uz potvrdu pratitelja ili vođe grupe (čl. 11). Pratitelj/vođa grupe dostavlja stručnoj službi zapisnik i izvješće o lovu u roku od 48 sati (čl. 12). Grupni lov traži najmanje tri lovca (čl. 9).",
+   "Zabranjen je lov pri vidljivosti manjoj od 150 m, noću (dva sata prije izlaska i poslije zalaska sunca, osim divlje svinje, medvjeda i vuka uz mjesečinu s čeke) te kad je divljač ugrožena poplavom, požarom, snijegom višim od 40 cm ili sušom dužom od 60 dana (čl. 19). Pravila sigurnosti u lovu su nabrojana u čl. 18.",
+   "Za svu štetu koju lovci učine u lovištu odgovoran je korisnik lovišta; mora nadoknaditi štetu vlasnicima zemljišta, voda i šuma, uz pravo regresa od lovca (čl. 23)."
+  ],
+  "forestry": [
+   "Pravilnik se izričito odnosi i na gospodarsko društvo šumarstva koje je dobilo lovište na gospodarenje (čl. 1).",
+   "Korisnik lovišta mora nadoknaditi štetu vlasnicima zemljišta, voda i šuma na kojem je šteta nastala, a ima pravo refundacije od lovca (čl. 23).",
+   "Korisnik mora osigurati sredstva za nadoknadu štete koju čini divljač i održavati kapacitet divljači tako da utiče na obim šteta u drugim privrednim granama (čl. 2).",
+   "Korisnik organizira lovočuvarsku službu i akcije čuvanja lovišta, uz sudjelovanje u patrolama i pomoć lovočuvarskoj službi (čl. 2, 4).",
+   "Obavezne akcije u lovištu uključuju smanjenje broja predatora i uklanjanje pasa i mačaka bez kontrole (čl. 4, 21)."
+  ],
+  "caution": "Fajl sadrži tri verzije istog pravilnika (2006): „Članak” i dva puta „Član”. Rokovi (30. april i 31. maj) razlikuju se od rokova u novijem zakonu (katastar i izvještaji do 15. marta; plan za lovnu godinu od 1. aprila), a pravilnik se poziva na zakon br. 4/06 i savez „Herceg Bosne”. Treba provjeriti njegovu važnost."
+ },
+ "fbih-cjenovnik-odstrjel": {
+  "overview": "Cjenovnik propisuje minimalne cijene odstrjela i upotrebe divljači i drugih usluga u lovištu na bazi tržišne vrijednosti, za sve korisnike lovišta u FBiH (čl. 1, 2). Cijene su izražene u KM s PDV-om (čl. 5).",
+  "points": [
+   "Cijene se odnose na živu divljač slobodnu u lovištu i čine minimalni cjenovnik za sve korisnike lovišta (čl. 2).",
+   "Dnevnu organizacionu taksu plaćaju strani i domaći lovci turisti; član lovačkog udruženja koje je korisnik lovišta je ne plaća (čl. 3). Visina takse je određena po vrstama u čl. 6 (npr. jelen 100 KM, divokoza i kozorog 150 KM, medvjed 200 KM, divlja svinja 80 KM, sitna divljač 20 KM).",
+   "Cijena odstrjela krupne divljači sa trofejom zavisi od CIC bodova, meso se naplaćuje posebno; kod sitne divljači meso je u cijeni (čl. 5). Primjeri: jelen do 120 tačaka 430 KM, srna do 75 tačaka 250 KM (čl. 6).",
+   "Član udruženja koje je korisnik lovišta plaća 40% tržišne vrijednosti za visoku i 25% za nisku divljač; strani i domaći lovci turisti plaćaju punu cijenu (čl. 5).",
+   "Kod sanitarnog odstrjela koji vrši stručna služba korisnika ne naplaćuju se odstrjel i meso; članovi i uposlenici korisnika ne plaćaju odstrjel lisice, kune bjelice, divlje mačke, šakala i jazavca (čl. 4). Druge usluge propisuje korisnik svojim cjenovnikom (čl. 7)."
+  ],
+  "forestry": [
+   "Cjenovnik je osnov za početnu vrijednost lovišta i vrijednost na kraju desetogodišnjeg razdoblja, za koncesijsku naknadu i za negativnu razliku divljači prema osnovi pri otkazu ili raskidu ugovora o dodjeli lovišta (čl. 2). Relevantno ako ŠPD ima lovište u koncesiji.",
+   "Radnici stručne službe korisnika lovišta ne plaćaju naknadu za sanitarni odstrjel (čl. 4).",
+   "Šteta zbog bespravnog odstrjela računa se po posebnom odštetnom cjenovniku iz zakona, a ne po ovom cjenovniku."
+  ],
+  "caution": "Cijene su iz 2012. godine (akt od 22.08.2012.) i mogle su biti zamijenjene. Datumi lova u cjenovniku (npr. jelen 01.09.–31.01., košuta i tele 01.10.–28.02.) razlikuju se od Pravilnika o vremenu lova, pa je za lovostaj mjerodavan taj pravilnik. Fajl označava odredbe kao „Član”; cijene su u čl. 6."
+ },
+ "fbih-pravilnik-sokolarski": {
+  "overview": "Pravilnik propisuje program, uvjete i način polaganja sokolarskog ispita te način lova divljači pticama grabljivicama (čl. 1).",
+  "points": [
+   "Ispitu može pristupiti lice sa 18 godina i položenim lovačkim ispitom; ispit polaže pred komisijom koju imenuje federalni ministar (čl. 3). Prijavu podnosi lovačko udruženje lovačkom savezu (čl. 4).",
+   "Ispit je pismeni i usmeni: položio je ko riješi 95% i više testa; ko riješi 75–95% ide na usmeni (tri pitanja); ko ne položi nakon drugog polaganja gubi pravo polaganja godinu dana (čl. 6). Ispit se organizira najmanje jednom godišnje (čl. 5).",
+   "Uvjerenje o položenom ispitu izdaje Federalno ministarstvo i ima karakter javne isprave (čl. 8).",
+   "S pticama grabljivicama može loviti lice sa lovačkim i sokolarskim ispitom koje je član lovačkog udruženja (korisnika lovišta) u čijem lovištu lovi (čl. 13).",
+   "Sokolar može tokom cijele godine trenirati i letjeti pticu na prostoru lovišta predviđenom za obuku pasa, uz pismeno odobrenje korisnika lovišta (čl. 14)."
+  ],
+  "forestry": [
+   "Ako je ŠPD korisnik lovišta, sokolar mora biti član udruženja korisnika i treba pismeno odobrenje korisnika lovišta za trening u lovištu (čl. 13, 14)."
+  ],
+  "caution": "Pravilnik je donesen na osnovu zakona br. 4/06; članovi zakona na koje se poziva mogu imati drugu numeraciju u novijem prečišćenom tekstu."
+ },
+ "fbih-pravilnik-vrijeme-lova": {
+  "overview": "Pravilnik određuje vrijeme lova lovostajem zaštićene divljači i popis ptica i sisavaca korisnih za poljoprivredu i šumarstvo (čl. 1).",
+  "points": [
+   "Tabela u čl. 2 daje periode lova krupne divljači, npr. srna: srndać 1. maja–30. septembra u nizinskim i brdskim, a 1. juna–30. oktobra u planinskim lovištima; srna i lane 1. oktobra–31. januara; divokoza 1. septembra–31. decembra.",
+   "Divlja svinja: vepar i nazime 1. januara–31. decembra, krmača i prase 1. avgusta–31. decembra; medvjed 1. oktobra–31. decembra i 1. marta–15. maja (čl. 2).",
+   "Vuk: mužjak cijele godine, ženka i mladi 1. jula–28. februara; veliki tetrijeb (mužjak) 15. marta–31. maja (čl. 2).",
+   "Sitna divljač, npr. zec 1. oktobra–31. decembra, fazan 1. oktobra–15. januara, šljuka šumska 1. oktobra–1. marta (čl. 2). Divljač koja se lovi od 1. januara do 31. decembra smije se loviti samo do broja koji ne ugrožava opstanak vrste (čl. 3).",
+   "Ptice i sisavci korisni za poljoprivredu i šumarstvo nabrojani su u čl. 4 (npr. djetlovi, sjenice, brgljezi, puzavci, šišmiši, jež) i trajno su zaštićeni (čl. 5)."
+  ],
+  "forestry": [
+   "Spisak korisnih vrsta za poljoprivredu i šumarstvo (npr. djetlovi, sjenice, brgljez, šišmiši) trajno je zaštićen i njihov lov je zabranjen (čl. 4, 5), što je relevantno za šumske ekosisteme."
+  ],
+  "caution": "U tabeli iz čl. 2 u tekstu fajla nije jasno izdvojen red za običnog jelena (prvi red je „Jelen lopatar”), a cjenovnik navodi za jelena drugačije datume. Pravilnik je donesen na osnovu zakona br. 4/06 i treba provjeriti jesu li kasnije mijenjani periodi lova."
+ },
+ "fbih-pravilnik-psi-lov": {
+  "overview": "Pravilnik propisuje vrste i broj čistokrvnih lovačkih pasa s položenim ispitom urođenih osobina za lov na pojedine vrste divljači (čl. 1).",
+  "points": [
+   "U lovu se smiju koristiti psi s rodovnikom FCI članice, registrirani kod kinološkog saveza, s pozitivnom ocjenom eksterijera i ispitom urođenih osobina; mladi psi mogu učestvovati bez ispita do 18 mjeseci života (čl. 2, 3).",
+   "Korisnik lovišta mora osigurati lov sa psima (čl. 7); lov sitne divljači čije tehnike traže psa ne smije se obavljati bez psa, a u skupnom lovu mora učestvovati najmanje jedan pas na pet učesnika (čl. 8).",
+   "Gdje se planira odstrjel krupne divljači, korisnik mora osigurati psa s položenim radnim ispitom na krvnom tragu (čl. 9).",
+   "Psi se ne smiju koristiti noću (dva sata poslije zalaska do dva sata prije izlaska sunca), osim rada na krvnom tragu i lova šljuka i močvarica na preletu (čl. 11). Goniči se koriste samo uz dozvolu korisnika i ne smije se loviti s njima od 5. januara do 1. oktobra (čl. 12).",
+   "Lovnik mora otkazati ili prekinuti lov koji se ne odvija prema pravilniku, a nadzor provode lovni inspektor, stručno lice, lovnik i lovočuvar (čl. 13)."
+  ],
+  "forestry": [
+   "Lovočuvar je dužan nadzirati pravilno provođenje lova sa psima i spriječiti lov koji nije u skladu s pravilnikom; vlasnik/vodič psa mora pokazati dokaze (čl. 13). Ako je ŠPD korisnik lovišta, obaveze iz čl. 7–9 i 12 odnose se na njega."
+  ],
+  "caution": "Pravilnik je iz 2008. godine i zasnovan na zakonu br. 4/06; datumi zabrane gonjenja (5. januar–1. oktobar) razlikuju se od zakona (čl. 57 zakona: zabrana proganjanja izvan terena za trening od 5. januara do 31. jula)."
+ },
+ "fbih-pravilnik-legitimacija-lovocuvara": {
+  "overview": "Pravilnik propisuje oblik i sadržaj legitimacije lovočuvara, evidenciju izdatih legitimacija i službenu knjigu lovočuvara (čl. 1).",
+  "points": [
+   "Legitimaciju dobija lice koje ispunjava uvjete iz čl. 75 Zakona o lovstvu; izdaje je korisnik lovišta, svijetlozelene je boje, dimenzija 105x70 mm (čl. 2).",
+   "Na poleđini su ovlaštenja nositelja: kontrola ličnih i lovačkih dokumenata, pregled vozila, ulova i sredstava za lov te privremeno oduzimanje (čl. 2).",
+   "Evidenciju izdatih legitimacija vodi korisnik lovišta, a sadrži podatke o lovočuvaru, lovištu i rajonu, broj i datum izdavanja i zaduženje/razduženje (čl. 3).",
+   "Službena knjiga je obavezan dnevnik rada u koji lovočuvar upisuje dnevne aktivnosti (čl. 4); format A5, tvrdi korice, osigurava je korisnik lovišta i vodi kao tiskanicu trajne vrijednosti (čl. 5)."
+  ],
+  "forestry": [
+   "Ako je ŠPD korisnik lovišta, ono izdaje legitimacije lovočuvarima, vodi evidenciju izdatih legitimacija i nabavlja i evidentira službene knjige (čl. 2, 3, 5)."
+  ],
+  "caution": "Regulira samo lovočuvare u lovištu; čuvari šuma nisu obuhvaćeni. U fajlu se koristi oznaka „Članak” umjesto „Član”."
+ },
+ "fbih-pravilnik-granice-lovista": {
+  "overview": "Pravilnik propisuje opće i posebne uvjete za određivanje i obilježavanje granica lovišta i postupak osnivanja lovišta u kantonima FBiH (čl. 1).",
+  "points": [
+   "Kantonalni ministar rješenjem imenuje komisiju za prijedlog osnivanja lovišta, u koju ulaze stručna lica sa VII stepenom šumarskog smjera koja su učila Lovstvo i predstavnici interesnih grupa (lokalna zajednica, privredna društva iz šumarstva, lovačka društva, savezi) (čl. 2).",
+   "Akt o osnivanju lovišta donosi kantonalna skupština na prijedlog kantonalnog ministarstva i sadrži naziv, tip, namjenu, opis granica na topografskoj karti 1:50.000, ukupnu površinu, strukturu površina po kulturama i popis vrsta divljači (čl. 3).",
+   "Granice moraju biti markantne, trajne i prepoznatljive (vododjelnice, prometnice, vodeni tokovi, trigonometri, trajni objekti) (čl. 4).",
+   "Obilježavaju se panoima na ulazima, tablama najmanje 60x40 cm na manje važnim saobraćajnicama i šumskim cestama, prometnim znakovima „divljač na putu” i znakom „zabrana lova” (krug promjera 40 cm) te putokazima (čl. 4)."
+  ],
+  "forestry": [
+   "Naziv lovišta obično se koristi prema šumsko-gospodarskom području ili šumsko-gospodarskoj jedinici (čl. 3).",
+   "Privredna društva iz oblasti šumarstva predstavljena su u komisiji za osnivanje lovišta (čl. 2).",
+   "Table se postavljaju na šumskim cestama, a nosači mogu biti pogodna stabla ili drveni stubovi; znak zabrane lova postavlja se na rubna debla šumskog drveća (čl. 4)."
+  ],
+  "caution": "Pravilnik je iz 2008. i poziva se na zakon br. 4/06 (čl. 35 i 41 zakona); korisnik prema novijem zakonu mora obilježiti granice u roku od šest mjeseci od preuzimanja."
+ },
+ "fbih-pravilnik-katastar-lovista": {
+  "overview": "Pravilnik propisuje sadržaj i način vođenja katastra lovišta, koji osniva i vodi korisnik lovišta (čl. 1, 2).",
+  "points": [
+   "Katastar se vodi za svako lovište odvojeno, na osnovu podataka prikupljenih neposredno na terenu (čl. 2).",
+   "Podaci se vode na obrascima „Opći podaci” (početno stanje) i „Praćenje promjena katastra lovišta” (čl. 3, 4).",
+   "Promjene se unose svake godine najkasnije do 31. marta za proteklu lovnu godinu (čl. 4).",
+   "Korisnik dostavlja jedan primjerak najkasnije do 30. aprila nadležnom kantonalnom ministarstvu, a za posebna lovišta Federalnom ministarstvu (čl. 5)."
+  ],
+  "forestry": [
+   "Ako je ŠPD korisnik lovišta, ono osniva i vodi katastar lovišta i dostavlja ga kantonalnom ministarstvu (čl. 2, 5)."
+  ],
+  "caution": "Rok dostave katastra (30. april) razlikuje se od roka u Zakonu o lovstvu (do 15. marta, čl. 44 zakona); pravilnik je iz 2008. i zasnovan na zakonu br. 4/06, pa treba provjeriti koji rok važi."
+ },
+ "fbih-pravilnik-lovacki-ispit": {
+  "overview": "Pravilnik propisuje program, uvjete i način polaganja lovačkog ispita, obrazac uvjerenja i upisnik izdanih uvjerenja (čl. 1).",
+  "points": [
+   "Ispit se polaže nakon pripravničkog staža od godinu dana od prijema u lovačko udruženje; lovačko udruženje provodi teorijsku i praktičnu obuku (čl. 4, 5). Pripravnik vodi dnevnik koji ovjerava mentor (čl. 8).",
+   "Mentor mora imati najmanje IV stepen šumarske, veterinarske ili poljoprivredne struke i najmanje pet godina lovačkog staža (ili IV stepen bilo koje struke i 10 godina); jedan mentor vodi najviše 15 pripravnika (čl. 9).",
+   "Ispit se polaže pred komisijom koju imenuje federalni ministar (čl. 3). Test ima 50 pitanja; položio je ko riješi 95% i više, a 75–95% ide na usmeni (tri pitanja) (čl. 15). Ko ne položi nakon drugog polaganja gubi status pripravnika, a zahtjev može podnijeti nakon godinu dana (čl. 23).",
+   "Lovačko udruženje organizira ispit u roku od 30 dana od prijave, a zahtjev lovačkom savezu podnosi po prijemu najmanje 10 prijava (čl. 10, 11). Uvjerenje izdaje Federalno ministarstvo (čl. 17)."
+  ],
+  "forestry": [
+   "Lice koje dokaže ispunjenje uvjeta iz čl. 55 Zakona o lovstvu (npr. položen predmet Lovstvo u školovanju) dobija uvjerenje o oslobađanju od polaganja ispita nakon nostrifikacije (čl. 22), što je moguće relevantno za šumarske stručnjake.",
+   "Mentor može biti lice šumarske struke (IV stepen) s lovačkim stažem (čl. 9)."
+  ],
+  "caution": "Čl. 22 kaže da se uvjerenja izdaju „zaključno sa 31.12. tekuće godine”, pa je potrebno provjeriti važenje. Pravilnik je iz 2008. i zasnovan na zakonu br. 4/06."
+ },
+ "fbih-pravilnik-porijeklo-divljaci": {
+  "overview": "Pravilnik propisuje uvjete za prepariranje divljači, držanje javno izloženih trofeja, obrazac propratnice o porijeklu divljači i upotrebu mesa divljači u ugostiteljskim objektima (čl. 1).",
+  "points": [
+   "Divljač i dijelovi namijenjeni prepariranju moraju imati propratnicu i trofejni list koje izdaje korisnik lovišta gdje je odstrijeljena (čl. 4). Prepariranjem se mogu baviti samo registrirana lica (čl. 3).",
+   "Preparatori vode evidenciju prijema u svesci tvrdog poveza s obrojčenim stranicama (čl. 5).",
+   "Trofeji se u javnim objektima smiju izlagati samo ako imaju potvrdu odnosno trofejni list; neevidentirani trofeji morali su se ocijeniti u roku od godinu dana (čl. 6).",
+   "Zabranjeno je javno izlaganje preparata ptica i sisavaca korisnih za poljoprivredu i šumarstvo i trajno zaštićenih vrsta, osim u muzejima i obrazovnim ustanovama (čl. 7).",
+   "Meso divljači u prometu mora imati dokaz o zdravstvenoj ispravnosti i dokument o porijeklu (propratnica, račun) koji izdaje korisnik lovišta; objekti moraju istaknuti obavijest (čl. 8, 9)."
+  ],
+  "forestry": [
+   "Ako je ŠPD korisnik lovišta, ono izdaje propratnicu i trofejni list za divljač i meso divljači (čl. 4, 8)."
+  ],
+  "caution": "Tekst fajla je nepotpisan nacrt (ostavljeno „Broj: ____, Datum: ____”) s obrazloženjem; objava u službenom glasniku nije vidljiva u tekstu."
+ },
+ "fbih-pravilnik-uniforma-lovocuvara": {
+  "overview": "Pravilnik propisuje vrstu uniforme, oznake, uvjete za nošenje oružja, vrstu oružja i veličinu lovočuvarskog rejona (čl. 1).",
+  "points": [
+   "Službena uniforma: šešir, košulja, odijelo, dolama, cipele ili čizme i pločica s natpisom LOVOČUVAR, dimenzija 50x20 mm (čl. 2, 3). Boja je maslinastozelena, šešir tamnozelen (čl. 3).",
+   "Uniformu lovočuvar nosi samo za vrijeme službe i ne smije je otuđivati; traje dvije godine, a pločica se nosi iznad lijevog džepa (čl. 4).",
+   "Lovočuvari vrše službu naoružani lovačkim oružjem prema Pravilniku o načinu upotrebe lovačkog oružja i naboja i mogu ga koristiti za provedbu mjera iz lovno-gospodarske osnove (čl. 5).",
+   "Površina lovočuvarskog rejona je najmanje 1.000, a najviše 10.000 hektara, zavisno o tipu lovišta i obimu mjera iz osnove (čl. 6)."
+  ],
+  "forestry": [
+   "Ako ŠPD kao korisnik lovišta ima lovočuvare, mora poštovati ograničenja veličine rejona od 1.000 do 10.000 ha (čl. 6)."
+  ],
+  "caution": "Fajl sadrži prazan broj i datum akta („Broj: ___”) i obrazloženje, pa izgleda kao nacrt. Čl. 5 upućuje na pravilnik o oružju („Službene novine FBiH”, br. 5/08)."
+ },
+ "fbih-pravilnik-trofeji-potvrde": {
+  "overview": "Pravilnik propisuje obrazac, sadržaj i postupak izdavanja potvrda i trofejnog lista za trofeje odstrijeljene divljači u lovištima (čl. 1).",
+  "points": [
+   "Trofejni list je isprava o porijeklu, vlasništvu i ocjeni trofeja, a izdaje ga korisnik lovišta (čl. 2). Vrijednost utvrđuje komisija prema standardima CIC, koju formira korisnik od lica s položenim ispitom za ocjenjivanje (čl. 2).",
+   "Obrazac je formata 10x15 cm; korisnik vodi evidenciju izdatih trofejnih listova za svaku lovnu godinu (čl. 3).",
+   "List se radi u dva primjerka (original lovcu, drugi ostaje korisniku); za bronzanu, srebrnu i zlatnu medalju fotokopije se dostavljaju lovačkim savezima za Banku podataka vrijednih trofeja (čl. 4)."
+  ],
+  "forestry": [
+   "Ako je ŠPD korisnik lovišta, ono izdaje trofejne listove, formira komisiju za ocjenu i vodi evidenciju (čl. 2, 3, 4)."
+  ],
+  "caution": "Pravilnik je iz 2008. (br. 63/08) i zasnovan na zakonu br. 4/06."
+ },
+ "fbih-pravilnik-lovacko-oruzje": {
+  "overview": "Pravilnik propisuje način upotrebe lovačkog oružja i naboja (čl. 1): šta je lovačko oružje (čl. 2), minimalne uvjete za naboje i oružje po vrstama divljači (čl. 10, 11) i opća pravila upotrebe (čl. 5–9).",
+  "points": [
+   "Korisnik lovišta mora prije početka lova provjeriti preciznost oružja s užljebljenim cijevima, a odgovorno lice za lov određuje strelište (čl. 4). Oružje se ne smije nositi bez oružnog lista i lične karte (čl. 5).",
+   "Kretanje javnim cestama dopušteno je samo s praznim oružjem u navlaci ili zaštitnoj kutiji (čl. 6). Odgovorno lice određuje vrijeme punjenja i pražnjenja oružja (čl. 6).",
+   "Zabranjena je upotreba oružja pri smanjenoj vidljivosti i noću (dva sata poslije zalaska do dva sata prije izlaska sunca), s izuzetkom mjesečine i određenih vrsta kao medvjed, divlja svinja, vuk, lisica i šljuke na preletu (čl. 8). Zabranjena je i na manje od 200 m od lovnoprivrednih objekata, osim sanitarnog odstrjela ili štetočina (čl. 9).",
+   "Za krupnu divljač su propisani najmanji kalibar, energija i težina zrna (npr. srna 5,56 mm, jelen i divlja svinja 7 mm, medvjed 7 mm s 3.500 J), a za sačmu promjer i daljina (čl. 10, 11)."
+  ],
+  "forestry": [
+   "Lovačko oružje i naboji mogu se upotrebljavati pri obavljanju lovočuvarske službe u skladu s podzakonskim aktima (čl. 4)."
+  ],
+  "caution": "Tekst fajla ima oštećena slova (npr. „wihova”), a tabela u čl. 10 je pomiješana; brojeve iz tabele treba provjeriti prema službenom tekstu. Pravilnik je iz 2008. i zasnovan na zakonu br. 4/06."
+ },
+ "fbih-pravilnik-banka-trofeja": {
+  "overview": "Pravilnik propisuje način i postupak vođenja banke podataka vrijednih trofeja i kategoriju vrhunskih trofeja (čl. 1).",
+  "points": [
+   "Vrhunski trofeji su tri po CIC poenima najjača trofeja određene vrste divljači u FBiH (tekst bez oznake člana ispred čl. 2).",
+   "Korisnici lovišta dostavljaju lovačkim savezima podatke iz trofejnih listova za bronzanu, srebrnu i zlatnu medalju najkasnije 7 dana od dana odstrjela (čl. 3).",
+   "Lovački savezi vode banke podataka i dostavljaju kopije Federalnom ministarstvu u roku od 7 dana, koje uspostavlja Jedinstvenu banku i izdaje izvod (čl. 2, 4, 5)."
+  ],
+  "forestry": [
+   "Ako je ŠPD korisnik lovišta, mora u roku od 7 dana od odstrjela dostaviti lovačkom savezu podatke o trofejima medaljne vrijednosti (čl. 3)."
+  ],
+  "caution": "Pravilnik iz 2012. (br. 74/12) poziva se na zakon br. 4/06 i 8/10; fajl ima obrnut raspored čl. 1 i 2."
+ },
+ "fbih-zakon-o-zastiti-okolisa": {
+  "overview": "Okvirni zakon FBiH o zaštiti okoliša: načela, procjena utjecaja na okoliš, okolišno dopuštenje za pogone i postrojenja, obaveze operatora, nadzor i kazne. Svako postrojenje mora raditi tako da ne ugrožava zdravlje ljudi i okoliš, a nadležno ministarstvo i inspektori zaštite okoliša kontrolišu poštivanje uvjeta.",
+  "points": [
+   "Pogoni i postrojenja koja mogu ugroziti okoliš podliježu posebnom režimu nadzora: provjera uvjeta iz okolišnog dopuštenja, vođenje upisnika o zagađenosti, redovni inspekcijski nadzor i naloženje sanacijskih mjera (čl. 66).",
+   "Pogoni i postrojenja moraju raditi tako da ne ugrožavaju zdravlje ljudi i ne stvaraju pretjeranu smetnju okolini emisijama, bukom, mirisima, vibracijama, toplinom ili prometom; otpad se izbjegava, svodi na minimum ili reciklira, a resursi se učinkovito koriste (čl. 67).",
+   "Pogoni i postrojenja koje odredi provedbeni propis mogu se izgraditi i pustiti u rad samo s okolišnim dopuštenjem; dopuštenje je potrebno i kod značajne promjene rada, a izdaje ga nadležno ministarstvo na pet godina (čl. 68).",
+   "Nadležno ministarstvo izdaje dopuštenje najduže u roku od 120 dana od zahtjeva, a ako je potrebna procjena utjecaja, u roku od 60 dana od dostave Studije o utjecaju na okoliš; dopuštenje sadrži granične vrijednosti emisija, mjere za upravljanje otpadom i samomonitoring (čl. 71).",
+   "Znatna izmjena pogona (pa time i nova procjena utjecaja) je svaka modifikacija ili rast veći od 25% u proizvodnji, uporabi energije, korištenju vode ili prostora, emisijama ili proizvodnji otpada (čl. 56). Bez okolišnog dopuštenja uz zahtjev ne izdaje se urbanistička suglasnost za projekte kojima je procjena potrebna (čl. 54).",
+   "Operator je dužan provoditi samomonitoring emisija, osigurati provjeru usklađenosti stručnih institucija svake tri godine (ako nije drugačije određeno), odmah sanirati nedostatke i u slučaju nesreće s prekoračenjem emisija odmah sanirati, a po potrebi smanjiti ili privremeno obustaviti rad (čl. 89).",
+   "Operator redovito obavještava ministarstvo o rezultatima monitoringa emisija i bez odlaganja prijavljuje svaku izvanrednu situaciju koja značajno utječe na okoliš (čl. 73).",
+   "Inspektor zaštite okoliša ima pristup svim prostorijama i postrojenjima, može uzimati uzorke i vršiti mjerenja, a rješenjem nalaže rok za otklanjanje nepravilnosti, mjere do zatvaranja pogona i sanaciju; kod ponovljenog kršenja traži poništenje okolišnog dopuštenja (čl. 90, 92).",
+   "Novčana kazna za pravnu osobu 1.000 do 10.000 KM (odgovorna osoba 500 do 2.000 KM), između ostalog za rad bez okolišnog dopuštenja ili suprotno njemu i za kršenje zahtjeva iz čl. 67 (čl. 116)."
+  ],
+  "forestry": [
+   "Zakon propisuje opće zaštitne zahtjeve za sastavnice okoliša: očuvanje tla (produktivnost, ustroj, ravnoteža vode i zraka), zaštitu riječnih korita i obalnih područja te očuvanje biosfere i staništa; korištenje biosfere ne smije narušavati prirodne procese i biodiverzitet (čl. 13, 14, 16).",
+   "Nakon završetka djelatnosti koje uključuju korištenje tla korisnik osigurava obnovu područja prema utvrđenom planu (čl. 13).",
+   "Procjena utjecaja na okoliš obuhvaća utjecaj na biljni i životinjski svijet, tlo, vodu, zrak i krajolik (čl. 53); konkretne vrste projekata (npr. šumske ceste, objekti) određuje provedbeni propis, a ne sam zakon (čl. 56).",
+   "Opasne supstance (zapaljive, toksične i sl.), uključujući skladištenje i transport, zahtijevaju zaštitne i sigurnosne mjere kojima se rizik za okoliš svodi na najniži stepen (čl. 18)."
+  ],
+  "wood": [
+   "Pilana/prerada drveta kao postrojenje podliježe okolišnom dopuštenju samo ako je tako određeno provedbenim propisom (čl. 68); zakon sam ne navodi prerađivačku industriju, pa to treba provjeriti u provedbenom propisu.",
+   "Dopuštenje određuje granične vrijednosti emisija, uvjete za zaštitu zraka, tla i voda, mjere za upravljanje otpadom pogona i sistem samomonitoringa; u slučaju strožih standarda kvalitete okoliša mogu se uvesti dodatne mjere, npr. ograničenje radnih sati (čl. 71).",
+   "Imatelj otpada (npr. piljevina, kora, ostaci drveta) dužan je poduzeti mjere sprječavanja nastanka otpada, recikliranja, ponovne uporabe, iskorištavanja energije i sigurnog odlaganja (čl. 19; vidi i čl. 67).",
+   "Buka i vibracije: primjenjuju se tehničke i organizacijske mjere za smanjenje emisija na izvoru, sprječavanje povećanja opterećenja i naknadna zaštita (čl. 20); operator ne smije stvarati pretjeranu smetnju bukom, mirisom ili prometom (čl. 67).",
+   "Nakon prestanka rada postrojenja operator poduzima mjere za izbjegavanje rizika od zagađenja i povrat lokacije u zadovoljavajuće stanje, osobito u pogledu zemljišta i vode (čl. 67).",
+   "Postrojenja s dopuštenjem izdatim prije zakona trebala su pribaviti okolišno dopuštenje najkasnije do 2008. godine (čl. 72)."
+  ],
+  "caution": "U ovom fajlu članovi su označeni kao „Članak N.” (ne „Član N”). Koja se postrojenja (npr. pilane) i projekti (npr. šumske ceste) uopće podvrgavaju procjeni utjecaja ili dopuštenju određuje provedbeni propis (čl. 56, 68), koji nije u tekstu. Tekst je iz 2003. godine; rokovi iz prelaznih odredbi (npr. čl. 72) su istekli."
+ },
+ "fbih-zakon-o-vodama": {
+  "overview": "Zakon FBiH o vodama uređuje upravljanje vodama, vodno dobro, zaštitu voda i zaštitu od štetnog djelovanja voda (poplave, erozija, bujice), vodne akte te kazne. Za šumarstvo su ključne zabrane na poplavnom i erozivnom području i vodna saglasnost za radove uz vodotoke.",
+  "points": [
+   "Na vodnom dobru nije dozvoljeno izvoditi zahvate, osim taksativno nabrojanih (javna infrastruktura, zaštitni vodni objekti, zahvati za zaštitu prirode i voda i dr.), i to uz uvjete ovog zakona i propisa o građenju (čl. 12).",
+   "Zaštita od štetnog djelovanja voda obuhvata odbranu od poplava i leda te zaštitu od erozije i bujica (čl. 85); ugrožena područja (poplavno i erozivno) određuje Vlada Federacije na prijedlog federalnog ministra (čl. 86).",
+   "Erozivno područje je zemljište pod stalnim ili povremenim utjecajem erozije, uključujući izvore plavina i područja pod utjecajem bujica (čl. 88).",
+   "Na vodnom dobru i priobalnom zemljištu zabranjene su djelatnosti koje ugrožavaju stabilnost zemljišta, umanjuju zaštitu od voda ili sprječavaju protok vode, naplavina i mulja (čl. 95).",
+   "Vodni akti su prethodna vodna saglasnost, vodna saglasnost i vodna dozvola; izdaju se kao rješenja (čl. 107). Akt sadrži rok za početak aktivnosti (najviše tri godine) i za završetak (najviše pet godina) (čl. 108). Vodna saglasnost prestaje važiti ako u roku od dvije godine od izdavanja nije pribavljeno odobrenje za građenje i započeti radovi (čl. 114 st. 6).",
+   "Zabranjeno je prati vozila i mašine u površinskoj vodi i na zemljištu vodnog dobra (čl. 58) te proizvoditi, rukovati, čuvati i odlagati opasne materije i otpad na vodama i vodnom dobru (čl. 59).",
+   "Zabranjena je upotreba đubriva i sredstava za zaštitu bilja na vodnom dobru (čl. 56 st. 4); zabranjeno je ispuštanje otpadne vode direktno u podzemnu vodu, a ispuštanje u površinske vode samo pod propisanim uvjetima (čl. 53).",
+   "Kazne za pravno lice: 5.000 do 50.000 KM (odgovorno lice 500 do 5.000 KM) za radove zabranjene čl. 96 st. 1 i čl. 97 te za rad bez vodnog akta ili suprotno njemu (čl. 204); 2.000 do 20.000 KM (odgovorno lice 300 do 3.000 KM) za radove zabranjene čl. 96 st. 2 (čl. 205); fizičko lice 100 do 2.000 KM (čl. 206)."
+  ],
+  "forestry": [
+   "Na erozivnom području zabranjeno je, između ostalog: ogolijevanje površina, krčenje šumskih površina koje sprječavaju klizanje zemljišta i snježne naslage, izravnavaju protoke ili štite nizvodna područja od erozije, te izvlačenje, odlaganje ili skladištenje drva i drugih materijala (čl. 97 st. 1). Uvjeti za zahvate određuju se vodnim aktima (čl. 97 st. 2).",
+   "Zabranjeno je izvoditi građevinske i druge zahvate koji pospješuju eroziju i nastanak bujica, ograničavati protok bujica i skupljati naplavine sa korita osim radi osiguranja protočne moći korita bujica (čl. 97 st. 1).",
+   "Na poplavnom području je bez pisane saglasnosti nadležnog organa za vode zabranjeno u inundacionom području saditi drveće i grmlje, sjeći drveće i krčiti rastinje, sjeći zaštitne šume ili drugo drveće i vršiti radove koji mogu dovesti do erozivnih procesa (čl. 96 st. 2).",
+   "Zabranjeno je saditi drveće na manje od 10 m od linije dopiranja velikih voda vodotoka (odnosno od rubne linije akumulacije ili retenzije i kanala), izuzev zaštitnih šuma, te na nasipu i uz njega (manje od 20 m s unutrašnje i 10 m s vanjske strane nožice nasipa) (čl. 96 st. 1).",
+   "Zabranjeno je unositi u vodotoke i deponovati na obale kamen, zemlju, jalovinu i druge materije te vršiti radnje koje mogu oštetiti korito i obale ili smetati slobodnom oticanju vode; zabranjeni su i radovi u blizini vodotoka koji bi ugrozili stabilnost zaštitnih vodnih objekata (čl. 96 st. 1).",
+   "Prethodna vodna saglasnost, vodna saglasnost i vodna dozvola obavezni su, između ostalog, za izgradnju saobraćajnica uključujući šumske puteve, za mostove i objekte iznad ili u vodotoku, za uređenje vodotoka i za vađenje materijala iz vodotoka (čl. 109 st. 1); isto vrijedi za aktivnosti koje povećavaju rizik od poplave ili erozije (čl. 109 st. 2).",
+   "Vodni akti nisu potrebni za gašenje požara i hitne mjere u slučaju opće opasnosti (čl. 110 st. 2)."
+  ],
+  "wood": [
+   "Zahvatanje vode u industriji i ispuštanje otpadnih voda u površinske vode zahtijevaju vodne akte (čl. 109 st. 1); otpadne vode se ispuštaju u javnu kanalizaciju ili u skladu sa općinskom odlukom o odvodnji (čl. 54).",
+   "Vodni akti nisu potrebni za privrednu djelatnost koja ne podliježe okolišnoj dozvoli, a vodu osigurava priključkom na javni vodovod i ispušta otpadne vode u javnu kanalizaciju prema odobrenju operatora (čl. 110 st. 3, uz ograničenja iz st. 5).",
+   "Zabranjeno je odlaganje otpada i opasnih materija na vodama i vodnom dobru te pranje vozila i mašina u površinskoj vodi i na vodnom dobru (čl. 58, 59); zabranjeno je deponovanje materijala na nasipu, u zaštitnom pojasu i inundacionom području (čl. 96 st. 1).",
+   "Skladištenje drvne mase, otpada od prerade ili drugog materijala na erozivnom području zabranjeno je (čl. 97 st. 1), a u inundacionom području zabranjeno je ostavljati materijal (čl. 96 st. 1)."
+  ],
+  "caution": "Zakon ne govori posebno o pilanama ni o sječi osim navedenog; detalje (granične vrijednosti za otpadne vode, sadržaj vodnih akata) propisuju podzakonski propisi koji nisu u tekstu."
+ },
+ "usk-zakon-o-zastiti-od-pozara": {
+  "overview": "Kantonalni zakon Unsko-sanskog kantona (Sl. glasnik USK 4/13) uređuje nadležnosti kantonalnih organa, obaveze općine i pravnih lica u zaštiti od požara i vatrogastvu, nadzor i kazne. Većinu pitanja prepušta Federalnom zakonu o zaštiti od požara i vatrogastvu.",
+  "points": [
+   "Zakon i Federalni zakon čine jedinstven pravni okvir za poslove zaštite od požara i vatrogastva iz nadležnosti Kantona (čl. 1); sva pitanja koja nisu uređena primjenjuju se po federalnom zakonu (čl. 38).",
+   "Odgovorna lica za organiziranje zaštite od požara su vlasnik odnosno korisnik imovine, rukovodilac organa uprave i direktor odnosno drugo odgovorno lice u privrednom društvu i drugom pravnom licu određeno općim aktom (čl. 4).",
+   "Zaštita od požara mora se organizirati na svim mjestima, prostorijama i objektima koji prisutnim ili mogućim opasnostima od požara ugrožavaju živote ili imovinu drugih; vlasnici i korisnici je provode po Federalnom i ovom zakonu, planovima zaštite i općim aktima pravnih lica (čl. 5).",
+   "Pravna lica i druge institucije dužni su donijeti opći akt kojim uređuju organizaciju i funkcioniranje zaštite od požara u svojim objektima i prostorima, na način utvrđen u čl. 24 st. 1 Federalnog zakona (čl. 27).",
+   "Općina donosi plan zaštite od požara, u kojem se određuju pravna lica dužna osnovati vatrogasnu jedinicu ili na drugi način osigurati zaštitu od požara (čl. 25).",
+   "Dopunske snage za vatrogastvo mogu činiti dobrovoljne vatrogasne jedinice i vatrogasne jedinice pravnih lica (čl. 24).",
+   "Inspekcijski nadzor nad zaštitom od požara vrše kantonalni inspektori za zaštitu od požara i za vatrogastvo u Kantonalnoj upravi (čl. 29) odnosno u Kantonalnom ministarstvu unutrašnjih poslova (čl. 31).",
+   "Kazna za pravno lice 5.000 do 15.000 KM (odgovorno lice 1.000 do 2.500 KM), između ostalog ako ne organizira i ne sprovodi zaštitu od požara u šumama i na šumskom i poljoprivrednom zemljištu, ne donese opći akt iz čl. 27 ili ne osnuje vatrogasnu jedinicu (čl. 34).",
+   "Kazna za pravno lice i drugu instituciju 3.000 do 10.000 KM (odgovorno lice 600 do 1.500 KM) ako ne upozna zaposlena lica s općim aktom iz čl. 27 (čl. 35)."
+  ],
+  "forestry": [
+   "Zaštitu od požara u šumama, na šumskom i poljoprivrednom zemljištu dužna su organizirati i provoditi sva pravna i fizička lica koja su vlasnici ili korisnici tog zemljišta, kao i organi uprave kantona i općine nadležni za šume, u skladu sa propisima o šumama i Federalnim zakonom (čl. 5).",
+   "Inspekcijski nadzor nad mjerama zaštite od požara u šumama i na šumskom zemljištu vrši kantonalni šumarski inspektor, uz poljoprivrednog inspektora i inspektora zaštite okoline, u skladu sa ovlaštenjima iz njihovih propisa (čl. 33).",
+   "Neprovođenje zaštite od požara u šumama i na šumskom zemljištu je prekršaj pravnog lica: 5.000 do 15.000 KM, odgovorno lice 1.000 do 2.500 KM (čl. 34 st. 1 t. 4, st. 2).",
+   "Svaki pojedinac mora paziti da svojim postupcima ne ugrožava živote ljudi i imovinu drugih vlasnika ili posjednika (čl. 5)."
+  ],
+  "wood": [
+   "Pogon prerade drveta kao pravno lice mora donijeti opći akt o organizaciji zaštite od požara u svojim objektima i prostorima i s njim upoznati zaposlene (čl. 27, 35).",
+   "Direktor ili drugo odgovorno lice određeno općim aktom odgovorno je za organiziranje zaštite od požara u privrednom društvu (čl. 4).",
+   "Ako ga plan zaštite od požara općine to obavezuje, pravno lice mora osnovati vatrogasnu jedinicu ili na drugi način osigurati zaštitu od požara; neosnivanje je prekršaj (čl. 25, 34 st. 1 t. 5).",
+   "Neizvršavanje zadataka iz plana zaštite od požara kažnjava se sa 5.000 do 15.000 KM za pravno lice (čl. 34 st. 1 t. 2)."
+  ],
+  "caution": "Zakon je kratak i uglavnom upućuje na Federalni zakon o zaštiti od požara i vatrogastvu (Sl. novine FBiH 64/09) koji nije u tekstu; konkretne tehničke mjere (uređaji, kategorije ugroženosti) ovdje nisu navedene. U čl. 37 naveden je raspon kazne za pojedinca (100 do 800 KM), ali tekst ne navodi radnje."
+ },
+ "fbih-zakon-o-zastiti-prirode": {
+  "overview": "Zakon FBiH o zaštiti prirode uređuje očuvanje biološke i pejzažne raznolikosti, ekološku mrežu, zaštićena područja, upravljanje njima, inspekciju i kazne. Sadrži posebne odredbe o šumama i upravljanju šumama (čl. 37 do 40) i o zahvatima u zaštićenim područjima.",
+  "points": [
+   "Zabranjena je vožnja, parkiranje i organiziranje vožnji motornim vozilima izvan naselja i izvan cesta, poljskih puteva i uređenih staza, osim pri službenoj dužnosti, poljoprivrednim, šumarskim ili drugim dopuštenim djelatnostima (čl. 14).",
+   "Na zaštićenom području nije dozvoljena prenamjena zemljišta koja nije u skladu s dokumentima prostornog uređenja (čl. 15).",
+   "Sredstva za zaštitu bilja smiju se koristiti samo u opravdanim slučajevima na osnovu stručnih provjera, a Federalni ministar može predložiti privremenu ili trajnu zabranu određenih sredstava (čl. 17).",
+   "Zabranjeno je korištenje prirodnih dobara na način koji uzrokuje dugoročno oštećenje tla i gubitak plodnosti, osiromašenje biljnog i životinjskog svijeta i gljiva ili smanjenje biološke i pejzažne raznolikosti (čl. 18).",
+   "Zaštićene prirodne vrijednosti dijele se na kategorije Ia, Ib, II, IIIa, IIIb, IV, V i VI (čl. 134); u parku prirode dopuštene su privredne djelatnosti kojima se ne ugrožavaju njegove bitne odlike, a način obavljanja utvrđuje se uvjetima zaštite prirode (čl. 138).",
+   "Zaštićenim područjima upravljaju javna preduzeća i javne ustanove; za kategorije I i II preduzeća osniva Vlada Federacije, a za ostale ustanove osnivaju skupštine kantona (čl. 151). Upravljanje se provodi na osnovu plana upravljanja koji se donosi za deset godina; fizička i pravna lica koja obavljaju djelatnosti u zaštićenom području dužna su pridržavati se plana (čl. 155).",
+   "Mjerama zaštite može se zabraniti ili ograničiti, između ostalog, zahvat u prostoru, gradnja infrastrukture, privredno korištenje prirodnih dobara, mijenjanje vodnog režima, sadnja monokultura i odlaganje otpada (čl. 157).",
+   "Dozvolu za zahvate i radnje u zaštićenim područjima kategorija Ia, Ib i II daje Federalno ministarstvo, a u kategorijama III, IV, V i VI kantonalno ministarstvo (čl. 159).",
+   "Kazne su u rasponu 2.000 do 5.000 KM za fizičko i 10.000 do 70.000 KM za pravno lice za teže prekršaje, uključujući korištenje šuma suprotno načelima održivog razvoja (čl. 232); 600 do 3.000 KM odnosno 5.000 do 30.000 KM za nepostupanje po planu upravljanja zaštićenog područja (čl. 233)."
+  ],
+  "forestry": [
+   "Očuvanje biološke raznolikosti u upravljanju šumama osigurava se na načelima održivog razvoja i, gdje je moguće, održavanju prirodnog sistema vrsta i prirodne obnove; šumskim ekosistemima u zaštićenim područjima upravlja se po ovom zakonu (čl. 37).",
+   "Pošumljavanje se, gdje uvjeti staništa dopuštaju, obavlja autohtonim vrstama u sastavu koji odražava prirodni, prirodi bliskim metodama; elaborat tipova staništa kao dio šumskoprivredne osnove dostavlja se Federalnom ministarstvu na mišljenje godinu dana prije isteka važeće osnove (čl. 38).",
+   "U šumama su dopuštena biološka i biotehnička sredstva za zaštitu bilja; hemijska se mogu koristiti samo ako nema odgovarajućeg biološkog sredstva i pojavi se uzročnik većih ekonomskih šteta, na osnovu prijedloga Federalnog ministarstva (čl. 39).",
+   "U svim šumama mora se osigurati stalan postotak zrelih, starih i suhih stabala, posebno s dupljama: za stabla s Crvene liste u visokim šumama s prirodnom obnovom 0,05 posto stabala po hektaru za svaku gazdinsku klasu, a u degradiranim i izdanačkim šumama 0,25 posto (čl. 40).",
+   "U izvedbenim projektima sječa stabla se obilježavaju na terenu i ucrtavaju u karte; pri dovršnom sijeku većih površina ostavljaju se manje neposječene površine utvrđene šumskoprivrednim osnovama, čuvaju se šumske čistine i rubovi te se osigurava produženje sječive zrelosti autohtonih vrsta (čl. 40).",
+   "Zahvati i radnje po planovima upravljanja u šumarstvu u zaštićenim područjima moraju biti usklađeni s ciljevima i mjerama zaštite i planovima upravljanja zaštićenim područjem te imati saglasnost nadležnog ministarstva (čl. 159).",
+   "Pravna lica koja upravljaju šumama dužna su uskladiti šumskoprivredne osnove s ovim zakonom pri obnovi ili prvoj reviziji (čl. 242).",
+   "Prekršaji vezani za šume: korištenje šuma suprotno načelima održivog razvoja (čl. 37 st. 2 i 3), neopravdano pošumljavanje (čl. 38), hemijska sredstva bez dopuštenja (čl. 39), neosiguravanje postotka starih stabala (čl. 40 st. 1) (sve u čl. 232)."
+  ],
+  "wood": [
+   "Za drvnu industriju je posredno bitno: pogon ili skladište na zaštićenom području i u ekološki značajnom području podliježe uvjetima zaštite prirode i dozvoli za zahvate (čl. 159, 68); zahvati koji mogu uništiti ili trajno oštetiti ekološki značajno područje nisu dopušteni (čl. 68).",
+   "Zahvat za koji je potrebna procjena utjecaja na okoliš ocjenjuje se na prihvatljivost za ekološku mrežu u okviru te procjene (čl. 26); izvođenje zahvata bez ocjene prihvatljivosti ili protivno njoj kažnjava se po čl. 232.",
+   "Nosilac zahvata mora bez odgađanja i o svom trošku otkloniti štetne posljedice zahvata izvedenog suprotno uvjetima zaštite prirode, a inače ministarstvo rješenjem određuje kompenzacijski uslov i naknadu štete (čl. 31)."
+  ],
+  "caution": "Tekst je neslužbeni prečišćeni; napomenu „prestali da važe” nisam našao u fajlu, a članovi su navedeni pojedinačno (uključujući 1a, 44a, 158a-c, 166a). Zakon ne sadrži odredbe o pilanama ni konkretne zabrane sječe u pojedinim kategorijama zaštite; one se određuju aktom o proglašenju, mjerama zaštite i planom upravljanja (čl. 145, 157). Procenti iz čl. 40 odnose se na stabla s Crvene liste."
+ },
+ "fbih-zakon-o-privrednim-drustvima": {
+  "overview": "Zakon uređuje oblike privrednih društava, firmu, zastupanje, osnivanje, organe, odgovornost članova i organa te statusne promjene i prestanak društva; najvažniji za ŠPD su odredbe o d.o.o. (čl. 302 i dalje) i, supsidijarno, o dioničkom društvu.",
+  "points": [
+   "Član d.o.o. odgovara svojim udjelom (čl. 302); vlasnik udjela/dioničar ne odgovara za obaveze društva, osim kad društvo koristi za lični cilj, upravlja njegovom imovinom kao svojom, za prevaru povjerilaca ili za smanjenje imovine u svoju korist (čl. 5).",
+   "Društvo zastupa uprava, koja organizira rad, rukovodi poslovanjem i odgovara za zakonitost poslovanja; lica ovlaštena za zastupanje upisuju se u registar društava, a ko prekorači ovlaštenja odgovara za štetu (čl. 23, 24).",
+   "Društvo može obavljati poslove samo u okviru djelatnosti upisane u registar; djelatnost za koju je potrebna dozvola ili saglasnost može se obavljati tek nakon njenog dobijanja (čl. 6, 7).",
+   "D.o.o.: osnovni kapital najmanje 1.000,00 KM, pojedinačni ulog najmanje 100,00 KM, do prijave za upis mora biti uplaćena najmanje polovina novčanih uloga (čl. 307); statut se donosi u roku određenom osnivačkim aktom, najviše 60 dana od upisa u registar (čl. 310).",
+   "Skupština d.o.o. sastaje se najmanje jednom godišnje i kad gubitak pređe petinu osnovnog kapitala; poziv se šalje najmanje 15 dana prije; kvorum je polovina kapitala, a ponovno sazvana skupština (u roku od 15 dana) može odlučivati uz petinu kapitala; obavezno odlučuje o godišnjem obračunu, raspodjeli dobiti i pokriću gubitka (čl. 335, 336, 337). Odluka se može pobijati tužbom u roku 30 dana (čl. 338).",
+   "Nadzorni odbor u d.o.o. je obavezan ako društvo ima više od deset članova te ako ima osnovni kapital veći od 1.000.000,00 KM i najmanje dva člana (čl. 340); u d.o.o. bez nadzornog odbora njegova ovlaštenja vrše članovi društva (čl. 303).",
+   "Dioničko društvo ima skupštinu, nadzorni odbor, upravu i odbor za reviziju (čl. 227); skupština je dužna odlučiti o godišnjem izvještaju i raspodjeli dobiti/pokriću gubitka najkasnije šest mjeseci od završetka poslovne godine (čl. 236); odbor za reviziju ima najmanje tri člana (čl. 271).",
+   "Transakcije imovinom (kupovina, prodaja, zamjena, lizing, krediti) u godini veće od 33% knjigovodstvene vrijednosti imovine odlučuje skupština, a u obimu od 15% do 33% odobrava nadzorni odbor (čl. 234, 257).",
+   "Nadzorni odbor dioničkog društva: predsjednik i najmanje dva člana, ukupno neparan broj, mandat četiri godine (čl. 247); članovi neograničeno solidarno odgovaraju za štetu zbog neizvršavanja ili neurednog izvršavanja dužnosti (čl. 260). Uprava: direktor, mandat četiri godine, otkazni rok pri ostavci direktora ne kraći od 30 dana (čl. 264, 268).",
+   "Lica sa posebnim dužnostima (uprava, nadzorni odbor, prokuristi, značajni članovi) postupaju s dužnom pažnjom; poslovi u kojima postoji lični interes zahtijevaju prethodno odobrenje nadležnog organa, a korištenje imovine društva i informacija u ličnom interesu je zabranjeno (čl. 32, 34, 36). Kazne: društvo 500,00 do 200.000,00 KM, odgovorno lice 50,00 do 20.000,00 KM (čl. 367, 368); direktor/član uprave 50,00 do 20.000,00 KM (čl. 370)."
+  ],
+  "forestry": [
+   "Za ŠPD kao d.o.o. važe odredbe o d.o.o. (čl. 302 i dalje), a odredbe o dioničkom društvu primjenjuju se i na d.o.o. ako posebnim odredbama nije drugačije određeno (čl. 303).",
+   "Poslovanje samo u okviru upisane djelatnosti (čl. 7) i obavljanje djelatnosti koje traže dozvolu tek nakon njenog dobijanja (čl. 6) - šumarske djelatnosti i prateći poslovi moraju biti obuhvaćeni upisom/odobrenjima.",
+   "Za društva sa učešćem državnog kapitala imenovanje i razrješenje nadzornog odbora uređuje Uredba o vršenju ovlaštenja organa Federacije u privrednim društvima sa učešćem državnog kapitala (čl. 247); posebna pravila nespojivosti funkcija i obavezno stručno usavršavanje članova nadzornih odbora i uprava (čl. 252).",
+   "Uprava (direktor) odgovara za zakonitost poslovanja (čl. 23), a društvo može tužiti članove uprave/nadzornog odbora za štetu zbog povrede dužne pažnje (čl. 32, 33); ugovori s povezanim licima (porodica, firme u kojima direktor/član NO ima interes) traže prethodno odobrenje (čl. 34, 35), a direktor mora prijaviti nadzornom odboru interes u pravnom licu s kojim društvo posluje (čl. 267)."
+  ],
+  "wood": [
+   "Prerada drveta i trgovina drvetom moraju biti upisane djelatnosti društva; uobičajeni prateći poslovi mogu se obavljati u potrebnom obimu, ali ne kao redovna djelatnost (čl. 7).",
+   "Pri većim transakcijama imovinom (prodaja, zamjena, lizing, krediti) primjenjuju se pragovi od 15% i 33% knjigovodstvene vrijednosti imovine za odobrenje nadzornog odbora odnosno skupštine (čl. 234, 257); važe za dioničko društvo, a na d.o.o. putem čl. 303.",
+   "Društvo je dužno voditi poslovne knjige i sačinjavati finansijske izvještaje prema zakonu (čl. 50)."
+  ],
+  "caution": "Pragovi 15%/33% (čl. 234, 257) odnose se na transakcije imovinom; tekst ne razgraničava da li se redovna prodaja sortimenata ubraja u njih. Primjenu na ŠPD d.o.o. treba provjeriti prema njegovom statutu i osnivačkom aktu (čl. 303, 310). Nadzorni odbor u d.o.o. nije obavezan osim u slučajevima iz čl. 340."
+ },
+ "fbih-zakon-o-racunovodstvu-i-reviziji": {
+  "overview": "Zakon uređuje razvrstavanje pravnih lica, vođenje poslovnih knjiga, popis, sastavljanje i predaju finansijskih izvještaja, nadzor te obaveznu reviziju i obaveze subjekata od javnog interesa.",
+  "points": [
+   "Pravna lica vode knjige i sastavljaju izvještaje prema ovom zakonu, MRS i MSFI (čl. 4); zakon se primjenjuje na profitna pravna lica i na korisnike budžeta (čl. 3).",
+   "Razvrstavanje na mikro, mala, srednja i velika prema dva od tri kriterija: prosječna poslovna imovina, godišnji prihod, prosječan broj zaposlenih; granice za mala: 4.000.000,00 KM, 8.000.000,00 KM i 49 zaposlenih, za velika: 20.000.000,00 KM, 40.000.000,00 KM i 249 zaposlenih (čl. 5). Pravno lice razvrstava se samostalno i obavještenje o razvrstavanju dostavlja FIA-i uz izvještaje (čl. 5).",
+   "Popis imovine i obaveza obavezan je na početku poslovanja i najmanje jednom godišnje sa stanjem na dan završetka poslovne godine, te pri statusnim promjenama, stečaju i likvidaciji (čl. 21).",
+   "Prije sastavljanja izvještaja usaglašavaju se potraživanja i obaveze (konfirmacija salda na dan 31. decembra); dužnik odgovara na konfirmaciju u roku od osam dana; sumnjiva i sporna potraživanja obrazlažu se u bilješkama (čl. 23).",
+   "Finansijski izvještaji se sastavljaju za period od 1. januara do 31. decembra: bilans stanja, bilans uspjeha, izvještaj o gotovinskim tokovima, izvještaj o promjenama na kapitalu i bilješke; mikro i mala pravna lica daju bilans stanja, bilans uspjeha i bilješke (čl. 36, 37). Za izvještaje odgovaraju lice ovlašteno za zastupanje, uprava, upravni/nadzorni organ i kvalificirano lice koje ih je potpisalo (čl. 38).",
+   "Rokovi predaje FIA-i: finansijski izvještaji i obavještenje o razvrstavanju do posljednjeg dana februara za prethodnu godinu; izvještaj o poslovanju, odluka o utvrđivanju finansijskih izvještaja i odluka o raspodjeli dobiti ili pokriću gubitka do 30. juna (čl. 44). Izvještaji se predaju elektronski i na papiru, ovjereni od certificiranog računovođe i lica ovlaštenog za zastupanje (čl. 44).",
+   "Izvještaj o poslovanju obavezan je (uz opis rizika i mjera zaštite životne sredine), osim za mikro i mala pravna lica (čl. 42).",
+   "Obavezna revizija: velika i srednja pravna lica te subjekti od javnog interesa (čl. 57); izbor revizora najkasnije do 30. septembra poslovne godine na koju se revizija odnosi (čl. 63); rok za predaju revizorskog izvještaja: 30. juna za dionička društva i subjekte od javnog interesa, a 30. septembra za ostale (čl. 44).",
+   "Subjekti od javnog interesa (među njima javna preduzeća osnovana prema propisima o javnim preduzećima u Federaciji) obavezni su osnovati odbor za reviziju i imati odjel interne revizije sa najmanje jednim ovlaštenim internim revizorom (čl. 2, 84, 86); primjenjuju MSFI (čl. 25).",
+   "Čuvanje: finansijski izvještaji, revizorski izvještaji i godišnji obračuni trajno; glavna knjiga i dnevnik najmanje deset godina; pomoćne knjige najmanje pet godina; izvještaj o poslovanju deset godina (čl. 49). Kazne za pravno lice 5.000,00 do 15.000,00 KM odnosno 10.000,00 do 50.000,00 KM, a za odgovorno lice 1.000,00 do 3.000,00 KM (čl. 127)."
+  ],
+  "forestry": [
+   "ŠPD se samostalno razvrstava po čl. 5 i prema tome utvrđuje obavezu revizije (čl. 57); ako je javno preduzeće u smislu definicije iz čl. 2, ima status subjekta od javnog interesa s odborom za reviziju, internom revizijom i MSFI (čl. 84, 86, 25).",
+   "Direktor, uprava i nadzorni organ odgovorni su za istinitost finansijskih izvještaja (čl. 38), a za propuste je predviđena novčana kazna i za odgovorno lice (čl. 127).",
+   "Rokovi prema FIA-i (februar, 30. juni, revizija 30. juna odnosno 30. septembra) i godišnji popis imovine i obaveza (čl. 44, 21)."
+  ],
+  "wood": [
+   "Za zalihe se vode pomoćne knjige (analitičke evidencije) (čl. 16); popis zaliha obavlja se najmanje jednom godišnje, a i pri promjeni cijena proizvoda i robe, osim ako evidencija osigurava podatke o vrijednosti robe na zalihi (čl. 21).",
+   "Usaglašavanje potraživanja i obaveza (kupci, dobavljači) sa stanjem na 31. decembra, odgovor na konfirmaciju u roku od osam dana (čl. 23).",
+   "Čuvanje isprava: isprave na osnovu kojih su podaci uneseni u dnevnik i glavnu knjigu najmanje deset godina, pomoćni obračuni i prodajni blokovi dvije godine; kupoprodajni ugovori kojima se stječu nekretnine trajno (čl. 49)."
+  ],
+  "caution": "Da li je ŠPD 'javno preduzeće' u smislu definicije subjekta od javnog interesa (čl. 2) zavisi od njegovog pravnog statusa prema propisima o javnim preduzećima i treba ga provjeriti; od toga zavise odbor za reviziju, interna revizija i MSFI. Zakon ne sadrži odredbe specifične za šumarstvo ili drvo."
+ },
+ "bih-zakon-o-javnim-nabavkama": {
+  "overview": "Zakon BiH (neslužbeni prečišćeni tekst) uređuje ugovorne organe, planiranje i postupke javnih nabavki, ugovore, zaštitu prava i žalbe (KRŽ) te prekršaje ugovornih organa.",
+  "points": [
+   "Ugovorni organ je i institucija vlasti na kantonalnom nivou i pravno lice osnovano za zadovoljavanje potreba od općeg interesa bez industrijskog ili komercijalnog karaktera koje je većinom javno finansirano, ili je pod nadzorom ugovornog organa, ili više od polovine članova skupštine/upravnog/nadzornog odbora čine predstavnici ugovornih organa (čl. 4); obaveza važi i kad subjekt nije na listi Agencije (čl. 4).",
+   "Ugovorni organ donosi interni pravilnik o organizaciji nabavne funkcije i imenuje komisiju za nabavke za sve osim direktnog sporazuma (čl. 13); službenik za javne nabavke uređuje se aktom ako je budžet za nabavke 1.000.000,00 KM ili veći, a u postupcima čija procijenjena vrijednost prelazi 250.000,00 KM učestvuje najmanje jedan službenik (čl. 13a).",
+   "Procijenjena vrijednost računa se bez PDV-a, uključuje sve elemente cijene, kod lotova je zbir lotova, a podjela predmeta nabavke s namjerom izbjegavanja odgovarajućeg postupka je zabranjena (čl. 15).",
+   "Postupak se pokreće ako je nabavka u planu nabavki, koji se objavljuje na portalu najkasnije 30 dana od usvajanja budžeta/finansijskog plana; nabavka van plana traži posebnu odluku kojom se mijenja plan; odluka o pokretanju je pisana (čl. 17, 18).",
+   "Otvoreni i ograničeni postupak su osnovni; pregovarački postupak i takmičarski dijalog samo izuzetno uz ispunjene uslove (čl. 19). Za ugovore male vrijednosti postoje konkurentski zahtjev za dostavljanje ponuda (rok za ponude ne kraći od deset dana) i direktni sporazum (čl. 87, 88, 90).",
+   "Ugovor se dodjeljuje na osnovu ekonomski najpovoljnije ponude ili najniže cijene; potkriterijumi se razrađuju u tenderskoj dokumentaciji (čl. 64).",
+   "Ugovor se ne može potpisati u roku od 15 dana od obavještenja o izboru (čl. 72, 98); obavještenje o dodjeli ugovora objavljuje se najkasnije 30 dana od zaključenja, a osnovni elementi ugovora i izmjene na portalu u roku 30 dana; izvještaji se dostavljaju Agenciji (čl. 74, 75).",
+   "Izmjena ugovora bez novog postupka moguća je samo uz kumulativne uslove (nepredvidive okolnosti, ista priroda ugovora, povećanje cijene ne veće od 30% vrijednosti prvobitnog ugovora) (čl. 75).",
+   "Žalba se podnosi ugovornom organu, uglavnom u roku od 10 dana (u konkurentskom zahtjevu 5 dana; kod direktnog sporazuma žalba nije dopuštena); ugovorni organ u roku od 5 dana provjerava urednost žalbe; naknada za žalbu iznosi od 750,00 do 15.000,00 KM zavisno od procijenjene vrijednosti (čl. 100, 101, 108). Protiv odluke KRŽ-a upravni spor pred Sudom BiH u roku od 30 dana (čl. 115).",
+   "Prekršaji ugovornog organa: novčana kazna 1.500,00 do 15.000,00 KM (npr. nabavka bez propisanog postupka, dijeljenje vrijednosti, neobjava plana, neizvršenje rješenja KRŽ-a), a za odgovorno lice 300,00 do 3.000,00 KM (čl. 116)."
+  ],
+  "forestry": [
+   "Ako ŠPD ispunjava uslove iz čl. 4 st. 1 tač. b), on je ugovorni organ i obavezan je primjenjivati zakon pri nabavci robe, usluga i radova (npr. šumski putevi, usluge u šumarstvu); nabavku prvo treba unijeti u godišnji plan i objaviti ga (čl. 4, 17).",
+   "Istovrsne nabavke na godišnjem nivou i lotovi se sabiraju pri određivanju postupka i podjela s namjerom izbjegavanja postupka je zabranjena i kažnjiva (čl. 15, 87, 116).",
+   "Obavezni interni akti i organi: pravilnik o nabavnoj funkciji, komisija za nabavke, službenik za javne nabavke zavisno od budžeta i vrijednosti (čl. 13, 13a).",
+   "Rokovi i rizici: 15 dana mirovanja prije potpisa ugovora, rokovi žalbe 5 do 10 dana, objava obavještenja i ugovora u 30 dana; kazne za ugovorni organ i odgovorno lice (čl. 98, 101, 74, 75, 116)."
+  ],
+  "wood": [
+   "Zakon uređuje nabavke ugovornog organa; u tekstu nema odredbi o prodaji drveta ili šumskih sortimenata, pa se na nabavke vezane uz preradu i transport (robe, usluge, radovi) primjenjuju opća pravila ovog zakona.",
+   "Ugovor o javnoj nabavci zaključuje se prema zakonima o obligacionim odnosima; cijena iz ponude i uslovi iz tenderske dokumentacije ne mogu se mijenjati; ako izabrani ponuđač ne dostavi garanciju za izvršenje ugovora, ugovor se smatra apsolutno ništavim (čl. 72)."
+  ],
+  "caution": "Tekst čl. 14 (vrijednosni razredi) na izvoru je nedosljedan (npr. u odnosu na čl. 87), pa konkretni pragovi za izbor vrste postupka nisu navedeni; prije primjene treba provjeriti zvanični prečišćeni tekst. Da li je ŠPD ugovorni organ zavisi od ispunjenosti uslova iz čl. 4 st. 1 tač. b), uključujući 'nema industrijski ili komercijalni karakter'; to treba provjeriti zasebno. Naknade za žalbu (čl. 108) su navedene prema tekstu na izvoru."
+ },
+ "fbih-zakon-o-prekrsajima": {
+  "overview": "Zakon uređuje pojam prekršaja, sankcije, pokretanje prekršajnog postupka prekršajnim nalogom ili zahtjevom sudu, postupak pred općinskim sudom, žalbu, zastaru i naplatu kazni.",
+  "points": [
+   "Prekršaj mogu počiniti fizička i pravna lica; za odgovornost je dovoljan nehat, osim ako je propisan samo umišljaj; pokušaj nije kažnjiv (čl. 2). Federacija, kanton, grad, općina i mjesne zajednice ne mogu biti odgovorni za prekršaj (čl. 10).",
+   "Ako se ne može pokrenuti postupak protiv odgovorne osobe u pravnom licu, vodi se protiv pravnog lica (i obrnuto); odgovornost odgovorne osobe ne prestaje prestankom radnog odnosa (čl. 6).",
+   "Ovlašteni organ je policija, inspekcija ili ministarstvo, preduzeće ili drugo pravno lice koje ima javna ovlaštenja i u čiju nadležnost spada provođenje propisa koji propisuju prekršaje (čl. 3). Prekršajni postupak pokreće se prekršajnim nalogom ili zahtjevom za pokretanje postupka sudu; zahtjev samo kad nema uslova za nalog (čl. 53).",
+   "Prekršajni nalog može se izdati kad je prekršaj utvrđen neposrednim opažanjem, uvidom u evidenciju ili dokumentaciju, nadzorom ili priznanjem, i samo ako je kazna fiksna, izračunljiva po formuli ili se izriče minimalna kazna/najkraća zaštitna mjera/oduzimanje predmeta (čl. 54).",
+   "Nalog sadrži propisane podatke (organ, službena osoba, opis prekršaja, zakon i član, sankcija, iznos štete, uputstvo da se kazna plati ili zatraži sudsko odlučivanje u roku osam dana od uručenja) (čl. 55); uručuje se lično ili poštom (čl. 56). Ko plati u roku oslobađa se 50% kazne (čl. 23). Ako ne postupi u roku, nalog postaje konačan i izvršan uz dodatnu taksu od 20,00 KM (čl. 58). Traženjem sudskog odlučivanja sankcija iz naloga se poništava i sud može izreći i strožu (čl. 59).",
+   "Zahtjev za pokretanje postupka podnosi se na standardnom obrascu Federalnog ministarstva pravde sa podacima o okrivljenom, činjeničnim opisom, procjenom štete i prijedlogom dokaza; nerazumljiv ili nepotpun zahtjev dopunjava se u roku od najviše osam dana, inače se odbacuje (čl. 62). Ovlašteni organ može ponuditi sporazum o sankciji (čl. 63).",
+   "Na pretresu ovlašteni organ mora osigurati svjedoke (zahtjev sudu najmanje osam dana prije) i isprave (najmanje tri dana prije); ako se njegov predstavnik ne pojavi, postupak se obustavlja (čl. 67, 68).",
+   "Zastara pokretanja: dvije godine za kazne do 3.000,00 KM, tri godine za veće, pet godina za poreze, carine, finansije, rad, zaštitu na radu, zaštitu okoliša i koncesije; zastara se prekida procesnim radnjama, a apsolutna nastupa nakon dvostrukog roka (čl. 50, 52).",
+   "Novčane kazne po zakonu: fizičko lice do 10.000,00 KM, odgovorna osoba u pravnom licu do 20.000,00 KM, pravno lice do 200.000,00 KM; donje granice 30,00, 50,00 i 500,00 KM (čl. 22). Moguće su zaštitne mjere (npr. oduzimanje predmeta) te oduzimanje imovinske koristi i naknada štete (čl. 28, 37).",
+   "Žalba na rješenje o prekršaju u roku 15 dana od dostavljanja; žalbu mogu izjaviti okrivljeni i ovlašteni organ; žalba odgađa izvršenje (čl. 80, 81, 82). Ovlašteni organ prati izvršenje kazni izrečenih nalogom i može tražiti prinudnu naplatu (čl. 104)."
+  ],
+  "forestry": [
+   "ŠPD, ako ima javna ovlaštenja iz propisa koji propisuje prekršaje, spada u 'ovlašteni organ' (čl. 3); ovlašteni organ može sankciju izreći prekršajnim nalogom (čl. 16) ili podnijeti sudu zahtjev za pokretanje postupka (čl. 53).",
+   "Prijava mora sadržavati: zakon i član koji propisuje prekršaj, vrijeme i mjesto, činjenični opis, podatke o okrivljenom (JMBG ili naziv, sjedište i ID broj za pravno lice), procjenu štete i prijedlog dokaza (čl. 55, 62); svaka greška u obrascu može dovesti do poziva na dopunu ili odbacivanja (čl. 62).",
+   "Čuvar šuma kao svjedok/predstavnik: strana mora osigurati dolazak svjedoka na pretres, a izostanak predstavnika ovlaštenog organa dovodi do obustave postupka bez prava žalbe na rješenje o obustavi (čl. 67, 68).",
+   "Zastara pokretanja počinje od dana izvršenja prekršaja i iznosi dvije, tri ili pet godina zavisno od kazne i oblasti (čl. 50, 52) - prijave treba podnositi blagovremeno.",
+   "Uz kaznu mogu se izreći oduzimanje predmeta, oduzimanje imovinske koristi i naknada štete, a procjena štete ulazi u zahtjev (čl. 28, 31, 37, 62)."
+  ],
+  "wood": [
+   "Predmeti koji su upotrijebljeni za prekršaj ili su njime nastali mogu se oduzeti (čl. 31); nalogom se može izreći oduzimanje predmeta (čl. 29), a organ koji izdaje nalog odlučuje da li će se predmeti uništiti, prodati ili predati ovlaštenom organu, pri čemu sredstva od prodaje pripadaju odgovarajućem budžetu, a ne ŠPD (čl. 31).",
+   "Niko ne može zadržati imovinsku korist stečenu prekršajem; ona se oduzima ili se okrivljeni obavezuje na naknadu štete, a iznos se određuje nalogom ili rješenjem (čl. 37); nalog sadrži iznos štete ako se može odrediti objektivnim mjerilima (čl. 55)."
+  ],
+  "caution": "Zakon ne spominje čuvare šuma niti šumske štete; ovlaštenje ŠPD odnosno čuvara šuma da izdaje naloge ili podnosi zahtjeve, kao i visine kazni za šumske prekršaje, proizlaze iz posebnog (šumskog) propisa, a ne iz ovog zakona. Prekršajni nalog nije moguć za svaki prekršaj (čl. 54 st. 2)."
+ },
+ "fbih-zakon-o-upravnom-postupku": {
+  "overview": "Zakon uređuje postupak rješavanja u upravnim stvarima: rokove, dostavljanje, rješenje, žalbu, izvršenje i vanredna pravna sredstva; obavezuje organe uprave i poduzeća koja po javnim ovlastima rješavaju upravne stvari.",
+  "points": [
+   "Po zakonu postupaju organi uprave Federacije i kantona te poduzeća (društva), ustanove i druga pravna lica kad u obavljanju javnih ovlasti povjerenih zakonom rješavaju u upravnim stvarima (čl. 1); posebni postupak iz posebnog zakona ima prednost, a ovaj zakon važi za neuređena pitanja (čl. 3).",
+   "Prije donošenja rješenja stranci se mora omogućiti da se izjasni o činjenicama (čl. 8); protiv prvostepenog rješenja stranka ima pravo žalbe, a izuzetak može propisati samo zakon (čl. 11).",
+   "Rok za donošenje i dostavu rješenja: najkasnije 30 dana od predaje urednog zahtjeva kad nije potreban poseban ispitni postupak, inače 60 dana; u slučajevima skraćenog postupka iz čl. 139 15 dana; ako rok istekne, stranka može izjaviti žalbu kao da je zahtjev odbijen (čl. 216).",
+   "Rješenje ima uvod, dispozitiv (s rokom za izvršenje radnje, te navodom ako žalba ne odgađa izvršenje), obrazloženje i uputstvo o pravnom lijeku (čl. 203, 206, 207, 208); pogrešno uputstvo ne smije štetiti stranci, a kod nepotpunog uputstva stranka može u roku osam dana tražiti dopunu (čl. 208).",
+   "Dostavljanje se vrši poštom, elektronskim putem ili preko službene osobe, a dokaz je dostavnica (čl. 80, 95); lično se dostavlja kad od dostave počinje teći neproduživ rok (čl. 83); nepoznatim osobama javnim oglašavanjem, a dostava je izvršena istekom 15 dana od isticanja (čl. 94).",
+   "Rok po danima računa se od prvog narednog dana nakon dostave; ako posljednji dan roka pada u nedjelju ili praznik, rok ističe prvog narednog radnog dana (čl. 98, 99); povrat u pređašnje stanje traži se u roku od osam dana, a najkasnije tri mjeseca od propuštanja (čl. 103).",
+   "Žalba protiv rješenja podnosi se u roku od 15 dana od dostavljanja (čl. 227); za rješenja poduzeća o žalbi rješava organ određen statutom ili drugim općim aktom, a za rješenja institucije s javnim ovlastima organ određen statutom ili zakonom (čl. 226).",
+   "Prvostepeni organ može žalbu usvojiti novim rješenjem (čl. 232), a ako ne, dužan je u roku od osam dana poslati žalbu sa spisima drugostepenom organu (čl. 235); drugostepeno rješenje donosi se najkasnije u roku od 30 dana od predaje žalbe (čl. 244).",
+   "U roku za žalbu rješenje se ne može izvršiti, a nakon izjavljene žalbe tek po dostavi rješenja o žalbi, osim ako zakon predviđa drugačije ili se radi o hitnim mjerama (čl. 228); izvršno postaje istekom roka za žalbu ako žalba nije izjavljena ili dostavom ako žalba ne odgađa izvršenje (čl. 267).",
+   "Rukovodilac institucije s javnim ovlastima odgovoran je za poštivanje rokova; službena osoba mora u roku tri dana od isteka roka pismeno obavijestiti stranku o razlozima kašnjenja, a krivica za neblagovremeno rješavanje je teža povreda radne dužnosti (čl. 293). Ovlaštenje za rješavanje može se dati samo osobi s propisanom stručnom spremom, iskustvom i stručnim ispitom (čl. 292)."
+  ],
+  "forestry": [
+   "ZUP se na ŠPD primjenjuje samo kad ŠPD u obavljanju javnih ovlasti povjerenih zakonom rješava u upravnoj stvari (npr. rješenje o doznaci stabala ako mu je ta ovlast povjerena zakonom) (čl. 1, 4).",
+   "Rokovi: 30 odnosno 60 dana za rješenje; skraćeni postupak za hitne mjere u javnom interesu koje se ne mogu odgađati (čl. 216, 139).",
+   "Sadržaj rješenja: dispozitiv sa rokom izvršenja, navod da žalba ne odgađa izvršenje ako je tako propisano, obrazloženje i uputstvo o pravnom lijeku (čl. 206, 207, 208).",
+   "O žalbi protiv rješenja ŠPD odlučuje organ određen statutom ŠPD, ako zakonom nije određen drugi organ; ako nijedan nije određen, nadležni organ uprave (čl. 226).",
+   "Institucija s javnim ovlastima ne može sama primjenjivati prisilne mjere privođenja/dovođenja nego se obraća kantonalnom organu uprave nadležnom za opću upravu (čl. 291); administrativno izvršenje njenih rješenja provodi općinska/gradska služba za upravu ako zakon ne određuje drugačije, a novčana potraživanja izvršavaju se sudskim putem (čl. 273, 274).",
+   "Odgovornost za rokove snosi rukovodilac, a službena osoba mora imati stručni ispit (čl. 292, 293)."
+  ],
+  "caution": "Zakon ne spominje doznaku niti šumarstvo; veza je samo ako je ŠPD-u zakonom povjerena javna ovlast i on rješava u upravnim stvarima (čl. 1 st. 3). Posebni zakon o šumama može propisati drugačije rokove ili tijelo za žalbu (čl. 2, 3)."
+ },
+ "fbih-zakon-o-radu": {
+  "overview": "Osnovni propis o radnim odnosima u FBiH: zasnivanje i prestanak ugovora o radu, radno vrijeme i odmori, plaće, zaštita posebnih kategorija radnika, otkaz, kolektivno pregovaranje, štrajk i inspekcijski nadzor. Kolektivni ugovor, pravilnik o radu ili ugovor o radu mogu davati samo povoljnija prava od zakona (čl. 19).",
+  "points": [
+   "Ugovor o radu zaključuje se u pisanoj formi i mora sadržavati naročito radno mjesto i opis poslova, mjesto rada, radno vrijeme, plaću, godišnji odmor i otkazni rok (čl. 24). Ako ugovor nije pisani, a radnik radi uz naknadu, smatra se da je zasnovan radni odnos na neodređeno vrijeme (čl. 24 st. 3). Poslodavac radniku odmah dostavlja fotokopiju prijave na obavezno osiguranje (čl. 28).",
+   "Probni rad najduže šest mjeseci, a otkazni rok u probnom radu je sedam dana (čl. 21). Ugovor na određeno vrijeme ne može trajati duže od tri godine; uzastopni ugovori s istim poslodavcem duži od tri godine bez prekida smatraju se ugovorom na neodređeno, a prekid do 60 dana između ugovora ne računa se kao prekid (čl. 22, 23).",
+   "Puno radno vrijeme je 40 sati sedmično i može se rasporediti na pet ili šest dana; za maloljetnike najviše 35 sati (čl. 36). Prekovremeni rad je dozvoljen samo u slučaju više sile, iznenadnog povećanja obima posla i sličnih slučajeva, najviše osam sati sedmično; inspekciju rada treba obavijestiti ako traje duže od tri sedmice neprekidno ili više od 10 sedmica godišnje (čl. 38). Preraspodjela radnog vremena: prosjek najviše 52 sata sedmično, za sezonske poslove 60 sati, uz pisanu odluku dostavljenu radniku (čl. 39).",
+   "Odmori: najmanje 30 minuta pauze za rad duži od šest sati dnevno, dnevni odmor najmanje 12 sati, sedmični najmanje 24 sata (čl. 44, 45, 46). Godišnji odmor je najmanje 20, a najviše 30 radnih dana (čl. 47); može se koristiti u dva dijela, drugi najkasnije do 30. juna naredne godine (čl. 50); poslodavac o trajanju i periodu obavještava pisanom odlukom najmanje sedam dana prije korištenja (čl. 52). Plaćeno odsustvo do sedam radnih dana godišnje (brak, porođaj supruge, teža bolest i smrt člana uže obitelji) (čl. 53).",
+   "Plaća se isplaćuje u novcu, u periodima ne dužim od 30 dana, uz pisani obračun (čl. 79). Ako plaća nije isplaćena u cijelosti, poslodavac do kraja mjeseca u kojem je dospjela uručuje obračun, koji je izvršna isprava (čl. 80). Povećana plaća pripada za otežane uvjete rada, prekovremeni i noćni rad, rad na dan sedmičnog odmora i praznika (čl. 76). Novčana potraživanja zastarijevaju za tri godine (čl. 115).",
+   "Otkaz se daje pisano i obrazlaže (čl. 104). Otkazni rok je najmanje 7 dana kada otkazuje radnik i najmanje 14 dana kada otkazuje poslodavac; ugovorom se može produžiti do mjesec dana odnosno tri mjeseca (čl. 105). Otkaz bez otkaznog roka moguć je u roku od 60 dana od saznanja, najduže godinu dana od povrede (čl. 100); za lakše povrede prethodi pisano upozorenje, važeće šest mjeseci (čl. 97). Poslodavac mora omogućiti radniku da se izjasni (čl. 101) i on snosi teret dokazivanja razloga (čl. 102).",
+   "Otpremnina pripada radniku na neodređeno vrijeme nakon najmanje dvije godine neprekidnog rada: ne manje od jedne trećine prosječne plaće (zadnja tri mjeseca) za svaku godinu rada, a najviše šest prosječnih plaća (čl. 111). Poslodavac s više od 30 radnika koji namjerava otkazati najmanje petorici u naredna tri mjeseca mora konsultirati vijeće zaposlenika i sindikat najmanje 30 dana prije otkaza (čl. 109, 110); u godini nakon otkaza prednost pri ponovnom zapošljavanju imaju otpušteni (čl. 96 st. 3).",
+   "Zaštita prava: radnik zahtijeva ostvarenje prava od poslodavca u roku od 30 dana, a ako poslodavac ne udovolji u 30 dana, tužba nadležnom sudu u daljnjih 90 dana (čl. 114). Poslodavac s više od 30 radnika dužan je donijeti i objaviti pravilnik o radu (stupa na snagu osmog dana od objave na oglasnoj tabli) uz konsultacije sa sindikatom ili vijećem zaposlenika (čl. 118). Vijeće zaposlenika mogu formirati radnici kod poslodavca s najmanje 30 radnika, na prijedlog reprezentativnog sindikata ili 20% radnika (čl. 119, 120).",
+   "U javnim preduzećima (čiji je osnivač kanton, grad, općina ili Federacija) i privrednim društvima s više od 50% državnog kapitala prijem u radni odnos vrši se nakon obaveznog javnog oglašavanja (čl. 20a). Granske kolektivne ugovore za javna preduzeća zaključuju reprezentativni sindikati i osnivači (čl. 138a).",
+   "Nadzor nad primjenom zakona vrši federalni odnosno kantonalni inspektor rada; zahtjev za nadzor mogu podnijeti radnik, sindikat, poslodavac i vijeće zaposlenika (čl. 159, 161, 162). Kazne za poslodavca (pravno lice) kreću se od 500 do 2.000 KM po radniku bez ugovora o radu i prijave na osiguranje (čl. 170) i od 1.000 do 3.000 KM, u ponovljenom prekršaju 5.000 do 10.000 KM, za većinu ostalih povreda, uključujući prekovremeni i noćni rad, odmore i neisplatu plaće u roku (čl. 171)."
+  ],
+  "forestry": [
+   "Sezonski poslovi: dnevni odmor može biti najmanje 10 sati umjesto 12 (čl. 45 st. 2), a preraspodjelom radnog vremena prosjek može iznositi najviše 60 sati sedmično (čl. 39 st. 1). Preraspodijeljeno vrijeme nije prekovremeni rad (čl. 39 st. 4).",
+   "Privremeni i povremeni poslovi: ugovor je moguć ako su ti poslovi utvrđeni kolektivnim ugovorom ili pravilnikom o radu i ne traju duže od 60 dana u kalendarskoj godini (čl. 166). Studenti od 18 do 26 godina mogu se angažirati samo na poslovima koji nisu poslovi s povećanim rizikom, najviše dva puta godišnje i ukupno do 180 dana (čl. 166a). Ugovor je pisani i sadrži vrstu, način, rok izvršenja i naknadu (čl. 167).",
+   "Radnik ima pravo odbiti rad ako mu prijeti neposredna opasnost po život i zdravlje jer nisu provedene mjere zaštite; mora odmah obavijestiti poslodavca i inspekciju rada, a pripada mu naknada plaće kao da je radio (čl. 55 st. 3, 4).",
+   "Hitni slučajevi (zamjena iznenada odsutnog radnika, kvar na postrojenjima, elementarne nepogode): jednostrani privremeni raspored na drugo radno mjesto najduže 60 dana godišnje uz zadržavanje plaće radnog mjesta iz ugovora (čl. 108). Naknada plaće pripada i za prekid rada zbog okolnosti za koje radnik nije kriv, npr. viša sila i zastoj, u skladu s kolektivnim ugovorom i pravilnikom o radu (čl. 81 st. 3).",
+   "Poslodavac svakodnevno vodi evidenciju o prisustvu i početku i završetku radnog vremena i predočava je inspektoru rada na zahtjev (čl. 43). Kod poslova na kojima se ni uz mjere zaštite ne može spriječiti štetni utjecaj, radno vrijeme se skraćuje; odlučuje nadležno ministarstvo na osnovu stručne analize ovlaštene organizacije, a skraćeno vrijeme se izjednačava s punim (čl. 37).",
+   "Povreda na radu i profesionalna bolest: za vrijeme privremene spriječenosti zbog liječenja ne može se otkazati ugovor o radu (osim za teži prijestup ili težu povredu), niti istekne ugovor na određeno vrijeme (čl. 71). Radnik spriječen do šest mjeseci vraća se na prethodne poslove (čl. 72); radniku s promijenjenom radnom sposobnošću ponudu novog ugovora daje poslodavac, a otkaz je moguć samo uz saglasnost vijeća zaposlenika odnosno sindikata, uz otpremninu uvećanu najmanje 50% (čl. 73, 74).",
+   "Maloljetnik ne može raditi na naročito teškim fizičkim poslovima i poslovima s povećanim rizikom (čl. 57), a ljekarski pregled mu se osigurava najmanje jednom u dvije godine (čl. 58). Javni oglas pri zapošljavanju u javnim preduzećima (čl. 20a)."
+  ],
+  "wood": [
+   "Noćni rad je rad između 22 sata i 6 sati; u smjenama s noćnim radom radnik u noćnoj smjeni radi uzastopno najduže jednu sedmicu (čl. 40). Radnicima koji rade noću poslodavac osigurava periodične ljekarske preglede najmanje jednom u dvije godine, a ako prijeti invalidnost zbog noćnog rada, mora ponuditi poslove izvan noćnog rada (čl. 41 st. 3, 4).",
+   "Zabranjen je noćni rad trudnica od šestog mjeseca trudnoće, majki i usvojitelja do dvije godine života djeteta (čl. 41 st. 5) i maloljetnika; za maloljetnike u industriji noćni rad je od 19 do 7 sati (čl. 42). Prekovremeni rad nije dozvoljen maloljetniku i trudnici (čl. 38 st. 3).",
+   "Povećana plaća za noćni, prekovremeni rad, rad na dan sedmičnog odmora i praznika te otežane uvjete rada uređuje se kolektivnim ugovorom i pravilnikom o radu (čl. 76). Skraćeno radno vrijeme za poslove sa štetnim utjecajima koje nije moguće otkloniti mjerama zaštite (čl. 37).",
+   "Poslodavac je dužan voditi svakodnevnu evidenciju radnog vremena i smjena (čl. 43), a za nedostatke u smjenskom i noćnom radu zaprijećene su novčane kazne (čl. 171)."
+  ],
+  "caution": "Neslužbeni prečišćeni tekst. Članovi 122–136 (reprezentativnost sindikata), 150–155 (mirenje) i 163–165 prestali su važiti; u fajlu su vođeni kao raspon pod brojevima Član 122, Član 150 i Član 163. Fajl navodi da ih zamjenjuju Zakon o reprezentativnosti sindikata i udruženja poslodavaca FBiH (Sl. novine FBiH 103/2021) i Zakon o mirnom rješavanju radnih sporova FBiH (Sl. novine FBiH 49/2021, od 1. jula 2021). Član 172 je brisan. Prelazni članovi (čl. 173–182) uglavnom su iscrpljeni."
+ },
+ "fbih-zakon-o-zastiti-na-radu": {
+  "overview": "Uređuje prava, obaveze i odgovornosti poslodavca i radnika u vezi sa sigurnošću i zaštitom zdravlja na radu: procjenu rizika, osposobljavanje, ljekarske preglede, poslove s povećanim rizikom, povjerenika za zaštitu na radu, prijavu povreda i inspekcijski nadzor. Mjesto rada obuhvata i rad na otvorenom i na privremenim i pokretnim gradilištima (čl. 3).",
+  "points": [
+   "Poslodavac vrši procjenu rizika za svako radno mjesto i utvrđuje poslove s povećanim rizikom (čl. 22 tač. b), donosi interni akt o zaštiti na radu na osnovu akta o procjeni rizika i mijenja procjenu kad se rizik promijeni (čl. 23). Pri izradi internog akta konsultuje se povjerenik za zaštitu na radu (čl. 23 st. 5). Angažovanje ovlaštene organizacije ne oslobađa poslodavca odgovornosti (čl. 20 st. 3).",
+   "Poslodavac organizuje poslove zaštite na radu vodeći računa o procesu rada, broju radnika, broju lokacija odvojenih radnih jedinica i rizicima (čl. 33 st. 1); ako nema stručnog osoblja, angažuje ovlaštenu organizaciju (čl. 33 st. 2). Kod poslodavca s poslovima povećanog rizika određuje se jedan ili više radnika za zaštitu na radu sa položenim stručnim ispitom, koji je obavezan zabraniti rad u slučaju neposredne opasnosti (čl. 34, 35).",
+   "Osposobljavanje za siguran rad obavezno je pri zasnivanju radnog odnosa, premještaju, uvođenju nove tehnologije ili sredstava za rad i promjeni procesa rada (čl. 46). Radnik ne smije samostalno raditi prije osposobljavanja, a osposobljavanje se obavlja u radnom vremenu i bez troška za radnika (čl. 47). Provjera osposobljenosti vrši se na radnom mjestu, a za poslove s povećanim rizikom periodično (čl. 48).",
+   "Radnik na poslovima s povećanim rizikom mora imati prethodni ljekarski pregled prije početka rada i periodične preglede u toku rada; poslovi se utvrđuju internim aktom (čl. 57). Ovlaštena zdravstvena ustanova dostavlja izvještaj poslodavcu u roku od 15 dana (čl. 58). Radnik koji ne obavi periodični pregled ne može nastaviti raditi (čl. 60 st. 2). Ako ne ispunjava zdravstvene uvjete, poslodavac ga premješta na odgovarajuće mjesto, ako takvo postoji (čl. 59). Radni odnos se ne može zasnovati bez utvrđene zdravstvene sposobnosti (čl. 24).",
+   "Poslodavac je dužan radnicima osigurati sredstva i opremu lične zaštite i održavati ih ispravnim, a oštećenu isključiti iz upotrebe (čl. 29). Mjere zaštite ne smiju radnicima stvarati finansijske obaveze (čl. 31) i poslodavac ne može davati novčanu naknadu umjesto ispunjavanja zahtjeva zaštite (čl. 19).",
+   "Povjerenik za zaštitu na radu bira se ili imenuje kod poslodavca s 30 ili više radnika, a bez obzira na broj radnika ako to zahtijevaju uvjeti rada, npr. povećana opasnost ili rad na izdvojenim mjestima (čl. 44). Povjerenik može raditi te poslove najviše šest sati sedmično uz naknadu plaće (čl. 45). Poslodavac najmanje dva puta godišnje izvještava povjerenika, vijeće zaposlenika i sindikat o rizicima i mjerama (čl. 40).",
+   "Povrede: poslodavac odmah obavještava inspekciju rada o smrtnom slučaju, težoj povredi, profesionalnom oboljenju i pojavi koja bi mogla ugroziti život ili zdravlje, i na uviđaj poziva radnika za zaštitu na radu, neposrednog rukovodioca i povjerenika (čl. 63). Izvještaj o povredi dostavlja se povrijeđenom, zavodu zdravstvenog osiguranja, ovlaštenoj zdravstvenoj ustanovi i inspekciji u roku od sedam dana (čl. 62). Vode se propisane evidencije i godišnji izvještaj inspekciji (čl. 61).",
+   "Prava i dužnosti radnika: pravo odbiti rad uz neposrednu opasnost po život i zdravlje uz obavještavanje rukovodioca, inspekcije i predstavnika radnika (čl. 53); u slučaju ozbiljne i neposredne opasnosti radnik koji napusti mjesto rada ne smije snositi posljedice (čl. 37 st. 2). Radnik se mora pridržavati pravila, ne smije isključiti sigurnosni uređaj i mora prijaviti opasnost; nepridržavanje je teža povreda radne obaveze (čl. 52).",
+   "Inspekcijski nadzor vrši kantonalna uprava za inspekcijske poslove (čl. 74); inspektori pregledaju poslodavca s tehničko-tehnološkim procesom najmanje jednom godišnje (čl. 77). Poslodavac pismeno izvještava o izvršenju rješenja inspektora u roku od osam dana od isteka roka za otklanjanje (čl. 78), a inspektor odmah zabranjuje rad pri neposrednoj opasnosti (čl. 80). Žalba je u roku od osam dana i ne odlaže zabranu rada (čl. 82).",
+   "Kazne za poslodavca: 5.000 do 15.000 KM, između ostalog za neprocjenu rizika, izostanak periodičnih pregleda sredstava rada i radne okoline, neosiguranje prve pomoći i neupućivanje na ljekarski pregled (čl. 83); 2.000 do 10.000 KM za neosposobljavanje radnika, izostanak internog akta, nepostavljanje znakova upozorenja i neobavještavanje inspekcije o povredi (čl. 85); 1.000 do 5.000 KM za nenabavku lične zaštitne opreme, izostanak evidencija i izvještaja (čl. 86). Odgovorno lice kažnjava se zasebno (čl. 83 st. 4, čl. 85 st. 4, čl. 86 st. 3)."
+  ],
+  "forestry": [
+   "Mjesto rada obuhvata prostor na otvorenom i privremene i pokretne objekte (čl. 3 st. 1 tač. c); radna okolina uključuje fizičke, hemijske i biološke faktore (čl. 3 st. 1 tač. d). Opće mjere uključuju zaštitu od štetnih atmosferskih i klimatskih uticaja, prekomjernih napora, buke i vibracija (čl. 9 st. 4). U vremenskim neprilikama (visoke i niske temperature) ministarstvo može izdati preporuke o posebnim mjerama zaštite (čl. 9 st. 5).",
+   "Zaštitu na radu poslodavac organizuje prema broju lokacija odvojenih radnih jedinica (čl. 33 st. 1), a povjerenik za zaštitu na radu bira se i ispod 30 radnika ako to zahtijeva rad na izdvojenim mjestima (čl. 44 st. 4).",
+   "Pristup radnom mjestu s povećanim rizikom smiju imati samo osposobljeni radnici sa posebnim uputstvima, zdravstveno sposobni i opremljeni sredstvima lične zaštite (čl. 28). Radnik koji nije osposobljen ne smije raditi samostalno (čl. 47).",
+   "Kada više poslodavaca radi na istom mjestu rada, oni sarađuju, usklađuju aktivnosti i obavještavaju jedni druge i radnike o rizicima (čl. 30); poslodavac kod kojeg rade radnici drugog poslodavca osigurava da budu upoznati s mjerama zaštite (čl. 47 st. 2).",
+   "Poslodavac organizuje prvu pomoć, protivpožarnu zaštitu i evakuaciju, uspostavlja veze sa specijalizovanim službama i određuje radnike za te mjere (čl. 36). Radnik koji se pri ozbiljnoj opasnosti ne može povezati s rukovodiocem poduzima mjere u skladu sa znanjem i sredstvima na raspolaganju, bez negativnih posljedica (čl. 37 st. 3, 4).",
+   "Do donošenja novih propisa primjenjuju se, ako nisu u suprotnosti sa zakonom, i stari pravilnici navedeni u članu 91, među njima Pravilnik o zaštiti na radu u šumarstvu (Sl. list SR BiH 20/85), Pravilnik o mjerama i normativima zaštite na radu na oruđima za rad, Pravilnik o zaštiti na radu pri održavanju motornih vozila i prijevozu motornim vozilima i Pravilnik o zaštiti na radu pri utovaru i istovaru tereta u teretna motorna vozila (čl. 91 st. 1).",
+   "Sredstva za rad koja podliježu periodičnim pregledima smiju se upotrebljavati samo uz zapisnik ovlaštene organizacije (čl. 14 st. 3), a poslodavac osigurava periodične preglede sredstava rada i lične zaštitne opreme (čl. 22 tač. j)."
+  ],
+  "wood": [
+   "Do donošenja novih propisa primjenjuje se Pravilnik o zaštiti na radu pri mehaničkoj preradi i obradi drveta i sličnih materijala (Sl. list SR BiH 5/86), uz Pravilnik o općim mjerama i normativima zaštite na radu od buke u radnim prostorijama i Pravilnik o mjerama i normativima zaštite na radu na oruđima za rad (čl. 91 st. 1).",
+   "Radna oprema mora odgovarati radnom procesu i ne smije ugrožavati radnike (čl. 15); oprema se stavlja u upotrebu samo uz potvrdu proizvođača ili uvoznika (čl. 14), a uputstva za upotrebu i održavanje moraju biti na službenom jeziku (čl. 16). Radnik ne smije samovoljno isključiti, modifikovati ili ukloniti sigurnosni uređaj na mašini, alatu ili postrojenju (čl. 52 st. 1 tač. d).",
+   "Opće mjere zaštite obuhvataju zaštitu od mehaničkih opasnosti, električne struje, požara i eksplozije, buke i vibracija, osvjetljenje i mikroklimu (čl. 9 st. 4). Poslodavac provodi mjere zaštite od požara (čl. 22 tač. m) i osigurava periodična ispitivanja štetnosti i mikroklime u radnoj okolini (čl. 22 tač. k).",
+   "Opasne materije smiju se koristiti samo uz sigurnosni list na službenom jeziku, uz primjenu manje opasnih materija kad je moguće i uz lične zaštitne mjere (čl. 26, 41).",
+   "Poslovi s povećanim rizikom (ljekarski pregledi prije rada i periodično) i skraćenje radnog vremena za poslove sa štetnim utjecajima koje nije moguće otkloniti utvrđuju se aktom o procjeni rizika i internim aktom; o skraćenju odlučuje ministarstvo uz stručni nalaz ovlaštene organizacije (čl. 57, 71, 72).",
+   "Federalna uprava za inspekcijske poslove nadzire proizvodnju celuloze i papira i hemijsku preradu drveta (čl. 75 st. 1 tač. g); u tekstu nije spomenuta mehanička prerada drveta, pa nadzor općenito vrši kantonalna uprava (čl. 74)."
+  ],
+  "caution": "Zakon u čl. 90 i 91 predviđa primjenu starih pravilnika (SR BiH, SFRJ) do donošenja novih; fajl ne govori jesu li zamijenjeni novim federalnim pravilnicima, što treba provjeriti. Neki članovi upućuju na podzakonske akte (pravilnik o ljekarskim pregledima, o prvoj pomoći, o periodičnim pregledima) čiji sadržaj nije u ovom fajlu, uključujući rokove pregleda i spisak poslova s povećanim rizikom."
+ },
+ "fbih-opci-kolektivni-ugovor": {
+  "overview": "Opći kolektivni ugovor za teritoriju FBiH (ugovor, a ne zakon) uređuje najnižu satnicu i najnižu plaću, minimalne dodatke na plaću, minuli rad, topli obrok, sadržaj granskih ugovora, pregovaranje i štrajk. Primjenjuje se uz Zakon o radu, a za radnika važi najpovoljnije pravo (čl. 2, 3).",
+  "points": [
+   "Najnižu satnicu utvrđuje Ekonomsko-socijalno vijeće za teritoriju FBiH najkasnije do 1. decembra tekuće godine za narednu godinu; ako se ne dogovori, primjenjuje se satnica prethodne godine (čl. 7). Za 2016. godinu satnica prije oporezivanja nije mogla biti manja od 2,31 KM, uvećana za doprinose iz plaće (čl. 7).",
+   "Granskim kolektivnim ugovorima, kantonalnim ili ugovorom kod poslodavca može se izuzetno ugovoriti niža satnica, ali ne manja od 1,62 KM prije oporezivanja, uz uvjete koji sprječavaju poslovni gubitak preduzeća u krizi (čl. 8). Najniža plaća je satnica pomnožena brojem sati u mjesečnom fondu rada; poslodavac ne smije isplatiti manje za puni fond sati (čl. 9).",
+   "Minimalna povećanja plaće: prekovremeni rad najmanje 25% neto satnice, noćni rad najmanje 25%, rad na dan sedmičnog odmora najmanje 15%, rad na državne praznike najmanje 40%; dodaci se međusobno ne isključuju (čl. 11).",
+   "Osnovna plaća povećava se za 0,4% za svaku godinu radnog staža kod poslodavca, uključujući staž kod istog poslodavca nakon promjene pravnog oblika (spajanje, pripajanje, promjena oblika društva) (čl. 12).",
+   "Poslodavac je obavezan osigurati ishranu u toku radnog vremena (topli obrok); ako ne osigura, isplaćuje naknadu u dnevnom iznosu od 0,5 do 1,0% prosječne neto plaće u FBiH, a iznos za narednu godinu utvrđuje se do 31. decembra (čl. 13).",
+   "Granski kolektivni ugovori obavezno uređuju način utvrđivanja plaće i radnog učinka, povećanje plaće za otežane uvjete rada, naknade plaće (smrt radnika i člana uže porodice, odsustvo, bolest, rad na terenu), naknadu za službeno putovanje, naknadu trudnicama koje se ne mogu rasporediti i otpremninu (čl. 14). Mogu urediti i prijevoz na posao i s posla te regres za godišnji odmor, ako poslodavac nije prethodnu godinu završio s gubitkom (čl. 14 st. 2).",
+   "Kolektivne ugovore za javna preduzeća čiji je osnivač Federacija, kanton, grad ili općina zaključuju reprezentativni sindikati i osnivači; za društva s više od 50% državnog kapitala učestvuju i predstavnici nosioca državnog kapitala i reprezentativno udruženje poslodavaca (čl. 32). Gdje granski ugovor ne uređuje pitanja iz čl. 14, uređuju ih pojedinačni kolektivni ugovor, pravilnik o radu ili ugovor o radu (čl. 14 st. 4).",
+   "Poslodavac mora radniku prije stupanja na rad omogućiti upoznavanje s propisima o radnim odnosima, organizacijom rada i zaštitom na radu, te učiniti dostupnim propise o zaštiti na radu, kolektivne ugovore i pravilnik o radu (čl. 6). Poslodavac obračunava i odbija sindikalnu članarinu uz pisanu saglasnost radnika (čl. 17); sindikalni povjerenik je zaštićen za vrijeme dužnosti i šest mjeseci nakon (čl. 18).",
+   "Trajanje: ugovor je zaključen na 12 mjeseci od objave u Službenim novinama FBiH, a ako se ne produži, primjenjuje se još šest mjeseci po isteku (čl. 29). Otkazni rok je tri mjeseca, a otkazani ugovor primjenjuje se još šest mjeseci, najdalje do isteka roka na koji je potpisan (čl. 27). Postojeći granski, kantonalni i pojedinačni ugovori usklađuju se u roku od 90 dana (čl. 37).",
+   "Sindikat može organizovati štrajk ako sporna pitanja ne budu riješena pregovorima; poslovi koji se ne mogu prekidati za vrijeme štrajka definišu se sporazumom poslodavaca i sindikata (čl. 31). Nadzor nad primjenom vrši inspektor rada (čl. 34)."
+  ],
+  "forestry": [
+   "Za kantonalno javno preduzeće kolektivni ugovor zaključuju reprezentativni sindikat i osnivač (kanton) odnosno nosilac državnog kapitala (čl. 32), a uvjeti rada se konkretizuju granskim ili pojedinačnim kolektivnim ugovorom i pravilnikom o radu (čl. 14, 15).",
+   "Granski ugovori obavezno uređuju povećanje plaće za otežane uvjete rada i naknade plaće za rad na terenu te naknadu za službeno putovanje (čl. 14 st. 1 tač. b, c, d); prijevoz na posao i s posla može se urediti granskim ugovorom (čl. 14 st. 2). Tekst ne definiše iznose ni sadržaj tih naknada.",
+   "Topli obrok ili novčana naknada za ishranu za radnike na terenu važi kao za sve radnike (čl. 13); noćni, prekovremeni rad, rad u dane sedmičnog odmora i na državne praznike uvećavaju se po stopama iz čl. 11."
+  ],
+  "wood": [
+   "Dodaci za noćni i prekovremeni rad (najmanje 25% neto satnice), rad na dan sedmičnog odmora (najmanje 15%) i državne praznike (najmanje 40%) primjenjuju se i u pogonima, uz mogućnost kumulacije (čl. 11).",
+   "Povećanje plaće za otežane uvjete rada uređuje se granskim kolektivnim ugovorom (čl. 14 st. 1 tač. b)."
+  ],
+  "caution": "Ovo je kolektivni ugovor, a ne zakon. Ugovoren je na 12 mjeseci, a iznosi najniže satnice navedeni su za 2016. godinu (čl. 7, 29); fajl ne govori je li tekst još na snazi ni koji su iznosi sada važeći, pa treba provjeriti važeću verziju i granski i kantonalni ili pojedinačni kolektivni ugovor koji se primjenjuje u ŠPD."
+ },
+ "fbih-zakon-o-doprinosima": {
+  "overview": "Uređuje obavezne doprinose za penzijsko i invalidsko osiguranje, osnovno zdravstveno osiguranje i osiguranje od nezaposlenosti: obveznike, osnovicu, najviše stope, rokove obračuna i uplate te kazne. Kantoni i nosioci osiguranja ne mogu uvoditi nove vrste ni stope doprinosa (čl. 1).",
+  "points": [
+   "Obavezni doprinosi su za penzijsko i invalidsko osiguranje (uključujući dodatni doprinos za staž s povećanim trajanjem), osnovno zdravstveno osiguranje i osiguranje od nezaposlenosti (čl. 4). Obračunavaju se iz plaće radnika i na plaće na teret poslodavca (čl. 4 st. 2).",
+   "Najviše stope iz osnovice (na teret radnika): 17,00% PIO, 12,50% zdravstveno, 1,50% nezaposlenost; na teret poslodavca: 2,50% PIO, 2,00% zdravstveno, 0,50% nezaposlenost (čl. 10). Stope koje utvrđuju nadležni organi ne mogu biti veće od ovih (čl. 1).",
+   "Osnovicu čine plaća zaposlenika i naknade plaće: za prekid rada koji nije prouzrokovao zaposlenik, za praznike, godišnji odmor, odsustvo po zakonu ili kolektivnom ugovoru, obrazovanje, privremenu spriječenost zbog bolesti do 42 dana te povredu na radu i profesionalnu bolest na teret poslodavca (čl. 6). Osnovica ne može biti niža od najniže plaće utvrđene posebnim propisom (čl. 7).",
+   "Radnik zaposlen na nepuno radno vrijeme do četiri sata ili manje: osnovica je plaća srazmjerna ugovorenom vremenu, ali ne manje od 50% najniže plaće (čl. 7 st. 2).",
+   "Doprinosi se obračunavaju pri obračunu plaće i dospijevaju za plaćanje istovremeno sa isplatom plaće (čl. 11 st. 4). Ako plaća za prethodni mjesec nije isplaćena, doprinose treba obračunati i uplatiti najkasnije do posljednjeg dana mjeseca u kojem je plaća dospjela (čl. 11 st. 5, 6). Prava osiguranika se ne umanjuju ako poslodavac nije uplatio doprinose (čl. 11).",
+   "Pri svakoj isplati radnik dobija obračun plaće s doprinosima, porezom i iznosom za isplatu; podaci o uplaćenim doprinosima, porezu i plaći dostavljaju se radniku i Poreznoj upravi do kraja januara za proteklu godinu (čl. 11 st. 2, 3). Specifikaciju o uplati doprinosa i poreza i isplati dostavlja se Poreznoj upravi najkasnije narednog dana od isplate (čl. 11a).",
+   "Dodatni doprinos za PIO za radna mjesta na kojima se staž računa s povećanim trajanjem: 2% (12 mjeseci rada se računa kao 14), 3% (kao 15) i 6% (preko 15 mjeseci) (čl. 10 st. 1 tač. 3).",
+   "Na neplaćene doprinose plaća se kamata za svaki dan zakašnjenja (čl. 13). Kontrolu vrši Porezna uprava FBiH (čl. 14), koja u slučaju neplaćanja donosi rješenje o prinudnoj naplati s bilo kojeg računa isplatioca plaća i iz cjelokupne imovine (čl. 14a).",
+   "Kazne: 2.000 do 10.000 KM za poslodavca koji ne obračuna doprinose pri obračunu plaće ili ih obračuna suprotno čl. 7, uz 500 do 2.000 KM za odgovorno lice (čl. 15); 1.000 do 5.000 KM ako ne uplati doprinose istovremeno sa isplatom plaće ili ne dostavi specifikaciju Poreznoj upravi u roku (čl. 16). Za ponovljeni prekršaj može se izreći i zabrana obavljanja djelatnosti do godinu dana (čl. 17a)."
+  ],
+  "forestry": [
+   "Isplatilac primanja po osnovu povremenog nesamostalnog rada i drugih vrsta samostalne djelatnosti je obveznik obračuna doprinosa, a doprinosi se obračunavaju prije isplate i dospijevaju istovremeno sa isplatom primanja (čl. 5, 11 st. 7). To je relevantno za sezonske i povremene angažmane.",
+   "Za radna mjesta na kojima se staž računa s povećanim trajanjem (14, 15 ili preko 15 mjeseci za 12 mjeseci rada) plaća se dodatni doprinos 2%, 3% odnosno 6% (čl. 10 st. 1 tač. 3); tekst ne navodi koja radna mjesta spadaju u te kategorije.",
+   "Obveznici doprinosa su i fizička lica koja se bave poljoprivredom i šumarstvom kao jedinim ili glavnim zanimanjem (čl. 5, čl. 8 st. 2); to se ne odnosi na uposlenike preduzeća."
+  ],
+  "caution": "Tekst sadrži najviše stope; stvarne stope utvrđuju nadležni organi (čl. 1). Neki iznosi i koeficijenti vezuju se za prosječnu plaću i godišnje objave Federalnog ministarstva finansija (čl. 6a, 20), koji nisu u fajlu. Odredbe čl. 6 tačka 10 i čl. 20a (rudnici, tekstil, koža, obuća) ne odnose se na šumarstvo ni preradu drveta."
+ },
+ "fbih-zakon-o-javnim-preduzecima": {
+  "overview": "Uređuje upravljanje i poslovanje javnih preduzeća: organe, nadzorni odbor i upravu, reviziju, plan poslovanja, sukob interesa, nabavke, raspodjelu dobiti, zabranjene aktivnosti te kazne. Javno preduzeće je privredno društvo koje obavlja djelatnost od javnog društvenog interesa ili je posebnim propisom definisano kao javno preduzeće (čl. 2).",
+  "points": [
+   "Javno preduzeće se organizuje kao dioničko društvo ili društvo s ograničenom odgovornošću (čl. 3) i mora na svojoj internet stranici objaviti informacije o organizacionoj strukturi, finansijskom poslovanju i upravnim poslovima iz javnih ovlaštenja (čl. 2 st. 3).",
+   "Organi su skupština, nadzorni odbor, uprava i odbor za reviziju (čl. 5). Nadzorni odbor ima najmanje tri člana (čl. 9); skupština donosi poslovnike, etički kodeks i plan poslovanja i najmanje jednom godišnje podnosi izvještaj općinskom vijeću, skupštini kantona odnosno Parlamentu Federacije (čl. 6). Uprava se bira na osnovu javnog konkursa, a u upravu ne mogu biti imenovani funkcioneri političkih stranaka (čl. 12).",
+   "Uprava izrađuje trogodišnji plan poslovanja (prihodi i rashodi, kapitalni izdaci, zajmovi, garancije, kadrovska popuna i dr.), godišnje ga razmatra i po potrebi revidira (čl. 22, 23, 24). Neusvajanje plana ili nepoštivanje čl. 24 kažnjava se sa 5.000 do 15.000 KM (čl. 47).",
+   "Odjel za internu reviziju formira se u javnim preduzećima koja zapošljavaju više od 100 radnika; u manjim preduzećima formira se odbor za reviziju i angažuje nezavisni revizor (čl. 27 st. 2). Uprava je dužna provoditi preporuke odbora za reviziju u rokovima koje odbor odredi (čl. 29).",
+   "Sukob interesa: povezano lice (zaposlenik, član nadzornog odbora i odbora za reviziju, vlasnik najmanje 10% glasačkih prava i njihove uže porodice do trećeg stepena srodstva) mora izbjegavati sukob interesa; preduzeće ne smije povezanim licima nuditi povoljnije uvjete i niko ne smije odavati poslovnu tajnu (čl. 14). Povezano lice dužno je prijaviti saznanje o materijalnom kršenju propisa (čl. 18). Nadzorni odbor priprema etički kodeks (čl. 20).",
+   "Nabavke se provode strogo po Zakonu o javnim nabavkama BiH; uprava donosi provedbeni propis o nabavci i izvještava odbor za reviziju u roku od 15 dana i nadzorni odbor u roku od 30 dana od zaključenja ugovora (čl. 34, 35).",
+   "Zabranjeno je između ostalog: davanje kredita i pozajmica zaposlenima ili trećim licima, isplata plaća zaposlenima na listi čekanja, isplata plaća bez uplate doprinosa i poreza, prihvat plaćanja u naturi, te zaključenje ugovora vrijednosti veće od 10.000,00 KM bez potpisa direktora i odgovornog člana uprave (čl. 41). Cesija duga, prebijanje dugova i otpis potraživanja moraju imati pisano ovlaštenje nadzornog odbora (čl. 42).",
+   "Raspodjelu dobiti odlučuje skupština na prijedlog uprave uz mišljenja odbora za reviziju i nadzornog odbora; uprava ne smije izdvojiti za rezerve više od polovine neto dobiti raspoložive za raspodjelu (čl. 39, 40).",
+   "Zaposlenik može biti razriješen samo po okončanju disciplinskog postupka (čl. 46), osim po skraćenom postupku za odgovorna lica iz čl. 44. Otpuštenom licu se brani ulazak u prostorije, ponovno zapošljavanje najmanje dvije godine, kao i isplata bilo kakve naknade od trenutka kršenja radne dužnosti (čl. 45 st. 1).",
+   "Kazne: 5.000 do 15.000 KM za privredni prijestup (npr. izostanak etičkog kodeksa, plana poslovanja, nepravilno imenovanje odbora za reviziju) (čl. 47); 13.000 do 17.000 KM za prekršaj (nabavke mimo zakona, zabranjene aktivnosti iz čl. 41, ograničene aktivnosti bez pisanog ovlaštenja, raspodjela dobiti suprotno čl. 37 do 39); odgovorno lice do 1.700 KM (čl. 49)."
+  ],
+  "forestry": [
+   "Zakon se primjenjuje na ŠPD ako ono ispunjava definiciju iz čl. 2 (privredno društvo koje obavlja djelatnost od javnog društvenog interesa ili je posebnim propisom određeno kao javno preduzeće); djelatnosti od javnog interesa utvrđuju općina, kanton i Federacija u okviru svojih nadležnosti (čl. 2 st. 2).",
+   "Preduzeće s više od 100 radnika (ŠPD ima preko 650) mora imati odjel za internu reviziju (čl. 27 st. 2).",
+   "Otpuštanje i zapošljavanje radnika odvija se po postupcima iz poslovnika i važećih zakona (čl. 11 tač. f); razrješenje samo nakon disciplinskog postupka, osim skraćenog (čl. 44, 46). Zabranjene su isplate plaće bez uplate doprinosa i poreza i plaće zaposlenima na listi čekanja (čl. 41 tač. c, d).",
+   "Svi postupci nabavke vezuju se za Zakon o javnim nabavkama BiH i provedbeni propis preduzeća (čl. 34, 35), a ugovori preko 10.000,00 KM zahtijevaju potpis direktora i odgovornog člana uprave (čl. 41 tač. i)."
+  ],
+  "caution": "Primjenjivost zavisi od toga je li ŠPD javno preduzeće u smislu čl. 2; fajl to ne utvrđuje. Tekst upućuje na starija izdanja Zakona o javnim nabavkama BiH (Sl. glasnik BiH 49/04 i dr.) i Zakona o privrednim društvima, pa treba provjeriti važeće verzije. Čl. 51 st. 4 predviđa uredbu Vlade o načelima iz čl. 2a (rok 30.06.2012), čiji status fajl ne navodi."
+ },
+ "fbih-zakon-o-slobodi-pristupa-informacijama": {
+  "overview": "Daje svakom fizičkom i pravnom licu pravo pristupa informacijama pod kontrolom javnog organa, uz izuzetke i test javnog interesa. Javni organ uključuje i pravno lice u vlasništvu ili pod kontrolom Federacije, kantona, općine ili grada (čl. 3, 4).",
+  "points": [
+   "Svako fizičko i pravno lice ima pravo pristupa informacijama, a javni organ obavezu da ih saopći; pravo se može ograničiti samo prema ovom zakonu (čl. 4). Javni organ je između ostalih i pravno lice u vlasništvu ili pod kontrolom Federacije, kantona, općine ili grada (čl. 3 tač. 2).",
+   "Zahtjev je u pisanom obliku, na jednom od službenih jezika, s dovoljno podataka o informaciji, te imenom i adresom podnosioca; organ nije ovlašten ispitivati opravdanost niti tražiti obrazloženje zahtjeva (čl. 11).",
+   "Rješenje o zahtjevu donosi se najkasnije 15 dana od prijema zahtjeva (čl. 14 st. 6). Ako zahtjev ne ispunjava formalne uvjete, organ rješenjem obavještava podnosioca najkasnije u roku od osam dana (čl. 12); nenadležni organ zahtjev prosljeđuje nadležnom u roku od osam dana (čl. 13).",
+   "Izuzeci se utvrđuju za svaki slučaj posebno: odbrana i sigurnost, sprečavanje kriminala, zaštita postupka donošenja odluka (ne obuhvata činjenične, statističke, naučne ili tehničke informacije) (čl. 6), povjerljivi komercijalni interesi treće strane (čl. 7), privatnost trećeg lica (čl. 8). Informacija se ipak saopćava ako je to opravdano javnim interesom (čl. 9); djelimično izuzete informacije razdvajaju se i saopćava se ostatak (čl. 10).",
+   "Kod povjerljivih komercijalnih interesa treće strane, organ je pisano obavještava, a ona u roku od 15 dana odgovara smatra li informaciju povjerljivom i zašto; ako ne odgovori, informacija se saopćava (čl. 7). Rok od 15 dana za odluku se tada produžava (čl. 14 st. 6).",
+   "Odbijanje pristupa: rješenje navodi zakonski osnov izuzeća i pouku o pravnom lijeku; prigovor rukovodiocu organa u roku od osam dana, a rješenje po prigovoru je konačno, uz mogućnost upravnog spora (čl. 14 st. 3 do 5).",
+   "Ne naplaćuje se naknada ni taksa za zahtjev, rješenje ili obavještenje; naplaćuju se samo troškovi umnožavanja, a prvih deset stranica standardne fotokopije je besplatno (čl. 16).",
+   "Javni organ određuje službenika za informiranje i njegove podatke dostavlja ombudsmenu (čl. 19). Organ objavljuje Vodič za pristup informacijama, Indeks registar, tromjesečne statističke podatke (Parlamentu Federacije i ombudsmenu) i godišnji izvještaj (čl. 20).",
+   "Lične informacije: svako lice ima pravo tražiti izmjenu netačnih informacija i dati primjedbe (čl. 17). Zahtjev za ličnu informaciju može podnijeti samo lice na koje se odnosi, zakonski zastupnik ili pisano ovlašteno lice, uz lični dokument (čl. 11 st. 3).",
+   "Za kršenje zakona primjenjuju se sankcije iz krivičnih zakona, zakona o prekršajima i zakona iz oblasti uprave (čl. 25 st. 4)."
+  ],
+  "forestry": [
+   "Ako je ŠPD pravno lice u vlasništvu ili pod kontrolom kantona (čl. 3 tač. 2), ima obavezu imenovati službenika za informiranje i objaviti Vodič i Indeks registar (čl. 19, 20); zakon sam ne navodi izričito javna preduzeća.",
+   "Ugovori, cijene i poslovni podaci u vezi s kupcima i izvođačima mogu sadržavati povjerljive komercijalne interese treće strane: u tom slučaju postupak iz čl. 7 (obavještenje trećoj strani, 15 dana) i test javnog interesa iz čl. 9 produžava rok odlučivanja (čl. 14 st. 6)."
+  ],
+  "caution": "Fajl ne navodi izričito da su javna preduzeća obuhvaćena; zaključak da ŠPD potpada pod pojam javnog organa temelji se na čl. 3 tač. 2 (pravno lice u vlasništvu ili pod kontrolom kantona) i treba ga potvrditi. Tekst upućuje na Zakon o upravnom postupku iz 1998/1999 (čl. 25), čija važeća verzija nije u fajlu."
+ },
+ "usk-zakon-o-sumama": {
+  "overview": "Osnovni zakon o šumama Unsko-sanskog kantona (Sl. glasnik USK 22/12) uređuje planiranje i gospodarenje državnim i privatnim šumama, doznaku, sječu, promet drveta, zaštitu šuma, naknade, čuvarsku službu i inspekcijski nadzor. Odnosi se na korisnika državnih šuma (ŠPD „Unsko-sanske šume“), vlasnike privatnih šuma, kantonalno ministarstvo, Upravu za šumarstvo i sva lica koja sijeku ili stavljaju drvo u promet.",
+  "points": [
+   "Šumama se gospodari po šumskoprivrednoj osnovi (izrađuje se za 10 godina), godišnjem planu realizacije i projektu za izvođenje; odredbe osnove su obavezne, a ukupan obim sječa za uređajni period ne smije se prekoračiti (čl. 9). Bez osnove se najduže četiri godine može gospodariti po godišnjem planu gospodarenja (čl. 9).",
+   "Korisnik šuma dostavlja Ministarstvu godišnji plan realizacije najkasnije do 01.12. tekuće za narednu godinu; Ministarstvo ga donosi u roku od 30 dana, a radovi se ne mogu započeti prije toga (čl. 12). Usvojeni plan se u roku od 15 dana dostavlja Federalnoj upravi, kantonalnoj šumarskoj inspekciji i općini (čl. 12).",
+   "Na području Kantona posluje jedno ŠPD, „Unsko-sanske šume“ d.o.o. Bosanska Krupa (korisnik šuma), kojem Ministarstvo ugovorom prenosi gospodarenje državnim šumama. Korisnik ne može prava iz ugovora prenositi na treća lica (čl. 51).",
+   "Čiste sječe i pustošenje šuma nisu dozvoljene, osim u posebnim slučajevima (čl. 20). Površine nastale čistom sječom i paljevinom moraju se pošumiti u roku od dvije godine (čl. 21).",
+   "Naknada za korištenje državnih šuma iznosi 9% prihoda od sječe (po cijeni na panju) i prodaje nedrvnih proizvoda (čl. 53). Uplaćuje se tromjesečno, u roku od 30 dana po isteku tromjesečja: 4% Budžetu Kantona i 5% jedinici lokalne samouprave (čl. 67).",
+   "Krčenje šume i promjena namjene zemljišta su zabranjeni; dozvoljeni su samo za objekte iz prostornog plana, uz rješenje Ministarstva i prethodnu uplatu naknade. Dozvola važi dvije godine (čl. 59). Davanje šuma u zakup je zabranjeno, uz izuzetke (čl. 61).",
+   "Zabranjeno je pomjerati drvo od panja prije žigosanja, obrojčavanja, premjeravanja i evidentiranja, te stavljati ga u promet bez otpremnog iskaza (čl. 26). Čuvari šuma su ovlaštene službene osobe s pravom pregleda prevoza, legitimisanja i privremenog oduzimanja drveta (čl. 65).",
+   "Prekršajne kazne za korisnika šuma i pravna lica kreću se od 3.000 do 10.000 KM, za odgovorna lica od 500 do 2.000 KM, a za fizička lica od 200 do 1.500 KM (čl. 78, 79, 80, 81). Šumarski inspektor može privremeno obustaviti sječu i zabraniti rad pravnom licu (čl. 74)."
+  ],
+  "forestry": [
+   "Doznaku u državnim šumama vrši dipl. inžinjer/master šumarstva sa stručnim ispitom kojeg odredi korisnik šuma; za sanitarnu sječu i izdanačke šume može i bačelor ili šumarski tehničar s najmanje pet godina iskustva. Doznaka i sječa nisu dozvoljene gdje imovinsko-pravni odnosi nisu riješeni, a granice nisu vidno obilježene (čl. 14).",
+   "Stabla se smiju sjeći tek nakon doznake i donošenja projekta za izvođenje, uz obavještenje Upravi za šumarstvo. Šteta na zemljištu mora se sanirati odmah po završetku izvlačenja, a inspektor zabranjuje radove koji nisu u skladu s osnovom (čl. 15).",
+   "Projekat za izvođenje izrađuje se po odjelu; radovi se moraju izvršiti u roku od dvije godine, a projekat donosi korisnik šuma. Realizator projekta je dipl. inžinjer/bačelor šumarstva sa stručnim ispitom, a vodi se i registar projekata (čl. 13).",
+   "Tehnički prijem radova obavlja se najkasnije u roku od 30 dana od okončanja radova, a zahtjev se podnosi u roku od pet dana od završetka. Prijem pošumljavanja (kolaudacija) vrši se nakon dvije godine (čl. 17).",
+   "Korisnik šuma obezbjeđuje sanitarne sječe, mjere zaštite (feromonske klopke, lovna stabla, guljenje kore) i uspostavljanje šumskog reda (čl. 24). Dužan je izvršavati biološku reprodukciju najmanje u obimu iz osnove (čl. 16) i izraditi plan obnove nakon nepogode (čl. 25).",
+   "Evidencije o izvršenim radovima korisnik šuma dostavlja Upravi za šumarstvo do 28. februara za prethodnu godinu (čl. 52). Podatke o prikupljenim nedrvnim proizvodima dostavlja do 28. februara (čl. 37). Osnovni cjenovnik sortimenata donosi do 31. decembra za narednu godinu (čl. 12).",
+   "Zabranjeno je loženje otvorene vatre u šumi i do 150 m od šume (čl. 33). Pašarenje je zabranjeno, osim uz dozvolu na površinama iz osnove i pod nadzorom čuvara stoke (čl. 35). Zabrana saobraćaja vozila u šumi ima izuzetke za gospodarenje šumama (čl. 41).",
+   "Izmjene iz 2016. i 2017. prebacile su dio nadležnosti na korisnika šuma: čuvanje šuma, naknadu štete od bespravne sječe i izradu osnova za državne šume (vidi rezimee tih izmjena)."
+  ],
+  "wood": [
+   "Zabranjeno je pomjerati drvo od panja dok se ne žigoše, obrojči, premjeri i evidentira, i stavljati ga u promet bez otpremnog iskaza. Odnosi se i na drvo izvan šume: poljoprivredno zemljište, međe, pojedinačna stabla (čl. 26).",
+   "Žigosanje, obrojčavanje, premjeravanje, evidentiranje i izdavanje otpremnog iskaza za drvo iz državnih šuma vrši korisnik šuma. Za drvo iz privatnih šuma i izvan šume to vrši Uprava za šumarstvo ili pravno lice za stručne poslove u privatnim šumama (čl. 26).",
+   "Promet obuhvata prevoz, kupovinu, prodaju, poklon, skladištenje i primanje drveta u prerađivačke kapacitete, pa se obaveze iz čl. 26 odnose i na prerađivače (čl. 26 stav 4).",
+   "Od 1. aprila do 1. novembra drvo četinara i brijesta ne smije se sa korom stavljati u promet i skladištiti. Izuzetak je kad period od sječe do otpreme traje kraće od ciklusa razvoja insekta, najduže 21 dan (čl. 26 st. 8 i 9).",
+   "Čuvari šuma pregledaju porijeklo drveta u pogonima za preradu i na svim mjestima gdje se drvo skladišti, te zaustavljaju prevoz i pregledaju dokumentaciju. Svako lice mora na zahtjev pokazati lične isprave i isprave za drvo (čl. 65 st. 6 i 8).",
+   "Drvo i nedrvni proizvodi stavljeni u promet suprotno čl. 26 privremeno se oduzimaju (čuvari, policija, inspektori). Pokvarljivu robu prodaje Uprava za šumarstvo licitacijom (čl. 26 stav 6).",
+   "Sortimente iz državnih šuma prodaje se po Uredbi Vlade kantona o načinu prodaje (čl. 51 stav 8). Osnovni cjenovnik služi kao početna cijena za javnu ponudu (čl. 12 stav 4).",
+   "Kazne za promet drva bez žigosanja i otpremnog iskaza: pravno lice 3.000–6.000 KM, odgovorno lice 500–1.000 KM, fizičko lice 200–1.500 KM. Neevidentiranje i promet suprotno pravilniku iz čl. 26 st. 10 kažnjava se 6.000–8.000 KM (čl. 79, 80, 81)."
+  ],
+  "caution": "Zakon je izmijenjen 2016. i 2017. (zasebni fajlovi u bazi), a prema napomeni i 2023. i 2026., čiji tekstovi nisu u bazi. Izmijenjeni su među ostalim čl. 10, 26, 50, 64, 65, 66, 69 i dodan novi član 91a, pa ovaj osnovni tekst ne daje važeće stanje. Izmjene iz 2016. mijenjaju, između ostalog, nadležnost za čuvanje šuma i naknadu štete, dok se čl. 65 u ovom tekstu odnosi na Upravu za šumarstvo."
+ },
+ "usk-zakon-izmjene-dopune-2016": {
+  "overview": "Zakon o izmjenama i dopunama Zakona o šumama (Skupština USK, 13.10.2016.) mijenja 11 članova osnovnog zakona i dodaje novi član 91a. Najvažnije je prebacivanje poslova čuvanja šuma i naknade štete s Uprave za šumarstvo na korisnika šuma te novi režim za privatne šume.",
+  "points": [
+   "Čl. 26 osnovnog zakona: umjesto „Uprava za šumarstvo“ stavlja se „korisnik šuma“, a umjesto „Budžeta kantona“ „korisnika šuma“ (stav 6). Prihod od prodaje zaplijenjene robe sada ide na račun korisnika šuma (stav 11) (čl. 1).",
+   "Čl. 27 st. 9: poslije „Uprave za šumarstvo“ dodaje se „korisnika šuma“ (čl. 2). Čl. 41 st. 3: brišu se riječi „širima od dva metra“ (čl. 3).",
+   "Čl. 44 st. 2: državnim šumama i šumskim zemljištima upravljaju kantonalno ministarstvo i jedinice lokalne samouprave (čl. 4). Čl. 49 st. 4: umjesto „Uprava za šumarstvo“ stavlja se „korisnik šuma“ (čl. 5).",
+   "Čl. 50 (privatne šume) je u cjelini izmijenjen: vlasnik ugovorom, uz naknadu, prenosi stručne poslove upravi za šumarstvo ili pravnom licu registrovanom za šumarstvo. Naknada iznosi najviše 10% cijene na panju posječenih sortimenata, a visinu utvrđuje ministarstvo (čl. 6).",
+   "Čl. 64 st. 1 tačka a) se briše (čl. 7), čl. 66 st. 2 tač. j) i k) se brišu (čl. 9) i čl. 69 st. 1 tačka a) se briše (čl. 10). Čl. 70 je zamijenjen: jedinice lokalne samouprave koriste sredstva iz čl. 67 st. 1 tač. b) u skladu sa svojim potrebama (čl. 11).",
+   "Čl. 65: obaveza čuvanja šuma prelazi sa Ministarstva/Uprave na korisnika šuma (stav 1), a u stavu 2 „Uprave za šumarstvo“ zamjenjuje se „šumskoprivrednog društva“ (čl. 8).",
+   "Novi novi član 91a: zaposleni u kantonalnoj upravi za šumarstvo na poslovima neposredne zaštite šuma preuzimaju se i raspoređuju u šumskoprivredna društva bez javnog poziva. Ministarstvo mora u roku od šest mjeseci uskladiti provedbene propise, a zakon o organizaciji kantonalnih organa u istom roku (čl. 12).",
+   "Zakon stupa na snagu osmog dana od dana objavljivanja u Službenom glasniku USK (čl. 13)."
+  ],
+  "forestry": [
+   "Korisnik šuma (ŠPD) dužan je nadoknaditi štetu nastalu nezakonitom sječom na području koje mu je dato na gospodarenje, bez obzira na počinioca i količinu posječene mase (novi čl. 65 st. 3, čl. 8).",
+   "Rješenje o naknadi štete donosi šumarski inspektor prema odštetnom cjenovniku iz čl. 26 st. 13, a šteta se uplaćuje na račun Budžeta Kantona (novi čl. 65 st. 4, čl. 8).",
+   "Čuvanje državnih šuma i radnici čuvarske službe prelaze na ŠPD: zaposleni na poslovima neposredne zaštite šuma preuzimaju se bez javnog poziva prema stručnoj spremi i radnom iskustvu (novi član 91a st. 1, čl. 12). Rok je kasnije produžen izmjenom iz 2017.",
+   "Za privatne šume stručni poslovi obuhvataju doznaku, žigosanje šumskim čekićem, premjeravanje, evidentiranje, izdavanje otpremnog iskaza, planiranje uzgojnih radova, stručni nadzor, savjetodavne poslove i zaštitu šuma (čl. 50 st. 6, čl. 6).",
+   "Uprava za šumarstvo i pravno lice registrovano za šumarstvo vode evidencije o izvršenim radovima, upisane za prethodnu godinu do 01. februara. Pravno lice evidencije dostavlja ministarstvu do 28. februara (čl. 50 st. 8, čl. 6).",
+   "Projekat za izvođenje u privatnim šumama donosi Uprava za šumarstvo ili pravno lice na koje su preneseni stručni poslovi (čl. 50 st. 9, čl. 6). Ministar donosi pravilnik o registru evidencija za privatne šume (čl. 50 st. 10, čl. 6)."
+  ],
+  "wood": [
+   "Za privatne šume otpremni iskaz i žigosanje spadaju u stručne poslove koje vlasnik prenosi ugovorom uz naknadu do 10% cijene na panju sortimenata (čl. 50 st. 4–6, čl. 6).",
+   "Naknada za stručne poslove u privatnim šumama uplaćuje se kao namjenski prihod kantona ili pravnom licu s kojim je sklopljen ugovor (čl. 50 st. 7, čl. 6).",
+   "Izmjena čl. 26 st. 6 i 11: sredstva od licitacione prodaje zaplijenjene robe i naknade štete u državnim šumama idu na račun korisnika šuma, a ne na račun Budžeta kantona (čl. 1)."
+  ],
+  "caution": "Izmjena mijenja osnovni zakon, pa se čita zajedno s njim i s izmjenom iz 2017., koja je promijenila novi član 91a (rok od šest na dvanaest mjeseci). Zakon je mijenjan i 2023. i 2026., a ti tekstovi nisu u bazi. Izmjene se pozivaju na brojeve članova iz izvornog zakona 22/12."
+ },
+ "usk-zakon-izmjena-2017": {
+  "overview": "Kratki zakon o izmjeni Zakona o šumama (Skupština USK, 19.06.2017., skraćeni postupak) mijenja način izrade šumskoprivrednih osnova (čl. 10 st. 1) i produžava rok iz novi član 91a. Odnosi se na korisnika šuma i pravna lica koja izrađuju osnove.",
+  "points": [
+   "Čl. 10 st. 1 osnovnog zakona zamjenjuje se novim tekstom: osnove za državne šume izrađuje korisnik šuma koji posjeduje certifikat ili saglasnost nadležnog organa (čl. 1).",
+   "Za privatne šume osnove izrađuje pravno lice registrovano po Zakonu o registraciji privrednih subjekata, s certifikatom nadležne institucije, izabrano po Zakonu o javnim nabavkama (čl. 1).",
+   "Ako se pojedine usluge izrade osnove za državne šume pribavljaju od drugog pravnog lica, to se radi u postupku javne nabavke (čl. 1).",
+   "U novi član 91a riječi „šest mjeseci“ zamjenjuju se riječima „dvanaest mjeseci“ (čl. 2).",
+   "Zakon stupa na snagu osmog dana od dana objavljivanja u Službenom glasniku USK (čl. 3)."
+  ],
+  "forestry": [
+   "ŠPD kao korisnik šuma izrađuje osnove za državne šume ako posjeduje certifikat ili saglasnost nadležnog organa. Usluge drugog pravnog lica pribavljaju se javnom nabavkom (čl. 1).",
+   "Rok od 12 mjeseci iz novi član 91a odnosi se na preuzimanje zaposlenika kantonalne uprave na poslovima neposredne zaštite šuma u ŠPD, bez javnog poziva (čl. 2)."
+  ],
+  "caution": "Pozivanje na novi član 91a vrijedi tek uz izmjenu iz 2016. koja taj član dodaje. Zakon je mijenjan i 2023. i 2026., a ti tekstovi nisu u bazi."
+ },
+ "usk-pravilnik-doznaka": {
+  "overview": "Pravilnik kantonalnog ministra (08.10.2012.) propisuje odabiranje, doznaku i sječu stabala ili površina za sječu u šumama USK. Odnosi se na doznačare, korisnika šuma i izvođače sječe.",
+  "points": [
+   "Odabiranje, doznaka i sječa mogu se vršiti samo na površinama gdje su riješeni imovinsko-pravni odnosi (čl. 2). Radi se u skladu s tehničkim ciljem gospodarenja iz osnove (čl. 3).",
+   "Sječa nije dopuštena bez prethodnog odabiranja i obilježavanja stabala ili površina te bez rješenja i projekta za izvođenje (čl. 4).",
+   "Doznaka stabala obuhvata zatesivanje na žilištu i na prsnoj visini, obrojčavanje, premjerbu prsnih prečnika, upis u doznačnu knjigu i otisak doznačnog čekića na oba zatesa. Boja doznake mijenja se početkom svake kalendarske godine (čl. 5).",
+   "U knjigu doznake upisuju se stabla samo jednog odjela, osim sanitarnih užitaka. Knjige moraju biti obrojčane i upisane u registar (čl. 5).",
+   "Čiste sječe u izdanačkim šumama, plantažama, makijama i šikarama obilježavaju se graničnim stablima prstenom širine 4 cm na 1,30 m. Granična stabla se ne smiju sjeći (čl. 6). Kod njege mladih sastojina stabla od 7–15 cm obilježavaju se tačkasto bojom (čl. 7).",
+   "Sječa ide, po pravilu, uz brdo, a izuzetak je dozvoljen radi sigurnosti ljudi, zaštite sastojine ili stabla (čl. 8). Panj može biti najviše 1/3 prečnika panja (čl. 9).",
+   "Pri izradi sortimenata prednost se daje vrednijim sortimentima i moraju se poštovati standardi kvaliteta i dimenzija (čl. 10)."
+  ],
+  "forestry": [
+   "Doznačar mora upisati sva doznačena stabla u obrojčanu doznačnu knjigu jednog odjela i staviti otisak čekića različite boje od boje premjerbe (čl. 5).",
+   "Bez doznake, rješenja i projekta za izvođenje sječa je zabranjena (čl. 4). Imovinsko-pravni odnosi na površini moraju biti riješeni (čl. 2).",
+   "Čista sječa se obilježava prstenovima na graničnim stablima koja moraju biti međusobno vidljiva (čl. 6)."
+  ],
+  "wood": [
+   "Nakon sječe se prednost daje izradi vrednijih sortimenata, uz poštovanje standarda kvaliteta i dimenzija (čl. 10).",
+   "Obrojčavanje i otisak čekića pri doznaci povezuju stablo s kasnijim prijemom i otpremom (čl. 5)."
+  ],
+  "caution": "Pravilnik je donesen na osnovu čl. 14 st. 8 Zakona o šumama iz 2012. i prije izmjena zakona (2016, 2017, 2023, 2026), pa provjeriti važeće stanje."
+ },
+ "usk-pravilnik-sumski-red": {
+  "overview": "Pravilnik kantonalnog ministra (08.10.2012.) propisuje obim mjera za uspostavljanje i održavanje šumskog reda i način njihovog provođenja pri sječi i izvozu. Odnosi se na korisnika šuma, izvođače radova i vlasnike privatnih šuma.",
+  "points": [
+   "Šumski red su mjere protiv požara, štetnih insekata i bolesti, štetnog djelovanja vjetra i snijega, oštećivanja stabala pri sječi i izvozu, te zaštite podmlatka i zemljišta (čl. 1).",
+   "U šumi i do 100 m od ruba šume zabranjeno je odlaganje i paljenje smeća, piljevine, pilanskih otpadaka i zagađujućih tvari (čl. 2).",
+   "Zaražena, oštećena ili izvaljena stabla (sanitarni užitci) moraju se posjeći i izraditi. Ona nastala u toku zime do 30. aprila, a poslije toga do kraja tekuće godine (čl. 3).",
+   "Stabla se obaraju tamo gdje čine najmanje štete, a na strmim terenima uzbrdo, uz strelicu koju doznačar obilježava. U mladicima je obavezno kresanje grana s donjeg dijela krošnje (čl. 4).",
+   "Koranje oblovine i panjeva četinara i brijesta je obavezno od 1. aprila do 1. novembra. Granje i ovršci (ispod 7 cm) slažu se u gomile, a kod lišćara skraćuju do 1 m i razbacuju (čl. 5).",
+   "Zabranjeno je formiranje gomila na pomlatku, uz živa stabla, u vodotocima, iznad izvorišta i bliže od 10 m od saobraćajnica (čl. 5). Prostorno drvo se ne slaže uz živa stabla, na pomlatku, u vodotocima i iznad izvorišta (čl. 6).",
+   "Pri radu motornim pilama dozvoljena su samo biorazgradljiva ulja i maziva (čl. 8)."
+  ],
+  "forestry": [
+   "Izvoz drveta ide samo po prethodno obilježenim i izgrađenim vlakama. Zabranjeno je silaziti s vlaka, a vlake se nakon radova saniraju (čl. 9).",
+   "Lagerovanje oblovine i cijepanih sortimenata dozvoljeno je samo na mjestima predviđenim projektom za izvođenje (čl. 9).",
+   "Visina panja najviše je jedna trećina promjera, a na strmini se mjeri s gornje strane (čl. 7). Dijelovi stabala bez sortimenta prerezuju se i osiguravaju (čl. 7).",
+   "Prijem sortimenata u sječi moguć je tek nakon uspostavljanja šumskog reda po čl. 3, 4, 5, 6 i 7. Poremećeni red mora se ponovo uspostaviti (čl. 10)."
+  ],
+  "wood": [
+   "Primanje sortimenata u sječi vezano je za uspostavljen šumski red, što je preduslov za dalju otpremu (čl. 10).",
+   "Drvo četinara i brijesta mora se okoriti od 1. aprila do 1. novembra (čl. 5). Zakon zabranjuje promet takvog drveta s korom u tom periodu, uz izuzetak (čl. 26 zakona)."
+  ],
+  "caution": "Čl. 1 navodi da se pravilnik sprovodi u svim šumama na teritoriji Federacije BiH, iako ga je donio kantonalni ministar na osnovu čl. 24 st. 8 zakona iz 2012."
+ },
+ "usk-pravilnik-pasa-sekundarni": {
+  "overview": "Pravilnik kantonalnog ministra (08.10.2012.) propisuje uslove za pašu, žirenje, brst, kresanje grana i lisnika, skupljanje šušnja i mahovina (pašarenje) u šumama USK. Odnosi se na šumskoprivredna društva, vlasnike stoke i privatne vlasnike šuma.",
+  "points": [
+   "Šumskoprivredna društva koja gospodare državnim šumama donose za svaku godinu plan pašarenja (čl. 2).",
+   "Pašarenje je zabranjeno u visokim šumama s prirodnom obnovom i u mladim kulturama visine do 2 metra (čl. 3).",
+   "ŠPD može dozvoliti pašarenje na površinama predviđenim šumskoprivrednom osnovom, ali ne i pašu i brst koza u visokim prirodnim šumama i kulturama (čl. 4). Kantonalno ministarstvo može pod istim uslovima dozvoliti pašarenje u privatnim šumama (čl. 4).",
+   "Zahtjev za odobrenje podnosi se ŠPD-u i sadrži mjesto, vrijeme, vrstu i broj grla i karakteristike područja (čl. 7, 8). Odobrenje se izdaje u roku od 30 dana (čl. 9).",
+   "Uz odobrenje vlasnik stoke uplaćuje naknadu ŠPD-u, a cijene određuje ŠPD (čl. 10)."
+  ],
+  "forestry": [
+   "Ako osnova ne određuje površine za pašarenje, ŠPD ih određuje i obilježava, vodeći računa o zaštiti ugroženih vrsta i biodiverziteta (čl. 5).",
+   "U odjelima visokih šuma s prirodnom obnovom ŠPD obilježava staze za kretanje stoke. Stoka se kreće i pase pod stalnim nadzorom čobana (čl. 6).",
+   "Podnosilac u zahtjevu navodi izgradnju torova, koliba, štala, pojila, staza i mjesto za otvorenu vatru ako ne postoje (čl. 8)."
+  ],
+  "caution": "Donesen na osnovu čl. 35 st. 5 zakona iz 2012. i prije kasnijih izmjena zakona."
+ },
+ "usk-pravilnik-cuvari": {
+  "overview": "Pravilnik kantonalnog ministra (08.10.2012.) propisuje zadatke čuvara šuma, način izvršavanja, uniformu i opremu, legitimaciju i kriterije za veličinu čuvarskog reona. Odnosi se na čuvare šuma i službu koja ih izdaje i raspoređuje.",
+  "points": [
+   "Čuvari obavljaju zadatke iz čl. 65 Zakona o šumama (st. 6 i 7) i moraju imati zakon i propise, kartu reona, službenu knjigu, knjigu panjeva, tablice drvnih masa i stručnu literaturu (čl. 2).",
+   "Čuvar služi u uniformi i naoružan oružjem koje odredi kantonalna uprava. Obavezna oprema: šumski čekić „ŠK“, šumska kreda, elastični metar, prva pomoć, dvogled, lovački nož (čl. 2).",
+   "Uniforma je maslinasto-zelene boje sa zimskim i ljetnim kompletom i službenom torbicom (čl. 3).",
+   "Čuvar vodi službenu knjigu-dnevnik, u koju svaki dan upisuje opažanja i zadatke uz sedmičnu ovjeru neposrednog rukovodioca (čl. 4).",
+   "Štete od bespravne sječe čuvar premjerava, evidentira u knjizi panjeva i žigoše šumskim čekićem. Povredu propisa mora bez odlaganja prijaviti (čl. 4).",
+   "Ovlaštenje dokazuje legitimacijom koju mora pokazati na zahtjev kontrolisanog lica (čl. 5). Legitimaciju izdaje nadležna kantonalna uprava na osnovu rješenja o rasporedu, a izgubljenu ili prestalu legitimaciju vraća ili zamjenjuje (čl. 6, 7).",
+   "Veličinu reona određuje nadležna kantonalna uprava za šumarstvo prema ugroženosti šuma (bespravne sječe, uzurpacije, insekti, požari, stoka i divljač) i udjelu kategorija šuma (čl. 9)."
+  ],
+  "forestry": [
+   "Čuvar bespravno posječena stabla premjerava, evidentira u knjizi panjeva i žigoše čekićem „ŠK“ (čl. 2, 4).",
+   "Čuvarska služba radi po reonima čiju veličinu određuje kantonalna uprava za šumarstvo prema kriterijima iz čl. 9.",
+   "Izdavanje, vraćanje, oduzimanje i uništavanje legitimacija vodi izdavač u registru. Zamijenjene i vraćene legitimacije uništavaju se na kraju godine (čl. 5, 8)."
+  ],
+  "wood": [
+   "Čuvarev čekić „ŠK“ označava bespravno posječeno drvo, za koje se ne izdaje otpremni iskaz (čl. 2; čl. 13 pravilnika o žigosanju)."
+  ],
+  "caution": "Pravilnik je iz 2012., a izmjena zakona iz 2016. prebacila je čuvanje šuma s Uprave za šumarstvo na korisnika šuma (ŠPD), što nije obuhvaćeno ovim pravilnikom. Legitimacije i oružje u njemu vezani su za kantonalnu upravu. Zakon je mijenjan i 2023. i 2026."
+ },
+ "usk-pravilnik-zigosanje-otpremni": {
+  "overview": "Pravilnik kantonalnog ministra (15.10.2012.) propisuje žigosanje, šumske čekiće, obrojčavanje, premjeravanje te sadržaj i izdavanje otpremnog iskaza za drvo iz državnih i privatnih šuma. Odnosi se na ŠPD, kantonalnu upravu, kupce i sve koji prevoze drvo.",
+  "points": [
+   "Žigosanje šumskim čekićem vrši se pri doznaci, prijemu sortimenata kod panja, kontroli, razgraničenju državnih i privatnih šuma, kontroli sječe i prometa, utovaru na prijevozno sredstvo i otkrivanju bespravnih sječa (čl. 2).",
+   "Za državne šume koriste se tri čekića različitog oblika: šesterokut 40 mm (doznaka), krug 35 mm (prijem kod panja i kontrola) i trougao 40 mm (otprema) (čl. 3). ŠPD za svaku godinu određuje boje, različite za doznaku, prijem i otpremu (čl. 3).",
+   "Za privatne šume važi isti čekić za doznaku, prijem i otpremu. Plava boja je za vlastite potrebe, a zelena za otpremu radi dalje prodaje. Pečat je elipsa 32 x 25 mm (čl. 4).",
+   "Čuvari pri otkrivanju bespravnih sječa koriste kvadratni pečat 30 mm s oznakom ŠK (šumski kvar) (čl. 5).",
+   "Premjeravanje počinje otiskom prijemnog čekića na panj. Obli sortimenti se obrojčavaju pločicom ili kolobrojem na debljem kraju i žigošu na oba prereza. Pomjeranje sortimenata od panja prije premjeravanja i evidentiranja je zabranjeno (čl. 7, 8).",
+   "Otpremni iskaz je jedini valjani dokument za porijeklo, vlasništvo, kupca, mjesto utovara i istovara, način i vrijeme prijevoza i vrstu proizvoda (čl. 10). Izdaje se na količinu jednog prijevoznog sredstva (čl. 13).",
+   "Važnost ranijih pečata i otpremnih iskaza ostaje na snazi (čl. 17). ŠPD i ministarstvo/kantonalna uprava odgovorni su za primjenu pravilnika (čl. 18)."
+  ],
+  "forestry": [
+   "ŠPD i ministarstvo/kantonalna uprava vode registar svih šumskih čekića (vrsta, namjena, broj, otisak, zaduženje i povrat). Svi čekići se čuvaju u upravi i izdaju za izvršenje zadataka (čl. 6).",
+   "Godišnjom inventurom čekići se vraćaju i ponovo izdaju, a jedan čekić u godini koristi samo jedan izvršilac. Uništavanje i gubitak čekića komisijski se konstatuju zapisnikom, a komisiju imenuje direktor. Čekić istog sadržaja i broja ne može se ponovo izraditi (čl. 6).",
+   "Obrojčavanje se radi pri doznaci na žilištu i pri prijemu sortimenta na debljem kraju. Kredom se na oba čela upisuju oznake: F, L, I, II, III, T, R, C, O (čl. 7).",
+   "Blokovi otpremnih iskaza vode se u registru strogo obrojčanih obrazaca. Registar za državne šume vodi ŠPD, a spisak registrovanih blokova dostavlja se kantonalnoj šumarskoj inspekciji (čl. 11).",
+   "Otpremni iskaz izdaje samo ŠPD za državne, odnosno ministarstvo/kantonalna uprava za privatne šume (čl. 12)."
+  ],
+  "wood": [
+   "Otpremni iskaz izdaje se samo za drvo od stabala koja su prethodno doznačena, za primljene, obrojčane i žigosane sortimente, te za drvo sa poljoprivrednog zemljišta, međa i nasada. Za drvo od bespravne sječe (oznaka ŠK) ne izdaje se (čl. 13).",
+   "Za prodaju drugom pravnom licu otpremni iskaz izdaje se po ugovoru ili dispoziciji, a za maloprodaju na osnovu uplatnice. Uplatnica važi najviše 30 dana i može se jednokratno produžiti (čl. 12).",
+   "Iskaz se štampa na NCR papiru u blokovima od 25 u šest primjeraka, s oznakom serije (slovo) i brojem od šest cifara. Format je 12x25 cm za obli drvo, a 12x16 cm za cijepano (čl. 10).",
+   "Rok važenja iskaza određuje se za svaki slučaj, najduže 48 sati, a produžuje ga izdavalac ili ovlašteno lice (čl. 14).",
+   "Drvo u prometu bez otpremnog iskaza privremeno se oduzima uz potvrdu do okončanja postupka, a pokvarljivo se prodaje po čl. 26 st. 6 zakona (čl. 15).",
+   "Otpremne iskaze na tvrdom putu ili stovarištu moraju na prerezima imati otisak otpremnog čekića, različite boje od prijemnog. Iskaz ima žig ovlaštenog pravnog lica (čl. 9).",
+   "Novogodišnje jelke u prometu obilježavaju se trajnom trakom s podacima o porijeklu i nazivu ŠPD-a. Kod prostornog drveta otisak prijemnog čekića stavlja se na više od 50% cjepanica (čl. 8)."
+  ],
+  "caution": "Čl. 14 st. 1 kaže da se iskaz popunjava u četiri primjerka (kupac i blok), dok čl. 10 st. 3 govori o blokovima od šest primjeraka, pa tekst nije usklađen. Pravilnik je iz 2012., a zakon je kasnije mijenjan (2016, 2017, 2023, 2026)."
+ },
+ "usk-odluka-zakup-sumskog-zemljista": {
+  "overview": "Odluka Vlade USK (04.04.2013.) uređuje uslove i način davanja državnog šumskog zemljišta u zakup i uspostavu prava služnosti. Odnosi se na Ministarstvo, Kantonalnu upravu za šumarstvo, korisnika šuma i zakupoprimce odnosno nosioce služnosti.",
+  "points": [
+   "Zemljište se može dati u zakup za privremene objekte iz ugovora o koncesiji, GSM bazne stanice, višegodišnje nasade (ako se ne narušavaju funkcije šume) i uzgoj divljači (čl. 2). Ugovor zaključuje Ministarstvo s koncesionarom, ovlaštenim društvom, registrovanim poljoprivrednim gazdinstvom ili licem registrovanim za uzgoj divljači (čl. 3).",
+   "Zakup se daje na osnovu javnog poziva, a kriterij je visina zakupnine koja ne smije biti niža od početne cijene. Izuzeci su koncesionar i ovlaštena društva (čl. 4).",
+   "Prije ugovora potrebno je mišljenje Kantonalnog pravobranilaštva i dokaz o osiguranim sredstvima (bankovna garancija) (čl. 4, 11). Podzakup nije dozvoljen (čl. 17).",
+   "Zakup i služnost daju se najduže do deset godina (čl. 9). Rješenje donosi ministar na prijedlog stručne komisije (čl. 11).",
+   "Zakupnina: 1 KM/m2 mjesečno za objekte iz koncesije i 3,00 KM/m2 mjesečno za GSM stanice (čl. 13). Početna cijena za nasade 0,005 KM/m2, a za uzgoj divljači 0,006 KM/m2 godišnje (čl. 13).",
+   "Služnost se uspostavlja za vodovod, kanalizaciju, plinovod, električne vodove, put i druge namjene od javnog interesa (čl. 6). Naknada godišnje: 0,005 KM/m2 (vodovod, plinovod, kanalizacija, niskonaponski vodovi i put), 0,003 KM/m2 za visokonaponske vodove i 0,002–0,02 KM/m2 u drugim slučajevima (čl. 14).",
+   "Zakupnina i naknada plaćaju se godišnje unaprijed, u roku od 30 dana od potpisivanja ugovora odnosno od početka godine (čl. 12). Ministarstvo može raskinuti ugovor ako se zemljište koristi suprotno ugovoru (čl. 16)."
+  ],
+  "forestry": [
+   "Za zakup radi nasada traži se mišljenje korisnika šume (ŠPD) i Kantonalne uprave o podesnosti za pošumljavanje. Za uzgoj divljači traže se saglasnosti Kantonalne uprave, korisnika šuma i korisnika lovišta (čl. 4).",
+   "Uz zahtjev se dostavlja mišljenje korisnika šuma (ŠPD) i Kantonalne uprave za šumarstvo (čl. 7).",
+   "Ako na zemljištu ima drveća i podmlatka koji se mora ukloniti, zakupoprimac plaća naknadu: tržišna vrijednost drveta plus troškovi podizanja novih šuma. Isto vrijedi za nosioca služnosti (čl. 8).",
+   "Korisnik državnih šuma ima pravo posjeći i iskoristiti drvnu masu s tog zemljišta (čl. 8 st. 5).",
+   "Kantonalna uprava kontroliše korištenje zemljišta, a komisija na terenu utvrđuje kategoriju i površinu (čl. 7, 16). Ako se mijenja namjena, plaća se naknada za krčenje bez procedure krčenja (čl. 4 st. 7)."
+  ],
+  "wood": [
+   "Korisnik državnih šuma ima pravo posjeći i iskoristiti drvnu masu sa zemljišta koje se daje u zakup ili opterećuje služnošću (čl. 8 st. 5)."
+  ],
+  "caution": "Donesena na osnovu čl. 61 st. 6 zakona iz 2012, a zakon je kasnije mijenjan. Naknade se uplaćuju po Uputstvu (Sl. glasnik USK 32/12), koje nije u bazi."
+ }
+}

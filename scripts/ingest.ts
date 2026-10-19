@@ -1,6 +1,7 @@
 import { copyFileSync, readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
 import { amendedArticleNumbers, parseArticles } from '../src/parse';
-import type { Article, FaqEntry, LawInfo, LawMeta } from '../src/types';
+import { refNumbers, resolveRef } from '../src/summary';
+import type { Article, FaqEntry, LawInfo, LawMeta, LawSummary } from '../src/types';
 
 const registry: LawMeta[] = JSON.parse(readFileSync('data/registry.json', 'utf8'));
 const articles: Article[] = [];
@@ -30,6 +31,23 @@ for (const law of registry.filter((l) => l.amends)) {
     }
   }
 }
+
+// Rezimei propisa (data/summaries.json): svaka referenca "(čl. N)" mora postojati u propisu, inače build pada.
+const summaries: Record<string, LawSummary> = existsSync('data/summaries.json') ? JSON.parse(readFileSync('data/summaries.json', 'utf8')) : {};
+const summaryErrors: string[] = [];
+for (const [id, s] of Object.entries(summaries)) {
+  const law = laws.find((l) => l.id === id);
+  if (!law) {
+    summaryErrors.push(`nepoznat propis ${id}`);
+    continue;
+  }
+  const bad = [s.overview, ...s.points, ...(s.forestry ?? []), ...(s.wood ?? []), s.caution ?? '']
+    .flatMap(refNumbers)
+    .filter((n) => !resolveRef(law, n, (x) => byId.has(x)));
+  if (bad.length) summaryErrors.push(`${id}: nepostojeći članovi ${[...new Set(bad)].join(', ')}`);
+  law.summary = s;
+}
+if (summaryErrors.length) throw new Error(`Rezimei:\n  ${summaryErrors.join('\n  ')}`);
 
 // Česta pitanja: reference [@lawId#broj] -> [n]; nepostojeća referenca ruši build.
 type RawFaq = Omit<FaqEntry, 'sourceIds'>;
