@@ -2,7 +2,8 @@ import { tokenize, fold } from './text';
 import type { LawInfo, LawSummary } from './types';
 
 /** "čl. 14", "čl. 5, 7 i 9", "čl. 5–7", "dio 2" */
-export const REF_RE = /(čl\.|članovi?|dio)\s*(\d+[a-z]?(?:\s*(?:,|i|–|-)\s*\d+[a-z]?)*)/giu;
+// Referenca na član drugog propisa ("čl. 14 Zakona o šumama", "čl. 26 osnovnog zakona") se ne provjerava i ne linkuje.
+export const REF_RE = /(čl\.|članovi?|dio)\s*(\d+[a-z]?(?:\s*(?:,|i|–|-)\s*\d+[a-z]?)*)(?![\da-z])(?!\s+(?:st\.\s*\d+\s+)?(?:osnovnog\s+)?(?:zakona|pravilnika|uredbe|odluke|uputstva))/giu;
 const NUM_RE = /\d+[a-z]?/g;
 
 /** Brojevi članova iz teksta rezimea, u obliku koji se koristi u id-ju člana ("14", "dio 2"). */

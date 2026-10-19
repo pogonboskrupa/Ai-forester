@@ -11,6 +11,7 @@ describe('reference u rezimeu', () => {
     expect(refNumbers('Otkaz (čl. 96, 97 i 105).')).toEqual(['96', '97', '105']);
     expect(refNumbers('vidi čl. 5a i dio 2')).toEqual(['5a', 'dio 2']);
     expect(refNumbers('bez referenci')).toEqual([]);
+    expect(refNumbers('mijenja čl. 26 osnovnog zakona i čl. 14 Zakona o šumama, te čl. 3')).toEqual(['3']);
   });
   it('linkRefs pravi klikabilne brojeve samo za postojeće članove', () => {
     const pieces = linkRefs('Otkaz (čl. 96, 97).', 'z', (id) => id === 'z#96');
