@@ -10,10 +10,10 @@ import { Icon } from '../Icon';
 import { FaqItem } from '../Library';
 import { esc, exportCsv, printHtml, today, uid, useList } from './shared';
 
-const TOPIC = 'Kancelarijsko poslovanje';
+export const OFFICE_TOPIC = 'Kancelarijsko poslovanje';
 const DIR_LABEL: Record<Direction, string> = { ulazni: 'Ulazni (zaprimljeni)', izlazni: 'Izlazni (poslani)', interni: 'Interni' };
 
-function Djelovodnik() {
+export function Djelovodnik() {
   const [list, persist] = useList<DocEntry>('kanc-djelovodnik');
   const blank = (): DocEntry => ({ id: uid(), no: nextNumber(list, new Date().getFullYear()), date: today(), dir: 'ulazni', party: '', subject: '', cls: '', due: '', assignee: '', status: 'u radu', note: '' });
   const [cur, setCur] = useState<DocEntry>(blank);
@@ -125,7 +125,7 @@ ${f.recipient.trim() ? `<p style="margin-left:50%">${para(f.recipient)}</p>` : '
 <p style="margin-top:36px;margin-left:55%;text-align:center">${esc(f.role)}<br><br>____________________<br>${esc(f.signer)}</p>`;
 }
 
-function Predlosci() {
+export function Predlosci() {
   const [id, setId] = useState(TEMPLATES[0]!.id);
   const t = TEMPLATES.find((x) => x.id === id)!;
   const fresh = (tt: Template): LetterFields => ({ place: 'Bosanska Krupa', date: today(), ref: '', recipient: '', subject: tt.subject, body: tt.body, role: '', signer: '' });
@@ -175,31 +175,13 @@ function Predlosci() {
   );
 }
 
-function Pitanja() {
-  const items = faq.value.filter((x) => x.topic === TOPIC);
+export function Pitanja() {
+  const items = faq.value.filter((x) => x.topic === OFFICE_TOPIC);
   return (
     <div class="articles">
       {items.map((f) => <FaqItem key={f.id} f={f} />)}
       {!items.length && <p class="muted">Pripremljeni odgovori o kancelarijskom poslovanju nisu dostupni.</p>}
       <p class="muted xs">Tekst Uredbe o kancelarijskom poslovanju i Pravilnika o uredskom poslovanju FBiH nije u bazi; za klasifikaciju i rokove čuvanja arhivske građe koristite interni akt preduzeća (Pravilnici ŠPD, kad su otključani).</p>
     </div>
-  );
-}
-
-type Tab = 'djelovodnik' | 'predlosci' | 'pitanja';
-/** Kancelarijsko poslovanje: djelovodnik, predlošci akata i podsjetnik s odgovorima. */
-export function Kancelarija() {
-  const [tab, setTab] = useState<Tab>('djelovodnik');
-  const tabs: [Tab, string][] = [['djelovodnik', 'Djelovodnik'], ['predlosci', 'Predlošci akata'], ['pitanja', 'Pitanja i pravila']];
-  return (
-    <section class="card tool">
-      <h2>Kancelarijsko poslovanje</h2>
-      <div class="segmented xs" role="tablist">
-        {tabs.map(([id, label]) => <button key={id} role="tab" aria-selected={tab === id} class={tab === id ? 'on' : ''} onClick={() => setTab(id)}>{label}</button>)}
-      </div>
-      {tab === 'djelovodnik' && <Djelovodnik />}
-      {tab === 'predlosci' && <Predlosci />}
-      {tab === 'pitanja' && <Pitanja />}
-    </section>
   );
 }

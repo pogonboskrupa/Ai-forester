@@ -1,7 +1,6 @@
 import { useEffect, useRef, useState } from 'preact/hooks';
 import { ORG } from '../org';
 import { procedure } from '../procedure';
-import { toolTab } from './tools/Tools';
 import { PROVIDER_NAMES, configuredProviders, isConfigured, modelOf, settings, updateSettings } from '../settings';
 import {
   activeConv, articles, busy, conversationToMarkdown, draft, drawerOpen, faq, filterProjectId, laws, moveConversation, projectOf,
@@ -110,8 +109,8 @@ function Welcome() {
         ))}
       </div>
       <div class="quick">
-        <button onClick={() => (view.value = 'tools')}><Icon name="tool" size={16} /> Kubikator, kazne, zapisnik</button>
-        <button onClick={() => { toolTab.value = 'kancelarija'; view.value = 'tools'; }}><Icon name="folder" size={16} /> Kancelarija: djelovodnik, predlošci</button>
+        <button onClick={() => (view.value = 'tools')}><Icon name="tool" size={16} /> Kazne, zapisnik, rokovi</button>
+        <button onClick={() => (view.value = 'office')}><Icon name="folder" size={16} /> Kancelarijsko poslovanje</button>
         <button onClick={() => (view.value = 'library')}><Icon name="book" size={16} /> Biblioteka i rezimei</button>
         {procedure.value && <button onClick={() => (view.value = 'procedure')}><Icon name="tree" size={16} /> Šumarska procedura</button>}
       </div>

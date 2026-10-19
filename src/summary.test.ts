@@ -52,3 +52,17 @@ describe.skipIf(!existsSync('data/summaries.json'))('rezimei javnih propisa', ()
     }
   });
 });
+
+import { emphasize } from './summary';
+describe('naglašavanje', () => {
+  it('naglašava radna mjesta, rokove i iznose', () => {
+    const e = emphasize('Evidentičar prima knjigu; rok je 31.12. ili 30 dana, kazna 1.500 KM; poslovođa iskorištavanja šuma vodi radilište.');
+    const hit = (k: string) => e.filter((x) => x.kind === k).map((x) => x.text);
+    expect(hit('role')).toEqual(['Evidentičar', 'poslovođa iskorištavanja šuma']);
+    expect(hit('num')).toEqual(['31.12.', '30 dana', '1.500 KM']);
+    expect(e.map((x) => x.text).join('')).toBe('Evidentičar prima knjigu; rok je 31.12. ili 30 dana, kazna 1.500 KM; poslovođa iskorištavanja šuma vodi radilište.');
+  });
+  it('ne naglašava obične riječi i brojeve članova', () => {
+    expect(emphasize('Zakon u članu 12 uređuje obavezu.').every((x) => !x.kind)).toBe(true);
+  });
+});

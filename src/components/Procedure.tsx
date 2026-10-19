@@ -4,17 +4,21 @@ import { PROCEDURE_LAW_ID, nextDated, procedure, type Procedure, type ProcedureD
 import { articles, drawerOpen, openSourceId } from '../store';
 import { fold } from '../text';
 import { Icon, type IconName } from './Icon';
+import { OfficeBody } from './Office';
+import { KeyRoles } from './KeyRoles';
 
-type Tab = 'pregled' | 'dokumenti' | 'tokovi' | 'uloge' | 'rokovi' | 'obrasci' | 'sifre' | 'tekst';
+type Tab = 'pregled' | 'dokumenti' | 'tokovi' | 'uloge' | 'radna' | 'rokovi' | 'obrasci' | 'sifre' | 'tekst' | 'kancelarija';
 const TABS: { id: Tab; label: string; icon: IconName }[] = [
   { id: 'pregled', label: 'Pregled', icon: 'book' },
   { id: 'dokumenti', label: 'Dokumenti', icon: 'folder' },
   { id: 'tokovi', label: 'Tokovi', icon: 'send' },
   { id: 'uloge', label: 'Ko šta radi', icon: 'check' },
+  { id: 'radna', label: 'Radna mjesta', icon: 'tree' },
   { id: 'rokovi', label: 'Rokovi', icon: 'calendar' },
   { id: 'obrasci', label: 'Obrasci', icon: 'edit' },
   { id: 'sifre', label: 'Šifre i boje', icon: 'scale' },
   { id: 'tekst', label: 'Cijeli tekst', icon: 'search' },
+  { id: 'kancelarija', label: 'Kancelarijsko', icon: 'folder' },
 ];
 
 const sectionArticles = () => articles.value.filter((a) => a.lawId === PROCEDURE_LAW_ID);
@@ -255,10 +259,12 @@ export function ProcedureView() {
             {tab === 'dokumenti' && <Documents p={p} />}
             {tab === 'tokovi' && <Flows p={p} />}
             {tab === 'uloge' && <Roles p={p} />}
+            {tab === 'radna' && <KeyRoles p={p} />}
             {tab === 'rokovi' && <Deadlines p={p} />}
             {tab === 'obrasci' && <Forms p={p} />}
             {tab === 'sifre' && <Codes p={p} />}
             {tab === 'tekst' && <FullText />}
+            {tab === 'kancelarija' && <OfficeBody nested />}
           </>
         )}
       </div>

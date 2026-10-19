@@ -1,25 +1,8 @@
 import { existsSync, readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import type { Article } from '../types';
-import { huber, parseNum, smalian, stackedToSolid, standingTree } from './volume';
 import { parseOffences } from './penalties';
 import { addDays, addYears, nextAnnual } from './deadlines';
-
-describe('kubikator', () => {
-  it('Huber: trupac 40 cm × 4 m ≈ 0,503 m³', () => {
-    expect(huber(40, 4)).toBeCloseTo(0.5027, 3);
-    expect(huber(0, 4)).toBe(0);
-  });
-  it('Smalian, prostorni metri, stablo', () => {
-    expect(smalian(40, 40, 4)).toBeCloseTo(huber(40, 4), 6);
-    expect(stackedToSolid(10, 0.7)).toBeCloseTo(7);
-    expect(standingTree(40, 25, 0.5)).toBeCloseTo(1.5708, 3);
-  });
-  it('unos sa zarezom', () => {
-    expect(parseNum('12,5')).toBe(12.5);
-    expect(parseNum('abc')).toBe(0);
-  });
-});
 
 describe('rokovi', () => {
   it('računa rokove od datuma', () => {
@@ -69,11 +52,6 @@ describe('format', () => {
 describe('ispravke rubnih slučajeva', () => {
   it('addYears s 29.02. pada na 28.02.', () => {
     expect(addYears(new Date(2028, 1, 29), 2)).toEqual(new Date(2030, 1, 28));
-  });
-  it('parseNum prihvata tačku za hiljade', () => {
-    expect(parseNum('1.234,5')).toBe(1234.5);
-    expect(parseNum('12.5')).toBe(12.5);
-    expect(parseNum(' 7 ')).toBe(7);
   });
   it('num ne ispisuje -0', () => {
     expect(num(-0.0004, 3)).toBe('0,000');

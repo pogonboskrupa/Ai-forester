@@ -70,7 +70,8 @@ export function summaryMarkdown(law: LawInfo, s: LawSummary, exists: (id: string
         return c ? ` ${c}` : whole;
       })
       .replace(REF_RE, (whole, kind: string, body: string) => citeRef(kind, body) || whole);
-  const list = (items: string[] | undefined) => (items ?? []).map((p) => `- ${cite(p)}`).join('\n');
+  const bold = (t: string) => emphasize(t).map((e) => (e.kind ? `**${e.text}**` : e.text)).join('');
+  const list = (items: string[] | undefined) => (items ?? []).map((p) => `- ${bold(cite(p))}`).join('\n');
   const parts = [`**Rezime: ${law.title}** (${law.gazette})`, cite(s.overview), `**Najbitnije**\n${list(s.points)}`];
   if (s.forestry?.length) parts.push(`**Za šumarstvo**\n${list(s.forestry)}`);
   if (s.wood?.length) parts.push(`**Za promet i preradu drveta**\n${list(s.wood)}`);
@@ -99,4 +100,32 @@ export function findSummaryLaw(question: string, laws: readonly LawInfo[]): LawI
     else if (score === best.score) tie = true;
   }
   return best && !tie ? best.law : null;
+}
+
+export type Em = { text: string; kind?: 'role' | 'num' };
+
+// Radna mjesta (naglašavaju se bojom i debljinom) i rokovi/iznosi (debljina) radi kontrasta u gustom tekstu.
+const ROLES =
+  /(?:pomoćnik\w*\s+upravnika|upravnik\w*|tehnolog\w*(?:\s+za\s+gospodarenje\s+šumama)?|evidentičar\w*|primač\w*|otpremač\w*|poslovođ\w*(?:\s+(?:iskorištavanja|uzgoja)(?:\s+(?:šuma|zaštite(?:\s+i\s+ekologije)?))?)?|čuvar\w*\s+šuma(?:\s*[–-]\s*lugar\w*)?|lugar\w*|doznačar\w*|taksator\w*|projektant\w*|rukovodilac\w*|direktor\w*|blagajnik\w*|knjigovođ\w*)/giu;
+const NUMS = /(?:\d{1,3}(?:\.\d{3})*(?:,\d+)?\s?(?:dana|dan|mjeseci|mjeseca|mjesec|sati|sata|godin\w+|KM|%|m3|m³)(?![\p{L}])|\d{1,2}\.\s?\d{1,2}\.(?!\d))/giu;
+
+/** Dijeli tekst na obične i naglašene dijelove (radna mjesta, rokovi, iznosi). */
+export function emphasize(text: string, roles = true): Em[] {
+  const hits: { s: number; e: number; kind: 'role' | 'num' }[] = [];
+  const scan = (re: RegExp, kind: 'role' | 'num') => {
+    for (const m of text.matchAll(re)) hits.push({ s: m.index!, e: m.index! + m[0].length, kind });
+  };
+  if (roles) scan(ROLES, 'role');
+  scan(NUMS, 'num');
+  hits.sort((a, b) => a.s - b.s || b.e - a.e);
+  const out: Em[] = [];
+  let pos = 0;
+  for (const h of hits) {
+    if (h.s < pos) continue; // preklapanje: prvi pogodak pobjeđuje
+    if (h.s > pos) out.push({ text: text.slice(pos, h.s) });
+    out.push({ text: text.slice(h.s, h.e), kind: h.kind });
+    pos = h.e;
+  }
+  if (pos < text.length) out.push({ text: text.slice(pos) });
+  return out;
 }

@@ -15,7 +15,7 @@ export function BottomNav() {
     },
     { id: 'tools', label: 'Alati', icon: 'tool', on: v === 'tools', go: () => (view.value = 'tools') },
     ...(procedure.value ? [{ id: 'proc', label: 'Procedura', icon: 'tree' as IconName, on: v === 'procedure', go: () => (view.value = 'procedure') }] : []),
-    { id: 'more', label: 'Više', icon: 'menu', on: v === 'settings' || v === 'import', go: () => (drawerOpen.value = true) },
+    { id: 'more', label: 'Više', icon: 'menu', on: v === 'settings' || v === 'import' || v === 'office', go: () => (drawerOpen.value = true) },
   ];
   return (
     <nav class="bottom-nav" aria-label="Glavna navigacija">

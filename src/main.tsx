@@ -13,6 +13,7 @@ import { Sidebar } from './components/Sidebar';
 import { SourcePanel } from './components/SourcePanel';
 import { Toasts } from './components/Toasts';
 import { Tools } from './components/tools/Tools';
+import { OfficeView } from './components/Office';
 import { ProcedureView } from './components/Procedure';
 import { UpdateBanner } from './components/Update';
 import { setupUpdateChecks } from './update';
@@ -70,6 +71,7 @@ function App() {
         {v === 'import' && <ImportPdf />}
         {v === 'tools' && <Tools />}
         {v === 'procedure' && <ProcedureView />}
+        {v === 'office' && <OfficeView />}
       </main>
       {openSourceId.value && <div class="panel-scrim" onClick={() => (openSourceId.value = null)} />}
       <BottomNav />
