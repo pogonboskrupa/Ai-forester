@@ -319,7 +319,7 @@ export function Library() {
             </div>
             {tab === 'faq' ? <FaqList /> : tab === 'duties' ? <DutiesView /> : tab === 'spd' && privateUnlocked.value ? <SpdView /> : <>
             <div class="searchbox big"><Icon name="search" size={18} /><input placeholder="Pretraži sve članove (npr. doznaka, otpremni iskaz, kazna)…" value={term} onInput={(e) => setTerm(e.currentTarget.value)} /></div>
-            <div class="filters">
+            <div class="filters scroll-x">
               <button class={`chip ${!level ? 'on' : ''}`} onClick={() => setLevel(null)}>Svi nivoi</button>
               {(laws.value.some((x) => x.level === 'ŠPD') ? [...LEVELS, 'ŠPD' as const] : LEVELS).map((l) => <button key={l} class={`chip ${level === l ? 'on' : ''}`} onClick={() => setLevel(level === l ? null : l)}>{l}</button>)}
               <span class="sep" />
@@ -348,7 +348,7 @@ export function Library() {
               <div class="law-grid">
                 {shown.map((l) => (
                   <button key={l.id} class="law-card" onClick={() => libraryFocus.value = { lawId: l.id }}>
-                    <div class="row gap"><span class={`badge lvl-${l.level}`}>{l.level}</span><span class="muted xs">{l.topic ?? 'Šumarstvo'}</span>{l.custom && <span class="pill accent">dodano</span>}</div>
+                    <div class="row gap"><span class={`badge lvl-${l.level}`}>{l.level}</span><span class="muted xs">{l.topic ?? 'Šumarstvo'}</span>{l.custom && <span class="pill accent">dodano</span>}{l.summary && <span class="pill xs push-right">Rezime</span>}</div>
                     <strong>{l.title}</strong>
                     <span class="muted xs">{l.gazette} · {l.articleCount} čl.</span>
                   </button>
