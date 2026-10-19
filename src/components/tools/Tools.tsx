@@ -2,15 +2,13 @@ import { signal } from '@preact/signals';
 import { drawerOpen } from '../../store';
 import { Icon, type IconName } from '../Icon';
 import { Kazne } from './Kazne';
-import { Kubikator } from './Kubikator';
 import { Liste } from './Liste';
 import { Registar } from './Registar';
 import { Rokovi } from './Rokovi';
 import { Zapisnik } from './Zapisnik';
 
-type ToolId = 'kubikator' | 'kazne' | 'zapisnik' | 'rokovi' | 'registar' | 'liste';
+type ToolId = 'kazne' | 'zapisnik' | 'rokovi' | 'registar' | 'liste';
 const TABS: { id: ToolId; label: string; icon: IconName }[] = [
-  { id: 'kubikator', label: 'Kubikator', icon: 'tool' },
   { id: 'kazne', label: 'Kazne', icon: 'scale' },
   { id: 'zapisnik', label: 'Zapisnik', icon: 'edit' },
   { id: 'rokovi', label: 'Rokovi', icon: 'calendar' },
@@ -18,9 +16,9 @@ const TABS: { id: ToolId; label: string; icon: IconName }[] = [
   { id: 'liste', label: 'Kontrolne liste', icon: 'check' },
 ];
 
-export const toolTab = signal<ToolId>('kubikator');
+export const toolTab = signal<ToolId>('kazne');
 
-/** Terenski alati: obračuni, kazne, zapisnik, rokovi, registri i kontrolne liste. */
+/** Terenski alati: kazne, zapisnik, rokovi, registri i kontrolne liste. */
 export function Tools() {
   const t = toolTab.value;
   return (
@@ -37,7 +35,6 @@ export function Tools() {
             </button>
           ))}
         </div>
-        {t === 'kubikator' && <Kubikator />}
         {t === 'kazne' && <Kazne />}
         {t === 'zapisnik' && <Zapisnik />}
         {t === 'rokovi' && <Rokovi />}

@@ -109,7 +109,7 @@ function Welcome() {
         ))}
       </div>
       <div class="quick">
-        <button onClick={() => (view.value = 'tools')}><Icon name="tool" size={16} /> Kubikator, kazne, zapisnik</button>
+        <button onClick={() => (view.value = 'tools')}><Icon name="tool" size={16} /> Kazne, zapisnik, rokovi</button>
         <button onClick={() => (view.value = 'office')}><Icon name="folder" size={16} /> Kancelarijsko poslovanje</button>
         <button onClick={() => (view.value = 'library')}><Icon name="book" size={16} /> Biblioteka i rezimei</button>
         {procedure.value && <button onClick={() => (view.value = 'procedure')}><Icon name="tree" size={16} /> Šumarska procedura</button>}

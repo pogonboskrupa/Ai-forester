@@ -38,6 +38,26 @@ export interface ProcedureCodeTable {
   title: string;
   rows: { code: string; label: string; color?: string }[];
 }
+/** Detaljan opis ključnog radnog mjesta (iz opisa poslova, procedure i pravilnika). refs upućuju na odjeljke internih akata. */
+export interface KeyRoleDuty {
+  t: string;
+  d: string;
+  refs: { act: string; n: string }[];
+}
+export interface KeyRole {
+  id: string;
+  name: string;
+  group: string;
+  purpose: string;
+  requirements: string[];
+  duties: KeyRoleDuty[];
+  documents: string[];
+  deadlines: string[];
+  responsibility: string[];
+  collaborates: string[];
+  caution?: string;
+}
+
 export interface Procedure {
   title: string;
   subtitle: string;
@@ -54,6 +74,7 @@ export interface Procedure {
   deadlines: ProcedureDeadline[];
   forms: ProcedureForm[];
   codes: ProcedureCodeTable[];
+  keyRoles?: KeyRole[]; // detaljan opis ključnih radnih mjesta
 }
 
 export const PROCEDURE_LAW_ID = 'spd-sumarska-procedura';
@@ -67,7 +88,7 @@ export function normalizeProcedure(p: Partial<Procedure> | undefined | null): Pr
     ...p,
     title: p.title,
     legalBasis: p.legalBasis ?? [], rules: p.rules ?? [], documents: p.documents ?? [], flows: p.flows ?? [],
-    roles: p.roles ?? [], deadlines: p.deadlines ?? [], forms: p.forms ?? [], codes: p.codes ?? [],
+    roles: p.roles ?? [], deadlines: p.deadlines ?? [], forms: p.forms ?? [], codes: p.codes ?? [], keyRoles: p.keyRoles ?? [],
   };
 }
 

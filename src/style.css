@@ -7,7 +7,7 @@
   --border: #e2ded3;
   --border-strong: #cfcabd;
   --text: #1b231e;
-  --muted: #68716b;
+  --muted: #5b655e;
   --accent: #2d6a43;
   --accent-hover: #245737;
   --accent-fg: #ffffff;
@@ -40,7 +40,7 @@
     --border: #26312b;
     --border-strong: #34413a;
     --text: #e6ebe8;
-    --muted: #94a199;
+    --muted: #a8b5ad;
     --accent: #5dbb84;
     --accent-hover: #74c996;
     --accent-fg: #0b1a11;
@@ -66,7 +66,7 @@
   --border: #26312b;
   --border-strong: #34413a;
   --text: #e6ebe8;
-  --muted: #94a199;
+  --muted: #a8b5ad;
   --accent: #5dbb84;
   --accent-hover: #74c996;
   --accent-fg: #0b1a11;
@@ -807,3 +807,45 @@ input[type='checkbox'] { accent-color: var(--accent); width: 16px; height: 16px;
 .office-subtabs { align-self: flex-start; margin: 4px 0 12px; flex-shrink: 0; }
 .office-tile { cursor: pointer; }
 button.office-item { text-align: left; width: 100%; }
+
+/* Naglašen tekst u rezimeima: radna mjesta i rokovi */
+.law-summary .em { font-weight: 700; color: var(--text); }
+.law-summary .em.role { color: var(--accent); }
+:root[data-theme="dark"] .law-summary .em.role, .law-summary .em.role { text-decoration: none; }
+
+/* Rezime: sekcije koje se mogu sklopiti, s bojom po vrsti */
+.sum-block { margin-top: 10px; border-left: 3px solid var(--sum-c, var(--accent)); border-radius: 4px 12px 12px 4px; background: color-mix(in srgb, var(--sum-c, var(--accent)) 6%, transparent); padding: 0 12px 8px; }
+.sum-block.forest { --sum-c: var(--usk); }
+.sum-block.wood { --sum-c: var(--bih); }
+.sum-block > summary { display: flex; align-items: center; gap: 8px; cursor: pointer; list-style: none; padding: 9px 0 4px; font-size: 0.8rem; letter-spacing: .05em; text-transform: uppercase; font-weight: 700; color: var(--sum-c, var(--accent)); }
+.sum-block > summary::-webkit-details-marker { display: none; }
+.sum-block > summary .chev { margin-left: auto; transition: transform .15s; }
+.sum-block[open] > summary .chev { transform: rotate(90deg); }
+.sum-count { min-width: 20px; padding: 0 6px; border-radius: 999px; background: var(--surface); color: var(--muted); font-size: 0.7rem; text-align: center; font-weight: 600; }
+.sum-block ul { padding-top: 2px; }
+
+/* Ključna radna mjesta */
+.kr { display: grid; grid-template-columns: 250px minmax(0, 1fr); gap: 16px; align-items: start; }
+.kr-nav { display: flex; flex-direction: column; gap: 6px; position: sticky; top: 60px; max-height: calc(100vh - 140px); overflow-y: auto; }
+.kr-nav button { text-align: left; padding: 9px 12px; border: 1px solid var(--border); border-radius: 12px; background: var(--surface); display: flex; flex-direction: column; gap: 1px; transition: border-color .15s, background .15s; }
+.kr-nav button small { color: var(--muted); font-size: 0.72rem; }
+.kr-nav button:hover { border-color: var(--accent); }
+.kr-nav button.on { border-color: var(--accent); background: var(--accent-soft); box-shadow: inset 3px 0 0 var(--accent); }
+.kr-nav button.on strong { color: var(--accent); }
+.kr-head { padding: 16px 18px; border-radius: 16px; background: var(--accent-soft); border: 1px solid color-mix(in srgb, var(--accent) 30%, transparent); }
+.kr-head h2 { margin: 2px 0 6px; font-size: 1.35rem; letter-spacing: -0.01em; }
+.kr-head p { margin: 0 0 10px; font-size: 0.93rem; line-height: 1.5; }
+.kr-group { font-size: 0.72rem; letter-spacing: .06em; text-transform: uppercase; font-weight: 700; color: var(--accent); }
+.kr-req { display: flex; flex-wrap: wrap; gap: 6px; }
+.kr-duties { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 12px; }
+.kr-duties li { display: grid; grid-template-columns: 28px 1fr; gap: 10px; }
+.kr-n { width: 26px; height: 26px; border-radius: 50%; background: var(--accent); color: var(--accent-fg); font-size: 0.78rem; font-weight: 700; display: grid; place-items: center; margin-top: 1px; }
+.kr-t { display: block; font-size: 0.95rem; color: var(--accent); }
+.kr-duties p { margin: 2px 0 4px; font-size: 0.9rem; line-height: 1.5; }
+.kr-refs { display: flex; flex-wrap: wrap; gap: 4px; }
+.kr .em { font-weight: 700; color: var(--text); }
+@media (max-width: 820px) {
+  .kr { grid-template-columns: minmax(0, 1fr); }
+  .kr-nav { position: static; max-height: none; flex-direction: row; overflow-x: auto; margin-inline: -16px; padding: 0 16px 6px; scrollbar-width: none; }
+  .kr-nav button { flex: none; min-width: 150px; }
+}
