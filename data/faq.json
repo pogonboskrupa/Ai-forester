@@ -576,5 +576,20 @@
     ],
     "answer": "- **Najniža plaća** se dobija množenjem najniže satnice (koju utvrđuje Ekonomsko-socijalno vijeće) s brojem sati u fondu rada za mjesec [@fbih-opci-kolektivni-ugovor#7][@fbih-opci-kolektivni-ugovor#9].\n- **Minuli rad:** osnovna plaća se povećava za **0,4 % za svaku godinu staža** kod poslodavca [@fbih-opci-kolektivni-ugovor#12].\n- **Topli obrok:** poslodavac osigurava ishranu u toku radnog vremena, a ako je ne osigura, radniku isplaćuje naknadu [@fbih-opci-kolektivni-ugovor#13].\n\nProvjerite da li je ugovor još na snazi i postoji li granski ili pojedinačni kolektivni ugovor koji uređuje ista pitanja.",
     "reviewed": false
+  },
+  {
+    "id": "spd-obaveze-poslodavca",
+    "topic": "Poslovanje preduzeća",
+    "q": "Koje obaveze ima naše preduzeće kao poslodavac i javno preduzeće s preko 650 uposlenih?",
+    "alt": [
+      "obaveze ŠPD kao poslodavca",
+      "obaveze poslodavca s više od 30 radnika",
+      "pravilnik o radu obavezan",
+      "vijeće zaposlenika",
+      "naše obaveze kao javnog preduzeća",
+      "obaveze velikog poslodavca"
+    ],
+    "answer": "Za poslodavca s **više od 30 radnika** (ŠPD ima preko 650 uposlenih) vrijedi:\n\n- **Pravilnik o radu je obavezan**; uređuje plaće, organizaciju rada, sistematizaciju radnih mjesta i uvjete za zasnivanje radnog odnosa [@fbih-zakon-o-radu#118].\n- Radnici imaju pravo formirati **vijeće zaposlenika**; ako ga nema, ovlaštenja ima sindikat [@fbih-zakon-o-radu#119].\n- Ako u naredna tri mjeseca namjeravate otkazati ugovor o radu **najmanje petorici radnika** zbog ekonomskih, tehničkih ili organizacijskih razloga, obavezno je **konsultovanje s vijećem zaposlenika i sindikatom** [@fbih-zakon-o-radu#109].\n- **Zaštitu na radu** organizujete prema broju radnika i broju odvojenih radnih jedinica (šumarija); bez stručnog osoblja angažuje se ovlaštena organizacija. Izuzetak da poslodavac poslove zaštite obavlja sam vrijedi samo za navedene djelatnosti (šumarstvo nije među njima) i do 30 radnika [@fbih-zakon-o-zastiti-na-radu#33].\n- Kao **javno preduzeće** imate organe: skupštinu, nadzorni odbor, upravu i odbor za reviziju [@fbih-zakon-o-javnim-preduzecima#5]; uprava se bira javnim konkursom [@fbih-zakon-o-javnim-preduzecima#12].\n- Nabavke provodite po Zakonu o javnim nabavkama BiH [@fbih-zakon-o-javnim-preduzecima#34].\n- Finansijski izvještaji **velikih i srednjih** pravnih lica podliježu **obaveznoj reviziji** [@fbih-zakon-o-racunovodstvu-i-reviziji#57]. Razvrstavanje zavisi od najmanje dva od tri kriterija (imovina, prihod, broj zaposlenih) [@fbih-zakon-o-racunovodstvu-i-reviziji#5], pa ga provjerite prema vašim podacima.",
+    "reviewed": false
   }
 ]

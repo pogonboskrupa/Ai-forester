@@ -51,6 +51,7 @@ describe.skipIf(!existsSync(faqFile))('provjereni odgovori', () => {
     expect(m('koliki je otkazni rok')).toBe('radni-otkaz');
     expect(m('ko imenuje upravu javnog preduzeća')).toBe('poslovanje-organi-jp');
     expect(m('rok za odgovor na zahtjev za pristup informaciji')).toBe('poslovanje-pristup-informacijama');
+    expect(m('koje obaveze imamo kao poslodavac s preko 650 radnika')).toBe('spd-obaveze-poslodavca');
   });
   it('prepoznaje nove teme (čekići, požar, Uprava, krš, čuvari, zdravlje bilja)', () => {
     expect(m('Šta mora sadržavati registar šumskih čekića?')).toBe('registar-sumskih-cekica');

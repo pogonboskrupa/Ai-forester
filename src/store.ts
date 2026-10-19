@@ -2,6 +2,7 @@ import { batch, computed, effect, signal } from '@preact/signals';
 import type MiniSearch from 'minisearch';
 import type { Article, Conversation, FaqEntry, LawInfo, Msg, Project, UserLaw } from './types';
 import { buildFaqIndex, extractiveAnswer, matchFaq } from './answer';
+import { orgAnchors } from './org';
 import { BUSINESS_TOPICS, buildIndex, retrieve, setBusinessLaws } from './search';
 import { isAbort, streamCompletion, type Turn } from './ai/client';
 import { buildPrompt, systemPrompt } from './ai/prompt';
@@ -259,7 +260,12 @@ async function generate(convId: string, question: string, history: Msg[], opts: 
     finish({ id: msgId, role: 'assistant', text: 'Propisi ovog projekta trenutno nisu dostupni (interni akti ŠPD-a su zaključani). Otključajte ih u **Postavkama** ili dodajte javne propise projektu.', sourceIds: [], kind: 'search', model: 'Pretraga (bez AI)', ts: Date.now() });
     return;
   }
-  const ctx = withAmendments(retrieve(index, retrievalQuery(question, history), CONTEXT_K, scope), CONTEXT_K + 3);
+  // Pitanja o obavezama samog preduzeća: ključni opći propisi (javna preduzeća, rad, nabavke…) idu u izvode i kad ih pretraga ne nađe.
+  const pins = orgAnchors(question)
+    .map(articleById)
+    .filter((a): a is Article => !!a && (!scope || scope.includes(a.lawId)));
+  const found = retrieve(index, retrievalQuery(question, history), CONTEXT_K, scope).filter((a) => !pins.some((p) => p.id === a.id));
+  const ctx = withAmendments([...pins, ...found].slice(0, CONTEXT_K), CONTEXT_K + 3);
   const base = { id: msgId, role: 'assistant' as const, sourceIds: ctx.map((a) => a.id), ts: Date.now() };
 
   // 2) Bez AI-ja: izdvojene odredbe iz pretrage.
