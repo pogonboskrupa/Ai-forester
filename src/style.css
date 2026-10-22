@@ -851,3 +851,20 @@ button.office-item { text-align: left; width: 100%; }
 }
 .kr-req { flex-direction: column; align-items: stretch; }
 .kr-req .pill { white-space: normal; text-align: left; line-height: 1.4; padding: 5px 10px; border-radius: 10px; }
+
+/* ---------- Dodir: najmanje 40 px na telefonu / ekranu osjetljivom na dodir ---------- */
+@media (pointer: coarse), (max-width: 820px) {
+  .btn, .chip, .select, .quick button, .subtopic, .tpl, .segmented button, .source-more { min-height: 40px; }
+  .icon-btn, .icon-btn.sm { min-width: 40px; min-height: 40px; }
+  .send { width: 44px; height: 44px; }
+  .segmented.xs button { min-height: 36px; padding-inline: 12px; }
+  .modebar .segmented.xs button { min-height: 40px; }
+  .chip { padding-inline: 14px; }
+  input:not([type='checkbox']):not([type='radio']), textarea { min-height: 40px; }
+  .check { min-height: 40px; }
+  .filters { gap: 8px; }
+}
+[role='tab']:focus-visible { outline-offset: -2px; }
+@media (pointer: coarse), (max-width: 820px) {
+  p a[target='_blank'] { display: inline-block; padding: 12px 6px; margin: -12px -6px; }
+}

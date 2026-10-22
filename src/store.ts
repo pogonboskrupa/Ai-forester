@@ -4,7 +4,9 @@ import type { Article, Conversation, FaqEntry, LawInfo, Msg, Project, UserLaw } 
 import { buildFaqIndex, extractiveAnswer, matchFaq } from './answer';
 import { orgAnchors } from './org';
 import { findSummaryLaw, summaryMarkdown } from './summary';
-import { BUSINESS_TOPICS, buildIndex, retrieve, setBusinessLaws } from './search';
+import { BUSINESS_TOPICS, setBusinessLaws } from './search';
+import { createSearchIndex } from './searchIndex';
+import { whenIdle } from './lazy';
 import { isAbort, streamCompletion, type Turn } from './ai/client';
 import { buildPrompt, systemPrompt } from './ai/prompt';
 import { isConfigured, settings } from './settings';
@@ -55,7 +57,7 @@ export function toast(text: string, kind: Toast['kind'] = 'ok'): void {
   setTimeout(() => (toasts.value = toasts.value.filter((x) => x.id !== t.id)), 3200);
 }
 
-let index: MiniSearch<Article> | null = null;
+const search = createSearchIndex();
 let faqIndex: MiniSearch<FaqEntry> | null = null;
 const byId = computed(() => new Map(articles.value.map((a) => [a.id, a])));
 export const articleById = (id: string) => byId.value.get(id);
@@ -64,7 +66,7 @@ export const activeConv = computed(() => conversations.value.find((c) => c.id ==
 export const projectOf = (id: string | null) => projects.value.find((p) => p.id === id) ?? null;
 
 export const searchArticles = (q: string, lawIds?: string[], k = 30): Article[] =>
-  index && q.trim() ? retrieve(index, q, k, lawIds) : [];
+  search.search(q, k, lawIds);
 
 export async function init(): Promise<void> {
   try {
@@ -88,6 +90,7 @@ export async function init(): Promise<void> {
     rebuildCorpus();
     faqIndex = buildFaqIndex(f);
     ready.value = true;
+    whenIdle(() => search.warm(), 800); // indeks pretrage se gradi poslije prvog prikaza, ne prije njega
   } catch {
     loadError.value = 'Baza propisa nije učitana. Provjerite internet vezu i osvježite stranicu.';
     return;
@@ -119,7 +122,8 @@ function rebuildCorpus(): void {
     laws.value = [...builtinLaws, ...privateLawList, ...custom.map((u) => u.law)];
   });
   setBusinessLaws(laws.value.filter((l) => l.topic && BUSINESS_TOPICS.has(l.topic)).map((l) => l.id));
-  index = buildIndex(all);
+  search.setArticles(all);
+  if (ready.value) whenIdle(() => search.warm(), 300); // korpus se promijenio: indeks se obnavlja u praznom hodu
 }
 
 export async function addUserLaws(items: UserLaw[]): Promise<void> {
@@ -237,7 +241,7 @@ export const setPrivatePending = (p: Promise<void>): void => {
 
 async function generate(convId: string, question: string, history: Msg[], opts: GenerateOptions = {}): Promise<void> {
   const conv = conversations.value.find((c) => c.id === convId);
-  if (!conv || !index) return;
+  if (!conv || !search.hasArticles()) return;
   const project = projectOf(conv.projectId);
   const s = settings.value;
   const useAi = opts.forceAi || (s.mode === 'ai' && isConfigured());
@@ -273,7 +277,7 @@ async function generate(convId: string, question: string, history: Msg[], opts: 
   const pins = orgAnchors(question)
     .map(articleById)
     .filter((a): a is Article => !!a && (!scope || scope.includes(a.lawId)));
-  const found = retrieve(index, retrievalQuery(question, history), CONTEXT_K, scope).filter((a) => !pins.some((p) => p.id === a.id));
+  const found = search.search(retrievalQuery(question, history), CONTEXT_K, scope).filter((a) => !pins.some((p) => p.id === a.id));
   const ctx = withAmendments([...pins, ...found].slice(0, CONTEXT_K), CONTEXT_K + 3);
   const base = { id: msgId, role: 'assistant' as const, sourceIds: ctx.map((a) => a.id), ts: Date.now() };
 
@@ -311,7 +315,7 @@ async function generate(convId: string, question: string, history: Msg[], opts: 
 
 export async function sendMessage(text: string): Promise<void> {
   const q = text.trim();
-  if (!q || !index || busy.value) return;
+  if (!q || !search.hasArticles() || busy.value) return;
   const convId = activeConvId.value ?? newConversation(filterProjectId.value === 'all' ? null : filterProjectId.value);
   const conv = conversations.value.find((c) => c.id === convId)!;
   const history = conv.messages;

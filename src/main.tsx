@@ -1,5 +1,6 @@
 import './style.css';
 import { setupPwa } from './pwa';
+import { setupTabKeyboard } from './tabnav';
 import { render } from 'preact';
 import { useEffect } from 'preact/hooks';
 import { Chat } from './components/Chat';
@@ -83,3 +84,4 @@ function App() {
 
 render(<App />, document.getElementById('app')!);
 setupPwa();
+setupTabKeyboard();
