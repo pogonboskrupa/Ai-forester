@@ -80,11 +80,11 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: v${{ steps.ver.outputs.name }}
-          name: AI Šumar ${{ steps.ver.outputs.name }}
+          name: Forester ${{ steps.ver.outputs.name }}
           make_latest: true
           files: ai-sumar.apk
           body: |
-            Android aplikacija AI Šumar, verzija ${{ steps.ver.outputs.name }}.
+            Android aplikacija Forester, verzija ${{ steps.ver.outputs.name }}.
             Instalacija: preuzmite ai-sumar.apk na telefonu i otvorite ga (dozvolite instalaciju iz nepoznatih izvora).
 
       - name: APK u web build

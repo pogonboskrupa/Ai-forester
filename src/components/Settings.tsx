@@ -143,7 +143,7 @@ export function Settings() {
   const backup = () => {
     const a = Object.assign(document.createElement('a'), {
       href: URL.createObjectURL(new Blob([exportAll()], { type: 'application/json' })),
-      download: `ai-sumar-backup-${new Date().toISOString().slice(0, 10)}.json`,
+      download: `forester-backup-${new Date().toISOString().slice(0, 10)}.json`,
     });
     a.click();
     URL.revokeObjectURL(a.href);
@@ -227,7 +227,7 @@ export function Settings() {
           </dl>
         </section>
 
-        <p class="muted xs center-text">AI Šumar · verzija {__APP_VERSION__}</p>
+        <p class="muted xs center-text">Forester · verzija {__APP_VERSION__}</p>
       </div>
     </section>
   );

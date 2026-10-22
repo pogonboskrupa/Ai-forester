@@ -52,7 +52,7 @@ export function Sidebar() {
   return (
     <aside class={`side ${drawerOpen.value ? 'open' : ''}`} aria-label="Navigacija">
       <div class="side-head">
-        <div class="brand"><span class="brand-mark"><Icon name="tree" size={16} /></span><span class="brand-text"><span>AI Šumar <span class="version">v{__APP_VERSION__}</span></span><small>{ORG.short}</small></span></div>
+        <div class="brand"><span class="brand-mark"><Icon name="tree" size={16} /></span><span class="brand-text"><span>Forester <span class="version">v{__APP_VERSION__}</span></span><small>{ORG.short}</small></span></div>
         <button class="icon-btn only-mobile" aria-label="Zatvori meni" onClick={() => (drawerOpen.value = false)}><Icon name="x" /></button>
       </div>
 
