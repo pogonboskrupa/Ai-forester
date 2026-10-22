@@ -206,6 +206,12 @@ export function Settings() {
               </button>
             ))}
           </div>
+          <h3 class="muted xs">Raspored</h3>
+          <div class="segmented" role="radiogroup" aria-label="Raspored">
+            <button role="radio" aria-checked={s.layout === 'auto'} class={s.layout === 'auto' ? 'on' : ''} onClick={() => updateSettings({ layout: 'auto' })}><Icon name="sparkle" size={16} /> Automatski</button>
+            <button role="radio" aria-checked={s.layout === 'desktop'} class={s.layout === 'desktop' ? 'on' : ''} onClick={() => updateSettings({ layout: 'desktop' })}><Icon name="monitor" size={16} /> Desktop</button>
+          </div>
+          <p class="muted xs">Automatski: telefon dobija mobilni raspored, računar širok raspored s bočnom trakom. Desktop: i telefon prikazuje računarski raspored (kao „Desktop site“ u pregledniku); na računaru nema efekta.</p>
         </section>
 
         <section class="card">

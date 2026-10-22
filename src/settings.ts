@@ -1,4 +1,5 @@
 import { effect, signal } from '@preact/signals';
+import type { Layout } from './layout';
 
 export type Provider = 'gemini' | 'openai' | 'claude' | 'proxy';
 export type Mode = 'ai' | 'search';
@@ -15,6 +16,8 @@ export interface Settings {
   proxyUrl: string;
   accessCode: string;
   theme: Theme;
+  /** auto = prati ekran; desktop = računarski raspored i na telefonu. */
+  layout: Layout;
   /** Ako odabrani AI ne odgovori (kvota, preopterećenje), probaj ostale s unesenim ključem. */
   fallback: boolean;
   mode: Mode;
@@ -39,6 +42,7 @@ const DEFAULTS: Settings = {
   proxyUrl: (import.meta.env.VITE_PROXY_URL as string | undefined) ?? '',
   accessCode: '',
   theme: 'system',
+  layout: 'auto',
   fallback: true,
   mode: 'ai',
 };

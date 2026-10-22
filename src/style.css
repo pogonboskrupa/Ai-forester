@@ -27,6 +27,9 @@
   --font: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   --mono: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
   --side-w: 280px;
+  --page-w: 1040px;
+  --narrow-w: 720px;
+  --chat-w: 780px;
   --panel-w: 400px;
   color-scheme: light;
 }
@@ -249,7 +252,7 @@ input[type='checkbox'] { accent-color: var(--accent); width: 16px; height: 16px;
 /* ---------- Chat ---------- */
 .chat { display: flex; flex-direction: column; height: 100%; min-height: 0; }
 .log { flex: 1; overflow-y: auto; scroll-behavior: smooth; }
-.log-inner { max-width: 780px; margin: 0 auto; padding: 24px 20px 12px; display: flex; flex-direction: column; gap: 22px; }
+.log-inner { max-width: var(--chat-w); margin: 0 auto; padding: 24px 20px 12px; display: flex; flex-direction: column; gap: 22px; }
 .msg-user { display: flex; justify-content: flex-end; align-items: flex-start; gap: 6px; flex-direction: row-reverse; }
 .msg-user .bubble {
   max-width: 85%; padding: 10px 16px; border-radius: var(--radius-lg) var(--radius-lg) 6px var(--radius-lg);
@@ -337,7 +340,7 @@ input[type='checkbox'] { accent-color: var(--accent); width: 16px; height: 16px;
 /* Composer */
 .composer { flex: none; padding: 8px 20px 14px; }
 .composer-box {
-  display: flex; align-items: flex-end; gap: 8px; max-width: 780px; margin: 0 auto;
+  display: flex; align-items: flex-end; gap: 8px; max-width: var(--chat-w); margin: 0 auto;
   padding: 8px 8px 8px 16px; border: 1px solid var(--border-strong); border-radius: var(--radius-lg);
   background: var(--surface); box-shadow: var(--shadow);
   transition: border-color 0.15s, box-shadow 0.15s;
@@ -355,7 +358,7 @@ input[type='checkbox'] { accent-color: var(--accent); width: 16px; height: 16px;
 .send:active:not(:disabled) { transform: scale(0.95); }
 .send:disabled { background: var(--surface-3); color: var(--muted); opacity: 1; }
 .send.stop { background: var(--text); color: var(--bg); }
-.hint { max-width: 780px; margin: 8px auto 0; text-align: center; font-size: 0.74rem; color: var(--muted); }
+.hint { max-width: var(--chat-w); margin: 8px auto 0; text-align: center; font-size: 0.74rem; color: var(--muted); }
 
 /* ---------- Panel izvora ---------- */
 .source-panel {
@@ -372,8 +375,8 @@ input[type='checkbox'] { accent-color: var(--accent); width: 16px; height: 16px;
 
 /* ---------- Stranice (biblioteka, postavke, projekat) ---------- */
 .page { display: flex; flex-direction: column; height: 100%; min-height: 0; }
-.page-inner { flex: 1; overflow-y: auto; width: 100%; max-width: 1040px; margin: 0 auto; padding: 28px 24px 60px; display: flex; flex-direction: column; gap: 16px; }
-.page-inner.narrow { max-width: 720px; }
+.page-inner { flex: 1; overflow-y: auto; width: 100%; max-width: var(--page-w); margin: 0 auto; padding: 28px 24px 60px; display: flex; flex-direction: column; gap: 16px; }
+.page-inner.narrow { max-width: var(--narrow-w); }
 .card { padding: 20px; border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); display: flex; flex-direction: column; gap: 14px; box-shadow: var(--shadow-sm); }
 .card h2 { margin: 0; }
 .searchbox { position: relative; display: flex; align-items: center; }
@@ -471,7 +474,7 @@ input[type='checkbox'] { accent-color: var(--accent); width: 16px; height: 16px;
 .pill.accent { background: var(--accent); color: var(--accent-fg); }
 .pill.warn { background: color-mix(in srgb, var(--bih) 16%, transparent); color: var(--bih); }
 .right { text-align: right; }
-.modebar { display: flex; align-items: center; gap: 8px; max-width: 780px; margin: 8px auto 0; padding: 0 4px; }
+.modebar { display: flex; align-items: center; gap: 8px; max-width: var(--chat-w); margin: 8px auto 0; padding: 0 4px; }
 .segmented.xs { padding: 2px; border-radius: 8px; }
 .segmented.xs button { height: 26px; padding: 0 10px; font-size: 0.78rem; border-radius: 6px; gap: 5px; }
 .select.xs { width: auto; max-width: 240px; height: 30px; padding: 2px 26px 2px 10px; font-size: 0.78rem; background-color: var(--surface); }
@@ -868,3 +871,12 @@ button.office-item { text-align: left; width: 100%; }
 @media (pointer: coarse), (max-width: 820px) {
   p a[target='_blank'] { display: inline-block; padding: 12px 6px; margin: -12px -6px; }
 }
+
+/* ---------- Široki ekrani: sadržaj prati širinu ekrana ---------- */
+@media (min-width: 1280px) { :root { --page-w: 1160px; --narrow-w: 840px; --chat-w: 840px; } }
+@media (min-width: 1600px) { :root { --page-w: 1400px; --narrow-w: 960px; --chat-w: 960px; --panel-w: 460px; } }
+@media (min-width: 1920px) { :root { --page-w: 1640px; --narrow-w: 1080px; --chat-w: 1040px; --panel-w: 520px; --side-w: 300px; } }
+@media (min-width: 2400px) { :root { --page-w: 1900px; --narrow-w: 1200px; --chat-w: 1120px; } }
+/* Čitljiva dužina reda za tekst članova, bez obzira na širinu ekrana */
+.article-body p, .article-body li { max-width: 92ch; }
+@media (min-width: 1600px) { .law-grid { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); } }
