@@ -23,8 +23,8 @@ export default defineConfig({
       includeAssets: ['icons/apple-touch-icon.png', 'icons/favicon-48.png'],
       manifest: {
         id: 'ai-sumar',
-        name: 'AI Šumar – šumarski propisi BiH / USK',
-        short_name: 'AI Šumar',
+        name: 'Forester – šumarski propisi BiH / USK',
+        short_name: 'Forester',
         description: 'Zakoni i pravilnici o šumarstvu BiH, FBiH i Unsko-sanskog kantona, s odgovorima i citatima članova.',
         lang: 'bs',
         dir: 'ltr',

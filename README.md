@@ -1,4 +1,4 @@
-# AI Šumar – asistent za šumarske propise BiH / FBiH / USK
+# Forester – asistent za šumarske propise BiH / FBiH / USK
 
 Baza: 45 propisa (USK + FBiH + BiH), vidi docs/propisi.md.
 

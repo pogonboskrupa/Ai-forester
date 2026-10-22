@@ -362,7 +362,7 @@ export function askAboutArticle(a: Article): void {
 }
 
 export function conversationToMarkdown(c: Conversation): string {
-  const lines = [`# ${c.title}`, '', `_Izvezeno ${new Date().toLocaleString('bs-BA')} iz AI Šumar_`, ''];
+  const lines = [`# ${c.title}`, '', `_Izvezeno ${new Date().toLocaleString('bs-BA')} iz Forester_`, ''];
   for (const m of c.messages) {
     if (m.role === 'user') {
       lines.push(`## ${m.text}`, '');
