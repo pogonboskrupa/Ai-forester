@@ -1,5 +1,8 @@
 import './style.css';
 import { setupPwa } from './pwa';
+import { effect } from '@preact/signals';
+import { applyLayout } from './layout';
+import { settings } from './settings';
 import { setupTabKeyboard } from './tabnav';
 import { render } from 'preact';
 import { useEffect } from 'preact/hooks';
@@ -85,3 +88,4 @@ function App() {
 render(<App />, document.getElementById('app')!);
 setupPwa();
 setupTabKeyboard();
+effect(() => applyLayout(settings.value.layout));
