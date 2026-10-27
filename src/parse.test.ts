@@ -6,6 +6,11 @@ import type { LawMeta } from './types';
 const law: LawMeta = { id: 't', file: 't', title: 'T', level: 'USK', gazette: 'g', inForce: true, sourceUrl: '' };
 
 describe('parseArticles', () => {
+  it('uklanja kontrolne znakove iz PDF ekstrakcije', () => {
+    const a = parseArticles('Član 5.\n1. \u0007Gospodari šumama bez plana.\n2. \u0000Vrši sječu.', law);
+    expect(a[0]?.text).not.toMatch(/[\u0000-\u0008\u000b\u000e-\u001f]/);
+    expect(a[0]?.text).toContain('1. Gospodari šumama');
+  });
   it('dijeli po članovima i hvata naslov', () => {
     const a = parseArticles('(Doznaka)\nČlan 5.\nSječa se vrši uz doznaku.\nČlan 6.\nDrugi tekst.', law);
     expect(a.map((x) => x.number)).toEqual(['5', '6']);

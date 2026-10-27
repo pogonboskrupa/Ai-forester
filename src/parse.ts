@@ -1,6 +1,8 @@
 import type { Article, LawMeta } from './types';
 
 const BREAK_BEFORE = /^(\(?\d{1,3}[.)]|\(\d{1,3}\)|[a-zčćšžđ]\)|[-–•*]\s|[IVX]+\.\s|"\(|„\()/;
+// Kontrolni znakovi (npr. BEL iza broja stavke) zaostaju iz PDF ekstrakcije; \t i \n se čuvaju.
+const CONTROL = /[\u0000-\u0008\u000b-\u001f\u007f]/g;
 const ENDS_BLOCK = /[.:;!?]["“”]?$/;
 
 /** PDF lomi redove usred rečenice; spajamo ih, a čuvamo prelome za stavove, tačke i alineje. */
@@ -10,7 +12,7 @@ const NOISE = /^(S?L?U?Ž?B?E?N?I? ?GLAS(N|NI|NIK)?\b.*|S?NIK US KANTONA|I? ?GLA
 export function reflow(text: string): string {
   const out: string[] = [];
   for (const raw of text.split('\n')) {
-    const line = raw.trim();
+    const line = raw.replace(CONTROL, '').trim();
     if (line && NOISE.test(line) && !/^[a-zčćšžđ]\)$/.test(line)) continue;
     const prev = out[out.length - 1];
     if (!line) {
