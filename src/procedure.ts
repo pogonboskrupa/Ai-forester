@@ -42,6 +42,7 @@ export interface ProcedureCodeTable {
 export interface KeyRoleDuty {
   t: string;
   d: string;
+  cat?: string; // grupa zadataka (npr. „Nabavke i finansije“)
   refs: { act: string; n: string }[];
 }
 export interface KeyRole {
@@ -56,6 +57,10 @@ export interface KeyRole {
   responsibility: string[];
   collaborates: string[];
   caution?: string;
+  tier?: 'rukovodstvo'; // prikazuje se u posebnoj cjelini „Rukovodstvo“
+  facts?: { k: string; v: string }[]; // profil: ko imenuje, mandat, uslovi…
+  chain?: { t: string; on?: boolean }[]; // linija odgovornosti, odozgo prema dolje
+  limits?: string[]; // ovlasti i ograničenja: šta ne smije sam
 }
 
 export interface Procedure {
@@ -91,6 +96,9 @@ export function normalizeProcedure(p: Partial<Procedure> | undefined | null): Pr
     roles: p.roles ?? [], deadlines: p.deadlines ?? [], forms: p.forms ?? [], codes: p.codes ?? [], keyRoles: p.keyRoles ?? [],
   };
 }
+
+/** Radna mjesta iz cjeline „Rukovodstvo“ (izvršni direktor, upravnik…). */
+export const leadershipRoles = (p: Procedure): KeyRole[] => (p.keyRoles ?? []).filter((r) => r.tier === 'rukovodstvo');
 
 /** Validan datum dd.mm. u datoj godini (29.02. u neprestupnoj godini nije validan). */
 function dayOf(year: number, dd: number, mm: number): Date | null {

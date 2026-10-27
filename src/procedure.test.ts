@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { nextDated, normalizeProcedure, type Procedure } from './procedure';
+import { leadershipRoles, nextDated, normalizeProcedure, type KeyRole, type Procedure } from './procedure';
 import { fold, reflow } from './text';
 
 const base = normalizeProcedure({ title: 'T' }) as Procedure;
@@ -40,5 +40,19 @@ describe('reflow', () => {
 describe('fold', () => {
   it('normalizuje NFD dijakritike', () => {
     expect(fold('Šuma'.normalize('NFD'))).toBe('suma');
+  });
+});
+
+describe('leadershipRoles', () => {
+  const role = (id: string, tier?: 'rukovodstvo'): KeyRole => ({
+    id, name: id, group: 'g', purpose: '', requirements: [], duties: [], documents: [], deadlines: [], responsibility: [], collaborates: [], tier,
+  });
+  it('vraća samo rukovodstvo, redoslijedom iz podataka', () => {
+    const p = { ...base, keyRoles: [role('a'), role('izvrsni', 'rukovodstvo'), role('b'), role('upravnik', 'rukovodstvo')] };
+    expect(leadershipRoles(p).map((r) => r.id)).toEqual(['izvrsni', 'upravnik']);
+  });
+  it('bez rukovodstva vraća prazan niz', () => {
+    expect(leadershipRoles({ ...base, keyRoles: [role('a')] })).toEqual([]);
+    expect(leadershipRoles({ ...base, keyRoles: undefined })).toEqual([]);
   });
 });

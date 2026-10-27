@@ -6,13 +6,15 @@ import { fold } from '../text';
 import { Icon, type IconName } from './Icon';
 import { OfficeBody } from './Office';
 import { KeyRoles } from './KeyRoles';
+import { Leadership } from './Leadership';
 
-type Tab = 'pregled' | 'dokumenti' | 'tokovi' | 'uloge' | 'radna' | 'rokovi' | 'obrasci' | 'sifre' | 'tekst' | 'kancelarija';
+type Tab = 'pregled' | 'dokumenti' | 'tokovi' | 'uloge' | 'rukovodstvo' | 'radna' | 'rokovi' | 'obrasci' | 'sifre' | 'tekst' | 'kancelarija';
 const TABS: { id: Tab; label: string; icon: IconName }[] = [
   { id: 'pregled', label: 'Pregled', icon: 'book' },
   { id: 'dokumenti', label: 'Dokumenti', icon: 'folder' },
   { id: 'tokovi', label: 'Tokovi', icon: 'send' },
   { id: 'uloge', label: 'Ko šta radi', icon: 'check' },
+  { id: 'rukovodstvo', label: 'Rukovodstvo', icon: 'scale' },
   { id: 'radna', label: 'Radna mjesta', icon: 'tree' },
   { id: 'rokovi', label: 'Rokovi', icon: 'calendar' },
   { id: 'obrasci', label: 'Obrasci', icon: 'edit' },
@@ -259,6 +261,7 @@ export function ProcedureView() {
             {tab === 'dokumenti' && <Documents p={p} />}
             {tab === 'tokovi' && <Flows p={p} />}
             {tab === 'uloge' && <Roles p={p} />}
+            {tab === 'rukovodstvo' && <Leadership p={p} />}
             {tab === 'radna' && <KeyRoles p={p} />}
             {tab === 'rokovi' && <Deadlines p={p} />}
             {tab === 'obrasci' && <Forms p={p} />}

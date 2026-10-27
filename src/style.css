@@ -880,3 +880,111 @@ button.office-item { text-align: left; width: 100%; }
 /* Čitljiva dužina reda za tekst članova, bez obzira na širinu ekrana */
 .article-body p, .article-body li { max-width: 92ch; }
 @media (min-width: 1600px) { .law-grid { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); } }
+
+/* ---------- Rukovodstvo ---------- */
+.lead { display: flex; flex-direction: column; gap: 14px; }
+.lead-switch { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+.lead-switch button { display: grid; grid-template-columns: 44px minmax(0, 1fr); grid-template-areas: 'i t' 'i s'; column-gap: 12px; row-gap: 2px; align-items: center; text-align: left; padding: 14px 16px; border: 1px solid var(--border); border-radius: 16px; background: var(--surface); box-shadow: var(--shadow-sm); transition: border-color .15s, box-shadow .15s, transform .15s; }
+.lead-switch button:hover { border-color: var(--accent); transform: translateY(-1px); }
+.lead-switch button.on { border-color: var(--accent); background: linear-gradient(135deg, var(--accent-soft), transparent 70%), var(--surface); box-shadow: var(--shadow), inset 0 3px 0 var(--accent); }
+.lead-ico { grid-area: i; width: 44px; height: 44px; border-radius: 12px; display: grid; place-items: center; background: var(--surface-2); color: var(--accent); }
+.lead-switch .on .lead-ico { background: var(--accent); color: var(--accent-fg); }
+.lead-txt { grid-area: t; display: flex; flex-direction: column; min-width: 0; }
+.lead-txt strong { font-size: 1.02rem; line-height: 1.25; }
+.lead-txt small { color: var(--muted); font-size: 0.78rem; }
+.lead-stats { grid-area: s; font-size: 0.78rem; color: var(--muted); }
+.lead-stats b { color: var(--accent); font-size: 0.95rem; }
+
+.kr-facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 1px; margin: 0; border: 1px solid var(--border); border-radius: 14px; overflow: hidden; background: var(--border); }
+.kr-facts > div { background: var(--surface); padding: 10px 14px; display: flex; flex-direction: column; gap: 2px; }
+.kr-facts dt { font-size: 0.68rem; letter-spacing: .06em; text-transform: uppercase; font-weight: 700; color: var(--muted); }
+.kr-facts dd { margin: 0; font-size: 0.9rem; font-weight: 550; line-height: 1.35; }
+
+.kr-chain { list-style: none; margin: 4px 0 0; padding: 0 0 0 14px; display: flex; flex-direction: column; border-left: 2px solid var(--border-strong); }
+.kr-chain li { position: relative; padding: 7px 0 7px 18px; font-size: 0.9rem; color: var(--muted); }
+.kr-chain li::before { content: ''; position: absolute; left: -22px; top: 50%; width: 12px; height: 12px; margin-top: -6px; border-radius: 50%; background: var(--surface); border: 2px solid var(--border-strong); }
+.kr-chain li.on { color: var(--text); font-weight: 700; }
+.kr-chain li.on::before { background: var(--accent); border-color: var(--accent); box-shadow: 0 0 0 4px var(--accent-soft); }
+
+.kr-cats { display: flex; flex-wrap: wrap; gap: 6px; }
+.kr-cats button { padding: 5px 12px; border-radius: 999px; border: 1px solid var(--border-strong); background: var(--surface); font-size: 0.8rem; font-weight: 550; color: var(--muted); }
+.kr-cats button:hover { border-color: var(--accent); color: var(--text); }
+.kr-cats button.on { background: var(--accent); border-color: var(--accent); color: var(--accent-fg); }
+.kr-group-block { display: flex; flex-direction: column; gap: 10px; }
+.kr-group-block + .kr-group-block { padding-top: 6px; border-top: 1px dashed var(--border-strong); }
+.kr-cat { margin: 4px 0 0; font-size: 0.74rem; letter-spacing: .07em; text-transform: uppercase; color: var(--accent); display: flex; align-items: center; gap: 8px; }
+
+.kr-limits { border-color: color-mix(in srgb, var(--bih) 40%, var(--border)); background: color-mix(in srgb, var(--bih) 6%, var(--surface)); }
+.kr-limits h3 { color: var(--bih); }
+
+.kr-compare { width: 100%; border-collapse: collapse; font-size: 0.86rem; }
+.kr-compare th, .kr-compare td { padding: 8px 12px; text-align: left; border-bottom: 1px solid var(--border); vertical-align: top; }
+.kr-compare thead th { font-size: 0.75rem; background: var(--surface-2); }
+.kr-compare tbody th { font-weight: 600; color: var(--muted); white-space: nowrap; width: 1%; }
+.kr-compare tr:last-child > * { border-bottom: 0; }
+
+@media (max-width: 820px) {
+  .lead-switch { grid-template-columns: minmax(0, 1fr); }
+  .lead-switch button { padding: 12px 14px; }
+  .kr-facts { grid-template-columns: minmax(0, 1fr); }
+  .kr-compare tbody th { white-space: normal; }
+}
+@media (min-width: 1280px) { .kr-facts { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+.kr-req .pill { height: auto; min-height: 24px; font-size: 0.82rem; font-weight: 500; color: var(--text); background: var(--surface); border: 1px solid color-mix(in srgb, var(--accent) 22%, var(--border)); }
+
+/* ---------- v1.0.20: završna obrada dizajna ---------- */
+:root {
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --glow: 0 0 0 4px var(--accent-soft);
+}
+/* Ulaz ekrana: kratko, bez skakanja rasporeda */
+@keyframes view-in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+.main > .page, .main > section { animation: view-in 0.28s var(--ease) both; }
+.proc-stack, .lead, .kr-detail { animation: view-in 0.24s var(--ease) both; }
+
+/* Odziv na dodir i hover: isti jezik na svim karticama i dugmadima */
+.btn, .chip, .law-card, .proc-card, .lead-switch button, .kr-nav button, .quick button, .offence, .tpl, .segmented button, .nav-item {
+  transition: background-color .15s var(--ease), border-color .15s var(--ease), box-shadow .2s var(--ease), transform .15s var(--ease), color .15s var(--ease);
+}
+.btn:active:not(:disabled), .chip:active, .law-card:active, .lead-switch button:active, .kr-nav button:active, .quick button:active, .tpl:active { transform: scale(0.98); }
+.law-card:hover, .quick button:hover, .tpl:hover { box-shadow: var(--shadow); }
+
+/* Kartice: tanak svijetli rub odozgo daje dubinu bez teških sjenki */
+.card, .proc-card, .law-card, .offence { box-shadow: var(--shadow-sm), inset 0 1px 0 color-mix(in srgb, #fff 55%, transparent); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme='light']) .card, :root:not([data-theme='light']) .proc-card, :root:not([data-theme='light']) .law-card, :root:not([data-theme='light']) .offence { box-shadow: var(--shadow-sm), inset 0 1px 0 rgba(255, 255, 255, 0.04); } }
+:root[data-theme='dark'] .card, :root[data-theme='dark'] .proc-card, :root[data-theme='dark'] .law-card, :root[data-theme='dark'] .offence { box-shadow: var(--shadow-sm), inset 0 1px 0 rgba(255, 255, 255, 0.04); }
+
+/* Kazne: težina je vidljiva na prvi pogled */
+.offence { position: relative; padding-left: 16px; overflow: hidden; }
+.offence::before { content: ''; position: absolute; inset: 0 auto 0 0; width: 4px; background: var(--border-strong); }
+.offence[data-sev='mid']::before { background: var(--bih); }
+.offence[data-sev='high']::before { background: var(--danger); }
+.offence-amount strong { font-size: 1.05rem; font-variant-numeric: tabular-nums; }
+
+/* Naslovi stranica: jasnija hijerarhija */
+.page-inner > h1:first-child, .page-inner > header > h1 { font-size: clamp(1.5rem, 2.4vw, 2rem); letter-spacing: -0.025em; }
+.page-inner > .muted.small:first-of-type { margin-top: -2px; }
+h2 { letter-spacing: -0.015em; }
+
+/* Scroll tabovi: meki rub pokazuje da ima još sadržaja */
+@media (max-width: 820px) {
+  .segmented { -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 24px), transparent); mask-image: linear-gradient(to right, #000 calc(100% - 24px), transparent); padding-right: 22px; }
+  .apk-box { flex-direction: column; align-items: stretch; }
+  .apk-box .btn { justify-content: center; }
+}
+
+/* Fokus: vidljiv i prijatan */
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; box-shadow: var(--glow); }
+input:focus-visible, textarea:focus-visible, .select:focus-visible { box-shadow: var(--glow); outline: none; }
+
+/* Skrolbar: tanak, ne odvlači pažnju */
+* { scrollbar-width: thin; scrollbar-color: var(--border-strong) transparent; }
+.segmented, .kr-nav, .lead-switch { scrollbar-width: none; }
+
+/* Brojke: poravnate cifre u statistikama i tabelama */
+.stat b, .proc-stat strong, .kr-compare td, .lead-stats b, .sum-count { font-variant-numeric: tabular-nums; }
+
+@media (prefers-reduced-motion: reduce) {
+  .main > .page, .main > section, .proc-stack, .lead, .kr-detail { animation: none; }
+  .btn:active:not(:disabled), .chip:active, .law-card:active { transform: none; }
+}

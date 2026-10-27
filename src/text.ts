@@ -18,7 +18,7 @@ export function tokenize(s: string): string[] {
  * i ispred nabrajanja (-, •, 1., a), I.), da liste i pasusi ostanu čitljivi.
  */
 export function reflow(text: string): string {
-  const lines = text.split('\n').map((l) => l.trim());
+  const lines = text.split('\n').map((l) => l.replace(/[\u0000-\u0008\u000b-\u001f\u007f]/g, '').trim());
   const out: string[] = [];
   for (const line of lines) {
     const prev = out[out.length - 1];
