@@ -1,5 +1,6 @@
 import { useRef, useState } from 'preact/hooks';
 import { AiError, streamCompletion } from '../ai/client';
+import { LOCAL_PRESETS, detectLocal, listLocalModels, normalizeLocalUrl } from '../ai/local';
 import { listGeminiModels, listOpenAIModels, pickBestGemini, pickBestOpenAI } from '../ai/models';
 import {
   CLAUDE_MODELS, GEMINI_MODELS, OPENAI_MODELS, PROVIDER_NAMES, configuredProviders, hasKey, settings, updateSettings,
@@ -51,7 +52,7 @@ type Status = { ok: boolean; text: string } | null;
 
 async function testProvider(p: Provider): Promise<Status> {
   const ctrl = new AbortController();
-  const t = setTimeout(() => ctrl.abort(), 30000);
+  const t = setTimeout(() => ctrl.abort(), p === 'local' ? 180000 : 30000); // model na telefonu je spor pri prvom odgovoru
   try {
     let out = '';
     // Test samo ovog provajdera, bez prelaska na druge.
@@ -63,6 +64,85 @@ async function testProvider(p: Provider): Promise<Status> {
   } finally {
     clearTimeout(t);
   }
+}
+
+const CTX_OPTIONS = [2048, 4096, 8192, 16384];
+
+/** Lokalni model (npr. Phi-4 mini) preko OpenAI-kompatibilnog servera na telefonu ili u mreži. */
+function LocalCard() {
+  const s = settings.value;
+  const [status, setStatus] = useState<Status>(null);
+  const [busy, setBusy] = useState(false);
+  const [models, setModels] = useState<string[]>([]);
+  const connected = hasKey('local', s);
+  const primary = s.provider === 'local';
+
+  const apply = (url: string, found: string[]) => {
+    setModels(found);
+    const patch: Partial<S> = { localUrl: url };
+    // Ako postavljeni model ne postoji na serveru, uzmi onaj koji liči na Phi, inače prvi.
+    if (found.length && !found.includes(s.localModel)) patch.localModel = found.find((m) => /phi/i.test(m)) ?? found[0]!;
+    updateSettings(patch);
+  };
+  const find = async () => {
+    setBusy(true);
+    setStatus(null);
+    const r = await detectLocal();
+    if (r) {
+      apply(r.url, r.models);
+      setStatus({ ok: true, text: `Pronađen server: ${r.url} (${r.models.length} modela)` });
+    } else {
+      setStatus({ ok: false, text: 'Nije pronađen lokalni server na uobičajenim portovima. Pokrenite ga ili upišite adresu ručno.' });
+    }
+    setBusy(false);
+  };
+  const loadModels = async () => {
+    setBusy(true);
+    try {
+      const url = normalizeLocalUrl(s.localUrl);
+      const found = await listLocalModels(url, s.localKey);
+      apply(url, found);
+      setStatus({ ok: true, text: `${found.length} modela na serveru` });
+    } catch (e) {
+      setStatus({ ok: false, text: e instanceof Error ? e.message : 'Server ne odgovara' });
+    }
+    setBusy(false);
+  };
+
+  return (
+    <div class={`provider-card ${primary ? 'primary' : ''}`}>
+      <div class="row between">
+        <div class="row gap">
+          <strong>{PROVIDER_NAMES.local}</strong>
+          {connected ? <span class="pill ok">povezan</span> : <span class="pill">nije povezan</span>}
+          {primary && connected && <span class="pill accent">glavni</span>}
+        </div>
+        {connected && !primary && <button class="btn ghost sm" onClick={() => updateSettings({ provider: 'local' })}>Postavi kao glavni</button>}
+      </div>
+      <p class="muted xs">Model koji radi na vašem telefonu (npr. Phi-4 mini), bez interneta i bez ključa. Treba aplikacija koja pokreće OpenAI-kompatibilan server: llama.cpp ili Ollama (npr. u Termuxu) ili LM Studio u istoj mreži. Aplikacije koje samo otvaraju chat (bez servera) ne mogu se povezati.</p>
+      <div class="row gap wrap">
+        {LOCAL_PRESETS.map((p) => <button key={p.name} class="chip" onClick={() => { updateSettings({ localUrl: p.url }); setStatus(null); }}>{p.name}</button>)}
+        <button class="btn sm" disabled={busy} onClick={() => void find()}>{busy ? 'Tražim…' : 'Pronađi na ovom uređaju'}</button>
+      </div>
+      <label class="field">Adresa servera<input value={s.localUrl} placeholder="http://localhost:8080/v1" onInput={(e) => { updateSettings({ localUrl: e.currentTarget.value.trim() }); setStatus(null); }} onBlur={() => s.localUrl && updateSettings({ localUrl: normalizeLocalUrl(s.localUrl) })} /></label>
+      <div class="row gap">
+        <input class="grow" list="models-local" value={s.localModel} aria-label="Model" placeholder="phi-4-mini" onInput={(e) => updateSettings({ localModel: e.currentTarget.value.trim() })} />
+        <datalist id="models-local">{models.map((m) => <option key={m} value={m} />)}</datalist>
+        <button class="btn sm" disabled={!connected || busy} onClick={() => void loadModels()}>Učitaj modele</button>
+        <button class="btn sm" disabled={!connected || busy} onClick={async () => { setBusy(true); setStatus(await testProvider('local')); setBusy(false); }}>{busy ? 'Provjeravam…' : 'Testiraj'}</button>
+      </div>
+      <label class="field">Kontekst modela (tokeni)
+        <select class="select" value={s.localCtx} onChange={(e) => updateSettings({ localCtx: Number(e.currentTarget.value) })}>
+          {CTX_OPTIONS.map((n) => <option key={n} value={n}>{n}{n === 4096 ? ' (zadano)' : ''}</option>)}
+        </select>
+        <span class="muted xs">Što je kontekst veći, više izvoda ide u upit, ali je model sporiji. Postavite onoliko koliko je server pokrenut (npr. llama.cpp -c 4096).</span>
+      </label>
+      <details class="advanced"><summary>Napredno: ključ servera</summary>
+        <SecretInput value={s.localKey} onChange={(v) => updateSettings({ localKey: v })} placeholder="neobavezno (većina lokalnih servera ga ne traži)" />
+      </details>
+      {status && <p class={`status ${status.ok ? 'ok' : 'err'} small`}>{status.text}</p>}
+    </div>
+  );
 }
 
 function ProviderCard({ def }: { def: ProviderDef }) {
@@ -182,6 +262,7 @@ export function Settings() {
           <div class="row between"><h2>AI ključevi</h2><span class="muted xs">{connected.length ? `${connected.length} povezano` : 'nijedan povezan'}</span></div>
           <p class="muted small">Možete unijeti ključeve za više servisa. Ključevi se čuvaju samo u ovom pregledniku i šalju direktno servisu. Ne unosite ih na tuđem uređaju.</p>
           {PROVIDERS.map((d) => <ProviderCard key={d.id} def={d} />)}
+          <LocalCard />
           <label class="toggle">
             <input type="checkbox" checked={s.fallback} onChange={(e) => updateSettings({ fallback: e.currentTarget.checked })} />
             <span>

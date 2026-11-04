@@ -47,3 +47,11 @@ export function buildPrompt(question: string, ctx: Article[], noticeOf: (lawId: 
   const noticeBlock = notices.length ? `\n\n<napomene>\n${notices.join('\n')}\n</napomene>` : '';
   return `<izvodi>\n${excerpts || '(nisu pronađeni relevantni izvodi)'}\n</izvodi>${noticeBlock}\n\nPitanje: ${question}`;
 }
+
+/** Kratka uputa za male lokalne modele (mali kontekst, slabije praćenje dugih uputa). */
+export function localSystemPrompt(project: Project | null): string {
+  const extra = project?.instructions.trim();
+  const base = `Ti si asistent za šumarske propise u BiH, FBiH i Unsko-sanskom kantonu (kantonalno javno šumarsko preduzeće). Odgovaraj na bosanskom, latinicom, kratko.
+Pravila: koristi samo numerisane izvode iz poruke; ako odgovora nema u izvodima, reci to i ne izmišljaj članove ni iznose. Uz svaku tvrdnju stavi oznaku izvoda, npr. [1] ili [2]. Počni direktnim odgovorom u 1–2 rečenice. Izvod označen ZASTARJELI TEKST ne citiraj kao važeći. Za pravno obavezujuće radnje uputi na službeni tekst.`;
+  return extra ? `${base}\nUpute za projekat "${project!.name}": ${extra}` : base;
+}

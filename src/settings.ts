@@ -1,7 +1,7 @@
 import { effect, signal } from '@preact/signals';
 import type { Layout } from './layout';
 
-export type Provider = 'gemini' | 'openai' | 'claude' | 'proxy';
+export type Provider = 'gemini' | 'openai' | 'claude' | 'proxy' | 'local';
 export type Mode = 'ai' | 'search';
 export type Theme = 'system' | 'light' | 'dark';
 
@@ -15,6 +15,11 @@ export interface Settings {
   claudeModel: string;
   proxyUrl: string;
   accessCode: string;
+  /** Lokalni model (OpenAI-kompatibilan server): adresa, naziv modela, neobavezan ključ i veličina konteksta u tokenima. */
+  localUrl: string;
+  localModel: string;
+  localKey: string;
+  localCtx: number;
   theme: Theme;
   /** auto = prati ekran; desktop = računarski raspored i na telefonu. */
   layout: Layout;
@@ -41,6 +46,10 @@ const DEFAULTS: Settings = {
   claudeModel: CLAUDE_MODELS[0],
   proxyUrl: (import.meta.env.VITE_PROXY_URL as string | undefined) ?? '',
   accessCode: '',
+  localUrl: '',
+  localModel: 'phi-4-mini',
+  localKey: '',
+  localCtx: 4096,
   theme: 'system',
   layout: 'auto',
   fallback: true,
@@ -89,17 +98,19 @@ export const PROVIDER_NAMES: Record<Provider, string> = {
   openai: 'ChatGPT',
   claude: 'Claude',
   proxy: 'Proxy',
+  local: 'Lokalni AI',
 };
 
 export function hasKey(p: Provider, s: Settings = settings.value): boolean {
   if (p === 'gemini') return !!s.geminiKey;
   if (p === 'openai') return !!s.openaiKey;
   if (p === 'claude') return !!s.claudeKey;
+  if (p === 'local') return !!s.localUrl;
   return !!s.proxyUrl;
 }
 
 export const configuredProviders = (s: Settings = settings.value): Provider[] =>
-  (['claude', 'openai', 'gemini', 'proxy'] as Provider[]).filter((p) => hasKey(p, s));
+  (['claude', 'openai', 'gemini', 'proxy', 'local'] as Provider[]).filter((p) => hasKey(p, s));
 
 export const isConfigured = (s: Settings = settings.value): boolean => configuredProviders(s).length > 0;
 
@@ -107,6 +118,7 @@ export function modelOf(p: Provider, s: Settings = settings.value): string {
   if (p === 'gemini') return s.geminiModel;
   if (p === 'openai') return s.openaiModel;
   if (p === 'claude') return s.claudeModel;
+  if (p === 'local') return s.localModel;
   return 'proxy';
 }
 
