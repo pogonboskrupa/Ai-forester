@@ -9,7 +9,7 @@ import { createSearchIndex } from './searchIndex';
 import { deleteFile } from './pdf/files';
 import { whenIdle } from './lazy';
 import { isAbort, streamCompletion, type Turn } from './ai/client';
-import { buildPrompt, systemPrompt } from './ai/prompt';
+import { buildPrompt, localSystemPrompt, systemPrompt } from './ai/prompt';
 import { isConfigured, settings } from './settings';
 import { loadConversations, loadProjects, loadUserLaws, saveConversations, saveProjects, saveUserLaws } from './storage';
 import { linkAmendments } from './pdf/import';
@@ -298,6 +298,7 @@ async function generate(convId: string, question: string, history: Msg[], opts: 
   try {
     const model = await streamCompletion({
       system: systemPrompt(project),
+      localSystem: localSystemPrompt(project),
       messages: [...toTurns(history), { role: 'user', text: buildPrompt(question, ctx, (id) => lawById(id)?.notice) }],
       signal: controller.signal,
       onText: (d) => {

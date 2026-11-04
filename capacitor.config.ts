@@ -7,6 +7,11 @@ const config: CapacitorConfig = {
   webDir: 'dist',
   android: {
     backgroundColor: '#f6f5f1',
+    // Lokalni AI model (npr. llama.cpp/Ollama na telefonu) je običan http://localhost server.
+    allowMixedContent: true,
+  },
+  server: {
+    cleartext: true,
   },
 };
 

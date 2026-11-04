@@ -1,5 +1,6 @@
 import { configuredProviders, hasKey, modelOf, PROVIDER_NAMES, settings, updateSettings, type Provider, type Settings } from '../settings';
 import { isModelGone, listGeminiModels, listOpenAIModels, pickBestGemini, pickBestOpenAI, suggestedModel } from './models';
+import { fitForLocal, normalizeLocalUrl } from './local';
 import { readSse } from './sse';
 
 export interface Turn {
@@ -9,6 +10,8 @@ export interface Turn {
 
 export interface StreamRequest {
   system: string;
+  /** Kraća uputa za male lokalne modele; ako je nema, koristi se `system`. */
+  localSystem?: string;
   messages: Turn[];
   onText: (delta: string) => void;
   signal: AbortSignal;
@@ -196,10 +199,49 @@ async function streamProxy(s: Settings, req: StreamRequest): Promise<void> {
   req.onText(data.text);
 }
 
+/** Lokalni model preko OpenAI-kompatibilnog API-ja: bez ključa, bez ponavljanja, upit skraćen na kontekst modela. */
+async function streamLocal(s: Settings, req: StreamRequest): Promise<void> {
+  const system = req.localSystem ?? req.system;
+  const { messages } = fitForLocal(system, req.messages, s.localCtx);
+  let res: Response;
+  try {
+    res = await fetch(`${normalizeLocalUrl(s.localUrl)}/chat/completions`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', ...(s.localKey ? { Authorization: `Bearer ${s.localKey}` } : {}) },
+      body: JSON.stringify({
+        model: s.localModel,
+        stream: true,
+        temperature: 0.2,
+        max_tokens: 700,
+        messages: [{ role: 'system', content: system }, ...messages.map((m) => ({ role: m.role, content: m.text }))],
+      }),
+      signal: req.signal,
+    });
+  } catch (e) {
+    if (isAbort(e)) throw e;
+    throw new AiError('Lokalni model nije dostupan. Provjerite da je server pokrenut i da je adresa ispravna (Postavke → Lokalni AI → Pronađi).');
+  }
+  if (!res.ok) {
+    const detail = ((await res.json().catch(() => null)) as { error?: { message?: string } | string } | null)?.error;
+    throw new AiError(`Lokalni model ${res.status}${detail ? `: ${typeof detail === 'string' ? detail : detail.message ?? ''}` : ''}`);
+  }
+  let got = false;
+  for await (const data of readSse(res, req.signal)) {
+    if (data === '[DONE]') break;
+    const text = (JSON.parse(data) as { choices?: { delta?: { content?: string } }[] }).choices?.[0]?.delta?.content ?? '';
+    if (text) {
+      got = true;
+      req.onText(text);
+    }
+  }
+  if (!got) throw new AiError('Prazan odgovor lokalnog modela.');
+}
+
 function streamWith(p: Provider, s: Settings, req: StreamRequest): Promise<void> {
   if (p === 'claude') return streamClaude(s, req);
   if (p === 'openai') return streamOpenAI(s, req);
   if (p === 'proxy') return streamProxy(s, req);
+  if (p === 'local') return streamLocal(s, req);
   return streamGemini(s, req);
 }
 
