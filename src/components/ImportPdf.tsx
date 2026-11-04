@@ -1,5 +1,6 @@
-import { useState } from 'preact/hooks';
+import { useMemo, useState } from 'preact/hooks';
 import type { ActDraft } from '../pdf/acts';
+import { newFileKey, saveFile } from '../pdf/files';
 import { analyzePdf, buildUserLaw, type ActChoice, type PdfAnalysis } from '../pdf/import';
 import { addUserLaws, drawerOpen, laws, libraryFocus, toast, view } from '../store';
 import type { Level } from '../types';
@@ -12,7 +13,7 @@ const MAX_MB = 40;
 type Stage =
   | { kind: 'idle' }
   | { kind: 'reading'; page: number; total: number; name: string }
-  | { kind: 'review'; result: PdfAnalysis }
+  | { kind: 'review'; result: PdfAnalysis; file: File }
   | { kind: 'error'; message: string };
 
 /** Akti s članovima su gotovo uvijek propisi; ostalo (rješenja o imenovanju i sl.) je predznačeno kao neodabrano. */
@@ -27,6 +28,12 @@ function preselect(acts: ActDraft[]): ActDraft[] {
   return laws.filter((a) => FORESTRY.test(a.title));
 }
 
+/** Kad naslov nije prepoznat: prvi kraći red teksta, inače ime fajla. */
+function fallbackTitle(a: ActDraft, fileName: string): string {
+  const first = a.text.split('\n').map((l) => l.trim()).find(Boolean) ?? '';
+  return first.length >= 6 && first.length <= 120 && !/^Član\b/i.test(first) ? first : fileName.replace(/\.pdf$/i, '').replace(/[_-]+/g, ' ');
+}
+
 function guessTopic(title: string): string {
   if (/(?<!\p{L})lov|divlja|trofej/iu.test(title)) return 'Lovstvo';
   if (/sjem|sadn|rasadn/i.test(title)) return 'Sjeme i rasadnici';
@@ -35,6 +42,26 @@ function guessTopic(title: string): string {
   if (/okoliš|prirod/i.test(title)) return 'Okoliš';
   if (/(?<!\p{L})bilj/iu.test(title)) return 'Zdravlje bilja';
   return FORESTRY.test(title) ? 'Šumarstvo' : 'Ostalo';
+}
+
+/** Rezime (automatski) i cijeli tekst akta, bez skraćivanja, prije nego što se propis doda u bazu. */
+function ActPreview({ act, choice }: { act: ActDraft; choice: ActChoice }) {
+  const user = useMemo(() => buildUserLaw(act, choice, ''), [act, choice.title]);
+  const sum = user.law.summary;
+  return (
+    <div class="act-full">
+      {sum && (
+        <div class="act-sum">
+          <strong>Rezime <span class="pill xs">automatski</span></strong>
+          <p>{sum.overview}</p>
+          <ul>{sum.points.map((p, i) => <li key={i}>{p}</li>)}</ul>
+          {sum.caution && <p class="muted xs">{sum.caution}</p>}
+        </div>
+      )}
+      <div class="row between"><strong>Cijeli tekst</strong><span class="muted xs">{user.articles.length} članova · {act.text.length.toLocaleString('de-DE')} znakova</span></div>
+      <pre class="act-preview full">{act.text}</pre>
+    </div>
+  );
 }
 
 function ActRow({ act, selected, onToggle, choice, onChange }: {
@@ -80,8 +107,8 @@ function ActRow({ act, selected, onToggle, choice, onChange }: {
               {baseLaws.map((l) => <option key={l.id} value={l.id}>{l.title} ({l.gazette})</option>)}
             </select>
           </label>
-          <button type="button" class="link small" onClick={() => setPreview(!preview)}>{preview ? 'Sakrij pregled teksta' : 'Pregled teksta'}</button>
-          {preview && <pre class="act-preview">{act.text.slice(0, 2500)}{act.text.length > 2500 ? '\n…' : ''}</pre>}
+          <button type="button" class="link small" onClick={() => setPreview(!preview)}>{preview ? 'Sakrij rezime i cijeli tekst' : 'Rezime i cijeli tekst'}</button>
+          {preview && <ActPreview act={act} choice={choice} />}
         </div>
       )}
     </div>
@@ -109,8 +136,8 @@ export function ImportPdf() {
     try {
       const result = await analyzePdf(file, (page, total) => setStage({ kind: 'reading', page, total, name: file.name }));
       setSelected(new Set(preselect(result.acts).map((a) => a.key)));
-      setChoices(Object.fromEntries(result.acts.map((a) => [a.key, { title: a.title, level: result.meta.level, gazette: result.meta.gazette, topic: guessTopic(a.title), amends: /izmjen|dopun/i.test(a.title) ? guessAmends(a.title) : '' }])));
-      setStage({ kind: 'review', result });
+      setChoices(Object.fromEntries(result.acts.map((a) => [a.key, { title: a.title === 'Propis bez naslova' ? fallbackTitle(a, file.name) : a.title, level: result.meta.level, gazette: result.meta.gazette, topic: guessTopic(a.title), amends: /izmjen|dopun/i.test(a.title) ? guessAmends(a.title) : '' }])));
+      setStage({ kind: 'review', result, file });
     } catch (e) {
       setStage({ kind: 'error', message: `PDF nije moguće pročitati: ${e instanceof Error ? e.message : 'nepoznata greška'}` });
     }
@@ -122,7 +149,9 @@ export function ImportPdf() {
     if (!acts.length) return;
     setSaving(true);
     try {
-      const items = acts.map((a) => buildUserLaw(a, choices[a.key]!, stage.result.fileName));
+      const fileKey = newFileKey(stage.file);
+      const stored = await saveFile(fileKey, stage.file);
+      const items = acts.map((a) => buildUserLaw(a, choices[a.key]!, stage.result.fileName, stored ? fileKey : undefined));
       await addUserLaws(items);
       toast(`Dodano propisa: ${items.length} (${items.reduce((n, i) => n + i.articles.length, 0)} članova)`);
       libraryFocus.value = items.length === 1 ? { lawId: items[0]!.law.id } : null;

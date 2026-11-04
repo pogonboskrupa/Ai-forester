@@ -5,6 +5,7 @@ import { privateUnlocked } from '../private';
 import { fold } from '../text';
 import { OSTALO, SUBTOPICS, buildSubtopicIndex, faqInSubtopic, type SubtopicId } from '../subtopics';
 import type { Article, FaqEntry, Level } from '../types';
+import { loadFile } from '../pdf/files';
 import { Icon } from './Icon';
 import { LawSummaryCard } from './LawSummary';
 
@@ -85,6 +86,21 @@ function RolePositions({ roleId }: { roleId: string }) {
       )}
     </section>
   );
+}
+
+/** Otvara sačuvani izvorni PDF; ako preglednik blokira novi prozor (npr. u APK-u), preuzima ga kao fajl. */
+async function openOriginal(fileKey: string, name: string): Promise<void> {
+  const blob = await loadFile(fileKey);
+  if (!blob) return toast('Izvorni fajl nije pronađen na ovom uređaju', 'err');
+  const url = URL.createObjectURL(blob);
+  const win = window.open(url, '_blank', 'noopener');
+  if (!win) {
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = name || 'propis.pdf';
+    a.click();
+  }
+  setTimeout(() => URL.revokeObjectURL(url), 60_000);
 }
 
 const SPD_GROUPS = [
@@ -290,6 +306,9 @@ export function Library() {
               <p class="muted">{law.gazette} · {law.articleCount} članova</p>
               <div class="row gap wrap">
                 {law.sourceUrl && <a class="btn sm" href={law.sourceUrl} target="_blank" rel="noreferrer noopener"><Icon name="external" size={14} /> Službeni izvor</a>}
+                {law.custom && law.fileKey && (
+                  <button class="btn sm" onClick={() => void openOriginal(law.fileKey!, law.file)}><Icon name="external" size={14} /> Izvorni PDF</button>
+                )}
                 {law.custom && (
                   <button class="btn danger sm" onClick={() => {
                     if (!confirm(`Obrisati "${law.title}" iz baze? Razgovori ostaju.`)) return;
@@ -299,7 +318,7 @@ export function Library() {
               </div>
               {law.notice && <p class="notice"><Icon name="alert" size={14} /> {law.notice}</p>}
               <LawSummaryCard law={law} />
-              {law.custom && <p class="muted xs">Dodano iz PDF-a ({law.file}) u ovom pregledniku. Provjerite tekst prema službenom glasniku.</p>}
+              {law.custom && <p class="muted xs">Dodano iz PDF-a ({law.file}) u ovom pregledniku{law.fileKey ? ', izvorni fajl je sačuvan na ovom uređaju' : ''}. Rezime je automatski; cijeli tekst je ispod. Provjerite ga prema službenom glasniku.</p>}
             </div>
             <div class="searchbox"><Icon name="search" size={16} /><input placeholder="Traži unutar propisa…" value={term} onInput={(e) => setTerm(e.currentTarget.value)} /></div>
             <div class="articles">

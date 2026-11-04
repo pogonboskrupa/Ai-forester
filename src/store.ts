@@ -6,6 +6,7 @@ import { orgAnchors } from './org';
 import { findSummaryLaw, summaryMarkdown } from './summary';
 import { BUSINESS_TOPICS, setBusinessLaws } from './search';
 import { createSearchIndex } from './searchIndex';
+import { deleteFile } from './pdf/files';
 import { whenIdle } from './lazy';
 import { isAbort, streamCompletion, type Turn } from './ai/client';
 import { buildPrompt, systemPrompt } from './ai/prompt';
@@ -133,7 +134,10 @@ export async function addUserLaws(items: UserLaw[]): Promise<void> {
 }
 
 export async function deleteUserLaw(lawId: string): Promise<void> {
+  const gone = userLaws.value.find((u) => u.law.id === lawId)?.law.fileKey;
   userLaws.value = userLaws.value.filter((u) => u.law.id !== lawId);
+  // Izvorni PDF se briše tek kad ga nijedan drugi propis (iz istog glasnika) više ne koristi.
+  if (gone && !userLaws.value.some((u) => u.law.fileKey === gone)) void deleteFile(gone);
   // Projekti koji su ga koristili kao izvor više ga ne navode.
   projects.value = projects.value.map((p) => (p.lawIds.includes(lawId) ? { ...p, lawIds: p.lawIds.filter((x) => x !== lawId) } : p));
   if (openSourceId.value?.startsWith(`${lawId}#`)) openSourceId.value = null;

@@ -4,6 +4,7 @@ import type { Article, Level, UserLaw } from '../types';
 import { detectMeta, fixLegacyLines, splitActs, type ActDraft, type Meta } from './acts';
 import { documentLines } from './layout';
 import { readPdf } from './read';
+import { summarizeLocal } from './summarize';
 
 export interface PdfAnalysis {
   fileName: string;
@@ -38,7 +39,7 @@ const slug = (s: string) =>
     .replace(/^-|-$/g, '')
     .slice(0, 40);
 
-export function buildUserLaw(act: ActDraft, choice: ActChoice, fileName: string): UserLaw {
+export function buildUserLaw(act: ActDraft, choice: ActChoice, fileName: string, fileKey?: string): UserLaw {
   const id = `moj-${slug(choice.title) || 'propis'}-${Date.now().toString(36)}${Math.random().toString(36).slice(2, 5)}`;
   const meta = {
     id,
@@ -50,9 +51,11 @@ export function buildUserLaw(act: ActDraft, choice: ActChoice, fileName: string)
     sourceUrl: '',
     topic: choice.topic.trim() || 'Šumarstvo',
     ...(choice.amends ? { amends: choice.amends } : {}),
+    ...(fileKey ? { fileKey } : {}),
   };
   const articles = parseArticles(act.text, meta);
-  return { law: { ...meta, articleCount: articles.length, custom: true, addedAt: Date.now() }, articles };
+  const summary = summarizeLocal(articles);
+  return { law: { ...meta, ...(summary.points.length ? { summary } : {}), articleCount: articles.length, custom: true, addedAt: Date.now() }, articles };
 }
 
 /** Isto kao u ingestu: član osnovnog akta dobija listu članova iz zakona o izmjenama. */

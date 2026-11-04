@@ -988,3 +988,10 @@ input:focus-visible, textarea:focus-visible, .select:focus-visible { box-shadow:
   .main > .page, .main > section, .proc-stack, .lead, .kr-detail { animation: none; }
   .btn:active:not(:disabled), .chip:active, .law-card:active { transform: none; }
 }
+
+/* ---------- Uvoz: rezime i cijeli tekst ---------- */
+.act-full { display: flex; flex-direction: column; gap: 10px; }
+.act-sum { padding: 10px 12px; border-radius: var(--radius-sm); background: var(--accent-soft); border: 1px solid color-mix(in srgb, var(--accent) 25%, transparent); font-size: 0.88rem; }
+.act-sum p { margin: 4px 0; }
+.act-sum ul { margin: 4px 0 0; padding-left: 18px; display: flex; flex-direction: column; gap: 4px; }
+.act-preview.full { max-height: min(60vh, 520px); }
