@@ -23,6 +23,7 @@ export interface LawMeta {
   group?: string; // grupa u sekciji "Pravilnici ŠPD" (interni akti)
   notice?: string; // upozorenje o ažurnosti (npr. kasnije izmjene koje nisu u bazi)
   summary?: LawSummary;
+  fileKey?: string; // izvorni PDF uploadovanog propisa (IndexedDB, vidi pdf/files.ts)
 }
 
 export interface LawInfo extends LawMeta {
