@@ -1,5 +1,6 @@
 import { useRef, useState } from 'preact/hooks';
 import { AiError, streamCompletion } from '../ai/client';
+import { TEXT_SIZES } from '../appearance';
 import { LOCAL_PRESETS, detectLocal, listLocalModels, normalizeLocalUrl } from '../ai/local';
 import { listGeminiModels, listOpenAIModels, pickBestGemini, pickBestOpenAI } from '../ai/models';
 import {
@@ -287,6 +288,21 @@ export function Settings() {
               </button>
             ))}
           </div>
+          <h3 class="muted xs">Čitljivost</h3>
+          <div class="segmented fill" role="radiogroup" aria-label="Veličina teksta">
+            {TEXT_SIZES.map((t, i) => (
+              <button key={t.id} role="radio" aria-label={t.label} aria-checked={s.textSize === t.id} class={s.textSize === t.id ? 'on' : ''} onClick={() => updateSettings({ textSize: t.id })}>
+                <span style={{ fontSize: `${0.85 + i * 0.15}rem`, fontWeight: 700 }}>Aa</span> <span class="seg-label">{t.label}</span>
+              </button>
+            ))}
+          </div>
+          <label class="toggle">
+            <input type="checkbox" checked={s.contrast} onChange={(e) => updateSettings({ contrast: e.currentTarget.checked })} />
+            <span>
+              <strong>Visok kontrast</strong>
+              <span class="muted xs">Crno na bijelom (u tamnoj temi bijelo na crnom), jači rubovi. Za čitanje napolju na jakom suncu.</span>
+            </span>
+          </label>
           <h3 class="muted xs">Raspored</h3>
           <div class="segmented" role="radiogroup" aria-label="Raspored">
             <button role="radio" aria-checked={s.layout === 'auto'} class={s.layout === 'auto' ? 'on' : ''} onClick={() => updateSettings({ layout: 'auto' })}><Icon name="sparkle" size={16} /> Automatski</button>

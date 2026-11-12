@@ -1,4 +1,5 @@
 import { effect, signal } from '@preact/signals';
+import { applyAppearance, type TextSize } from './appearance';
 import type { Layout } from './layout';
 
 export type Provider = 'gemini' | 'openai' | 'claude' | 'proxy' | 'local';
@@ -23,6 +24,9 @@ export interface Settings {
   theme: Theme;
   /** auto = prati ekran; desktop = računarski raspored i na telefonu. */
   layout: Layout;
+  /** Veličina teksta i visok kontrast za čitanje napolju. */
+  textSize: TextSize;
+  contrast: boolean;
   /** Ako odabrani AI ne odgovori (kvota, preopterećenje), probaj ostale s unesenim ključem. */
   fallback: boolean;
   mode: Mode;
@@ -52,6 +56,8 @@ const DEFAULTS: Settings = {
   localCtx: 4096,
   theme: 'system',
   layout: 'auto',
+  textSize: 'm',
+  contrast: false,
   fallback: true,
   mode: 'ai',
 };
@@ -127,6 +133,8 @@ export function providerLabel(s: Settings = settings.value): string {
   const p = hasKey(s.provider, s) ? s.provider : configuredProviders(s)[0];
   return p ? `${PROVIDER_NAMES[p]} · ${modelOf(p, s)}` : 'AI nije povezan';
 }
+
+effect(() => applyAppearance(settings.value));
 
 // Tema: atribut na <html>, CSS tokeni reaguju na njega.
 effect(() => {
