@@ -5,6 +5,7 @@ import { privateUnlocked } from '../private';
 import { fold } from '../text';
 import { OSTALO, SUBTOPICS, buildSubtopicIndex, faqInSubtopic, type SubtopicId } from '../subtopics';
 import type { Article, FaqEntry, Level } from '../types';
+import { findArticleNo } from '../jump';
 import { loadFile } from '../pdf/files';
 import { Icon } from './Icon';
 import { LawSummaryCard } from './LawSummary';
@@ -320,7 +321,21 @@ export function Library() {
               <LawSummaryCard law={law} />
               {law.custom && <p class="muted xs">Dodano iz PDF-a ({law.file}) u ovom pregledniku{law.fileKey ? ', izvorni fajl je sačuvan na ovom uređaju' : ''}. Rezime je automatski; cijeli tekst je ispod. Provjerite ga prema službenom glasniku.</p>}
             </div>
-            <div class="searchbox"><Icon name="search" size={16} /><input placeholder="Traži unutar propisa…" value={term} onInput={(e) => setTerm(e.currentTarget.value)} /></div>
+            <div class="jump-bar">
+              <div class="searchbox grow"><Icon name="search" size={16} /><input placeholder="Traži unutar propisa…" value={term} onInput={(e) => setTerm(e.currentTarget.value)} /></div>
+              <form class="jump" onSubmit={(e) => {
+                e.preventDefault();
+                const q = (new FormData(e.currentTarget).get('no') as string) ?? '';
+                const no = findArticleNo(articles.value.filter((a) => a.lawId === law.id).map((a) => a.number), q);
+                if (!no) return toast(`Član ${q.trim() || '?'} ne postoji u ovom propisu`, 'err');
+                setTerm('');
+                libraryFocus.value = { lawId: law.id, articleId: `${law.id}#${no}` };
+                setTimeout(() => document.getElementById(`art-${law.id}#${no}`)?.scrollIntoView({ block: 'center', behavior: 'smooth' }), 50);
+              }}>
+                <input name="no" inputMode="text" autoComplete="off" aria-label="Idi na član" placeholder="Idi na član…" />
+                <button class="btn sm" type="submit">Idi</button>
+              </form>
+            </div>
             <div class="articles">
               {lawArticles.map((a) => <ArticleItem key={a.id} a={a} open={a.id === focus?.articleId} />)}
               {lawArticles.length === 0 && <p class="muted">Nema članova za ovaj upit.</p>}
