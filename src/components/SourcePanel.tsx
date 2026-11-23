@@ -1,4 +1,5 @@
 import { articleById, lawById, libraryFocus, openSourceId, toast, view } from '../store';
+import { isBookmarked, toggle } from '../bookmarks';
 import { Icon } from './Icon';
 
 export function SourcePanel() {
@@ -40,6 +41,9 @@ export function SourcePanel() {
       <footer>
         <button class="btn sm" onClick={() => void navigator.clipboard?.writeText(`${a.lawTitle}, član ${a.number}\n\n${a.text}`).then(() => toast('Član kopiran'))}>
           <Icon name="copy" size={14} /> Kopiraj
+        </button>
+        <button class={`btn sm ${isBookmarked(a.id) ? 'starred' : ''}`} aria-pressed={isBookmarked(a.id)} onClick={() => { toggle(a.id); toast(isBookmarked(a.id) ? 'Član sačuvan (Biblioteka → Sačuvano)' : 'Uklonjeno iz sačuvanih'); }}>
+          <Icon name="star" size={14} /> {isBookmarked(a.id) ? 'Sačuvano' : 'Sačuvaj'}
         </button>
         <button class="btn sm" onClick={() => { libraryFocus.value = { lawId: a.lawId, articleId: a.id }; view.value = 'library'; close(); }}>
           <Icon name="book" size={14} /> Otvori propis

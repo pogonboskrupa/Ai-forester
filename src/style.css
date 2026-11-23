@@ -1029,3 +1029,10 @@ html[data-contrast='high'] :focus-visible { outline-width: 3px; }
 .segmented.fill { display: flex; width: 100%; align-self: stretch; mask-image: none; -webkit-mask-image: none; padding-right: 3px; }
 .segmented.fill button { flex: 1; justify-content: center; padding-inline: 6px; white-space: nowrap; }
 @media (max-width: 520px) { .segmented.fill .seg-label { display: none; } }
+
+/* ---------- Sačuvani članovi ---------- */
+.article summary .star { color: var(--muted); margin-left: 2px; }
+.article summary .star.on, .btn.starred { color: var(--bih); }
+.article summary .star.on svg, .btn.starred svg { fill: currentColor; }
+.empty-state { display: flex; flex-direction: column; align-items: center; text-align: center; gap: 6px; padding: 36px 16px; color: var(--muted); }
+.empty-state strong { color: var(--text); }
