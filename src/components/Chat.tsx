@@ -169,6 +169,9 @@ function Composer() {
     const t = draft.value;
     if (!t.trim()) return;
     draft.value = '';
+    // Na dodirnom ekranu zatvori tastaturu odmah: inače se donja navigacija vraća tek pri sljedećem dodiru,
+    // sadržaj skoči usred dodira i dodir na dugme ispod odgovora (Kopiraj, Podijeli, izvori) promaši.
+    if (window.matchMedia('(pointer: coarse)').matches) ref.current?.blur();
     void sendMessage(t);
   };
 
@@ -204,13 +207,29 @@ export function Chat() {
   const logRef = useRef<HTMLDivElement>(null);
   const live = s && c && s.convId === c.id ? s : null;
 
-  // Autoscroll samo ako je korisnik već pri dnu (ne prekidamo čitanje starijih poruka).
-  useEffect(() => {
+  // Autoscroll samo ako je korisnik bio pri dnu PRIJE nove poruke (ne prekidamo čitanje starijih poruka).
+  // Mjerenje poslije iscrtavanja bi dugačak odgovor koji stigne odjednom pogrešno vidjelo kao "korisnik nije pri dnu",
+  // pa bi red s dugmadima (Kopiraj, Podijeli) ostao ispod polja za pitanje.
+  const atBottom = useRef(true);
+  const onScroll = () => {
     const el = logRef.current;
-    if (!el) return;
-    if (el.scrollHeight - el.scrollTop - el.clientHeight < 160) end.current?.scrollIntoView({ block: 'end' });
-  }, [c?.messages.length, live?.text]);
-  useEffect(() => { if (c?.messages.length) end.current?.scrollIntoView({ block: 'end' }); }, [c?.id]);
+    if (el) atBottom.current = el.scrollHeight - el.scrollTop - el.clientHeight < 160;
+  };
+  const toEnd = () => end.current?.scrollIntoView({ block: 'end', behavior: 'instant' as ScrollBehavior });
+  useEffect(() => { if (atBottom.current) toEnd(); }, [c?.messages.length, live?.text]);
+  useEffect(() => { atBottom.current = true; if (c?.messages.length) toEnd(); }, [c?.id]);
+  // Ko je bio pri dnu, ostaje pri dnu i kad sadržaj naraste kasnije (izvori, dugmad ispod odgovora)
+  // i kad se prozor razgovora smanji (na telefonu se poslije slanja vrati donja navigacija).
+  const hasLog = !!c?.messages.length;
+  useEffect(() => {
+    const log = logRef.current;
+    const inner = log?.firstElementChild;
+    if (!log || !inner || typeof ResizeObserver === 'undefined') return;
+    const ro = new ResizeObserver(() => { if (atBottom.current) toEnd(); });
+    ro.observe(inner);
+    ro.observe(log);
+    return () => ro.disconnect();
+  }, [c?.id, hasLog]);
 
   const project = projectOf(c?.projectId ?? null);
   const empty = !c || c.messages.length === 0;
@@ -236,7 +255,7 @@ export function Chat() {
         )}
       </header>
 
-      <div class="log" ref={logRef}>
+      <div class="log" ref={logRef} onScroll={onScroll}>
         <div class="log-inner">
           {empty ? (
             <Welcome />
@@ -245,7 +264,7 @@ export function Chat() {
               m.role === 'user' ? (
                 <UserMessage key={m.id} m={m} last={i === lastUser && !live} />
               ) : (
-                <AssistantMessage key={m.id} m={m} last={i === lastAi && !live && lastAi > lastUser} />
+                <AssistantMessage key={m.id} m={m} question={c!.messages[i - 1]?.role === 'user' ? c!.messages[i - 1]!.text : ''} last={i === lastAi && !live && lastAi > lastUser} />
               ),
             )
           )}

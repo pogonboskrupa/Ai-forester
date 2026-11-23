@@ -5,6 +5,7 @@ import { privateUnlocked } from '../private';
 import { fold } from '../text';
 import { OSTALO, SUBTOPICS, buildSubtopicIndex, faqInSubtopic, type SubtopicId } from '../subtopics';
 import type { Article, FaqEntry, Level } from '../types';
+import { bookmarks, isBookmarked, toggle } from '../bookmarks';
 import { findArticleNo } from '../jump';
 import { loadFile } from '../pdf/files';
 import { Icon } from './Icon';
@@ -202,6 +203,8 @@ function ArticleItem({ a, open, showLaw }: { a: Article; open?: boolean; showLaw
         <span class="art-no">čl. {a.number}</span>
         <span class="grow">{a.heading || (showLaw ? '' : a.text.slice(0, 90) + '…')}{showLaw && <span class="muted small"> · {a.lawTitle}</span>}</span>
         {a.amendedBy?.length ? <span class="pill warn" title="Član je izmijenjen kasnijim zakonom – važeći tekst je u izmjeni">zastarjelo</span> : null}
+        <button type="button" class={`icon-btn sm star ${isBookmarked(a.id) ? 'on' : ''}`} aria-pressed={isBookmarked(a.id)} aria-label={isBookmarked(a.id) ? 'Ukloni iz sačuvanih' : 'Sačuvaj član'} title={isBookmarked(a.id) ? 'Ukloni iz sačuvanih' : 'Sačuvaj član'}
+          onClick={(e) => { e.preventDefault(); e.stopPropagation(); toggle(a.id); }}><Icon name="star" size={15} /></button>
         <Icon name="chevron" size={14} class="chev" />
       </summary>
       <div class="article-body">
@@ -218,6 +221,27 @@ function ArticleItem({ a, open, showLaw }: { a: Article; open?: boolean; showLaw
         </div>
       </div>
     </details>
+  );
+}
+
+/** Sačuvani članovi, najnoviji prvo. Članovi iz zaključanih internih akata se ne prikazuju dok se akti ne otključaju. */
+function SavedView() {
+  const found = bookmarks.value.map((b) => articleById(b.id)).filter((a): a is Article => !!a);
+  const hidden = bookmarks.value.length - found.length;
+  if (!bookmarks.value.length) {
+    return (
+      <div class="empty-state">
+        <Icon name="star" size={28} />
+        <strong>Još nema sačuvanih članova</strong>
+        <p class="muted small">Dodirnite zvjezdicu uz član (u biblioteci ili u panelu izvora) i član će biti ovdje, i bez interneta.</p>
+      </div>
+    );
+  }
+  return (
+    <div class="articles">
+      {found.map((a) => <ArticleItem key={a.id} a={a} showLaw />)}
+      {hidden > 0 && <p class="muted xs">{hidden} sačuvanih članova nije prikazano (propis je obrisan ili su interni akti zaključani).</p>}
+    </div>
   );
 }
 
@@ -349,9 +373,10 @@ export function Library() {
               <button role="tab" aria-selected={tab === 'laws'} class={tab === 'laws' ? 'on' : ''} onClick={() => setTab('laws')}><Icon name="book" size={16} /> Propisi</button>
               <button role="tab" aria-selected={tab === 'faq'} class={tab === 'faq' ? 'on' : ''} onClick={() => setTab('faq')}><Icon name="check" size={16} /> Pitanja</button>
               <button role="tab" aria-selected={tab === 'duties'} class={tab === 'duties' ? 'on' : ''} onClick={() => setTab('duties')}><Icon name="scale" size={16} /> Dužnosti</button>
+              <button role="tab" aria-selected={tab === 'saved'} class={tab === 'saved' ? 'on' : ''} onClick={() => setTab('saved')}><Icon name="star" size={16} /> Sačuvano{bookmarks.value.length ? ` (${bookmarks.value.length})` : ''}</button>
               {privateUnlocked.value && <button role="tab" aria-selected={tab === 'spd'} class={tab === 'spd' ? 'on' : ''} onClick={() => setTab('spd')}><Icon name="folder" size={16} /> Pravilnici ŠPD</button>}
             </div>
-            {tab === 'faq' ? <FaqList /> : tab === 'duties' ? <DutiesView /> : tab === 'spd' && privateUnlocked.value ? <SpdView /> : <>
+            {tab === 'saved' ? <SavedView /> : tab === 'faq' ? <FaqList /> : tab === 'duties' ? <DutiesView /> : tab === 'spd' && privateUnlocked.value ? <SpdView /> : <>
             <div class="searchbox big"><Icon name="search" size={18} /><input placeholder="Pretraži sve članove (npr. doznaka, otpremni iskaz, kazna)…" value={term} onInput={(e) => setTerm(e.currentTarget.value)} /></div>
             <div class="filters scroll-x">
               <button class={`chip ${!level ? 'on' : ''}`} onClick={() => setLevel(null)}>Svi nivoi</button>

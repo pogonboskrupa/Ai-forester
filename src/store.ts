@@ -6,6 +6,7 @@ import { orgAnchors } from './org';
 import { findSummaryLaw, summaryMarkdown } from './summary';
 import { BUSINESS_TOPICS, setBusinessLaws } from './search';
 import { createSearchIndex } from './searchIndex';
+import { bookmarks, mergeBookmarks } from './bookmarks';
 import { deleteFile } from './pdf/files';
 import { whenIdle } from './lazy';
 import { isAbort, streamCompletion, type Turn } from './ai/client';
@@ -47,7 +48,7 @@ let controller: AbortController | null = null;
 export const openSourceId = signal<string | null>(null);
 /** Biblioteka: koji propis/član otvoriti. */
 export const libraryFocus = signal<{ lawId: string; articleId?: string } | null>(null);
-export type LibraryTab = 'laws' | 'duties' | 'faq' | 'spd';
+export type LibraryTab = 'laws' | 'duties' | 'faq' | 'spd' | 'saved';
 export const libraryTab = signal<LibraryTab>('laws');
 
 export interface Toast { id: string; text: string; kind: 'ok' | 'err' }
@@ -385,11 +386,11 @@ export function conversationToMarkdown(c: Conversation): string {
 }
 
 export function exportAll(): string {
-  return JSON.stringify({ version: 2, projects: projects.value, conversations: conversations.value, userLaws: userLaws.value }, null, 2);
+  return JSON.stringify({ version: 2, projects: projects.value, conversations: conversations.value, userLaws: userLaws.value, bookmarks: bookmarks.value }, null, 2);
 }
 
 export function importAll(json: string): number {
-  const data = JSON.parse(json) as { projects?: Project[]; conversations?: Conversation[]; userLaws?: UserLaw[] };
+  const data = JSON.parse(json) as { projects?: Project[]; conversations?: Conversation[]; userLaws?: UserLaw[]; bookmarks?: unknown[] };
   if (!Array.isArray(data.conversations)) throw new Error('Neispravan fajl.');
   const known = new Set(conversations.value.map((c) => c.id));
   const knownP = new Set(projects.value.map((p) => p.id));
@@ -398,6 +399,7 @@ export function importAll(json: string): number {
     projects.value = [...projects.value, ...(data.projects ?? []).filter((p) => !knownP.has(p.id))];
     conversations.value = [...newConvs, ...conversations.value];
   });
+  if (Array.isArray(data.bookmarks)) bookmarks.value = mergeBookmarks(bookmarks.value, data.bookmarks);
   const knownL = new Set(userLaws.value.map((u) => u.law.id));
   const newLaws = (data.userLaws ?? []).filter((u) => !knownL.has(u.law.id));
   if (newLaws.length) void addUserLaws(newLaws);

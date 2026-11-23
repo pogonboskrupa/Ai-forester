@@ -1,6 +1,7 @@
 import { useState } from 'preact/hooks';
 import { citedNumbers, renderMarkdown } from '../md';
 import { isConfigured } from '../settings';
+import { shareText } from '../share';
 import { articleById, editLastQuestion, lawById, openSourceId, regenerate, toast } from '../store';
 import type { Article, Msg } from '../types';
 import { Icon } from './Icon';
@@ -70,7 +71,19 @@ export function UserMessage({ m, last }: { m: Msg; last: boolean }) {
   );
 }
 
-export function AssistantMessage({ m, last, streamingText }: { m: Msg | null; last: boolean; streamingText?: string }) {
+/** Sistemsko dijeljenje (Viber, WhatsApp, mail); gdje ga nema, tekst ide u međuspremnik. */
+async function share(question: string, text: string, ids: string[]): Promise<void> {
+  const body = shareText(question, text, ids.map(articleById).filter((a): a is Article => !!a));
+  try {
+    if (navigator.share) return await navigator.share({ title: question || 'Odgovor iz Forestera', text: body });
+  } catch (e) {
+    if ((e as Error).name === 'AbortError') return; // korisnik je zatvorio meni za dijeljenje
+  }
+  await navigator.clipboard?.writeText(body);
+  toast('Odgovor s izvorima kopiran – zalijepite ga u poruku');
+}
+
+export function AssistantMessage({ m, last, streamingText, question = '' }: { m: Msg | null; last: boolean; streamingText?: string; question?: string }) {
   const text = streamingText ?? m?.text ?? '';
   const ids = m?.sourceIds ?? [];
   const onClick = (e: MouseEvent) => {
@@ -109,6 +122,7 @@ export function AssistantMessage({ m, last, streamingText }: { m: Msg | null; la
       {m && (
         <div class="msg-actions">
           <button class="icon-btn sm" title="Kopiraj" onClick={() => void navigator.clipboard?.writeText(text).then(() => toast('Kopirano'))}><Icon name="copy" size={14} /></button>
+          <button class="icon-btn sm" title="Podijeli odgovor s izvorima" aria-label="Podijeli" onClick={() => void share(question, text, ids)}><Icon name="share" size={14} /></button>
           {last && m.kind !== 'faq' && m.kind !== 'search' && <button class="icon-btn sm" title="Generiši ponovo" onClick={() => void regenerate()}><Icon name="refresh" size={14} /></button>}
           {m.kind === 'faq' && (
             <span class="pill ok" title={m.model?.includes('nacrt') ? 'Pripremljen odgovor još nije stručno pregledan – provjerite citirane članove' : 'Stručno pregledan odgovor'}>
